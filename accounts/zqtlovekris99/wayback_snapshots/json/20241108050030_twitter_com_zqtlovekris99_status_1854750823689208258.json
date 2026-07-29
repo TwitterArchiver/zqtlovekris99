@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1854707273232191553",
+    "created_at": "2024-11-08T05:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T06:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854750823689208258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "408702956",
+          "start": 0,
+          "username": "niceball_wuwaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854750823689208258",
+    "in_reply_to_user_id": "408702956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854707273232191553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceball_wuwaa 有概率会被吞掉发不出去，也就是墙内特别流行字母指代缩写的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1854707273232191553",
+        "created_at": "2024-11-08T05:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T06:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854750823689208258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "408702956",
+              "start": 0,
+              "username": "niceball_wuwaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854750823689208258",
+        "in_reply_to_user_id": "408702956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854707273232191553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceball_wuwaa 有概率会被吞掉发不出去，也就是墙内特别流行字母指代缩写的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "408702956",
+        "conversation_id": "1854707273232191553",
+        "created_at": "2024-11-08T02:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T03:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854707273232191553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854707273232191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1223,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "X用太久了已经不知道在境内社交软件里什么不能说了，例如“我想做爱”这种发出去会被封号吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 性别认同不明/地雷系 | PTSD/OD💊/bpd(80%)→npd(20%)/INFP→INTP | 非二元特质颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 恋人 @RinkokoroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（自言自语版）",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4946,
+          "following_count": 498,
+          "like_count": 14566,
+          "listed_count": 4,
+          "tweet_count": 12200
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-09T19:40:59.000Z",
+        "description": "间歇存在 持续虚无 是王萌豚 叫王好球 手淫宅男 油汗肥男 下头国男 恋童渴屄 雄性萌豚 术力口厨 每日加班 低薪社畜 微博难民 点赞狂魔 菜逼码农 本科废物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://www.example.com/",
+                "start": 0,
+                "url": "https://t.co/DqYbDnpkVy"
+              }
+            ]
+          }
+        },
+        "id": "408702956",
+        "location": "Toronto, Ontario",
+        "name": "王萌豚",
+        "pinned_tweet_id": "1851694668133670942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839232719194091520/iwDR212P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6966,
+          "following_count": 1808,
+          "like_count": 315128,
+          "listed_count": 37,
+          "tweet_count": 53567
+        },
+        "url": "https://t.co/DqYbDnpkVy",
+        "username": "niceball_wuwaa",
+        "verified": true
+      }
+    ]
+  }
+}

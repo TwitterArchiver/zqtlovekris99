@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1838533281089728645",
+    "created_at": "2024-09-25T15:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T16:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838960842475446552"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "原神",
+          "probability": 0.4284,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1421696758812266497",
+          "start": 0,
+          "username": "_SacersbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838960842475446552",
+    "in_reply_to_user_id": "1421696758812266497",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838919672328237340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SacersbE 原神（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1838533281089728645",
+        "created_at": "2024-09-25T15:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T16:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838960842475446552"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "原神",
+              "probability": 0.4284,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1421696758812266497",
+              "start": 0,
+              "username": "_SacersbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838960842475446552",
+        "in_reply_to_user_id": "1421696758812266497",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838919672328237340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SacersbE 原神（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421696758812266497",
+        "conversation_id": "1838533281089728645",
+        "created_at": "2024-09-25T12:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T13:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838919672328237340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838919672328237340",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838747558161571969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 好，玩什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 517,
+          "like_count": 13996,
+          "listed_count": 5,
+          "tweet_count": 10942
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T04:58:30.000Z",
+        "description": "是金平糖！\n亲爱的😍 @0range_Seed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "0range_Seed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/sacersbe",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/sacersbe",
+                "start": 0,
+                "url": "https://t.co/riV7znGYZA"
+              }
+            ]
+          }
+        },
+        "id": "1421696758812266497",
+        "location": "Aizumisato-machi, Fukushima",
+        "name": "-ˋˏ🍬ˎˊ-",
+        "pinned_tweet_id": "1622398554840104960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602627223470878721/8sdAZtgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3792,
+          "following_count": 709,
+          "like_count": 55625,
+          "listed_count": 11,
+          "tweet_count": 17155
+        },
+        "url": "https://t.co/riV7znGYZA",
+        "username": "_SacersbE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1803095474510974976"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1803095477996388491",
+    "created_at": "2024-06-18T16:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T17:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803095477996388491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/iK4mVFnNU8",
+          "end": 136,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/1803095477996388491/photo/1",
+          "media_key": "3_1803095474510974976",
+          "start": 113,
+          "url": "https://t.co/iK4mVFnNU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803095477996388491",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去 云原神也可以拥有达利园效应了，感觉原神的优化确实越来越好了，刚公测那会我之所以没玩，就是因为他优化太垃圾，以画质为卖点结果要人物建模没建模，要细节没细节，要风景没风景，水果摊直接一张贴图糊上去，现在也是慢慢都优化起来了 https://t.co/iK4mVFnNU8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1803095474510974976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQXhx-ZXUAAvvZN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803095474510974976"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1803095477996388491",
+        "created_at": "2024-06-18T16:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T17:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803095477996388491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/iK4mVFnNU8",
+              "end": 136,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1803095477996388491/photo/1",
+              "media_key": "3_1803095474510974976",
+              "start": 113,
+              "url": "https://t.co/iK4mVFnNU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803095477996388491",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去 云原神也可以拥有达利园效应了，感觉原神的优化确实越来越好了，刚公测那会我之所以没玩，就是因为他优化太垃圾，以画质为卖点结果要人物建模没建模，要细节没细节，要风景没风景，水果摊直接一张贴图糊上去，现在也是慢慢都优化起来了 https://t.co/iK4mVFnNU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3818,
+          "following_count": 508,
+          "like_count": 12856,
+          "listed_count": 5,
+          "tweet_count": 9199
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

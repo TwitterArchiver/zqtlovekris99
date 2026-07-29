@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1797154185420677618",
+    "created_at": "2024-06-02T09:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797198875725615468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797198875725615468",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797154185420677618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 网友现状"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1797154185420677618",
+        "created_at": "2024-06-02T09:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797198875725615468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797198875725615468",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797154185420677618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 网友现状"
+      },
+      {
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1797154185420677618",
+        "created_at": "2024-06-02T06:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797154185420677618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797154185420677618",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把意见不同的人全部打到对立立场的人很蠢，是只会非黑即白的，接受不了和自己相似的人持有不同观点的巨婴二极管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | ODer💊 | 软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3726,
+          "following_count": 502,
+          "like_count": 12688,
+          "listed_count": 5,
+          "tweet_count": 8816
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜关注点赞不代表立场｜友可以正常沟通的人",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "魔法香嘎",
+        "pinned_tweet_id": "1777051573228863856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797030932131483650/EGcrkmS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 859,
+          "like_count": 24473,
+          "listed_count": 2,
+          "tweet_count": 8652
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

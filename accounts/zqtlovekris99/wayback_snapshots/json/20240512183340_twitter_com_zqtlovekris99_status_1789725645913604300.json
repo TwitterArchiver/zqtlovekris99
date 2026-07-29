@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1789531578408075461",
+    "created_at": "2024-05-12T18:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T19:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789725645913604300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1705505179796471808",
+          "start": 0,
+          "username": "Loong20001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789725645913604300",
+    "in_reply_to_user_id": "1705505179796471808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789531578408075461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loong20001116 确实我之前也是infp，很讨厌这种性格正在努力把自己掰成intp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1789531578408075461",
+        "created_at": "2024-05-12T18:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T19:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789725645913604300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1705505179796471808",
+              "start": 0,
+              "username": "Loong20001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789725645913604300",
+        "in_reply_to_user_id": "1705505179796471808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789531578408075461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loong20001116 确实我之前也是infp，很讨厌这种性格正在努力把自己掰成intp"
+      },
+      {
+        "attachments": {},
+        "author_id": "1705505179796471808",
+        "conversation_id": "1789531578408075461",
+        "created_at": "2024-05-12T05:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T06:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789531578408075461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789531578408075461",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1199,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑世界上本来不存在INFP这种人格，只不过精神病太多，就成了INFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | They/them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://t.me/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/IwkyoPvDhD"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 511,
+          "like_count": 12241,
+          "listed_count": 5,
+          "tweet_count": 8376
+        },
+        "url": "https://t.co/IwkyoPvDhD",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T08:51:56.000Z",
+        "description": "gay/Vers Btm/172cm87kg/我支持性少数和边缘性别群体🏳️‍🌈🏳️‍⚧️/会回关，如果不小心忽略了你，请在我推文下回复",
+        "id": "1705505179796471808",
+        "location": "海口",
+        "name": "没脖子的小胖龙",
+        "pinned_tweet_id": "1720343921208000601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742233710794285056/CrY5TEgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1061,
+          "like_count": 3973,
+          "listed_count": 0,
+          "tweet_count": 1635
+        },
+        "username": "Loong20001116",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1881712041653882888",
+    "created_at": "2025-01-22T13:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T14:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882052049766121494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760304181821546496",
+          "start": 0,
+          "username": "RulerDue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882052049766121494",
+    "in_reply_to_user_id": "1760304181821546496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881712041653882888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RulerDue 慢慢就过去了，互联网没有记忆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1881712041653882888",
+        "created_at": "2025-01-22T13:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T14:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882052049766121494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760304181821546496",
+              "start": 0,
+              "username": "RulerDue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882052049766121494",
+        "in_reply_to_user_id": "1760304181821546496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881712041653882888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RulerDue 慢慢就过去了，互联网没有记忆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760304181821546496",
+        "conversation_id": "1881712041653882888",
+        "created_at": "2025-01-21T14:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T15:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881712041653882888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881712041653882888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家不妨来预测一下寒涟漪的风波会如何收场吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀SL system",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5434,
+          "following_count": 517,
+          "like_count": 15964,
+          "listed_count": 6,
+          "media_count": 1601,
+          "tweet_count": 14161
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T14:03:28.000Z",
+        "description": "04|4i|星空合众国公民|友跨友同|学成文武艺，卖量子毛巾|精神状态一般较为还算可能也许稳定|经常喜欢发一些无意义的癫|臭学物理的|逃生舱@rulerdue2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "rulerdue2"
+              }
+            ]
+          }
+        },
+        "id": "1760304181821546496",
+        "location": "Fullerton, CA",
+        "name": "渡厄大君",
+        "pinned_tweet_id": "1840063445791642056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769716684934541312/UYmuppSx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 211,
+          "like_count": 6397,
+          "listed_count": 0,
+          "media_count": 562,
+          "tweet_count": 3732
+        },
+        "username": "RulerDue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1834018434444865797",
+    "created_at": "2024-09-12T06:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T07:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834123578293584002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699497826735251457",
+          "start": 0,
+          "username": "Tsukuyo0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834123578293584002",
+    "in_reply_to_user_id": "1699497826735251457",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834018434444865797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukuyo0929 芙芙小蛋糕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1834018434444865797",
+        "created_at": "2024-09-12T06:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T07:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834123578293584002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699497826735251457",
+              "start": 0,
+              "username": "Tsukuyo0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834123578293584002",
+        "in_reply_to_user_id": "1699497826735251457",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834018434444865797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukuyo0929 芙芙小蛋糕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834018425074843650"
+          ]
+        },
+        "author_id": "1699497826735251457",
+        "conversation_id": "1834018434444865797",
+        "created_at": "2024-09-11T23:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T00:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834018434444865797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "arlefuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7r2zmrz5o",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Tsukuyo0929/status/1834018434444865797/photo/1",
+              "media_key": "3_1834018425074843650",
+              "start": 10,
+              "url": "https://t.co/N7r2zMrZ5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834018434444865797",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 26734,
+          "like_count": 3751,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 400
+        },
+        "reply_settings": "everyone",
+        "text": "#arlefuri https://t.co/N7r2zMrZ5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4385,
+          "following_count": 517,
+          "like_count": 13781,
+          "listed_count": 5,
+          "tweet_count": 10602
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T19:00:42.000Z",
+        "description": "my another acc @Tsukuyo929 dead/👩🏼‍❤️‍💋‍👩🏼many YURI /🔞/討厭光熙扶他/REPOST WITH CREDIT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "Tsukuyo929"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/9822590",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/9822590",
+                "start": 0,
+                "url": "https://t.co/WWonaId4PS"
+              }
+            ]
+          }
+        },
+        "id": "1699497826735251457",
+        "location": "在女同家當狗。狠咬每個經過的男人",
+        "name": "🏳️‍🌈Tsukuyo汪汪🐶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806034415103180800/5yI84bN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 349,
+          "like_count": 6115,
+          "listed_count": 12,
+          "tweet_count": 1652
+        },
+        "url": "https://t.co/WWonaId4PS",
+        "username": "Tsukuyo0929",
+        "verified": false
+      }
+    ]
+  }
+}

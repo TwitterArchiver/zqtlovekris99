@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1807049532905247163",
+    "created_at": "2024-06-30T03:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T04:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807259547284951129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673394046503616512",
+          "start": 0,
+          "username": "brohungryasfuck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807259547284951129",
+    "in_reply_to_user_id": "1673394046503616512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807049532905247163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brohungryasfuck 你多少有点凡尔赛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1807049532905247163",
+        "created_at": "2024-06-30T03:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T04:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807259547284951129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673394046503616512",
+              "start": 0,
+              "username": "brohungryasfuck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807259547284951129",
+        "in_reply_to_user_id": "1673394046503616512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807049532905247163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brohungryasfuck 你多少有点凡尔赛了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807049505155727361",
+            "3_1807049505172533248"
+          ]
+        },
+        "author_id": "1673394046503616512",
+        "conversation_id": "1807049532905247163",
+        "created_at": "2024-06-29T13:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T14:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807049532905247163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/L0sjWAJ0Cv",
+              "end": 44,
+              "expanded_url": "https://twitter.com/brohungryasfuck/status/1807049532905247163/photo/1",
+              "media_key": "3_1807049505155727361",
+              "start": 21,
+              "url": "https://t.co/L0sjWAJ0Cv"
+            },
+            {
+              "display_url": "pic.twitter.com/L0sjWAJ0Cv",
+              "end": 44,
+              "expanded_url": "https://twitter.com/brohungryasfuck/status/1807049532905247163/photo/1",
+              "media_key": "3_1807049505172533248",
+              "start": 21,
+              "url": "https://t.co/L0sjWAJ0Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807049532905247163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 151402,
+          "like_count": 1923,
+          "quote_count": 7,
+          "reply_count": 90,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "想到自己只能靠身体吸引别人，就感觉很悲伤 https://t.co/L0sjWAJ0Cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 509,
+          "like_count": 13030,
+          "listed_count": 5,
+          "tweet_count": 9463
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T18:13:35.000Z",
+        "description": "喜欢小马宝莉和摇滚乐/家里有五只猫/老年二刺猿/神经语言学学习中/跨性别友好/下头顺直巨婴国男/锻炼身体好爽/粉红退散",
+        "id": "1673394046503616512",
+        "location": "Here, there and everywhere ",
+        "name": "奇怪鱼鱼Arpeggi",
+        "pinned_tweet_id": "1805223857999188258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782746425539072000/Q0v8ZNB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 332,
+          "like_count": 4664,
+          "listed_count": 3,
+          "tweet_count": 666
+        },
+        "username": "brohungryasfuck",
+        "verified": false
+      }
+    ]
+  }
+}
