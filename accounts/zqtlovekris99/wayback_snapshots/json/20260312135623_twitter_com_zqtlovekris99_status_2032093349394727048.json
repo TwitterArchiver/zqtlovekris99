@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2032078677375402262",
+    "created_at": "2026-03-12T13:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032093349394727048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353206248057892864",
+          "start": 0,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032093349394727048",
+    "in_reply_to_user_id": "1353206248057892864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032084360955117829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thelastgreeks 那也不長，感覺還是很差，我有時候一下發幾百個字，gpt就會分開講，Gemini就寫一坨字，我已經寫了prompt讓他用markdown分層了感覺還是不好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2032078677375402262",
+        "created_at": "2026-03-12T13:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032093349394727048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353206248057892864",
+              "start": 0,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032093349394727048",
+        "in_reply_to_user_id": "1353206248057892864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032084360955117829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thelastgreeks 那也不長，感覺還是很差，我有時候一下發幾百個字，gpt就會分開講，Gemini就寫一坨字，我已經寫了prompt讓他用markdown分層了感覺還是不好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "conversation_id": "2032078677375402262",
+        "created_at": "2026-03-12T13:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032084360955117829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032084360955117829",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032078677375402262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 可以在自定义里设置一下，让它回复的尽可能长点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11896,
+          "following_count": 1428,
+          "like_count": 24773,
+          "listed_count": 15,
+          "media_count": 4401,
+          "tweet_count": 26671
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24545,
+          "following_count": 980,
+          "like_count": 120123,
+          "listed_count": 0,
+          "media_count": 3487,
+          "tweet_count": 44212
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

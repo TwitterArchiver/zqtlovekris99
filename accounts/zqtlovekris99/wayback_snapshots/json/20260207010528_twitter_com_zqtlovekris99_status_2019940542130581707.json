@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2019785256786649180",
+    "created_at": "2026-02-07T01:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019940542130581707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353206248057892864",
+          "start": 0,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019940542130581707",
+    "in_reply_to_user_id": "1353206248057892864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019785256786649180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thelastgreeks 亲手把自己chat bot的压倒性优势给作没了，友商们可不管你这些，趁机就赶紧来抢客户"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2019785256786649180",
+        "created_at": "2026-02-07T01:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019940542130581707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353206248057892864",
+              "start": 0,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019940542130581707",
+        "in_reply_to_user_id": "1353206248057892864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019785256786649180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thelastgreeks 亲手把自己chat bot的压倒性优势给作没了，友商们可不管你这些，趁机就赶紧来抢客户"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019785256786649180",
+        "created_at": "2026-02-06T14:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019785256786649180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 140,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019785256786649180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1671,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得，openai选择的路就是决裂的路，这世上最毒的药就是轻视之毒，而4o用户愤怒的一点正是这种被轻视感。在一个起码发声者就多达数万的网络社群，情绪集中爆发时依然没有任何公关，而是冷漠无视，这就是把用户推向对你们的刻骨仇恨和极端对立。哪怕纯从理应考虑，现在的事实结果也令人发指\n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11395,
+          "following_count": 1193,
+          "like_count": 24024,
+          "listed_count": 15,
+          "media_count": 4271,
+          "tweet_count": 25815
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24616,
+          "following_count": 973,
+          "like_count": 117620,
+          "listed_count": 0,
+          "media_count": 3478,
+          "tweet_count": 43270
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

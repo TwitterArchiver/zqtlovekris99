@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918677317955854336"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1918677320824688972",
+    "created_at": "2025-05-03T14:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T15:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918677320824688972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fLGfveBcxy",
+          "end": 37,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1918677320824688972/photo/1",
+          "media_key": "3_1918677317955854336",
+          "start": 14,
+          "url": "https://t.co/fLGfveBcxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918677320824688972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ok今天是老玛，下一个画啥 https://t.co/fLGfveBcxy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1918677317955854336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCC2udboAAd76k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918677317955854336"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918677320824688972",
+        "created_at": "2025-05-03T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918677320824688972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLGfveBcxy",
+              "end": 37,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1918677320824688972/photo/1",
+              "media_key": "3_1918677317955854336",
+              "start": 14,
+              "url": "https://t.co/fLGfveBcxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918677320824688972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok今天是老玛，下一个画啥 https://t.co/fLGfveBcxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6798,
+          "following_count": 560,
+          "like_count": 18060,
+          "listed_count": 10,
+          "media_count": 2398,
+          "tweet_count": 17439
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

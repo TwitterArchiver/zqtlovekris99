@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071182676548259840"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2071202703733297453",
+    "created_at": "2026-06-28T12:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071202703733297453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i1ZOlYIou2",
+          "end": 45,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2071202703733297453/photo/1",
+          "media_key": "3_2071182676548259840",
+          "start": 22,
+          "url": "https://t.co/i1ZOlYIou2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071202703733297453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国人：办party不叫我？还有这种好事？ https://t.co/i1ZOlYIou2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2071182676548259840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Rq7SaEAAD83U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071182676548259840"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2071202703733297453",
+        "created_at": "2026-06-28T12:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071202703733297453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1ZOlYIou2",
+              "end": 45,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2071202703733297453/photo/1",
+              "media_key": "3_2071182676548259840",
+              "start": 22,
+              "url": "https://t.co/i1ZOlYIou2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071202703733297453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人：办party不叫我？还有这种好事？ https://t.co/i1ZOlYIou2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13515,
+          "following_count": 1708,
+          "like_count": 26260,
+          "listed_count": 16,
+          "media_count": 5472,
+          "tweet_count": 29075
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

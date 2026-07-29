@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057890117403213824"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058368384828383234",
+    "created_at": "2026-05-24T02:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058368384828383234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EscHxtn3MG",
+          "end": 38,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2058368384828383234/video/1",
+          "media_key": "13_2057890117403213824",
+          "start": 15,
+          "url": "https://t.co/EscHxtn3MG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058368384828383234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要笑挑战，所有人保持严肃！ https://t.co/EscHxtn3MG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32415,
+        "height": 1080,
+        "media_key": "13_2057890117403213824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057890117403213824/img/YRsd8GOm95Snlw9z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057890117403213824/pl/uOEYnn9BIpHCba7k.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057890117403213824/vid/avc1/480x270/Jl-chrb-L-ybOFne.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057890117403213824/vid/avc1/640x360/5CaVC2F1Xf_T-GWZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057890117403213824/vid/avc1/1280x720/-yUFyclcxgBwou1O.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057890117403213824/vid/avc1/1920x1080/w3bUfqtC9g6qgY4Q.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057890117403213824"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058368384828383234",
+        "created_at": "2026-05-24T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058368384828383234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EscHxtn3MG",
+              "end": 38,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2058368384828383234/video/1",
+              "media_key": "13_2057890117403213824",
+              "start": 15,
+              "url": "https://t.co/EscHxtn3MG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058368384828383234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要笑挑战，所有人保持严肃！ https://t.co/EscHxtn3MG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13208,
+          "following_count": 1597,
+          "like_count": 25817,
+          "listed_count": 16,
+          "media_count": 5060,
+          "tweet_count": 28173
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

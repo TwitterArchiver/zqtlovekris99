@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1925474662349508844",
+    "created_at": "2025-05-22T17:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T18:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925600179702702452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925600179702702452",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925474662349508844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick 是这样的，不喜欢被人定义，不喜欢被打tag，很刻板印象。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1925474662349508844",
+        "created_at": "2025-05-22T17:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T18:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925600179702702452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925600179702702452",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925474662349508844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 是这样的，不喜欢被人定义，不喜欢被打tag，很刻板印象。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430976467131842564",
+        "conversation_id": "1925474662349508844",
+        "created_at": "2025-05-22T08:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925474662349508844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925474662349508844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解构了一下自己 我确实在做艺术相关的事情 但我很羞耻于被归类到艺术生或者艺术家这种类别中 我对于这个群体的自我认同是焦虑的\n\n但有一点确定的是我很享受创作完毕之后带来的满足感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 759,
+          "like_count": 18731,
+          "listed_count": 10,
+          "media_count": 2566,
+          "tweet_count": 18185
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "跨🏳️‍⚧️ 非二元//vocaloidp 乐手 写歌编曲弹琴的//负能较多请谨慎关注⚠️⚠️//在和抑郁做斗争中，苯二氮卓依赖患者//如果你看我不顺眼或是发表了一些您不喜欢的言论，请直接取关我，请不要攻击我，我的精神很脆弱//女男朋友@Leahgu2//工作室接单中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 118,
+                "username": "Leahgu2"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "Beijing",
+        "name": "Ringoo Kino",
+        "pinned_tweet_id": "1919922027496157502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919253351746932736/vDJ1z6SC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 274,
+          "like_count": 1390,
+          "listed_count": 3,
+          "media_count": 279,
+          "tweet_count": 1639
+        },
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

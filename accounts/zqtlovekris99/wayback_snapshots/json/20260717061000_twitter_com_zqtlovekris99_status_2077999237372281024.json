@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077812647962267648"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2077999237372281024",
+    "created_at": "2026-07-17T06:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077999237372281024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4JsRJI4Y7M",
+          "end": 37,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2077999237372281024/photo/1",
+          "media_key": "3_2077812647962267648",
+          "start": 14,
+          "url": "https://t.co/4JsRJI4Y7M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077999237372281024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不小心把瓶盖掉进去了怎么办 https://t.co/4JsRJI4Y7M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2077812647962267648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXfmDea0AAB9FQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077812647962267648"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2077999237372281024",
+        "created_at": "2026-07-17T06:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077999237372281024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4JsRJI4Y7M",
+              "end": 37,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2077999237372281024/photo/1",
+              "media_key": "3_2077812647962267648",
+              "start": 14,
+              "url": "https://t.co/4JsRJI4Y7M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077999237372281024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不小心把瓶盖掉进去了怎么办 https://t.co/4JsRJI4Y7M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13792,
+          "following_count": 1761,
+          "like_count": 26503,
+          "listed_count": 17,
+          "media_count": 5697,
+          "tweet_count": 29456
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

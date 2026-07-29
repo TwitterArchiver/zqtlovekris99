@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1912766011352429004",
+    "created_at": "2025-04-18T09:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913163589289975883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481943703878991872",
+          "start": 0,
+          "username": "xiaoyi_e_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913163589289975883",
+    "in_reply_to_user_id": "1481943703878991872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912766011352429004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyi_e_ 都不喜欢 (´･ᆺ･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_1912765998421483520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GouCipJboAA_G0X.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1912766011352429004",
+        "created_at": "2025-04-18T09:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913163589289975883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481943703878991872",
+              "start": 0,
+              "username": "xiaoyi_e_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913163589289975883",
+        "in_reply_to_user_id": "1481943703878991872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912766011352429004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyi_e_ 都不喜欢 (´･ᆺ･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912765998421483520"
+          ]
+        },
+        "author_id": "1481943703878991872",
+        "conversation_id": "1912766011352429004",
+        "created_at": "2025-04-17T07:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T08:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912766011352429004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbvoEur7k4",
+              "end": 47,
+              "expanded_url": "https://x.com/xiaoyi_e_/status/1912766011352429004/photo/1",
+              "media_key": "3_1912765998421483520",
+              "start": 24,
+              "url": "https://t.co/ZbvoEur7k4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912766011352429004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 722,
+          "impression_count": 409272,
+          "like_count": 2332,
+          "quote_count": 94,
+          "reply_count": 146,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "研究表明，对某些科目的兴趣可能来源于童年创伤： https://t.co/ZbvoEur7k4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6602,
+          "following_count": 532,
+          "like_count": 17705,
+          "listed_count": 9,
+          "media_count": 2138,
+          "tweet_count": 16707
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T10:59:37.000Z",
+        "description": "A twisted angel.小C在此！ || INTP、asd?、nd、ADHD?、nerd?、bdsm||非常非常热爱科学||喜欢的游戏：Rimworld、noita、inside、oneshot等||想交朋友！ 提供情绪价值 ￥50/30min.前3免费",
+        "id": "1481943703878991872",
+        "location": "Event Horizon, Sgr A*",
+        "name": "crazycq · 疯狂小C🌟",
+        "pinned_tweet_id": "1909767696755180004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860287077109334016/Wy_Wp6ZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 330,
+          "like_count": 10656,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2227
+        },
+        "username": "xiaoyi_e_",
+        "verified": false
+      }
+    ]
+  }
+}

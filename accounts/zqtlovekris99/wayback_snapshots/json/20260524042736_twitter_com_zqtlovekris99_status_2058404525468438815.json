@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2058035441098482137",
+    "created_at": "2026-05-24T04:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058404525468438815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843519961647722497",
+          "start": 0,
+          "username": "artstudent231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058404525468438815",
+    "in_reply_to_user_id": "1843519961647722497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058365154392498196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artstudent231 好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2058035441098482137",
+        "created_at": "2026-05-24T04:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058404525468438815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843519961647722497",
+              "start": 0,
+              "username": "artstudent231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058404525468438815",
+        "in_reply_to_user_id": "1843519961647722497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058365154392498196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artstudent231 好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843519961647722497",
+        "conversation_id": "2058035441098482137",
+        "created_at": "2026-05-24T01:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058365154392498196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058365154392498196",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058035441098482137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 图片拿了，可以吗老师（委屈巴巴..）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13209,
+          "following_count": 1598,
+          "like_count": 25819,
+          "listed_count": 16,
+          "media_count": 5062,
+          "tweet_count": 28177
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T05:13:14.000Z",
+        "description": "中国🇨🇳出身の大学生です。05（05年生まれ）のENFP、水瓶座🔮です！\n\n百合系✨️の色んなアニメやゲームが好きで、最近は『ハッピーシュガーライフ』や『がっこうぐらし！』、『22/7』などを見ています。アイドル系のプロジェクトにも興味があります！💤\n\n一番好きなゲームは『DARKSOUL』シリーズです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/artstudent0501…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/artstudent050126/",
+                "start": 0,
+                "url": "https://t.co/M037mmtJCu"
+              }
+            ]
+          }
+        },
+        "id": "1843519961647722497",
+        "location": "新エリー都",
+        "name": "卷心菜爱打邦多利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058396965541732352/fVDzlmlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 3971,
+          "like_count": 13660,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/M037mmtJCu",
+        "username": "artstudent231",
+        "verified": false
+      }
+    ]
+  }
+}

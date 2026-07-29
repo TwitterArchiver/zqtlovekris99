@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1905464131135652280",
+    "created_at": "2025-03-28T12:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T13:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905600796726886684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744052997112606720",
+          "start": 0,
+          "username": "fngshn118188159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905600796726886684",
+    "in_reply_to_user_id": "1744052997112606720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905580465467056485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngshn118188159 可以加一下用用借用角色（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1905464131135652280",
+        "created_at": "2025-03-28T12:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905600796726886684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744052997112606720",
+              "start": 0,
+              "username": "fngshn118188159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905600796726886684",
+        "in_reply_to_user_id": "1744052997112606720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905580465467056485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngshn118188159 可以加一下用用借用角色（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744052997112606720",
+        "conversation_id": "1905464131135652280",
+        "created_at": "2025-03-28T11:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905580465467056485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905580465467056485",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905464131135652280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 58级萌新要带吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 536,
+          "like_count": 17338,
+          "listed_count": 8,
+          "media_count": 1955,
+          "tweet_count": 16053
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T17:47:06.000Z",
+        "description": "抽象派的医生，无论你是什么人，什么物种都没关系，只要你有需要",
+        "id": "1744052997112606720",
+        "location": "天津",
+        "name": "心理医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851288794672373760/qG1zTvxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 104,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 359
+        },
+        "username": "fngshn118188159",
+        "verified": false
+      }
+    ]
+  }
+}

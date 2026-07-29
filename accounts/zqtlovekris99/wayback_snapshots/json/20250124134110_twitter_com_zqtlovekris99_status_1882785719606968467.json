@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1882307162837512440",
+    "created_at": "2025-01-24T13:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T14:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882785719606968467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1630559993807392769",
+          "start": 0,
+          "username": "ymsg18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882785719606968467",
+    "in_reply_to_user_id": "1630559993807392769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882785160648912897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymsg18 吃多少剂量呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1882307162837512440",
+        "created_at": "2025-01-24T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882785719606968467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1630559993807392769",
+              "start": 0,
+              "username": "ymsg18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882785719606968467",
+        "in_reply_to_user_id": "1630559993807392769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882785160648912897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymsg18 吃多少剂量呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630559993807392769",
+        "conversation_id": "1882307162837512440",
+        "created_at": "2025-01-24T13:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T14:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882785160648912897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882785160648912897",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882307162837512440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 普瑞戒断的焦虑可以试试用其他无成瘾性抗焦虑药物代替比如罗通定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 517,
+          "like_count": 15978,
+          "listed_count": 6,
+          "media_count": 1608,
+          "tweet_count": 14195
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T13:26:35.000Z",
+        "description": "大学牲｜堕天使｜酒蒙子｜不社恐｜不舰正｜没有灵魂｜药罐子｜机车爱好者｜轻度wargame爱好者｜古希腊掌管普瑞的神｜半吊子药师｜(免费od知识科普，不会劝导任何人od，具体疾病治疗手段请前往医院咨询)",
+        "id": "1630559993807392769",
+        "location": "地狱",
+        "name": "上官羽銘さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849275006561452032/7BfDhI8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 189,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 198
+        },
+        "username": "ymsg18",
+        "verified": false
+      }
+    ]
+  }
+}

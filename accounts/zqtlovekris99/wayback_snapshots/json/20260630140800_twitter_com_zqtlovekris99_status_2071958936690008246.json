@@ -1,0 +1,857 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071863538478379008"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071958936690008246",
+    "created_at": "2026-06-30T14:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071958936690008246"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "育儿"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "亲子"
+        },
+        {
+          "end": 77,
+          "start": 72,
+          "tag": "家庭教育"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "儿童心理"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "习惯养成"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "性格培养"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "亲子沟通"
+        },
+        {
+          "end": 107,
+          "start": 102,
+          "tag": "情绪管理"
+        },
+        {
+          "end": 113,
+          "start": 108,
+          "tag": "行为引导"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "成长记录"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "育儿日常"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "带娃心得"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "养育反思"
+        },
+        {
+          "end": 143,
+          "start": 138,
+          "tag": "亲子关系"
+        },
+        {
+          "end": 149,
+          "start": 144,
+          "tag": "童年观察"
+        },
+        {
+          "end": 155,
+          "start": 150,
+          "tag": "教育方式"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ePvF8DtTke",
+          "end": 179,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2071958936690008246/photo/1",
+          "media_key": "3_2071863538478379008",
+          "start": 156,
+          "url": "https://t.co/ePvF8DtTke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071958936690008246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 67,
+            "start": 64,
+            "tag": "育儿"
+          },
+          {
+            "end": 71,
+            "start": 68,
+            "tag": "亲子"
+          },
+          {
+            "end": 77,
+            "start": 72,
+            "tag": "家庭教育"
+          },
+          {
+            "end": 83,
+            "start": 78,
+            "tag": "儿童心理"
+          },
+          {
+            "end": 89,
+            "start": 84,
+            "tag": "习惯养成"
+          },
+          {
+            "end": 95,
+            "start": 90,
+            "tag": "性格培养"
+          },
+          {
+            "end": 101,
+            "start": 96,
+            "tag": "亲子沟通"
+          },
+          {
+            "end": 107,
+            "start": 102,
+            "tag": "情绪管理"
+          },
+          {
+            "end": 113,
+            "start": 108,
+            "tag": "行为引导"
+          },
+          {
+            "end": 119,
+            "start": 114,
+            "tag": "成长记录"
+          },
+          {
+            "end": 125,
+            "start": 120,
+            "tag": "育儿日常"
+          },
+          {
+            "end": 131,
+            "start": 126,
+            "tag": "带娃心得"
+          },
+          {
+            "end": 137,
+            "start": 132,
+            "tag": "养育反思"
+          },
+          {
+            "end": 143,
+            "start": 138,
+            "tag": "亲子关系"
+          },
+          {
+            "end": 149,
+            "start": 144,
+            "tag": "童年观察"
+          },
+          {
+            "end": 155,
+            "start": 150,
+            "tag": "教育方式"
+          },
+          {
+            "end": 161,
+            "start": 156,
+            "tag": "家庭生活"
+          },
+          {
+            "end": 167,
+            "start": 162,
+            "tag": "父母视角"
+          },
+          {
+            "end": 173,
+            "start": 168,
+            "tag": "成长烦恼"
+          },
+          {
+            "end": 179,
+            "start": 174,
+            "tag": "耐心修炼"
+          },
+          {
+            "end": 185,
+            "start": 180,
+            "tag": "家长功课"
+          },
+          {
+            "end": 191,
+            "start": 186,
+            "tag": "日常教养"
+          },
+          {
+            "end": 197,
+            "start": 192,
+            "tag": "幼儿发展"
+          },
+          {
+            "end": 203,
+            "start": 198,
+            "tag": "育儿感悟"
+          },
+          {
+            "end": 209,
+            "start": 204,
+            "tag": "生活实录"
+          },
+          {
+            "end": 217,
+            "start": 210,
+            "tag": "家庭教育观察"
+          },
+          {
+            "end": 225,
+            "start": 218,
+            "tag": "孩子行为解读"
+          },
+          {
+            "end": 231,
+            "start": 226,
+            "tag": "亲子互动"
+          },
+          {
+            "end": 237,
+            "start": 232,
+            "tag": "育儿挑战"
+          },
+          {
+            "end": 243,
+            "start": 238,
+            "tag": "成长陪伴"
+          },
+          {
+            "end": 249,
+            "start": 244,
+            "tag": "教养思考"
+          },
+          {
+            "end": 255,
+            "start": 250,
+            "tag": "育儿分享"
+          },
+          {
+            "end": 261,
+            "start": 256,
+            "tag": "儿童教育"
+          },
+          {
+            "end": 267,
+            "start": 262,
+            "tag": "家庭记录"
+          },
+          {
+            "end": 273,
+            "start": 268,
+            "tag": "养育日常"
+          },
+          {
+            "end": 279,
+            "start": 274,
+            "tag": "育儿经验"
+          },
+          {
+            "end": 285,
+            "start": 280,
+            "tag": "真实带娃"
+          },
+          {
+            "end": 291,
+            "start": 286,
+            "tag": "孩子成长"
+          },
+          {
+            "end": 297,
+            "start": 292,
+            "tag": "父母日常"
+          },
+          {
+            "end": 303,
+            "start": 298,
+            "tag": "育儿反思"
+          },
+          {
+            "end": 309,
+            "start": 304,
+            "tag": "家庭成长"
+          },
+          {
+            "end": 315,
+            "start": 310,
+            "tag": "教育观察"
+          },
+          {
+            "end": 321,
+            "start": 316,
+            "tag": "亲子日常"
+          },
+          {
+            "end": 327,
+            "start": 322,
+            "tag": "育儿实录"
+          },
+          {
+            "end": 333,
+            "start": 328,
+            "tag": "养育点滴"
+          },
+          {
+            "end": 339,
+            "start": 334,
+            "tag": "童年片段"
+          },
+          {
+            "end": 345,
+            "start": 340,
+            "tag": "教养现场"
+          },
+          {
+            "end": 351,
+            "start": 346,
+            "tag": "育儿情绪"
+          },
+          {
+            "end": 357,
+            "start": 352,
+            "tag": "父母成长"
+          }
+        ]
+      },
+      "text": "现在的孩子真难教育，每天辛辛苦苦供他读书学习，今天要去看儿子玩这个机器，还说什么不能拍不能拍，现在的年轻人啊，真是令人难以理解 #育儿 #亲子 #家庭教育 #儿童心理 #习惯养成 #性格培养 #亲子沟通 #情绪管理 #行为引导 #成长记录 #育儿日常 #带娃心得 #养育反思 #亲子关系 #童年观察 #教育方式 #家庭生活 #父母视角 #成长烦恼 #耐心修炼 #家长功课 #日常教养 #幼儿发展 #育儿感悟 #生活实录 #家庭教育观察 #孩子行为解读 #亲子互动 #育儿挑战 #成长陪伴 #教养思考 #育儿分享 #儿童教育 #家庭记录 #养育日常 #育儿经验 #真实带娃 #孩子成长 #父母日常 #育儿反思 #家庭成长 #教育观察 #亲子日常 #育儿实录 #养育点滴 #童年片段 #教养现场 #育儿情绪 #父母成长 #家庭教育实录#猎奇"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的孩子真难教育，每天辛辛苦苦供他读书学习，今天要去看儿子玩这个机器，还说什么不能拍不能拍，现在的年轻人啊，真是令人难以理解 #育儿 #亲子 #家庭教育 #儿童心理 #习惯养成 #性格培养 #亲子沟通 #情绪管理 #行为引导 #成长记录 #育儿日常 #带娃心得 #养育反思 #亲子关系 #童年观察 #教育方式 https://t.co/ePvF8DtTke"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071863538478379008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMC86ToWcAAeWuF.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071863538478379008"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071958936690008246",
+        "created_at": "2026-06-30T14:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071958936690008246"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "育儿"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "亲子"
+            },
+            {
+              "end": 77,
+              "start": 72,
+              "tag": "家庭教育"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "儿童心理"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "习惯养成"
+            },
+            {
+              "end": 95,
+              "start": 90,
+              "tag": "性格培养"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "亲子沟通"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "情绪管理"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "行为引导"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "成长记录"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "育儿日常"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "带娃心得"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "养育反思"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "亲子关系"
+            },
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "童年观察"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "教育方式"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePvF8DtTke",
+              "end": 179,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2071958936690008246/photo/1",
+              "media_key": "3_2071863538478379008",
+              "start": 156,
+              "url": "https://t.co/ePvF8DtTke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071958936690008246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 64,
+                "tag": "育儿"
+              },
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "亲子"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "家庭教育"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "儿童心理"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "习惯养成"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "性格培养"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "亲子沟通"
+              },
+              {
+                "end": 107,
+                "start": 102,
+                "tag": "情绪管理"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "行为引导"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "成长记录"
+              },
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "育儿日常"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "带娃心得"
+              },
+              {
+                "end": 137,
+                "start": 132,
+                "tag": "养育反思"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "亲子关系"
+              },
+              {
+                "end": 149,
+                "start": 144,
+                "tag": "童年观察"
+              },
+              {
+                "end": 155,
+                "start": 150,
+                "tag": "教育方式"
+              },
+              {
+                "end": 161,
+                "start": 156,
+                "tag": "家庭生活"
+              },
+              {
+                "end": 167,
+                "start": 162,
+                "tag": "父母视角"
+              },
+              {
+                "end": 173,
+                "start": 168,
+                "tag": "成长烦恼"
+              },
+              {
+                "end": 179,
+                "start": 174,
+                "tag": "耐心修炼"
+              },
+              {
+                "end": 185,
+                "start": 180,
+                "tag": "家长功课"
+              },
+              {
+                "end": 191,
+                "start": 186,
+                "tag": "日常教养"
+              },
+              {
+                "end": 197,
+                "start": 192,
+                "tag": "幼儿发展"
+              },
+              {
+                "end": 203,
+                "start": 198,
+                "tag": "育儿感悟"
+              },
+              {
+                "end": 209,
+                "start": 204,
+                "tag": "生活实录"
+              },
+              {
+                "end": 217,
+                "start": 210,
+                "tag": "家庭教育观察"
+              },
+              {
+                "end": 225,
+                "start": 218,
+                "tag": "孩子行为解读"
+              },
+              {
+                "end": 231,
+                "start": 226,
+                "tag": "亲子互动"
+              },
+              {
+                "end": 237,
+                "start": 232,
+                "tag": "育儿挑战"
+              },
+              {
+                "end": 243,
+                "start": 238,
+                "tag": "成长陪伴"
+              },
+              {
+                "end": 249,
+                "start": 244,
+                "tag": "教养思考"
+              },
+              {
+                "end": 255,
+                "start": 250,
+                "tag": "育儿分享"
+              },
+              {
+                "end": 261,
+                "start": 256,
+                "tag": "儿童教育"
+              },
+              {
+                "end": 267,
+                "start": 262,
+                "tag": "家庭记录"
+              },
+              {
+                "end": 273,
+                "start": 268,
+                "tag": "养育日常"
+              },
+              {
+                "end": 279,
+                "start": 274,
+                "tag": "育儿经验"
+              },
+              {
+                "end": 285,
+                "start": 280,
+                "tag": "真实带娃"
+              },
+              {
+                "end": 291,
+                "start": 286,
+                "tag": "孩子成长"
+              },
+              {
+                "end": 297,
+                "start": 292,
+                "tag": "父母日常"
+              },
+              {
+                "end": 303,
+                "start": 298,
+                "tag": "育儿反思"
+              },
+              {
+                "end": 309,
+                "start": 304,
+                "tag": "家庭成长"
+              },
+              {
+                "end": 315,
+                "start": 310,
+                "tag": "教育观察"
+              },
+              {
+                "end": 321,
+                "start": 316,
+                "tag": "亲子日常"
+              },
+              {
+                "end": 327,
+                "start": 322,
+                "tag": "育儿实录"
+              },
+              {
+                "end": 333,
+                "start": 328,
+                "tag": "养育点滴"
+              },
+              {
+                "end": 339,
+                "start": 334,
+                "tag": "童年片段"
+              },
+              {
+                "end": 345,
+                "start": 340,
+                "tag": "教养现场"
+              },
+              {
+                "end": 351,
+                "start": 346,
+                "tag": "育儿情绪"
+              },
+              {
+                "end": 357,
+                "start": 352,
+                "tag": "父母成长"
+              }
+            ]
+          },
+          "text": "现在的孩子真难教育，每天辛辛苦苦供他读书学习，今天要去看儿子玩这个机器，还说什么不能拍不能拍，现在的年轻人啊，真是令人难以理解 #育儿 #亲子 #家庭教育 #儿童心理 #习惯养成 #性格培养 #亲子沟通 #情绪管理 #行为引导 #成长记录 #育儿日常 #带娃心得 #养育反思 #亲子关系 #童年观察 #教育方式 #家庭生活 #父母视角 #成长烦恼 #耐心修炼 #家长功课 #日常教养 #幼儿发展 #育儿感悟 #生活实录 #家庭教育观察 #孩子行为解读 #亲子互动 #育儿挑战 #成长陪伴 #教养思考 #育儿分享 #儿童教育 #家庭记录 #养育日常 #育儿经验 #真实带娃 #孩子成长 #父母日常 #育儿反思 #家庭成长 #教育观察 #亲子日常 #育儿实录 #养育点滴 #童年片段 #教养现场 #育儿情绪 #父母成长 #家庭教育实录#猎奇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的孩子真难教育，每天辛辛苦苦供他读书学习，今天要去看儿子玩这个机器，还说什么不能拍不能拍，现在的年轻人啊，真是令人难以理解 #育儿 #亲子 #家庭教育 #儿童心理 #习惯养成 #性格培养 #亲子沟通 #情绪管理 #行为引导 #成长记录 #育儿日常 #带娃心得 #养育反思 #亲子关系 #童年观察 #教育方式 https://t.co/ePvF8DtTke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13561,
+          "following_count": 1716,
+          "like_count": 26326,
+          "listed_count": 16,
+          "media_count": 5497,
+          "tweet_count": 29127
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1864139656104956290",
+    "created_at": "2024-12-04T02:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T03:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864142281663713656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1777627993491578880",
+          "start": 0,
+          "username": "l3834203736229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864142281663713656",
+    "in_reply_to_user_id": "1777627993491578880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864141752942412046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3834203736229 关你p事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1864139656104956290",
+        "created_at": "2024-12-04T02:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T03:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864142281663713656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1777627993491578880",
+              "start": 0,
+              "username": "l3834203736229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864142281663713656",
+        "in_reply_to_user_id": "1777627993491578880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864141752942412046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3834203736229 关你p事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777627993491578880",
+        "conversation_id": "1864139656104956290",
+        "created_at": "2024-12-04T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864141752942412046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864141752942412046",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864139656104956290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 不可以抽烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "精神状态极差，别理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🙁竹蜻蜓🙁🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 502,
+          "like_count": 15109,
+          "listed_count": 4,
+          "media_count": 1339,
+          "tweet_count": 12970
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T09:22:32.000Z",
+        "description": "05小药酿 会被夸可爱会讨别人喜欢 梦想是被好多人喜欢",
+        "id": "1777627993491578880",
+        "name": "温温我是小药酿",
+        "pinned_tweet_id": "1858874047901168068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858873592273879040/mf2KDKX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 141,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 553
+        },
+        "username": "l3834203736229",
+        "verified": false
+      }
+    ]
+  }
+}

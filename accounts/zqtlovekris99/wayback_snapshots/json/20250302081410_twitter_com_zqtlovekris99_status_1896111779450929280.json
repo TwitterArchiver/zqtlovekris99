@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1896111779450929280",
+    "created_at": "2025-03-02T08:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T09:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896111779450929280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1535150308065787904",
+          "start": 3,
+          "username": "lsSuDoShutDown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896111779450929280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896109263099211886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lsSuDoShutDown: 仙琚十一酸断货，但互助群在努力更进收集更多的最新消息，尤其是管理员冰箱，还有群友也在不断在尝试收集关于仙琚的更多消息，而且别的睾酮也有稳定的低价购买渠道，所以再来宣传一下我们transmasc纯公益性质的睾酮药物互助群，希望能在仙琚十一酸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896111779450929280].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896111779450929280",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896111779450929280"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_1896109260242833408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlBVU4AaUAARVBR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1948,
+        "media_key": "3_1896109260247089157",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlBVU4BbQAU4Ln5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2217,
+        "media_key": "3_1896109259857018880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlBVU2kbQAArM9f.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896109260242833408",
+            "3_1896109260247089157",
+            "3_1896109259857018880"
+          ]
+        },
+        "author_id": "1535150308065787904",
+        "conversation_id": "1896109263099211886",
+        "created_at": "2025-03-02T08:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896109263099211886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z9h0NiO7Bm",
+              "end": 156,
+              "expanded_url": "https://x.com/lsSuDoShutDown/status/1896109263099211886/photo/1",
+              "media_key": "3_1896109260242833408",
+              "start": 133,
+              "url": "https://t.co/z9h0NiO7Bm"
+            },
+            {
+              "display_url": "pic.x.com/z9h0NiO7Bm",
+              "end": 156,
+              "expanded_url": "https://x.com/lsSuDoShutDown/status/1896109263099211886/photo/1",
+              "media_key": "3_1896109260247089157",
+              "start": 133,
+              "url": "https://t.co/z9h0NiO7Bm"
+            },
+            {
+              "display_url": "pic.x.com/z9h0NiO7Bm",
+              "end": 156,
+              "expanded_url": "https://x.com/lsSuDoShutDown/status/1896109263099211886/photo/1",
+              "media_key": "3_1896109259857018880",
+              "start": 133,
+              "url": "https://t.co/z9h0NiO7Bm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896109263099211886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "仙琚十一酸断货，但互助群在努力更进收集更多的最新消息，尤其是管理员冰箱，还有群友也在不断在尝试收集关于仙琚的更多消息，而且别的睾酮也有稳定的低价购买渠道，所以再来宣传一下我们transmasc纯公益性质的睾酮药物互助群，希望能在仙琚十一酸限货断货期间帮到更多跨男。 https://t.co/z9h0NiO7Bm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 多意识体内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6045,
+          "following_count": 531,
+          "like_count": 16863,
+          "listed_count": 8,
+          "media_count": 1779,
+          "tweet_count": 15184
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T06:42:19.000Z",
+        "description": "-我叫派， 🏳️‍⚧️FTM女跨男 -💉hrt23.5.1 🧾持证23.8.3-/同类交友欢迎/喜欢所有多元的人们/开始尝试不给自己贴标签，做一个独特的个体！",
+        "id": "1535150308065787904",
+        "location": "广东, 中华人民共和国",
+        "name": "派🏳️‍⚧️",
+        "pinned_tweet_id": "1747445102321287617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881860804867465216/aqV69xLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 276,
+          "like_count": 503,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 608
+        },
+        "username": "lsSuDoShutDown",
+        "verified": false
+      }
+    ]
+  }
+}

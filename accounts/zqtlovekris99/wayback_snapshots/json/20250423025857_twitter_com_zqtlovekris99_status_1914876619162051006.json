@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1914560816382419038",
+    "created_at": "2025-04-23T02:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T03:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914876619162051006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        },
+        {
+          "end": 24,
+          "id": "1768309380108406784",
+          "start": 15,
+          "username": "abaablon"
+        },
+        {
+          "end": 36,
+          "id": "1462419807173677059",
+          "start": 25,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914876619162051006",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914875367007170747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra @abaablon @Jane_S_Eye 我跟他互b虽然不记得是谁了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1914875367007170747].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1914875367007170747",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1914875367007170747"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1914560816382419038",
+        "created_at": "2025-04-23T02:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T03:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914876619162051006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            },
+            {
+              "end": 24,
+              "id": "1768309380108406784",
+              "start": 15,
+              "username": "abaablon"
+            },
+            {
+              "end": 36,
+              "id": "1462419807173677059",
+              "start": 25,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914876619162051006",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914875367007170747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra @abaablon @Jane_S_Eye 我跟他互b虽然不记得是谁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1914208556406239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6660,
+          "following_count": 549,
+          "like_count": 17914,
+          "listed_count": 9,
+          "media_count": 2220,
+          "tweet_count": 16928
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Fake it till make it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Selangor ",
+        "name": "🩵🌘",
+        "pinned_tweet_id": "1909706544981459266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914664425791086595/TKcQ3-AS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 850,
+          "like_count": 53580,
+          "listed_count": 2,
+          "media_count": 1605,
+          "tweet_count": 38277
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "🇨🇳CN，EN/JP/FR学习中，🌏语言学/Linguistics\n糕中生MtF🏳️‍⚧️hrt2024.12.26🍥泛性恋\n二次元老公☂️『阿帽』/三次元老公❤️@Cano_3118\n热爱和平☮️，不懂政治，反对任何极端主义\n肌肤饥渴，贴贴抱抱亲亲🤗什么的多来点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "Cano_3118"
+              }
+            ]
+          }
+        },
+        "id": "1768309380108406784",
+        "location": "kuishuu",
+        "name": "𝑨𝒃𝒂𝒂𝒃𝒍𝒐𝒏🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901657966006460416/RgAWAwre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 204,
+          "like_count": 7025,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 536
+        },
+        "username": "abaablon",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "Not a whore.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Véronique🇺🇦🏳️‍⚧️",
+        "pinned_tweet_id": "1902747260406169747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913212235650093056/crJs1ho-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9815,
+          "following_count": 2574,
+          "like_count": 10692,
+          "listed_count": 21,
+          "media_count": 823,
+          "tweet_count": 9701
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

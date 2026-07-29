@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2043258687788396544"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2043525330678190385",
+    "created_at": "2026-04-13T03:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043525330678190385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuR9oaQ4cg",
+          "end": 39,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2043525330678190385/photo/1",
+          "media_key": "16_2043258687788396544",
+          "start": 16,
+          "url": "https://t.co/zuR9oaQ4cg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043525330678190385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "骂我的人请记住屏幕后的我长这样 https://t.co/zuR9oaQ4cg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 142,
+        "media_key": "16_2043258687788396544",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFsc823bsAA5SnB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFsc823bsAA5SnB.mp4"
+          }
+        ],
+        "width": 154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043258687788396544"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2043525330678190385",
+        "created_at": "2026-04-13T03:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043525330678190385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuR9oaQ4cg",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2043525330678190385/photo/1",
+              "media_key": "16_2043258687788396544",
+              "start": 16,
+              "url": "https://t.co/zuR9oaQ4cg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043525330678190385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骂我的人请记住屏幕后的我长这样 https://t.co/zuR9oaQ4cg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @nktblovekris99\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11893,
+          "following_count": 1459,
+          "like_count": 25116,
+          "listed_count": 16,
+          "media_count": 4559,
+          "tweet_count": 27348
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

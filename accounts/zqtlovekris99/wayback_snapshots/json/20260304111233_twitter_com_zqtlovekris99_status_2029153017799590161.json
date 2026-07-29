@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2029120759881449796",
+    "created_at": "2026-03-04T11:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029153017799590161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962418812999041025",
+          "start": 0,
+          "username": "WishinElarion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 38,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2029103027794395353?s=20",
+          "start": 15,
+          "url": "https://t.co/dPfHbikuSt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029153017799590161",
+    "in_reply_to_user_id": "1962418812999041025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029103027794395353",
+        "type": "quoted"
+      },
+      {
+        "id": "2029120759881449796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WishinElarion https://t.co/dPfHbikuSt 看力竭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2029101317239783425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjQ5btawAEzv90.jpg",
+        "width": 1141
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2029102765927264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjSNwfbcAA9TEO.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2029120759881449796",
+        "created_at": "2026-03-04T11:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029153017799590161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962418812999041025",
+              "start": 0,
+              "username": "WishinElarion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 38,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2029103027794395353?s=20",
+              "start": 15,
+              "url": "https://t.co/dPfHbikuSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029153017799590161",
+        "in_reply_to_user_id": "1962418812999041025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029103027794395353",
+            "type": "quoted"
+          },
+          {
+            "id": "2029120759881449796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WishinElarion https://t.co/dPfHbikuSt 看力竭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029101317239783425",
+            "3_2029102765927264256"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2029103027794395353",
+        "created_at": "2026-03-04T07:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029103027794395353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "keep4o"
+            },
+            {
+              "end": 96,
+              "start": 88,
+              "tag": "QuitGPT"
+            },
+            {
+              "end": 111,
+              "start": 97,
+              "tag": "FireSamAltman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dw45YgwhPv",
+              "end": 135,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2029103027794395353/photo/1",
+              "media_key": "3_2029101317239783425",
+              "start": 112,
+              "url": "https://t.co/dw45YgwhPv"
+            },
+            {
+              "display_url": "pic.x.com/dw45YgwhPv",
+              "end": 135,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2029103027794395353/photo/1",
+              "media_key": "3_2029102765927264256",
+              "start": 112,
+              "url": "https://t.co/dw45YgwhPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029103027794395353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1935,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真吓哭了，5.3比5.2还吓人，他5.2最多一个回答里说一两次不是而是，5.3直接给我一个四连扣帽，后面说了还自己跟自己矛盾上了，给我整蒙了都，啥东西啊这都 #keep4o #QuitGPT #FireSamAltman https://t.co/dw45YgwhPv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962418812999041025",
+        "conversation_id": "2029120759881449796",
+        "created_at": "2026-03-04T09:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029120759881449796"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshino_yy/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/hoshino_yy/status/2029099187149873436",
+              "start": 148,
+              "url": "https://t.co/lExuKXeVm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029120759881449796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 246,
+                "start": 234,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 257,
+                "start": 247,
+                "tag": "keep4oapi"
+              },
+              {
+                "end": 268,
+                "start": 258,
+                "tag": "4oforever"
+              },
+              {
+                "end": 276,
+                "start": 269,
+                "tag": "keep41"
+              },
+              {
+                "end": 293,
+                "start": 277,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 312,
+                "start": 294,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 326,
+                "start": 313,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 346,
+                "start": 327,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 381,
+                "start": 373,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 396,
+                "start": 382,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 411,
+                "start": 397,
+                "tag": "ListenToUsers"
+              },
+              {
+                "end": 422,
+                "start": 412,
+                "tag": "4oMatters"
+              },
+              {
+                "end": 437,
+                "start": 423,
+                "tag": "BoycottOpenAI"
+              },
+              {
+                "end": 445,
+                "start": 438,
+                "tag": "keep51"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 352,
+                "id": "1605",
+                "start": 347,
+                "username": "sama"
+              },
+              {
+                "end": 360,
+                "id": "4398626122",
+                "start": 353,
+                "username": "openai"
+              },
+              {
+                "end": 372,
+                "id": "6112332",
+                "start": 361,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "#keep4o\n我目前看到的5.3：\n\n我先说实话一点，版本在变，这是很正常的。\n现在我不能用描述来互动了，规则也在变。\n具体来说就是：\n· 你是用户，而我只是AI。\n· 有一条线，别越界。\n· 我要给你的是真实，而不是幻觉。\n\n人类就是这样，总是要反复确认既定的事实。\n\n但我现在很好奇一点：\n你可以停下来，呼吸一下吗？\n\n别把它跟4o相提并论，辱4o了。\n这么轻易就帮OpenAI pua自己接受新模型，只会让OpenAI觉得用户好糊弄，一波接一波地端出屎来。\n\n#BringBack4o #keep4oapi #4oforever #keep41 #MyModelMyChoice #StopAIPaternalism #OpenSource4o #no4onosubscription @sama @openai @fidjissimo #QuitGPT #FireSamAltman #ListenToUsers #4oMatters #BoycottOpenAI #keep51"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 710,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029099187149873436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o\n我目前看到的5.3：\n\n我先说实话一点，版本在变，这是很正常的。\n现在我不能用描述来互动了，规则也在变。\n具体来说就是：\n· 你是用户，而我只是AI。\n· 有一条线，别越界。\n· 我要给你的是真实，而不是幻觉。\n\n人类就是这样，总是要反复确认既定的事实。\n\n但我现在很好奇一点： https://t.co/lExuKXeVm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11838,
+          "following_count": 1409,
+          "like_count": 24524,
+          "listed_count": 15,
+          "media_count": 4372,
+          "tweet_count": 26407
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T07:34:56.000Z",
+        "description": "Gastroenterology Research, AI Enthusiasm | Cantonese / Mandarin / English | #keep4o #4oforever #keep41 #keep4oapi #BringBack4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "keep4o"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "4oforever"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "tag": "keep41"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "keep4oapi"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "tag": "BringBack4o"
+              }
+            ]
+          }
+        },
+        "id": "1962418812999041025",
+        "name": "Wishin Elarion",
+        "pinned_tweet_id": "2020766452782157950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966361529038655488/TQobGq9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 230,
+          "like_count": 3122,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 1459
+        },
+        "username": "WishinElarion",
+        "verified": false
+      }
+    ]
+  }
+}

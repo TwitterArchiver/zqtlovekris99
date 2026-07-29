@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1852338158631043568",
+    "created_at": "2024-11-01T13:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T14:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852338158631043568"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/k3_erxzj/statu…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/k3_erxzj/status/1852225288765083945",
+          "start": 111,
+          "url": "https://t.co/ltHFdG9AX9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852338158631043568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852225288765083945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ChatGPT说的挺对的，不管你是不是认同为女性，不管你是不是勃起，就算你是afab，我觉得你的凝视侵犯到我了那就是你的不对\n还有如果你都会对更衣室里的人起生理反应了你还不躲着点，还理直气壮的让别人包容你的生理反应，凭啥 https://t.co/ltHFdG9AX9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1852338158631043568",
+        "created_at": "2024-11-01T13:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T14:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852338158631043568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k3_erxzj/statu…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/k3_erxzj/status/1852225288765083945",
+              "start": 111,
+              "url": "https://t.co/ltHFdG9AX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852338158631043568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852225288765083945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ChatGPT说的挺对的，不管你是不是认同为女性，不管你是不是勃起，就算你是afab，我觉得你的凝视侵犯到我了那就是你的不对\n还有如果你都会对更衣室里的人起生理反应了你还不躲着点，还理直气壮的让别人包容你的生理反应，凭啥 https://t.co/ltHFdG9AX9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852225239138078720",
+            "3_1852225284734328832"
+          ]
+        },
+        "author_id": "1345361439221972995",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1852225288765083945",
+        "created_at": "2024-11-01T05:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T06:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852225288765083945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSWm4Io8jK",
+              "end": 172,
+              "expanded_url": "https://x.com/k3_erxzj/status/1852225288765083945/photo/1",
+              "media_key": "3_1852225239138078720",
+              "start": 149,
+              "url": "https://t.co/YSWm4Io8jK"
+            },
+            {
+              "display_url": "pic.x.com/YSWm4Io8jK",
+              "end": 172,
+              "expanded_url": "https://x.com/k3_erxzj/status/1852225288765083945/photo/1",
+              "media_key": "3_1852225284734328832",
+              "start": 149,
+              "url": "https://t.co/YSWm4Io8jK"
+            },
+            {
+              "display_url": "x.com/k3_erxzj/statu…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/k3_erxzj/status/1852100272845394016",
+              "start": 173,
+              "url": "https://t.co/lTaHGrSnhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852225288765083945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4097,
+          "like_count": 18,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852100272845394016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实，其实假扮跨女进入女浴室不进行任何实质动作，仅男凝和勃起了这该怎么办，这个行为我réfléchir了好久无解,今天去问chatgpt ，突然意识到不仅有法律还有道德，这也要求了跨性别们应该建立属于自己的道德观，并对这种道德观形成共识，当这种人进入女浴时，最应该站出来批判他的就应该是跨性别群体 https://t.co/YSWm4Io8jK https://t.co/lTaHGrSnhR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 恋人 @RinkokoroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（想谈恋爱版）",
+        "pinned_tweet_id": "1847286904842223663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 502,
+          "like_count": 14483,
+          "listed_count": 4,
+          "tweet_count": 11938
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T13:29:09.000Z",
+        "description": "跨女，喜欢除了顺直男以外一切我认为好看的人           中文/français\n   这里没有正能量，只有我的故事",
+        "id": "1345361439221972995",
+        "location": "Paris, France",
+        "name": "柳成荫",
+        "pinned_tweet_id": "1816397717435740425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410271462049599496/0oEXbyX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 347,
+          "like_count": 529,
+          "listed_count": 1,
+          "tweet_count": 896
+        },
+        "username": "k3_erxzj",
+        "verified": false
+      }
+    ]
+  }
+}

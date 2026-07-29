@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1151828991109505025",
+          "name": "Attack on Titan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1151828991109505025",
+          "name": "Attack on Titan"
+        }
+      }
+    ],
+    "conversation_id": "1856923315660886381",
+    "created_at": "2024-11-14T04:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856923315660886381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pococha_jp/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/pococha_jp/status/1852183803479101854",
+          "start": 17,
+          "url": "https://t.co/Muowq1uyN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856923315660886381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852183803479101854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么会给我推这种广告啊啊啊啊啊 https://t.co/Muowq1uyN1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          }
+        ],
+        "conversation_id": "1856923315660886381",
+        "created_at": "2024-11-14T04:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856923315660886381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pococha_jp/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/pococha_jp/status/1852183803479101854",
+              "start": 17,
+              "url": "https://t.co/Muowq1uyN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856923315660886381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852183803479101854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么会给我推这种广告啊啊啊啊啊 https://t.co/Muowq1uyN1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851578728197074944"
+          ]
+        },
+        "author_id": "818655503509110786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1405271531916124160",
+              "name": "Pococha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1151828991109505025",
+              "name": "Attack on Titan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405271531916124160",
+              "name": "Pococha"
+            }
+          }
+        ],
+        "conversation_id": "1852183803479101854",
+        "created_at": "2024-11-01T03:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T04:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852183803479101854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 2,
+              "tag": "進撃の巨人"
+            },
+            {
+              "end": 47,
+              "start": 28,
+              "tag": "ポコチャ進撃のプレゼントキャンペーン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 112,
+              "id": "818655503509110786",
+              "start": 101,
+              "username": "pococha_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQEQM5Cd63",
+              "end": 190,
+              "expanded_url": "https://x.com/pococha_jp/status/1852183803479101854/photo/1",
+              "media_key": "3_1851578728197074944",
+              "start": 167,
+              "url": "https://t.co/OQEQM5Cd63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852183803479101854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1461,
+          "impression_count": 2845697,
+          "like_count": 15538,
+          "quote_count": 1010,
+          "reply_count": 191,
+          "retweet_count": 7716
+        },
+        "reply_settings": "everyone",
+        "text": "／\n#進撃の巨人 車力の巨人クッション当たる🎁✨\n＼\n\n#ポコチャ進撃のプレゼントキャンペーン 第3弾🎉\nフォロー＆リポストするだけ💨\n抽選でオリジナルQUOカード1,000円分もプレゼント🎟\n\n1️⃣@pococha_jpをフォロー\n2️⃣本投稿リポスト後リプライが届く\n3️⃣URLからアプリをダウンロード\n4️⃣アプリから応募 https://t.co/OQEQM5Cd63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 性别认同不明/地雷女(男?) | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | 攻击性很强，玻璃心离远点 | HRT 2023.05.29 | 想谈恋爱快来推油跟我谈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀pr80的老婆",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4964,
+          "following_count": 495,
+          "like_count": 14651,
+          "listed_count": 4,
+          "tweet_count": 12372
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-10T03:07:36.000Z",
+        "description": "スマホで気軽にライブ配信＆視聴ができる「Pococha」の公式アカウントです🌸\n※お問い合わせはアプリ内よりお願いいたします！\n\nWEB版はURLより💁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pococha.com/ja-jp/app?web_…",
+                "end": 23,
+                "expanded_url": "https://www.pococha.com/ja-jp/app?web_access_source_platform_kind=5",
+                "start": 0,
+                "url": "https://t.co/ddiwipPIob"
+              }
+            ]
+          }
+        },
+        "id": "818655503509110786",
+        "location": "東京都渋谷区",
+        "name": "Pococha(ポコチャ)公式",
+        "pinned_tweet_id": "1852183803479101854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1188576064714371072/bIfSTmWL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97453,
+          "following_count": 3042,
+          "like_count": 18364,
+          "listed_count": 228,
+          "tweet_count": 11047
+        },
+        "url": "https://t.co/ddiwipPIob",
+        "username": "pococha_jp",
+        "verified": true
+      }
+    ]
+  }
+}

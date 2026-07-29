@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1905975733660622873",
+    "created_at": "2025-03-30T04:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T05:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906204347962388651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1775851282710122496",
+          "start": 0,
+          "username": "Vincy1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906204347962388651",
+    "in_reply_to_user_id": "1775851282710122496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905975733660622873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vincy1230 什么叫辅助。。挂吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1905975704610828288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNizhfacAAZqM-.png",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1905975733660622873",
+        "created_at": "2025-03-30T04:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906204347962388651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1775851282710122496",
+              "start": 0,
+              "username": "Vincy1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906204347962388651",
+        "in_reply_to_user_id": "1775851282710122496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905975733660622873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vincy1230 什么叫辅助。。挂吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905975704610828288"
+          ]
+        },
+        "author_id": "1775851282710122496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1905975733660622873",
+        "created_at": "2025-03-29T13:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T14:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905975733660622873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jD5ByJV2R4",
+              "end": 171,
+              "expanded_url": "https://x.com/Vincy1230/status/1905975733660622873/photo/1",
+              "media_key": "3_1905975704610828288",
+              "start": 148,
+              "url": "https://t.co/jD5ByJV2R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905975733660622873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知 BetterGI (一款原神辅助) 的启动快捷键是 F11\n又众所周知 BetterGI 可以设置自动拉起原神\n又又又众所周知 Edge 浏览器全屏也是 F11\n然后今天组会，正在腾讯会议上给导师展示网页\n导：你全屏一下\n我：[F11]... 咦怎么没反应...\n突然，屏幕一白... https://t.co/jD5ByJV2R4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6338,
+          "following_count": 535,
+          "like_count": 17360,
+          "listed_count": 8,
+          "media_count": 1968,
+          "tweet_count": 16098
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "HzShibari86"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1775864235471536147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902751291916611584/iUFDX75D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 209,
+          "like_count": 898,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2790
+        },
+        "username": "Vincy1230",
+        "verified": true
+      }
+    ]
+  }
+}

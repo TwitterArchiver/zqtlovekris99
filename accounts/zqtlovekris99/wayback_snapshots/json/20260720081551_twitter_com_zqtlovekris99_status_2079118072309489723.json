@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2078457382905270557",
+    "created_at": "2026-07-20T08:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079118072309489723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497860307653251072",
+          "start": 0,
+          "username": "chengyiga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079118072309489723",
+    "in_reply_to_user_id": "1497860307653251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078457382905270557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengyiga 谁蒸馏个ChatGPT4o.skill"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2078457373522636800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgp-BWbsAAMLag.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2078457382905270557",
+        "created_at": "2026-07-20T08:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079118072309489723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497860307653251072",
+              "start": 0,
+              "username": "chengyiga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079118072309489723",
+        "in_reply_to_user_id": "1497860307653251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078457382905270557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengyiga 谁蒸馏个ChatGPT4o.skill"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078457373522636800"
+          ]
+        },
+        "author_id": "1497860307653251072",
+        "conversation_id": "2078457382905270557",
+        "created_at": "2026-07-18T12:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078457382905270557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTePDbsaRk",
+              "end": 106,
+              "expanded_url": "https://x.com/chengyiga/status/2078457382905270557/photo/1",
+              "media_key": "3_2078457373522636800",
+              "start": 83,
+              "url": "https://t.co/JTePDbsaRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078457382905270557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 134157,
+          "like_count": 740,
+          "quote_count": 6,
+          "reply_count": 161,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "好多人蒸馏，同事.skill，张雪峰.skill，甚至前任.skill。\n以后会不会墓碑上全都是扫码链接.skill，如果想念谁，或者好奇谁，就可以叫她出来聊聊天呢 https://t.co/JTePDbsaRk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13835,
+          "following_count": 1766,
+          "like_count": 26549,
+          "listed_count": 17,
+          "media_count": 5736,
+          "tweet_count": 29511
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T09:05:22.000Z",
+        "description": "奈昔❤️喵❤️曦月妹妹@Xiyue527sakura❤️最好的主人&姐姐洛米@chanyfgh❤️最喜欢贴贴筱琦@Xqqq0724❤️收留了汐颜妹妹@ChishioMoe❤️最可爱的玲绪@LX0505m❤️๑会一直陪着大家~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Xiyue527sakura"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "chanyfgh"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Xqqq0724"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ChishioMoe"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "LX0505m"
+              }
+            ]
+          }
+        },
+        "id": "1497860307653251072",
+        "name": "沈奈昔（哀悼逝者版）",
+        "pinned_tweet_id": "1630921497257848834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593263084654579712/PjNt-IHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5422,
+          "following_count": 528,
+          "like_count": 25385,
+          "listed_count": 13,
+          "media_count": 1760,
+          "tweet_count": 9356
+        },
+        "url": "",
+        "username": "chengyiga",
+        "verified": false
+      }
+    ]
+  }
+}

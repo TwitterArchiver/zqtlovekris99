@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046817419138940928"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2046922968752664610",
+    "created_at": "2026-04-22T12:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046922968752664610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p3HRd1wYRC",
+          "end": 31,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2046922968752664610/photo/1",
+          "media_key": "3_2046817419138940928",
+          "start": 8,
+          "url": "https://t.co/p3HRd1wYRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046922968752664610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这车质量挺好的 https://t.co/p3HRd1wYRC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2046817419138940928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGfBmSPbwAAv_Ta.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046817419138940928"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2046922968752664610",
+        "created_at": "2026-04-22T12:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046922968752664610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3HRd1wYRC",
+              "end": 31,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2046922968752664610/photo/1",
+              "media_key": "3_2046817419138940928",
+              "start": 8,
+              "url": "https://t.co/p3HRd1wYRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046922968752664610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这车质量挺好的 https://t.co/p3HRd1wYRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12076,
+          "following_count": 1516,
+          "like_count": 25302,
+          "listed_count": 16,
+          "media_count": 4681,
+          "tweet_count": 27539
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

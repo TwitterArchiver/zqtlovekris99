@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1979016261259411512",
+    "created_at": "2025-10-17T04:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T05:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979036392991645697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436967591910645767",
+          "start": 0,
+          "username": "asahikokura1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979036392991645697",
+    "in_reply_to_user_id": "1436967591910645767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979018385322115481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asahikokura1 中国男人解释为和黑人结婚是因为黑人几把大，可能是觉得自己脆弱的自尊受到了伤害"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1979018385322115481].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1979018385322115481",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1979018385322115481"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1979016261259411512",
+        "created_at": "2025-10-17T04:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T05:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979036392991645697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436967591910645767",
+              "start": 0,
+              "username": "asahikokura1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979036392991645697",
+        "in_reply_to_user_id": "1436967591910645767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979018385322115481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asahikokura1 中国男人解释为和黑人结婚是因为黑人几把大，可能是觉得自己脆弱的自尊受到了伤害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1978721972730151397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10300,
+          "following_count": 1026,
+          "like_count": 22499,
+          "listed_count": 10,
+          "media_count": 3746,
+          "tweet_count": 23545
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-12T08:19:21.000Z",
+        "description": "碎碎念兼記錄生活 \n近月委員會/地球🌍貓貓教\n@L080_0 里賬戶啟用 認識的人會通過",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "L080_0"
+              }
+            ]
+          }
+        },
+        "id": "1436967591910645767",
+        "location": "George Town",
+        "name": "小倉朝日🇬🇧&地球🌍貓貓教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574668202637869056/lLJe6t7q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 442,
+          "like_count": 51064,
+          "listed_count": 2,
+          "media_count": 588,
+          "tweet_count": 13048
+        },
+        "username": "asahikokura1",
+        "verified": false
+      }
+    ]
+  }
+}

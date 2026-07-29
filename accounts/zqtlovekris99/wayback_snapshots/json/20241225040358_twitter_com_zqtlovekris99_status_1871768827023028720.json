@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1871546664454078543",
+    "created_at": "2024-12-25T04:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T05:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871768827023028720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485268522074730497",
+          "start": 0,
+          "username": "jiulin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871768827023028720",
+    "in_reply_to_user_id": "1485268522074730497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871546664454078543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiulin2333 厉害，问我的都是卖斐济北的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1871546664454078543",
+        "created_at": "2024-12-25T04:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T05:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871768827023028720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485268522074730497",
+              "start": 0,
+              "username": "jiulin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871768827023028720",
+        "in_reply_to_user_id": "1485268522074730497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871546664454078543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiulin2333 厉害，问我的都是卖斐济北的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871546655151177728"
+          ]
+        },
+        "author_id": "1485268522074730497",
+        "conversation_id": "1871546664454078543",
+        "created_at": "2024-12-24T13:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T14:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871546664454078543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8krRqitzdZ",
+              "end": 26,
+              "expanded_url": "https://x.com/jiulin2333/status/1871546664454078543/photo/1",
+              "media_key": "3_1871546655151177728",
+              "start": 3,
+              "url": "https://t.co/8krRqitzdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871546664454078543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厉害 https://t.co/8krRqitzdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 FtX | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5242,
+          "following_count": 510,
+          "like_count": 15496,
+          "listed_count": 6,
+          "media_count": 1464,
+          "tweet_count": 13544
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。/\nenfp及infp/arcaea/ocart/喜欢水推文",
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "pinned_tweet_id": "1859874328311103550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803256966841561088/bPuCy6Jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 2210,
+          "like_count": 25675,
+          "listed_count": 4,
+          "media_count": 1556,
+          "tweet_count": 19425
+        },
+        "username": "jiulin2333",
+        "verified": false
+      }
+    ]
+  }
+}

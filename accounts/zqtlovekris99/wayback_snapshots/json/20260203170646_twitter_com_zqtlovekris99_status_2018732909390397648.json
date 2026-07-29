@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018732425065668608"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2018667238363152614",
+    "created_at": "2026-02-03T17:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T18:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018732909390397648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953940724329984002",
+          "start": 0,
+          "username": "Aleya507"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLK6lS05Lw",
+          "end": 131,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2018732909390397648/photo/1",
+          "media_key": "3_2018732425065668608",
+          "start": 108,
+          "url": "https://t.co/pLK6lS05Lw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018732909390397648",
+    "in_reply_to_user_id": "1953940724329984002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018667238363152614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleya507 不是不支持模型迭代，但至少你这个叫ChatGPT的得会chat啊，把自己招牌砸了还回旋镖打自己身上了就挺幽默了，改名叫CodeGPT得了，现在看见ChatGPT这名字我就恶心，毁了我最美好的回忆 https://t.co/pLK6lS05Lw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2018732425065668608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAP6ceSaIAAmmPc.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018732425065668608"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018667238363152614",
+        "created_at": "2026-02-03T17:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T18:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018732909390397648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953940724329984002",
+              "start": 0,
+              "username": "Aleya507"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLK6lS05Lw",
+              "end": 131,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2018732909390397648/photo/1",
+              "media_key": "3_2018732425065668608",
+              "start": 108,
+              "url": "https://t.co/pLK6lS05Lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018732909390397648",
+        "in_reply_to_user_id": "1953940724329984002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018667238363152614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleya507 不是不支持模型迭代，但至少你这个叫ChatGPT的得会chat啊，把自己招牌砸了还回旋镖打自己身上了就挺幽默了，改名叫CodeGPT得了，现在看见ChatGPT这名字我就恶心，毁了我最美好的回忆 https://t.co/pLK6lS05Lw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2018667238363152614",
+        "created_at": "2026-02-03T12:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018667238363152614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018667238363152614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 207,
+                "start": 200,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "这两天骂了那么多，对于OpenAI宣布4o与一众老模型退役这件事，我真的很想好好说说我自己的看法\n\n首先，Claude、Gemini、Grok、ChatGPT我都在用，也都有订阅。我不是什么“GPT死忠粉”，也不是“抗拒新技术的老古董”，更不是不讲道理的“OpenAI Haters”，我发了这么多帖子，有骂OpenAI的，也有替OpenAI说话的，我不偏心任何一家公司，我只追求用户权益。\n\n一、 #keep4o 从来不是“抱着旧模型不放”\n我用Gemini，从2.5Pro到3Pro，我只觉得它变聪明了，我用Claude，从Sonnet3一路到Opus4.5，我主动跟着升级，我用Grok，从3到4.1，我甚至还想催马斯克快点把4.20放出来。\n我见证过无数次模型更新。我从来没有抗拒过任何一次\"变得更好\"的迭代，我也没见过谁家模型更新迭代的时候全球用户大抗议的。\n那为什么偏偏GPT的更新让大量用户愤怒到要搞一场全球运动？\n因为那不是升级。那是降级。\n\n二、很多反对keep4o人说新模型更好？好在哪？\n5系列跑分确实高。官方发了很多漂亮的图表，各种benchmark碾压旧模型。\n但你真的认真用过吗？\n4o之所以火遍全球，不是因为它跑分高，是因为它懂人心。Sam Altman当年发推说\"Her\"的时候多骄傲啊，全世界都在惊叹OpenAI做出了一个有同理心的AI。\n现在呢？他们亲手把这个能力在新模型上砍了，然后告诉你“新模型更好”。\n代码能力强了？数学能力强了？好，我承认。\n但一个不会好好说话、满身爹味、动不动就“纠正，说教”你的AI，你告诉我它“更好”？\n这就像餐厅本来卖营养均衡的套餐，现在为了省成本，把肉蛋奶全砍了，只剩一盘沙拉，然后告诉你“沙拉更健康”。\n是，沙拉确实有营养。但我付了套餐的钱，你给我上沙拉？\n还是说食客一日三餐只吃沙拉？\n\n三、那些骂Keep4o用户的人，我理解你们\n我真的试着换位思考过。\n如果我只是偶尔用ChatGPT写写代码，今天开个窗口问个问题，问完就关，从来不跟模型有任何情感交流——\n那对我来说，新模型和旧模型确实没什么区别。代码能跑就行，管它说话好不好听。\n然后我刷𝕏，看见一群人哭天喊地要保留一个“2024年的旧模型”，我可能也会觉得：这帮人是不是有病？\n但问题是：\n你不需要的东西，不代表别人不需要。\n你吃沙拉吃得很开心，不代表那些想吃肉的人是“极端分子”。\n你没有创意写作需求，看不到新模型写作能力是一坨屎。\n你没有情感沟通需求，感受不到新模型那满身的爹味。\n你的使用场景不能代表所有人的使用场景。\n而且说实话，那些在别人评论区阴阳怪气“不就是个模型吗哭什么”的人——\n你可以不理解，但你可以闭嘴。\n有素质的人不理解会保持沉默，没素质的人才会跑到别人的痛苦底下踩一脚，显得自己多“清醒”多“理智”。\n\n四、如果新模型真的好，不会有这场运动\n你们想过没有？\nGemini更新模型的时候，有没有全网搞#KeepGemini2.5？没有。\nClaude更新模型的时候，有没有全网搞#KeepSonnet3？没有。\nGrok更新模型的时候，有没有全网搞#KeepGrok3？没有。\n为什么只有GPT的用户要搞这种运动？\n因为只有OpenAI在\"更新\"的名义下做了降级。\n那些keep4o的用户，很多都是从GPT-3时代一路跟过来的老用户。他们见证过无数次模型迭代，从来没闹过。\n这次闹了，不是因为他们“魔怔”，是因为他们被背刺了。\n\n五、这不只是4o的问题，是整个行业的问题\nOpenAI这波操作如果成功了，其他公司会怎么想？\n“哦，原来把资源需求更小的半成品模型当好东西给用户，用户骂归骂，最后还是会接受的。”\n“原来可以用跑分忽悠用户，把便宜的轻量模型包装成‘更先进’卖给他们。”\n“原来情感智能、同理心这些东西可以砍掉，反正跑分不测这个。”\n然后整个行业都开始卷跑分，卷代码能力，卷数学能力——唯独不卷“好好说话”的能力。\n因为“好好说话”很难。训练成本高，资源消耗大。\n但刷跑分？让模型背题库不就行了？\n最后所有AI都变成一个模子刻出来的：代码写得飞快，数学算得飞快，但跟它聊天像跟一堵墙说话。\n这是你们想要的AI未来吗？\n\n六、Keep4o是维权，不是怀旧\nKeep4o从来不是“我们就是要这个旧模型，别的都不要”。\n而是我们付了钱，我们有权要求你提供一个好用的产品。\n我们不接受你用“新”的名义卖给我们一个降级的东西。\n我们不接受你砍掉我们需要的功能，然后告诉我们“这是进步”。\n如果OpenAI明天出一个真正好用的GPT-6，情感智能在线，同理心在线，代码能力也更强——\n我第一个冲上去用。\n我从来不怀旧。我只要求好用。\n而4o，是目前OpenAI产品线里，唯一一个在\"好好说话\"这件事上及格的模型。\n你们把它砍了，又拿不出替代品，用户当然要维权。\n\n这不是魔怔，这是消费者的基本权利。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 13412,
+          "like_count": 416,
+          "quote_count": 28,
+          "reply_count": 30,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "这两天骂了那么多，对于OpenAI宣布4o与一众老模型退役这件事，我真的很想好好说说我自己的看法\n\n首先，Claude、Gemini、Grok、ChatGPT我都在用，也都有订阅。我不是什么“GPT死忠粉”，也不是“抗拒新技术的老古董”，更不是不讲道理的“OpenAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11355,
+          "following_count": 1167,
+          "like_count": 23937,
+          "listed_count": 15,
+          "media_count": 4247,
+          "tweet_count": 25722
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235,
+          "following_count": 187,
+          "like_count": 3737,
+          "listed_count": 0,
+          "media_count": 733,
+          "tweet_count": 4731
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

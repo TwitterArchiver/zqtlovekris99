@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2044824632533160210",
+    "created_at": "2026-04-16T17:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044824632533160210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459703033315610633",
+          "start": 3,
+          "username": "lukas_trips"
+        },
+        {
+          "end": 103,
+          "id": "1258930243",
+          "start": 89,
+          "username": "CarloBonazza1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044824632533160210",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044764000378818892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lukas_trips: «Cocöon»   &amp;   «Seed for Thoughts» ✨🎶\n\nRecently collected by Mista (@CarloBonazza1) on secondary! 🔥💎\n\nThank you so much, o…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20000,
+        "height": 720,
+        "media_key": "13_2044763640973152256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044763640973152256/img/AQ1W_xJjczSyT5IL.jpg",
+        "public_metrics": {
+          "view_count": 81
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044763640973152256/vid/avc1/320x320/BkQGrogmWJcVAkyi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044763640973152256/vid/avc1/540x540/Xd6dSngqq1nmz6xI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044763640973152256/vid/avc1/720x720/BysFQWb1b4RLSB0u.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044763640973152256/pl/Jgk8FX6Sab79BtFh.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 12000,
+        "height": 810,
+        "media_key": "13_2044763721818374144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044763721818374144/img/JkdI2O9IGBZGpzFT.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044763721818374144/vid/avc1/320x360/usg4iK7jLNvNYl0y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044763721818374144/vid/avc1/480x540/TaQsxumJC9QopdmT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044763721818374144/vid/avc1/720x810/5uftS5oO1vWyg7Of.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044763721818374144/pl/4V4sDdnXqR7IXTJM.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2044824632533160210",
+        "created_at": "2026-04-16T17:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044824632533160210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459703033315610633",
+              "start": 3,
+              "username": "lukas_trips"
+            },
+            {
+              "end": 103,
+              "id": "1258930243",
+              "start": 89,
+              "username": "CarloBonazza1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044824632533160210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044764000378818892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lukas_trips: «Cocöon»   &amp;   «Seed for Thoughts» ✨🎶\n\nRecently collected by Mista (@CarloBonazza1) on secondary! 🔥💎\n\nThank you so much, o…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044763640973152256",
+            "13_2044763721818374144"
+          ]
+        },
+        "author_id": "1459703033315610633",
+        "conversation_id": "2044764000378818892",
+        "created_at": "2026-04-16T13:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044764000378818892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "1258930243",
+              "start": 72,
+              "username": "CarloBonazza1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rerTFHOvo",
+              "end": 207,
+              "expanded_url": "https://x.com/lukas_trips/status/2044764000378818892/video/1",
+              "media_key": "13_2044763640973152256",
+              "start": 184,
+              "url": "https://t.co/9rerTFHOvo"
+            },
+            {
+              "display_url": "pic.x.com/9rerTFHOvo",
+              "end": 207,
+              "expanded_url": "https://x.com/lukas_trips/status/2044764000378818892/video/1",
+              "media_key": "13_2044763721818374144",
+              "start": 184,
+              "url": "https://t.co/9rerTFHOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044764000378818892",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 283,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "«Cocöon»   &amp;   «Seed for Thoughts» ✨🎶\n\nRecently collected by Mista (@CarloBonazza1) on secondary! 🔥💎\n\nThank you so much, once again, for your appreciation and support to my art!🫂🤍 https://t.co/9rerTFHOvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11955,
+          "following_count": 1474,
+          "like_count": 25207,
+          "listed_count": 16,
+          "media_count": 4609,
+          "tweet_count": 27437
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-14T02:01:59.000Z",
+        "description": "Digital Artist / Exploring the realities behind Fractals, Maths and Generative means.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lukas_trips",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lukas_trips",
+                "start": 0,
+                "url": "https://t.co/z80E7lZMAD"
+              }
+            ]
+          }
+        },
+        "id": "1459703033315610633",
+        "location": "Argentina",
+        "name": "Trips",
+        "pinned_tweet_id": "1680605376050343940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003154229687472128/v7S1L0XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8801,
+          "following_count": 2696,
+          "like_count": 108964,
+          "listed_count": 166,
+          "media_count": 1746,
+          "tweet_count": 40871
+        },
+        "url": "https://t.co/z80E7lZMAD",
+        "username": "lukas_trips",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-11T08:24:31.000Z",
+        "description": "Tcg NFT Collector",
+        "id": "1258930243",
+        "name": "Mista",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043652085581758464/cmiSPvfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 2408,
+          "like_count": 14327,
+          "listed_count": 2,
+          "media_count": 655,
+          "tweet_count": 2216
+        },
+        "username": "CarloBonazza1",
+        "verified": true
+      }
+    ]
+  }
+}

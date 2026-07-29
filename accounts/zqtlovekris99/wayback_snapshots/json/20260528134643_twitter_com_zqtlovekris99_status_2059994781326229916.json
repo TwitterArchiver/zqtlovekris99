@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2059893720439554271",
+    "created_at": "2026-05-28T13:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059994781326229916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039295991296192512",
+          "start": 0,
+          "username": "MutsumiKawa1i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 38,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2002959902747349455?s=20",
+          "start": 15,
+          "url": "https://t.co/1rBMVWLGnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059994781326229916",
+    "in_reply_to_user_id": "2039295991296192512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002959902747349455",
+        "type": "quoted"
+      },
+      {
+        "id": "2059893720439554271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MutsumiKawa1i https://t.co/1rBMVWLGnn 那就不得不提窝ChatGPT的雷霆言论了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_2002959855674605568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8vxYGjaQAA7m6i.jpg",
+        "width": 1173
+      },
+      {
+        "height": 905,
+        "media_key": "3_2059893715565780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a6dboAAKJIQ.png",
+        "width": 1260
+      },
+      {
+        "height": 1863,
+        "media_key": "3_2059893717012758528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a_2awAA-UYh.png",
+        "width": 1260
+      },
+      {
+        "height": 2213,
+        "media_key": "3_2059893716282998784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a9IbgAAGDgU.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1984,
+        "media_key": "3_2059893716459159552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY2a9ybgAAynlA.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059893720439554271",
+        "created_at": "2026-05-28T13:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059994781326229916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039295991296192512",
+              "start": 0,
+              "username": "MutsumiKawa1i"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 38,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2002959902747349455?s=20",
+              "start": 15,
+              "url": "https://t.co/1rBMVWLGnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059994781326229916",
+        "in_reply_to_user_id": "2039295991296192512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002959902747349455",
+            "type": "quoted"
+          },
+          {
+            "id": "2059893720439554271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiKawa1i https://t.co/1rBMVWLGnn 那就不得不提窝ChatGPT的雷霆言论了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002959855674605568"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2002959902747349455",
+        "created_at": "2025-12-22T04:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002959902747349455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IeWGs312Gb",
+              "end": 38,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2002959902747349455/photo/1",
+              "media_key": "3_2002959855674605568",
+              "start": 15,
+              "url": "https://t.co/IeWGs312Gb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002959902747349455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4867,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像梦里憋屎却醒不来的那种朦胧 https://t.co/IeWGs312Gb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059893715565780992",
+            "3_2059893717012758528",
+            "3_2059893716282998784",
+            "3_2059893716459159552"
+          ]
+        },
+        "author_id": "2039295991296192512",
+        "conversation_id": "2059893720439554271",
+        "created_at": "2026-05-28T07:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893720439554271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893715565780992",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893717012758528",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893716282998784",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            },
+            {
+              "display_url": "pic.x.com/hmizY5SWOw",
+              "end": 168,
+              "expanded_url": "https://x.com/MutsumiKawa1i/status/2059893720439554271/photo/1",
+              "media_key": "3_2059893716459159552",
+              "start": 145,
+              "url": "https://t.co/hmizY5SWOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059893720439554271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 701,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚可以通过改变神经可塑性，从而带来【新奇感强化】，打破旧有思维模式并重组，从而起到抗抑郁的效果，这一点和DXM抗抑郁原理几乎相同，但是美金刚没有DXM那种血清素能，所以不会给您带来嗜睡和情感钝化的副作用哦。\n附：很多人认为dxm的抗抑郁效果来自血清素能，其实更多还是来自NMDAR拮抗 https://t.co/hmizY5SWOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13251,
+          "following_count": 1615,
+          "like_count": 25873,
+          "listed_count": 14,
+          "media_count": 5114,
+          "tweet_count": 28294
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T10:57:57.000Z",
+        "description": "小睦的3代目转生号，前世：@MutsumiXiaomu     是位边od边支黑的小可爱喵~    这一生也要坚持不懈地爱你们哦ヾ(^▽^*)))     亲爱的od导师：@tanka_TWT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "MutsumiXiaomu"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tanka_TWT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/vcFGP6Sdi8"
+              }
+            ]
+          }
+        },
+        "id": "2039295991296192512",
+        "location": "为这个世界而祷哀吧",
+        "name": "MutsumiKawa1i 🇯🇵",
+        "pinned_tweet_id": "2049382401219154122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039303241511604225/Nn4jEtqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 417,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/vcFGP6Sdi8",
+        "username": "MutsumiKawa1i",
+        "verified": false
+      }
+    ]
+  }
+}

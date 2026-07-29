@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2037083072198553653",
+    "created_at": "2026-03-26T17:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037224121508262387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "Sakura_LRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037224121508262387",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037083072198553653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Sakura_LRT ？我沒有關注你你也沒有關注我 怎麼做到的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2037083072198553653",
+        "created_at": "2026-03-26T17:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037224121508262387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "Sakura_LRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037224121508262387",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037083072198553653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Sakura_LRT ？我沒有關注你你也沒有關注我 怎麼做到的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "2037083072198553653",
+        "created_at": "2026-03-26T08:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037083072198553653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037083072198553653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31167,
+          "like_count": 410,
+          "quote_count": 0,
+          "reply_count": 265,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "這是一條只有貓貓才能回覆的推文😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕誠聘對象💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara 闺蜜 @Misako_25ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11959,
+          "following_count": 1443,
+          "like_count": 24934,
+          "listed_count": 15,
+          "media_count": 4469,
+          "tweet_count": 27004
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🍡🌸 撮り鉄 | 無言フォロー失礼します | Member of @Nekonesiagov @7sRef @Asylumwiki | zh-tw/en/ja | 這個帳號主要使用中文（zh-tw）回覆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "Nekonesiagov"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "username": "7sRef"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Asylumwiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toaran.art",
+                "end": 23,
+                "expanded_url": "https://www.toaran.art/",
+                "start": 0,
+                "url": "https://t.co/9k4bLMB18a"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "SA01🌸三ノ輪橋停留場",
+        "name": "とあらん",
+        "pinned_tweet_id": "2031375207534047309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031984681504423939/y2Kly41o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 2327,
+          "like_count": 92573,
+          "listed_count": 9,
+          "media_count": 2255,
+          "tweet_count": 8379
+        },
+        "url": "https://t.co/9k4bLMB18a",
+        "username": "Sakura_LRT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1917762086131884229",
+    "created_at": "2025-05-01T02:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T03:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917762086131884229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanjunxie/stat…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/wanjunxie/status/1915444797822603483",
+          "start": 67,
+          "url": "https://t.co/h4dMp5KE4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917762086131884229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915444797822603483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他说的是真的，我是从秦朝穿越来的，秦始皇跟我说他会在两千多年后复活，复活的征兆就是天下同时出现多个太阳，这是他要再次统一天下的前兆！ https://t.co/h4dMp5KE4Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13815,
+        "height": 766,
+        "media_key": "13_1915444615110414336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915444615110414336/img/yXuQi9H43pvYMXFG.jpg",
+        "public_metrics": {
+          "view_count": 46543
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915444615110414336/vid/avc1/320x510/YpqAw7Dd2ooJe3hl.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915444615110414336/vid/avc1/480x766/9IoVb7ZBn3t_M7Oa.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915444615110414336/pl/vVoggC-Z8UozE7FY.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1917762086131884229",
+        "created_at": "2025-05-01T02:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T03:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917762086131884229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanjunxie/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/wanjunxie/status/1915444797822603483",
+              "start": 67,
+              "url": "https://t.co/h4dMp5KE4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917762086131884229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915444797822603483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他说的是真的，我是从秦朝穿越来的，秦始皇跟我说他会在两千多年后复活，复活的征兆就是天下同时出现多个太阳，这是他要再次统一天下的前兆！ https://t.co/h4dMp5KE4Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915444615110414336"
+          ]
+        },
+        "author_id": "257050388",
+        "conversation_id": "1915444797822603483",
+        "created_at": "2025-04-24T16:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915444797822603483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zjjjPsfvW",
+              "end": 84,
+              "expanded_url": "https://x.com/wanjunxie/status/1915444797822603483/video/1",
+              "media_key": "13_1915444615110414336",
+              "start": 61,
+              "url": "https://t.co/5zjjjPsfvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915444797822603483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 119800,
+          "like_count": 357,
+          "quote_count": 12,
+          "reply_count": 164,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "4月18日，广西梧州出现7个太阳。多个太阳同时出现，是天下将分裂，多人称王的征兆。这是老天示警，中共政权即将灭亡的征兆。 https://t.co/5zjjjPsfvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1915067043763859862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6802,
+          "following_count": 556,
+          "like_count": 18020,
+          "listed_count": 9,
+          "media_count": 2355,
+          "tweet_count": 17315
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-24T16:31:06.000Z",
+        "description": "中国民主党主席   Chairman of China Democracy Party\n中国民主党的理念：公平、公正、天下为公！\nIdea of CDP: Fairness, Justice, Country belong to Public !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hqcdp.org",
+                "end": 23,
+                "expanded_url": "http://www.hqcdp.org",
+                "start": 0,
+                "url": "https://t.co/6NrkK1Zblv"
+              }
+            ]
+          }
+        },
+        "id": "257050388",
+        "location": "New York",
+        "name": "谢万军 Wanjun Xie",
+        "pinned_tweet_id": "1777780487869669623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278196323980922880/R_KQ72x6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128144,
+          "following_count": 5057,
+          "like_count": 42388,
+          "listed_count": 533,
+          "media_count": 18102,
+          "tweet_count": 50945
+        },
+        "url": "https://t.co/6NrkK1Zblv",
+        "username": "wanjunxie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1830894016956899714",
+    "created_at": "2024-09-03T18:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T19:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831042629162995774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790991178546253824",
+          "start": 0,
+          "username": "ANXininter89786"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831042629162995774",
+    "in_reply_to_user_id": "1790991178546253824",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830894016956899714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANXininter89786 那就都用QQ吧，微信垃圾软件😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1830894016956899714",
+        "created_at": "2024-09-03T18:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T19:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831042629162995774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790991178546253824",
+              "start": 0,
+              "username": "ANXininter89786"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831042629162995774",
+        "in_reply_to_user_id": "1790991178546253824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830894016956899714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANXininter89786 那就都用QQ吧，微信垃圾软件😃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830894007108673539"
+          ]
+        },
+        "author_id": "1790991178546253824",
+        "conversation_id": "1830894016956899714",
+        "created_at": "2024-09-03T09:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T10:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830894016956899714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/clbi0o0keq",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ANXininter89786/status/1830894016956899714/photo/1",
+              "media_key": "3_1830894007108673539",
+              "start": 22,
+              "url": "https://t.co/CLBI0o0KEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830894016956899714",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1574,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腾讯、苹果？不站队，人脑袋打成狗脑袋最好。 https://t.co/CLBI0o0KEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4333,
+          "following_count": 517,
+          "like_count": 13748,
+          "listed_count": 5,
+          "tweet_count": 10478
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T06:22:33.000Z",
+        "description": "已离职已复活",
+        "id": "1790991178546253824",
+        "location": "🇺🇳",
+        "name": "安心🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790991737487581184/hvbBeIDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 253,
+          "like_count": 9013,
+          "listed_count": 2,
+          "tweet_count": 6528
+        },
+        "username": "ANXininter89786",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1788603431554523491",
+    "created_at": "2024-05-09T16:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T17:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788608516288020601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767094068755247104",
+          "start": 0,
+          "username": "shingflash0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788608516288020601",
+    "in_reply_to_user_id": "1767094068755247104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788604746179490146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shingflash0721 跑图也可以多人游戏，就是不强制单机也不强制多人，但我就是没有朋友所以一直单机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1788603431554523491",
+        "created_at": "2024-05-09T16:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T17:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788608516288020601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767094068755247104",
+              "start": 0,
+              "username": "shingflash0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788608516288020601",
+        "in_reply_to_user_id": "1767094068755247104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788604746179490146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shingflash0721 跑图也可以多人游戏，就是不强制单机也不强制多人，但我就是没有朋友所以一直单机"
+      },
+      {
+        "attachments": {},
+        "author_id": "1767094068755247104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1788603431554523491",
+        "created_at": "2024-05-09T16:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T17:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788604746179490146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788604746179490146",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788603431554523491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 原神就是单机游戏吧，除了打本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | They/them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://t.me/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/IwkyoPvDhD"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3567,
+          "following_count": 507,
+          "like_count": 12190,
+          "listed_count": 5,
+          "tweet_count": 8306
+        },
+        "url": "https://t.co/IwkyoPvDhD",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T07:44:11.000Z",
+        "description": "infj-a｜hrt2023.2｜05｜p社甲级战犯｜在打基础的程序员｜菜菜画手｜cs2，r6厨师｜重度阴游患者（osu）",
+        "id": "1767094068755247104",
+        "location": "中国江西抚州",
+        "name": "绮丽闪光🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1786279212430856534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777361605724180480/puxzwZnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 675,
+          "like_count": 1715,
+          "listed_count": 3,
+          "tweet_count": 2426
+        },
+        "username": "shingflash0721",
+        "verified": false
+      }
+    ]
+  }
+}

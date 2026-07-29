@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945808772578041856"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1945808775283437745",
+    "created_at": "2025-07-17T11:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945808775283437745"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "推特小剧场"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LArQYgMvCj",
+          "end": 30,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1945808775283437745/photo/1",
+          "media_key": "3_1945808772578041856",
+          "start": 7,
+          "url": "https://t.co/LArQYgMvCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945808775283437745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#推特小剧场 https://t.co/LArQYgMvCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_1945808772578041856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDmxPJaYAAD91y.jpg",
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945808772578041856"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1945808775283437745",
+        "created_at": "2025-07-17T11:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945808775283437745"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "推特小剧场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LArQYgMvCj",
+              "end": 30,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1945808775283437745/photo/1",
+              "media_key": "3_1945808772578041856",
+              "start": 7,
+              "url": "https://t.co/LArQYgMvCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945808775283437745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#推特小剧场 https://t.co/LArQYgMvCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 小狗 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9252,
+          "following_count": 777,
+          "like_count": 20040,
+          "listed_count": 10,
+          "media_count": 3065,
+          "tweet_count": 20289
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

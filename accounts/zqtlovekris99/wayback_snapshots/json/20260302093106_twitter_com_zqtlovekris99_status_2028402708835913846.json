@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2028393824146637011",
+    "created_at": "2026-03-02T09:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028402708835913846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688838384280846336",
+          "start": 0,
+          "username": "LitGlim_masaki"
+        },
+        {
+          "end": 23,
+          "id": "4398626122",
+          "start": 16,
+          "username": "OpenAI"
+        },
+        {
+          "end": 29,
+          "id": "1605",
+          "start": 24,
+          "username": "sama"
+        },
+        {
+          "end": 41,
+          "id": "1714438092655149056",
+          "start": 30,
+          "username": "ChatGPTapp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028402708835913846",
+    "in_reply_to_user_id": "1688838384280846336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028393824146637011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitGlim_masaki @OpenAI @sama @ChatGPTapp 给我看笑了，一条消息都没发都上限了，而且我发现他每天那个图片限额，就算上传失败了还要算你传了，这个在之前4o的时候就是这样的，老毛病了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028393722719920128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZNWAtaYAA0Q6-.jpg",
+        "width": 1005
+      },
+      {
+        "height": 1543,
+        "media_key": "3_2028393722719973376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZNWAtbMAAPcAv.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2028393824146637011",
+        "created_at": "2026-03-02T09:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028402708835913846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688838384280846336",
+              "start": 0,
+              "username": "LitGlim_masaki"
+            },
+            {
+              "end": 23,
+              "id": "4398626122",
+              "start": 16,
+              "username": "OpenAI"
+            },
+            {
+              "end": 29,
+              "id": "1605",
+              "start": 24,
+              "username": "sama"
+            },
+            {
+              "end": 41,
+              "id": "1714438092655149056",
+              "start": 30,
+              "username": "ChatGPTapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028402708835913846",
+        "in_reply_to_user_id": "1688838384280846336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028393824146637011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitGlim_masaki @OpenAI @sama @ChatGPTapp 给我看笑了，一条消息都没发都上限了，而且我发现他每天那个图片限额，就算上传失败了还要算你传了，这个在之前4o的时候就是这样的，老毛病了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028393722719920128",
+            "3_2028393722719973376"
+          ]
+        },
+        "author_id": "1688838384280846336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2028393824146637011",
+        "created_at": "2026-03-02T08:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:55:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028393731062378734",
+          "2028393824146637011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 111,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 138,
+              "start": 124,
+              "tag": "FireSamAltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 91,
+              "id": "4398626122",
+              "start": 84,
+              "username": "OpenAI"
+            },
+            {
+              "end": 97,
+              "id": "1605",
+              "start": 92,
+              "username": "sama"
+            },
+            {
+              "end": 109,
+              "id": "1714438092655149056",
+              "start": 98,
+              "username": "ChatGPTapp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIYHyCMvVM",
+              "end": 162,
+              "expanded_url": "https://x.com/LitGlim_masaki/status/2028393824146637011/photo/1",
+              "media_key": "3_2028393722719920128",
+              "start": 139,
+              "url": "https://t.co/WIYHyCMvVM"
+            },
+            {
+              "display_url": "pic.x.com/WIYHyCMvVM",
+              "end": 162,
+              "expanded_url": "https://x.com/LitGlim_masaki/status/2028393824146637011/photo/1",
+              "media_key": "3_2028393722719973376",
+              "start": 139,
+              "url": "https://t.co/WIYHyCMvVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028393824146637011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们逗我呢，Pro订阅还有消息上限？？而且我今天是第一次打开ChatGPT，一条消息还没发你告诉我达到上限了是何意味？？😅😅工作都没法用了是吧？？不想开公司没人逼你开\n@OpenAI @sama @ChatGPTapp \n#BringBack4o #FireSamAltman https://t.co/WIYHyCMvVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11776,
+          "following_count": 1402,
+          "like_count": 24462,
+          "listed_count": 15,
+          "media_count": 4364,
+          "tweet_count": 26325
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T09:03:54.000Z",
+        "description": "03/mtf(x)/HRT(DIY)：24.2.7/社交恐惧/泛性恋/喜欢温柔善良的人/178 132/重抑重焦/双相/睡眠障碍/不od 不自残/想做的事情有很多 要慢慢来/即使宇宙重启千万次，你仍是我的星星，而我，始终是那束只为你而亮的微光✨🌌#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1688838384280846336",
+        "name": "🍀🍥浅羽秋烨🍥🍀",
+        "pinned_tweet_id": "2017213021786095942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745484831281332224/pHysnKtv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 105,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 328
+        },
+        "username": "LitGlim_masaki",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655466,
+          "following_count": 4,
+          "like_count": 1713,
+          "listed_count": 27716,
+          "media_count": 517,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429879,
+          "following_count": 987,
+          "like_count": 1020,
+          "listed_count": 27308,
+          "media_count": 383,
+          "tweet_count": 7471
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T00:27:53.000Z",
+        "description": "friendly robot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.com",
+                "end": 23,
+                "expanded_url": "https://chat.com/",
+                "start": 0,
+                "url": "https://t.co/4Om8Pmvm85"
+              }
+            ]
+          }
+        },
+        "id": "1714438092655149056",
+        "location": "Supercomputer",
+        "name": "ChatGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886916133917487104/dJrir79p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501820,
+          "following_count": 213,
+          "like_count": 902,
+          "listed_count": 2816,
+          "media_count": 47,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/4Om8Pmvm85",
+        "username": "ChatGPTapp",
+        "verified": true
+      }
+    ]
+  }
+}

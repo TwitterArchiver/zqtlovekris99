@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1987400538514989544",
+    "created_at": "2026-06-08T14:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063996511869186384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459189957168295944",
+          "start": 0,
+          "username": "NuclearThermal"
+        },
+        {
+          "end": 24,
+          "id": "1877936070450655232",
+          "start": 16,
+          "username": "orany02"
+        },
+        {
+          "end": 37,
+          "id": "1780369819310981120",
+          "start": 25,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063996511869186384",
+    "in_reply_to_user_id": "1459189957168295944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063977717612294604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuclearThermal @orany02 @520illusion 这么强？！"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [520illusion].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "520illusion",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "520illusion"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1987400538514989544",
+        "created_at": "2026-06-08T14:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063996511869186384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459189957168295944",
+              "start": 0,
+              "username": "NuclearThermal"
+            },
+            {
+              "end": 24,
+              "id": "1877936070450655232",
+              "start": 16,
+              "username": "orany02"
+            },
+            {
+              "end": 37,
+              "id": "1780369819310981120",
+              "start": 25,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063996511869186384",
+        "in_reply_to_user_id": "1459189957168295944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063977717612294604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuclearThermal @orany02 @520illusion 这么强？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459189957168295944",
+        "conversation_id": "1987400538514989544",
+        "created_at": "2026-06-08T13:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063977717612294604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1877936070450655232",
+              "start": 0,
+              "username": "orany02"
+            },
+            {
+              "end": 23,
+              "id": "1390652924481527810",
+              "start": 9,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 36,
+              "id": "1780369819310981120",
+              "start": 24,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063977717612294604",
+        "in_reply_to_user_id": "1877936070450655232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063934728693240165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orany02 @zqtlovekris99 @520illusion 就是氟硝，带十字刻痕的\n在境外看医生开的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13326,
+          "following_count": 1650,
+          "like_count": 26035,
+          "listed_count": 15,
+          "media_count": 5233,
+          "tweet_count": 28570
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-12T16:03:20.000Z",
+        "description": "MtX(Autigender)/AS/ADHD",
+        "id": "1459189957168295944",
+        "name": "Nuclear Thermal Rocket🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1527155675377217537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459190082980638728/8WjeYDRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 2401,
+          "like_count": 13617,
+          "listed_count": 10,
+          "media_count": 132,
+          "tweet_count": 3009
+        },
+        "username": "NuclearThermal",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T04:30:36.000Z",
+        "description": "C罩杯 敏感体质 腰臀比超绝是一个分舌的白虎妹妹 非绿188过门问价 防走丢@yaoyaomiaobaby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "yaoyaomiaobaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/oranyyao",
+                "end": 23,
+                "expanded_url": "https://t.me/oranyyao",
+                "start": 0,
+                "url": "https://t.co/n6dDj62lE1"
+              }
+            ]
+          }
+        },
+        "id": "1877936070450655232",
+        "location": "上海",
+        "name": "药喵",
+        "pinned_tweet_id": "2041139917028545000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050874470349545472/7W4NOleI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8593,
+          "following_count": 41,
+          "like_count": 365,
+          "listed_count": 42,
+          "media_count": 25,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/n6dDj62lE1",
+        "username": "orany02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1929025896091959372",
+    "created_at": "2025-06-01T05:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T06:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929054458756944073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "52408030",
+          "start": 0,
+          "username": "Ohhhh_Runji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929054458756944073",
+    "in_reply_to_user_id": "52408030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929025896091959372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ohhhh_Runji 不用选，我现在就是2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1929025896091959372",
+        "created_at": "2025-06-01T05:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T06:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929054458756944073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "52408030",
+              "start": 0,
+              "username": "Ohhhh_Runji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929054458756944073",
+        "in_reply_to_user_id": "52408030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929025896091959372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ohhhh_Runji 不用选，我现在就是2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1929025894469042176"
+          ]
+        },
+        "author_id": "52408030",
+        "conversation_id": "1929025896091959372",
+        "created_at": "2025-06-01T04:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T05:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929025896091959372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929025896091959372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不信了，极限二选一，你们选哪个？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第1天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7919,
+          "following_count": 668,
+          "like_count": 18965,
+          "listed_count": 10,
+          "media_count": 2659,
+          "tweet_count": 18604
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-30T14:27:06.000Z",
+        "description": "“请问你掉的是介个甜粽子～？还是介个咸粽子～？还是介个欧润吉呢~~~”",
+        "id": "52408030",
+        "location": "Shanghai",
+        "name": "🍊欧润吉 🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928316191145349120/4iS6l17p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 545,
+          "like_count": 8742,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 4654
+        },
+        "username": "Ohhhh_Runji",
+        "verified": false
+      }
+    ]
+  }
+}

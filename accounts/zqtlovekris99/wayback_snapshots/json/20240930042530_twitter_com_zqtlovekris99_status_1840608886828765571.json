@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1840576563148144822",
+    "created_at": "2024-09-30T04:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T05:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840608886828765571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1711022092291067904",
+          "start": 0,
+          "username": "so30653"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840608886828765571",
+    "in_reply_to_user_id": "1711022092291067904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840576563148144822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@so30653 啊圣诞居然不放一周"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1840576563148144822",
+        "created_at": "2024-09-30T04:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T05:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840608886828765571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1711022092291067904",
+              "start": 0,
+              "username": "so30653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840608886828765571",
+        "in_reply_to_user_id": "1711022092291067904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840576563148144822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@so30653 啊圣诞居然不放一周"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711022092291067904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1840576563148144822",
+        "created_at": "2024-09-30T02:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T03:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840576563148144822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840576563148144822",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 859,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "提醒有意愿去香港留学的朋友，香港没有任何形式的小长假，过年只放三天，圣诞放两天，好处是没有调休，坏处就是一年到头和家人出去小旅个游都要靠年假，消费也刺激不起来，我个人其实是更愿意调休，最多也就是连干六天，比冷不丁放个一天啥也干不了强，见仁见智。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 516,
+          "like_count": 14079,
+          "listed_count": 5,
+          "tweet_count": 11071
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T14:13:59.000Z",
+        "description": "Motto：With malice towards none,with charity for all, with firmness in the right 独立时评人，来自中国大陆的温和右翼自由派，建制派新保守主义者，政治学研究者，#ReaganCaucus",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 118,
+                "tag": "ReaganCaucus"
+              }
+            ]
+          }
+        },
+        "id": "1711022092291067904",
+        "name": "Humphrey",
+        "pinned_tweet_id": "1817936536576663605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767208767366758400/KMNhhC0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 865,
+          "like_count": 9157,
+          "listed_count": 10,
+          "tweet_count": 4828
+        },
+        "username": "so30653",
+        "verified": false
+      }
+    ]
+  }
+}

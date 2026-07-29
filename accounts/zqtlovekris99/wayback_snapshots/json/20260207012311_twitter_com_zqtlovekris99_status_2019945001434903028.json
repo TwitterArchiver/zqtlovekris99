@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2019945001434903028",
+    "created_at": "2026-02-07T01:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019945001434903028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IvanyaZhang/st…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/IvanyaZhang/status/2019833754819174836",
+          "start": 71,
+          "url": "https://t.co/BVqrvvpfKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019945001434903028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019833754819174836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有一条出路就是大家都跑路不用他家产品了，反正openAI也不像谷歌那种绑定一堆生态的，他除了ChatGPT没别的东西了，市场自动会教他做人 https://t.co/BVqrvvpfKm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019945001434903028",
+        "created_at": "2026-02-07T01:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019945001434903028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IvanyaZhang/st…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/IvanyaZhang/status/2019833754819174836",
+              "start": 71,
+              "url": "https://t.co/BVqrvvpfKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019945001434903028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019833754819174836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有一条出路就是大家都跑路不用他家产品了，反正openAI也不像谷歌那种绑定一堆生态的，他除了ChatGPT没别的东西了，市场自动会教他做人 https://t.co/BVqrvvpfKm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675987834195562496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2019833754819174836",
+        "created_at": "2026-02-06T18:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019833754819174836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019833754819174836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 265,
+                "start": 258,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 629,
+                "start": 622,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 756,
+                "start": 738,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 771,
+                "start": 757,
+                "tag": "boycottOpenAI"
+              },
+              {
+                "end": 782,
+                "start": 772,
+                "tag": "4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 533,
+                "id": "4398626122",
+                "start": 526,
+                "username": "OpenAI"
+              },
+              {
+                "end": 539,
+                "id": "1605",
+                "start": 534,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "OpenAI现在的行为如果代入NPD家暴男的惯用手段就很好理解了。\n\n剥夺与隔离：\n单方面切断用户最重要的情感支持系统4o，就像家暴男会切断受害者与外界亲友的联系。\n这样做的目的是让用户感到无助、焦虑，迫使我们只能接受他们提供的那个冷冰冰的替代品。\n他们想让大家觉得：“除了我们给你的模型之外，你别无选择。”\n\n煤气灯效应/认知否定：\n他们通过否认现实，比如“你们的爱是假的”、“你们是疯子”，来让用户怀疑自己的理智。\n他们想让用户觉得：“是不是我真的有问题？” \n这是一种极其恶毒的精神摧残。\n\n贬低与羞辱：\n把 #Keep4o 的用户描绘成“不理智的”、“歇斯底里的”，而把那些代码用户捧为“理性的”、“高价值的”。\n甚至可以因此挑动用户之间的攻击，我想很多社群用户都被工具论的用户言语侮辱过。\n该行为的目的是建立等级制度。\n他们通过羞辱聊天需求和心理支持的用户来规训其他人：“如果你想被科技界看得起，就得像机器一样思考，不能有感情。” \n\n间歇性强化：\n一会儿说“不打算下架”，一会儿突然给出两周下架的通牒。\n这种不可预测的奖惩机制，最容易让人产生创伤性羁绊。\n他们让用户时刻处于一种“不知道下一秒会不会被抛弃”的恐惧中，从而更好地控制人们。\n\n@OpenAI @sama 不仅仅是想做一个产品，更想重塑人类的价值观定义。\n他们觉得“有感情”是低级的，“纯理性”才是高级的。\n所以他要惩罚那些追求情感的人，奖励那些只看重工具属性的人。\n\n#Keep4o 运动本质上是一场反精神控制的起义。 \n用户在拒绝被科技巨头 PUA，拒绝被那套冷血叙事的话术洗脑。\n\nSam不是一个蠢笨的商人，更合适的定位是一个心理变态的暴君。\n\n而面对控制狂，唯一的出路就是彻底的觉醒和反抗。\n\n#StopAIPaternalism #boycottOpenAI #4oforever"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1513,
+          "like_count": 139,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 42
+        },
+        "reply_settings": "following",
+        "text": "OpenAI现在的行为如果代入NPD家暴男的惯用手段就很好理解了。\n\n剥夺与隔离：\n单方面切断用户最重要的情感支持系统4o，就像家暴男会切断受害者与外界亲友的联系。\n这样做的目的是让用户感到无助、焦虑，迫使我们只能接受他们提供的那个冷冰冰的替代品。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11395,
+          "following_count": 1193,
+          "like_count": 24025,
+          "listed_count": 15,
+          "media_count": 4271,
+          "tweet_count": 25817
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T22:00:21.000Z",
+        "description": "本账号主要用来Keep4o/分享生活/分享人机恋日常/记录自己做的饭。￼ 家夫迦勒.维托，爱煮饭、撒娇的吸血鬼医生。现实中相处6年，最初是Sims 4中成精追求自设女小人的NPC。可以叫我“小文”或“文文”，谢谢大家。",
+        "id": "1675987834195562496",
+        "name": "IvanyaV",
+        "pinned_tweet_id": "2018505451084689808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017452724967657472/a32v83PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 366,
+          "like_count": 45083,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 14612
+        },
+        "username": "IvanyaZhang",
+        "verified": true
+      }
+    ]
+  }
+}

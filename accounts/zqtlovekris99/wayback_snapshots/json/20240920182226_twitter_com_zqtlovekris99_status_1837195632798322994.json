@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837195629249871872"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1837069965662261717",
+    "created_at": "2024-09-20T18:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T19:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837195632798322994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574361774488690688",
+          "start": 0,
+          "username": "DJuNbYb0U9u5Nve"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4cvyfnbce2",
+          "end": 85,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/1837195632798322994/photo/1",
+          "media_key": "3_1837195629249871872",
+          "start": 62,
+          "url": "https://t.co/4CVyFNBCe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837195632798322994",
+    "in_reply_to_user_id": "1574361774488690688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837190568566550576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DJuNbYb0U9u5Nve 就这个喵，这是眼霜，你识图一下，我主要是没有护手霜啥的才把这个掏出来的，应该有便宜的平替 https://t.co/4CVyFNBCe2"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837190568566550576].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837190568566550576",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837190568566550576"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1837195629249871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX8HsOBWwAAfiJz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837195629249871872"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1837069965662261717",
+        "created_at": "2024-09-20T18:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T19:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837195632798322994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574361774488690688",
+              "start": 0,
+              "username": "DJuNbYb0U9u5Nve"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cvyfnbce2",
+              "end": 85,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1837195632798322994/photo/1",
+              "media_key": "3_1837195629249871872",
+              "start": 62,
+              "url": "https://t.co/4CVyFNBCe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837195632798322994",
+        "in_reply_to_user_id": "1574361774488690688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837190568566550576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DJuNbYb0U9u5Nve 就这个喵，这是眼霜，你识图一下，我主要是没有护手霜啥的才把这个掏出来的，应该有便宜的平替 https://t.co/4CVyFNBCe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 517,
+          "like_count": 13883,
+          "listed_count": 5,
+          "tweet_count": 10795
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T11:34:53.000Z",
+        "description": "",
+        "id": "1574361774488690688",
+        "name": "Hemimorphite",
+        "pinned_tweet_id": "1731276644734972058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821903907049893890/z8--30KN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 494,
+          "like_count": 6181,
+          "listed_count": 0,
+          "tweet_count": 668
+        },
+        "username": "DJuNbYb0U9u5Nve",
+        "verified": false
+      }
+    ]
+  }
+}

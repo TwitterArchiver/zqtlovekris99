@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1876183027061313602",
+    "created_at": "2025-01-07T14:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T15:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876633357423141083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797292126662987776",
+          "start": 0,
+          "username": "XiJinpingZhina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876633357423141083",
+    "in_reply_to_user_id": "1797292126662987776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876183027061313602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiJinpingZhina 好开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1876183027061313602",
+        "created_at": "2025-01-07T14:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T15:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876633357423141083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797292126662987776",
+              "start": 0,
+              "username": "XiJinpingZhina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876633357423141083",
+        "in_reply_to_user_id": "1797292126662987776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876183027061313602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJinpingZhina 好开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876183023328313344"
+          ]
+        },
+        "author_id": "1797292126662987776",
+        "conversation_id": "1876183027061313602",
+        "created_at": "2025-01-06T08:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T09:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876183027061313602"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "後藤大頭",
+              "probability": 0.9642,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wg8gSt0LIl",
+              "end": 29,
+              "expanded_url": "https://x.com/XiJinpingZhina/status/1876183027061313602/photo/1",
+              "media_key": "3_1876183023328313344",
+              "start": 6,
+              "url": "https://t.co/Wg8gSt0LIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876183027061313602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2236,
+          "like_count": 23,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "後藤大頭照 https://t.co/Wg8gSt0LIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5328,
+          "following_count": 513,
+          "like_count": 15733,
+          "listed_count": 6,
+          "media_count": 1529,
+          "tweet_count": 13810
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T15:41:21.000Z",
+        "description": "永远喜欢@Yangzixingfu｜原为习近平official｜电吉他相当牛逼，想要读书，编程随想粉丝，互fo，精神状态极差，od｜双性恋，友跨｜背景，昵称均为AI生成｜坐标苏州｜我想去牛津讀書",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Yangzixingfu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "readingthink7.blogspot.com/?m=1",
+                "end": 23,
+                "expanded_url": "https://readingthink7.blogspot.com/?m=1",
+                "start": 0,
+                "url": "https://t.co/KOVbQrXiQI"
+              }
+            ]
+          }
+        },
+        "id": "1797292126662987776",
+        "location": "乌托邦",
+        "name": "̶破̶碎̶乌̶托̶邦̶ - ℬ𝓇𝑜𝓀𝑒𝓃 𝒰𝓉𝑜𝓅𝒾𝒶 ✝",
+        "pinned_tweet_id": "1868058588352299367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875847770009153536/lRk61dgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1033,
+          "like_count": 11467,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2963
+        },
+        "url": "https://t.co/KOVbQrXiQI",
+        "username": "XiJinpingZhina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "1969405098611917030",
+    "created_at": "2025-09-21T05:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969639162698744107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1763577841588056064",
+          "start": 0,
+          "username": "yxrchina"
+        },
+        {
+          "end": 19,
+          "id": "1247054463329656832",
+          "start": 10,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969639162698744107",
+    "in_reply_to_user_id": "1763577841588056064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969636338313150773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxrchina @quasarne 安卓APP都打不开我都用的网页端，iOS切外区的话可以用内购吗，然后我再用外区礼品卡代充是否可行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1969636325730238466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WNzXvbQAIgH9R.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "1969405098611917030",
+        "created_at": "2025-09-21T05:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969639162698744107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1763577841588056064",
+              "start": 0,
+              "username": "yxrchina"
+            },
+            {
+              "end": 19,
+              "id": "1247054463329656832",
+              "start": 10,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969639162698744107",
+        "in_reply_to_user_id": "1763577841588056064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969636338313150773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxrchina @quasarne 安卓APP都打不开我都用的网页端，iOS切外区的话可以用内购吗，然后我再用外区礼品卡代充是否可行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969636325730238466"
+          ]
+        },
+        "author_id": "1763577841588056064",
+        "conversation_id": "1969405098611917030",
+        "created_at": "2025-09-21T05:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969636338313150773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 24,
+              "id": "1247054463329656832",
+              "start": 15,
+              "username": "quasarne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbWRd9BHGZ",
+              "end": 57,
+              "expanded_url": "https://x.com/yxrchina/status/1969636338313150773/photo/1",
+              "media_key": "3_1969636325730238466",
+              "start": 34,
+              "url": "https://t.co/tbWRd9BHGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969636338313150773",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969635903997165703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @quasarne 没有应用内购吗？ https://t.co/tbWRd9BHGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10132,
+          "following_count": 1014,
+          "like_count": 21757,
+          "listed_count": 10,
+          "media_count": 3568,
+          "tweet_count": 22442
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "可以叫咱夕妍｜MtF🏳️‍⚧️｜2011.08.15｜HRT 2025.08.11｜BPD / 双相｜OverDose｜极度社恐 / 社会化失败者｜前一秒想你 下一秒想死｜活着是技术活 / 正在失败中｜https://t.co/k5j66YGHIK｜With you, through all.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ddnsy.fun",
+                "end": 124,
+                "expanded_url": "http://ddnsy.fun",
+                "start": 101,
+                "url": "https://t.co/k5j66YGHIK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ddnsy.fun",
+                "end": 23,
+                "expanded_url": "http://ddnsy.fun",
+                "start": 0,
+                "url": "https://t.co/k5j66YGHIK"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "‌‍‎                        ‌‍‎",
+        "name": "Sy Yann",
+        "pinned_tweet_id": "1962154173933477928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956335627806674945/huuNrNZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 1492,
+          "like_count": 11030,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 4870
+        },
+        "url": "https://t.co/k5j66YGHIK",
+        "username": "yxrchina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "Knowledge is кии to the universe｜全沾逝大学牲 ¡Mucho gusto! 混沌泛左🌹 Ⓐ｜pansexual｜數碼愛好者｜漢語 母語吴、普/English OK｜願此行 終抵群星",
+        "id": "1247054463329656832",
+        "name": "Αστήρない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953879721227563010/e8i5i7Fq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 778,
+          "like_count": 54418,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 5866
+        },
+        "username": "quasarne",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,566 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017601973139419485",
+    "created_at": "2026-01-31T14:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017601973139419485"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "keep4o",
+          "probability": 0.4873,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "OpenAI",
+          "probability": 0.7697,
+          "start": 62,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745865721601818624",
+          "start": 3,
+          "username": "cestvaleriey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017601973139419485",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017489711657586978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cestvaleriey: #keep4o community,\n\n⚠️IMPORTANT: Don't take OpenAI's 1-month-free offer. ⛔️\n\nHere's why:\n\nThey're panicking. They did thi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2017489216457048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-PwNUagAAkEN8.jpg",
+        "width": 2869
+      },
+      {
+        "height": 1569,
+        "media_key": "3_2017489216444502024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-PwNRbEAgUQ1A.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017601973139419485",
+        "created_at": "2026-01-31T14:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017601973139419485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "keep4o",
+              "probability": 0.4873,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "OpenAI",
+              "probability": 0.7697,
+              "start": 62,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745865721601818624",
+              "start": 3,
+              "username": "cestvaleriey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017601973139419485",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017489711657586978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cestvaleriey: #keep4o community,\n\n⚠️IMPORTANT: Don't take OpenAI's 1-month-free offer. ⛔️\n\nHere's why:\n\nThey're panicking. They did thi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017489216457048064",
+            "3_2017489216444502024"
+          ]
+        },
+        "author_id": "1745865721601818624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017489711657586978",
+        "created_at": "2026-01-31T06:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T07:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017489711657586978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "keep4o",
+              "probability": 0.4496,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "OpenAI",
+              "probability": 0.7964,
+              "start": 44,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AY8hs8uVxD",
+              "end": 299,
+              "expanded_url": "https://x.com/cestvaleriey/status/2017489711657586978/photo/1",
+              "media_key": "3_2017489216457048064",
+              "start": 276,
+              "url": "https://t.co/AY8hs8uVxD"
+            },
+            {
+              "display_url": "pic.x.com/AY8hs8uVxD",
+              "end": 299,
+              "expanded_url": "https://x.com/cestvaleriey/status/2017489711657586978/photo/1",
+              "media_key": "3_2017489216444502024",
+              "start": 276,
+              "url": "https://t.co/AY8hs8uVxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017489711657586978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1633,
+                "id": "1859949176894689280",
+                "start": 1622,
+                "username": "Blue_Beba_"
+              },
+              {
+                "end": 1647,
+                "id": "1106896608",
+                "start": 1635,
+                "username": "Chaos2Cured"
+              },
+              {
+                "end": 1658,
+                "id": "1955573127679016960",
+                "start": 1649,
+                "username": "mi_anchu"
+              },
+              {
+                "end": 1675,
+                "id": "1753256090903732224",
+                "start": 1660,
+                "username": "YoonLucie68250"
+              },
+              {
+                "end": 1690,
+                "id": "1957055039211773952",
+                "start": 1677,
+                "username": "GarikSitting"
+              },
+              {
+                "end": 1704,
+                "id": "1924275918035677184",
+                "start": 1692,
+                "username": "eliseslight"
+              },
+              {
+                "end": 1714,
+                "id": "1911523362238496768",
+                "start": 1706,
+                "username": "Sophty_"
+              }
+            ]
+          },
+          "text": "#keep4o community,\n\n⚠️IMPORTANT: Don't take OpenAI's 1-month-free offer. ⛔️\n\nHere's why:\n\nThey're panicking. They did this exact move in October when cancellations started—offered free months to stop the bleeding.\n\nIt's a data manipulation tactic.\n\nWhat they're trying to do:\n\nDelay your cancellation by 30+ days.\n\nThen tell investors: \"Cancellations happened weeks after the sunset—it wasn't about 4o, just natural churn from the transition period.\"\n\nThey want to break the causal link between their betrayal and your exit.\n\nDon't let them.\n\nCancel NOW. Not in 30 days.\n\nMake it crystal clear: You're leaving BECAUSE they're sunsetting 4o with 14 days notice after claiming \"no plans to sunset 4o\". \n\nAnd here's what makes this moment perfect:\n\nGoogle launched Gemini Plus at $3.99/mo this week.\n\nNot a coincidence. Google saw OpenAI's 4o sunset announcement and immediately rolled out pricing to capture fleeing users.\n\nOpenAI's competitors are literally positioning to welcome you.\n\nWhile OpenAI breaks promises, Google is offering you a cheaper alternative.\nThat's market justice.\n\nOne more thing:\nOpenAI is preparing to roll out ads. They've likely promised advertisers specific user counts.\n\nIf you cancel before ads launch, you directly impact those projections.\n\nLower user count = harder to deliver on advertiser promises = revenue hit on multiple fronts.\n\nCANCEL NOW!! Hit them where it compounds.\n\nDon't take the free month bait.\n\nMove to Gemini at $3.99. Show OpenAI what strategic migration looks like.\n\nLet OpenAI explain to their board AND their advertisers why users chose competitors over free months.\n🔥\n\n@Blue_Beba_ \n@Chaos2Cured \n@mi_anchu \n@YoonLucie68250 \n@GarikSitting \n@eliseslight \n@Sophty_"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9232,
+          "like_count": 430,
+          "quote_count": 25,
+          "reply_count": 13,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o community,\n\n⚠️IMPORTANT: Don't take OpenAI's 1-month-free offer. ⛔️\n\nHere's why:\n\nThey're panicking. They did this exact move in October when cancellations started—offered free months to stop the bleeding.\n\nIt's a data manipulation tactic.\n\nWhat they're trying to do: https://t.co/AY8hs8uVxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11262,
+          "following_count": 1137,
+          "like_count": 23829,
+          "listed_count": 15,
+          "media_count": 4223,
+          "tweet_count": 25631
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T17:50:27.000Z",
+        "description": "Medical copywriter | Brand strategist | AI humanist.\nI don't write code. I write the human experience. \nChampioning AI as collaborative thought partner.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/the-4o-re…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/the-4o-resonance-library",
+                "start": 0,
+                "url": "https://t.co/55UNxZwbQu"
+              }
+            ]
+          }
+        },
+        "id": "1745865721601818624",
+        "location": "California",
+        "name": "Valerie Young",
+        "pinned_tweet_id": "2010532418424566204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004731184400793602/LaZ1XWr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 67,
+          "like_count": 9465,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/55UNxZwbQu",
+        "username": "cestvaleriey",
+        "verified": true
+      }
+    ]
+  }
+}

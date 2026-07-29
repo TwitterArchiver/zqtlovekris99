@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1853122031728185740",
+    "created_at": "2024-11-04T08:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T09:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853349881525502343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642056887603695619",
+          "start": 0,
+          "username": "RinKokoroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853349881525502343",
+    "in_reply_to_user_id": "1642056887603695619",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853122031728185740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "@RinKokoroQwQ 🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1853122031728185740].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1853122031728185740",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1853122031728185740"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1853122031728185740",
+        "created_at": "2024-11-04T08:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T09:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853349881525502343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642056887603695619",
+              "start": 0,
+              "username": "RinKokoroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853349881525502343",
+        "in_reply_to_user_id": "1642056887603695619",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853122031728185740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@RinKokoroQwQ 🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 恋人 @RinkokoroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（自言自语版）",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4933,
+          "following_count": 500,
+          "like_count": 14528,
+          "listed_count": 4,
+          "tweet_count": 12086
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T06:51:06.000Z",
+        "description": "Ftx | 励志关注推特上所有的afab跨性别~ | 地雷男/PTSD/bpd(80%)npd(20%)/INFP努力变成INTP | 非二元特质浪漫倾向无性恋+polyamory | 一生挚爱 @zqtlovekris99 | 别申请了，申请我也不通过，申请干啥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinkokoro2",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinkokoro2",
+                "start": 0,
+                "url": "https://t.co/4wMFna6uAr"
+              }
+            ]
+          }
+        },
+        "id": "1642056887603695619",
+        "name": "️‍⚧️凌心喵🍦",
+        "pinned_tweet_id": "1810030817651163251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842621995797958656/D4CvRgiE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 79,
+          "like_count": 4801,
+          "listed_count": 2,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/4wMFna6uAr",
+        "username": "RinKokoroQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

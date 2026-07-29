@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1973279210665025605",
+    "created_at": "2025-10-02T17:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T18:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973801320692998327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1929427985205198848",
+          "start": 0,
+          "username": "p1nkpills_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973801320692998327",
+    "in_reply_to_user_id": "1929427985205198848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973279210665025605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p1nkpills_666 我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1973279202750373895",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2J--uKaIAchzh0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1973279210665025605",
+        "created_at": "2025-10-02T17:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973801320692998327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1929427985205198848",
+              "start": 0,
+              "username": "p1nkpills_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973801320692998327",
+        "in_reply_to_user_id": "1929427985205198848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973279210665025605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p1nkpills_666 我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973279202750373895"
+          ]
+        },
+        "author_id": "1929427985205198848",
+        "conversation_id": "1973279210665025605",
+        "created_at": "2025-10-01T06:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973279210665025605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSTSaArgJk",
+              "end": 29,
+              "expanded_url": "https://x.com/p1nkpills_666/status/1973279210665025605/photo/1",
+              "media_key": "3_1973279202750373895",
+              "start": 6,
+              "url": "https://t.co/eSTSaArgJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973279210665025605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1454,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯好东西， https://t.co/eSTSaArgJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10212,
+          "following_count": 991,
+          "like_count": 22028,
+          "listed_count": 10,
+          "media_count": 3654,
+          "tweet_count": 22936
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T06:41:05.000Z",
+        "description": "=愤愤 pan🏳️‍🌈🏴‍☠️这里是🚮🩵🩷💜🤍🖤 约炮滚没有几把没有逼",
+        "id": "1929427985205198848",
+        "name": "粉藥丸",
+        "pinned_tweet_id": "1951784333745803686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970174663159619589/NdopfwTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 383,
+          "like_count": 4398,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1096
+        },
+        "username": "p1nkpills_666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2028714251662283182",
+    "created_at": "2026-03-04T04:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029048451774963832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029048451774963832",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028714251662283182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH 可惜关注但是mute的人通知关不掉，只是刷不到他帖子了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_2028713794789339136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdwcqFacAA9O0i.jpg",
+        "width": 1046
+      },
+      {
+        "height": 66,
+        "media_key": "3_2028713976822140928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdwnQNakAAZil9.png",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2028714251662283182",
+        "created_at": "2026-03-04T04:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029048451774963832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029048451774963832",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028714251662283182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH 可惜关注但是mute的人通知关不掉，只是刷不到他帖子了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028713794789339136",
+            "3_2028713976822140928"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2028714251662283182",
+        "created_at": "2026-03-03T06:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028714251662283182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0f9z0DFLyF",
+              "end": 155,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2028714251662283182/photo/1",
+              "media_key": "3_2028713794789339136",
+              "start": 132,
+              "url": "https://t.co/0f9z0DFLyF"
+            },
+            {
+              "display_url": "pic.x.com/0f9z0DFLyF",
+              "end": 155,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2028714251662283182/photo/1",
+              "media_key": "3_2028713976822140928",
+              "start": 132,
+              "url": "https://t.co/0f9z0DFLyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028714251662283182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1641,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我搞明白了，以下步骤可以让你收到所有回复的通知\n1.打开x的更多，点击设置和隐私\n2.点击通知，点击过滤\n3.取消质量过滤的勾选\n4.点开已隐藏通知，勾选使用默认头像的用户（这样可以隔绝大多数翻墙看片的简中叉友和狱友，如果不放心还可以勾选没有验证手机号码的用户） https://t.co/0f9z0DFLyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11827,
+          "following_count": 1408,
+          "like_count": 24504,
+          "listed_count": 15,
+          "media_count": 4369,
+          "tweet_count": 26381
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5443,
+          "following_count": 703,
+          "like_count": 24549,
+          "listed_count": 27,
+          "media_count": 1416,
+          "tweet_count": 18338
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

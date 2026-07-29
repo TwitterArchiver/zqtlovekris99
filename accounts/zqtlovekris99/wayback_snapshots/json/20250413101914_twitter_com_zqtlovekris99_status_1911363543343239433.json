@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1911216149368590431",
+    "created_at": "2025-04-13T10:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T11:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911363543343239433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "728387958609317888",
+          "start": 0,
+          "username": "KumoiKikuame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911363543343239433",
+    "in_reply_to_user_id": "728387958609317888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911216149368590431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KumoiKikuame 警察为了防止他紫砂所以将他击毙.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1911216149368590431",
+        "created_at": "2025-04-13T10:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T11:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911363543343239433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "728387958609317888",
+              "start": 0,
+              "username": "KumoiKikuame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911363543343239433",
+        "in_reply_to_user_id": "728387958609317888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911216149368590431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KumoiKikuame 警察为了防止他紫砂所以将他击毙.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "728387958609317888",
+        "conversation_id": "1911216149368590431",
+        "created_at": "2025-04-13T00:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T01:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911216149368590431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911216149368590431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4895,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，我前男友想自杀，拿刀威胁舍友被警察枪击到医院了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6437,
+          "following_count": 526,
+          "like_count": 17559,
+          "listed_count": 9,
+          "media_count": 2068,
+          "tweet_count": 16499
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-06T00:56:36.000Z",
+        "description": "忍痛能力很强的小猫，每天需要8个抱抱维持生命。",
+        "id": "728387958609317888",
+        "location": "Los Angeles, CA",
+        "name": "☁️雲居聞雨🌧️ 🇺🇦",
+        "pinned_tweet_id": "1905700608478507135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579092187039649793/lUpxvZEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 220,
+          "like_count": 2363,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 9672
+        },
+        "username": "KumoiKikuame",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902038738202718208"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1902031238422278559",
+    "created_at": "2025-03-18T16:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T17:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902038741033930755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585452233964982272",
+          "start": 0,
+          "username": "rainIcicles"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Z6733zQgN",
+          "end": 47,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1902038741033930755/photo/1",
+          "media_key": "3_1902038738202718208",
+          "start": 24,
+          "url": "https://t.co/4Z6733zQgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902038741033930755",
+    "in_reply_to_user_id": "1585452233964982272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902033236802646442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainIcicles 加载时间都比20秒长 https://t.co/4Z6733zQgN"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902033236802646442].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902033236802646442",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902033236802646442"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1902038738202718208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVmJ6ua8AA-ZBH.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902038738202718208"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1902031238422278559",
+        "created_at": "2025-03-18T16:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T17:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902038741033930755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585452233964982272",
+              "start": 0,
+              "username": "rainIcicles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Z6733zQgN",
+              "end": 47,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1902038741033930755/photo/1",
+              "media_key": "3_1902038738202718208",
+              "start": 24,
+              "url": "https://t.co/4Z6733zQgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902038741033930755",
+        "in_reply_to_user_id": "1585452233964982272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902033236802646442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainIcicles 加载时间都比20秒长 https://t.co/4Z6733zQgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 多意识体2个人共用这个账号☺️ | ♥️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQ9Up"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（摆烂版）",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6146,
+          "following_count": 533,
+          "like_count": 17169,
+          "listed_count": 8,
+          "media_count": 1887,
+          "tweet_count": 15723
+        },
+        "url": "https://t.co/aHC44HQ9Up",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T02:04:33.000Z",
+        "description": "蚊子｜自言自语bot｜视奸爱好者｜我爱嗑药皮肤好好｜情绪不稳定⚠️疑似精神病⚠️｜关注我就多看看我｜觉得我好吵建议赶紧ban了不要犹豫喵｜双取代表我不喜欢时间线有你的推文对不起",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TiramisuDaisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/TiramisuDaisuki",
+                "start": 0,
+                "url": "https://t.co/YJGDVi7njQ"
+              }
+            ]
+          }
+        },
+        "id": "1585452233964982272",
+        "location": "徐汇区宛平南路600号",
+        "name": "蚊子",
+        "pinned_tweet_id": "1647463777158443008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862073264992104448/vFDsI5Ww_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 116,
+          "like_count": 71357,
+          "listed_count": 3,
+          "media_count": 2205,
+          "tweet_count": 17806
+        },
+        "url": "https://t.co/YJGDVi7njQ",
+        "username": "rainIcicles",
+        "verified": false
+      }
+    ]
+  }
+}

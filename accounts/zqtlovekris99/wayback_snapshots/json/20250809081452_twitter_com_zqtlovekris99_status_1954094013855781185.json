@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1953707522465923510",
+    "created_at": "2025-08-09T08:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T09:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954094013855781185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Chinese_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954094013855781185",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953707522465923510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chinese_114514 我QQ都是过段时间就删了重装一次，要不把我手机塞爆了，我不看的群也会一直占我内存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1953707522465923510",
+        "created_at": "2025-08-09T08:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T09:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954094013855781185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Chinese_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954094013855781185",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953707522465923510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinese_114514 我QQ都是过段时间就删了重装一次，要不把我手机塞爆了，我不看的群也会一直占我内存"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1953707522465923510",
+        "created_at": "2025-08-08T06:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953707522465923510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953707522465923510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1431,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "QQ抄了好多电报的元素进去\n唯独没把存储管理做好\n加了几个音游群从24年初下来已经占了快40GB了\n还有那个虚幻4能不能赶紧删掉😠😠😠\n合着用户的存储空间是买手机白送的呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9623,
+          "following_count": 875,
+          "like_count": 20501,
+          "listed_count": 10,
+          "media_count": 3211,
+          "tweet_count": 20901
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jilaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/jilaoshi",
+                "start": 0,
+                "url": "https://t.co/ENIsNAGnjp"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️寄老师不是姬老师🍥",
+        "pinned_tweet_id": "1945543638341357716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 750,
+          "like_count": 40869,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 4457
+        },
+        "url": "https://t.co/ENIsNAGnjp",
+        "username": "Chinese_114514",
+        "verified": false
+      }
+    ]
+  }
+}

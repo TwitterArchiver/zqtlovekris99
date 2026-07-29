@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1838591618598998439",
+    "created_at": "2024-09-26T05:05:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T06:05:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839169320401907854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797478841725964288",
+          "start": 0,
+          "username": "amw671647410514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839169320401907854",
+    "in_reply_to_user_id": "1797478841725964288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838591618598998439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amw671647410514 女人厌男，男人急的跳脚\n男人厌女，女的：还有这种好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1838591618598998439",
+        "created_at": "2024-09-26T05:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T06:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839169320401907854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797478841725964288",
+              "start": 0,
+              "username": "amw671647410514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839169320401907854",
+        "in_reply_to_user_id": "1797478841725964288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838591618598998439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amw671647410514 女人厌男，男人急的跳脚\n男人厌女，女的：还有这种好事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838591611225436160"
+          ]
+        },
+        "author_id": "1797478841725964288",
+        "conversation_id": "1838591618598998439",
+        "created_at": "2024-09-24T14:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T15:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838591618598998439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bf0vxquz79",
+              "end": 46,
+              "expanded_url": "https://twitter.com/amw671647410514/status/1838591618598998439/photo/1",
+              "media_key": "3_1838591611225436160",
+              "start": 23,
+              "url": "https://t.co/BF0vXqUz79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838591618598998439",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 25345,
+          "like_count": 604,
+          "quote_count": 14,
+          "reply_count": 11,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "小男人就是少见多怪，多来点这些挫挫它的屌崇拜 https://t.co/BF0vXqUz79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 516,
+          "like_count": 14006,
+          "listed_count": 5,
+          "tweet_count": 10960
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T04:02:16.000Z",
+        "description": "なんで変な日本語のアカウントが私をフォローするの？？ 離れてくれ！！\n十年之内，我必将拥有我的车房",
+        "id": "1797478841725964288",
+        "name": "amw",
+        "pinned_tweet_id": "1828315486284849294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797479018742308864/j_FF9T_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 92,
+          "like_count": 665,
+          "listed_count": 1,
+          "tweet_count": 142
+        },
+        "username": "amw671647410514",
+        "verified": false
+      }
+    ]
+  }
+}

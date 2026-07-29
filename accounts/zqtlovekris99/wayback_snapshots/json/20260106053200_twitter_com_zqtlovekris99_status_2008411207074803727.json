@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2008183188095688751",
+    "created_at": "2026-01-06T05:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T06:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008411207074803727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850755206040006656",
+          "start": 0,
+          "username": "moeKiwiSAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008411207074803727",
+    "in_reply_to_user_id": "850755206040006656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008183188095688751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKiwiSAMA 他俩怎么憋住不笑的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31656,
+        "height": 1280,
+        "media_key": "7_2008183147230535681",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008183147230535681/pu/img/PGZPuZ-j_gp88vIr.jpg",
+        "public_metrics": {
+          "view_count": 2437
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008183147230535681/pu/vid/avc1/320x568/lxz_kAMwpMsomYcb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008183147230535681/pu/vid/avc1/480x852/j9XY4RdRSZpuEU7-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008183147230535681/pu/vid/avc1/720x1280/jzSb8YNHgDn8EDt6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008183147230535681/pu/pl/drgjj5P-I1CJT0QV.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2008183188095688751",
+        "created_at": "2026-01-06T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008411207074803727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850755206040006656",
+              "start": 0,
+              "username": "moeKiwiSAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008411207074803727",
+        "in_reply_to_user_id": "850755206040006656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008183188095688751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKiwiSAMA 他俩怎么憋住不笑的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008183147230535681"
+          ]
+        },
+        "author_id": "850755206040006656",
+        "conversation_id": "2008183188095688751",
+        "created_at": "2026-01-05T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008183188095688751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/33Xew4TYKQ",
+              "end": 49,
+              "expanded_url": "https://x.com/moeKiwiSAMA/status/2008183188095688751/video/1",
+              "media_key": "7_2008183147230535681",
+              "start": 26,
+              "url": "https://t.co/33Xew4TYKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008183188095688751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5345,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "唉我操，我妈在那边放傻逼短剧，听到了一些难绷的东西 https://t.co/33Xew4TYKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10955,
+          "following_count": 1089,
+          "like_count": 23494,
+          "listed_count": 13,
+          "media_count": 4131,
+          "tweet_count": 25190
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-08T17:00:22.000Z",
+        "description": "蝈蝻",
+        "id": "850755206040006656",
+        "location": "Your Heart 💕",
+        "name": "Kiwi - (养生版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004090441810198528/9_ahfpfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 946,
+          "like_count": 13816,
+          "listed_count": 11,
+          "media_count": 2885,
+          "tweet_count": 5985
+        },
+        "username": "moeKiwiSAMA",
+        "verified": false
+      }
+    ]
+  }
+}

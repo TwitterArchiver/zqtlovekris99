@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2041340325374103805",
+    "created_at": "2026-04-07T05:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041383473055924416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041383473055924416",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041340325374103805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 你发出来我才发现不是同一个人，第一张图第三个没见过，剩下那几个我一直以为是同一个"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041340325374103805].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041340325374103805",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041340325374103805"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2041340325374103805",
+        "created_at": "2026-04-07T05:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041383473055924416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041383473055924416",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041340325374103805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 你发出来我才发现不是同一个人，第一张图第三个没见过，剩下那几个我一直以为是同一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "跨男娘/翻车顺女 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11965,
+          "following_count": 1468,
+          "like_count": 24986,
+          "listed_count": 15,
+          "media_count": 4519,
+          "tweet_count": 27185
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "关注人=喜欢你的内容!/同类想互关喵\n成分：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜退役ODer｜■tFtMtFtMtX\n#drugtwt #nonbinary #overdose\n不发 #shtwt #shedtwt #kleptotwt 但会看\n这边是混中推用的，画画大号可以私信我问id 只是怕被认出来",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "tag": "overdose"
+              },
+              {
+                "end": 94,
+                "start": 88,
+                "tag": "shtwt"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "tag": "kleptotwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo!｜发言都是阿普唑仑干的不代表本人）",
+        "pinned_tweet_id": "2022074802262225026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040846250405502976/V_RtxVzM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 1118,
+          "like_count": 4441,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 3049
+        },
+        "url": "",
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

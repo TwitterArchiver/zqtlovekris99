@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1948670986938954230",
+    "created_at": "2025-07-25T13:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T14:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948740643804905504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735938952731693056",
+          "start": 0,
+          "username": "IWantMyLilDoggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948740643804905504",
+    "in_reply_to_user_id": "1735938952731693056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948670986938954230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IWantMyLilDoggy 之前有个跨性别兄弟盟，算是社群吧，后来那个公众号封了，群主也换人了，不知道现在咋样了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948670986938954230].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948670986938954230",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948670986938954230"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1948670986938954230",
+        "created_at": "2025-07-25T13:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T14:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948740643804905504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735938952731693056",
+              "start": 0,
+              "username": "IWantMyLilDoggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948740643804905504",
+        "in_reply_to_user_id": "1735938952731693056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948670986938954230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IWantMyLilDoggy 之前有个跨性别兄弟盟，算是社群吧，后来那个公众号封了，群主也换人了，不知道现在咋样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname 小狗 @Misako_25ji 第二人格 @Luminme_SL | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Luminme_SL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 843,
+          "like_count": 20290,
+          "listed_count": 10,
+          "media_count": 3119,
+          "tweet_count": 20493
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-16T08:24:56.000Z",
+        "description": "会在某天突然变成悲叹之种的魔法少猫饭团喵/请回关我我想和你聊天（也可以不回）/关注请求选择性通过/大号是@FTMiaoX /这个号含有理智丧失的胡言乱语和xp放出/通向“我”的门在此为你打开/对不起其实我真的只是个天天乱发抽象文案的弱智",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "FTMiaoX"
+              }
+            ]
+          }
+        },
+        "id": "1735938952731693056",
+        "name": "🏳️‍⚧️鬼楽坂 鬼斬🏳️‍🌈",
+        "pinned_tweet_id": "1948418960526893155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748867381575716865/7grjcDZc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 437,
+          "like_count": 7441,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2711
+        },
+        "username": "IWantMyLilDoggy",
+        "verified": false
+      }
+    ]
+  }
+}

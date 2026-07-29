@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1948683748524130415",
+    "created_at": "2025-07-25T09:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T10:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948683748524130415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/19…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/grok/status/1948671376203940241",
+          "start": 13,
+          "url": "https://t.co/XQu42poWLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948683748524130415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948671376203940241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你怎么知道我跟真名是爱人 https://t.co/XQu42poWLr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1948683748524130415",
+        "created_at": "2025-07-25T09:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948683748524130415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/19…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/grok/status/1948671376203940241",
+              "start": 13,
+              "url": "https://t.co/XQu42poWLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948683748524130415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948671376203940241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你怎么知道我跟真名是爱人 https://t.co/XQu42poWLr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1948670977824751781",
+        "created_at": "2025-07-25T09:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948671376203940241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948671376203940241",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "爸爸：陈思微 ChenWei68791\n妈妈：嫣敏🍥 yanmin1105\n爷爷：嘻嘻哩 shijiazhuang124\n奶奶：HANABI璃華 HANABIRIKAJIANG\n外公：wildert Wildert2012\n外婆：星梦🍥 Fishlike_bird\n弟弟：芸舒🍥 shushuyun321\n哥哥：Lepuz Arcticus🍥 LepuzArcticus\n妹妹：byd劳朢天天做菜翻大车♿♿🍥 mylzhichuanggao\n姐姐：真名🏳️‍⚧️ 04177_realname (等下，这个是爱人？开个玩笑)\n爱人：真名🏳️‍⚧️ 04177_realname\n\n基于你的互动者虚构的家族谱，祝大家幸福！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948670977824751781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 爸爸：陈思微 ChenWei68791\n妈妈：嫣敏🍥 yanmin1105\n爷爷：嘻嘻哩 shijiazhuang124\n奶奶：HANABI璃華 HANABIRIKAJIANG\n外公：wildert Wildert2012\n外婆：星梦🍥 Fishlike_bird\n弟弟：芸舒🍥 shushuyun321\n哥哥：Lepuz Arcticus🍥 LepuzArcticus\n妹妹：byd劳朢天天做菜翻大车♿♿🍥 mylzhichuanggao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname 小狗 @Misako_25ji 第二人格 @Luminme_SL | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Luminme_SL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9457,
+          "following_count": 842,
+          "like_count": 20282,
+          "listed_count": 10,
+          "media_count": 3116,
+          "tweet_count": 20483
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5461900,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4458,
+          "media_count": 2398241,
+          "tweet_count": 24968067
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

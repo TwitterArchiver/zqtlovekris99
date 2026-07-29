@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1989934927941701671",
+    "created_at": "2025-11-16T10:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990009683650994190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "Makinotouruko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990009683650994190",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989997148642165152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Makinotouruko 已经送惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1989934927941701671",
+        "created_at": "2025-11-16T10:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990009683650994190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "Makinotouruko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990009683650994190",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989997148642165152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Makinotouruko 已经送惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "1989934927941701671",
+        "created_at": "2025-11-16T10:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989997148642165152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989997148642165152",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989934927941701671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我想次（\n最近精神状态不太好可能有帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1989193562035306838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10795,
+          "following_count": 1051,
+          "like_count": 22994,
+          "listed_count": 13,
+          "media_count": 3916,
+          "tweet_count": 24282
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "橘猫硬件实验室主创 曾经自认是ISFP但是测出了INTJ 5w4/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Makinotooruko",
+                "end": 23,
+                "expanded_url": "http://t.me/Makinotooruko",
+                "start": 0,
+                "url": "https://t.co/OG6fIDb8JQ"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "Makino",
+        "pinned_tweet_id": "1974499087216173209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888197682927374336/kqtpp-C0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 607,
+          "like_count": 22264,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 4731
+        },
+        "url": "https://t.co/OG6fIDb8JQ",
+        "username": "Makinotouruko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1909530496725663943",
+    "created_at": "2025-04-08T08:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T09:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909530505739116874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909530505739116874",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909530502358270430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "### 3. **结论**\n由于假设费马大定理不成立会导致矛盾，因此费马大定理成立：\n&gt; 对于 \\( n &gt; 2 \\)，方程 \\( x^n + y^n = z^n \\) 无正整数解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1909530496725663943",
+        "created_at": "2025-04-08T08:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T09:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909530505739116874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909530505739116874",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909530502358270430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "### 3. **结论**\n由于假设费马大定理不成立会导致矛盾，因此费马大定理成立：\n&gt; 对于 \\( n &gt; 2 \\)，方程 \\( x^n + y^n = z^n \\) 无正整数解。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1909530496725663943",
+        "created_at": "2025-04-08T08:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T09:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909530502358270430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909530502358270430",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909530498810232932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "### 2. **谷山-志村猜想的证明**\n怀尔斯和理查德·泰勒（Richard Taylor）证明了：\n   - 所有半稳定椭圆曲线都是模椭圆曲线。\n   - 弗雷曲线如果是模椭圆曲线，会与里贝特的结果矛盾。\n   - 因此，弗雷曲线不可能存在，即费马方程无解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 526,
+          "like_count": 17521,
+          "listed_count": 8,
+          "media_count": 2030,
+          "tweet_count": 16333
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

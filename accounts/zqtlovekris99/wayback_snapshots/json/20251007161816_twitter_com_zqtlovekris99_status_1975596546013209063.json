@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1975174636494340525",
+    "created_at": "2025-10-07T16:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975596546013209063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1810546512323399680",
+          "start": 0,
+          "username": "TT0806_t"
+        },
+        {
+          "end": 17,
+          "id": "349054800",
+          "start": 10,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975596546013209063",
+    "in_reply_to_user_id": "1810546512323399680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975174636494340525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TT0806_t @nyalra 我去被官方转了牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975174482911170560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k6ui9WEAA2SMX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975174564087824384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k6zRXXgAA0wuO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975174606089555968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k61t1XEAAwlMa.jpg",
+        "width": 880
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1975174628961034240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k63DCWIAA0VQ1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1975174636494340525",
+        "created_at": "2025-10-07T16:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975596546013209063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1810546512323399680",
+              "start": 0,
+              "username": "TT0806_t"
+            },
+            {
+              "end": 17,
+              "id": "349054800",
+              "start": 10,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975596546013209063",
+        "in_reply_to_user_id": "1810546512323399680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975174636494340525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TT0806_t @nyalra 我去被官方转了牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975174482911170560",
+            "3_1975174564087824384",
+            "3_1975174606089555968",
+            "3_1975174628961034240"
+          ]
+        },
+        "author_id": "1810546512323399680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975174636494340525",
+        "created_at": "2025-10-06T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975174636494340525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "349054800",
+              "start": 2,
+              "username": "nyalra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTGSZeGGAV",
+              "end": 171,
+              "expanded_url": "https://x.com/TT0806_t/status/1975174636494340525/photo/1",
+              "media_key": "3_1975174482911170560",
+              "start": 148,
+              "url": "https://t.co/DTGSZeGGAV"
+            },
+            {
+              "display_url": "pic.x.com/DTGSZeGGAV",
+              "end": 171,
+              "expanded_url": "https://x.com/TT0806_t/status/1975174636494340525/photo/1",
+              "media_key": "3_1975174564087824384",
+              "start": 148,
+              "url": "https://t.co/DTGSZeGGAV"
+            },
+            {
+              "display_url": "pic.x.com/DTGSZeGGAV",
+              "end": 171,
+              "expanded_url": "https://x.com/TT0806_t/status/1975174636494340525/photo/1",
+              "media_key": "3_1975174606089555968",
+              "start": 148,
+              "url": "https://t.co/DTGSZeGGAV"
+            },
+            {
+              "display_url": "pic.x.com/DTGSZeGGAV",
+              "end": 171,
+              "expanded_url": "https://x.com/TT0806_t/status/1975174636494340525/photo/1",
+              "media_key": "3_1975174628961034240",
+              "start": 148,
+              "url": "https://t.co/DTGSZeGGAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975174636494340525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 75267,
+          "like_count": 618,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "你好@nyalra 我是一位十分喜欢超天酱的粉丝。我在超天酱身上花了大约30万日元，我喜欢超天酱已经3年。我很感激您能做出如此生动的角色。我听说了有关WSS工作室的事情，因为周边价格的原因我曾经想过放弃超天酱。但当我知道事情原委后决定支持你！我希望这件事情能尽快出结果，我永远支持你！期待续作🥹 https://t.co/DTGSZeGGAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10236,
+          "following_count": 991,
+          "like_count": 22285,
+          "listed_count": 0,
+          "media_count": 3691,
+          "tweet_count": 23223
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-09T05:29:08.000Z",
+        "description": "06/ENFP/🚪50\n什么时候全世界才能喜欢我啊？？！",
+        "id": "1810546512323399680",
+        "location": "星空之上",
+        "name": "TT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810706901279354880/gsTUrzAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 19,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 27
+        },
+        "username": "TT0806_t",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "・誰でもおkなサーバー  https://t.co/QjTutS65GN  ・English server https://t.co/GCPcp6zKah   ・English development blog\nhttps://t.co/bZsRjbZhOD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gqtE3qT2N5",
+                "end": 36,
+                "expanded_url": "https://discord.gg/gqtE3qT2N5",
+                "start": 13,
+                "url": "https://t.co/QjTutS65GN"
+              },
+              {
+                "display_url": "discord.gg/3NtruU94pt",
+                "end": 77,
+                "expanded_url": "https://discord.gg/3NtruU94pt",
+                "start": 54,
+                "url": "https://t.co/GCPcp6zKah"
+              },
+              {
+                "display_url": "hazedenki.net",
+                "end": 129,
+                "expanded_url": "https://hazedenki.net/",
+                "start": 106,
+                "url": "https://t.co/bZsRjbZhOD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/C2BvvG_rJdG/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/C2BvvG_rJdG/",
+                "start": 0,
+                "url": "https://t.co/mX7eBFLDlM"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "1938585964051583351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141726,
+          "following_count": 666,
+          "like_count": 372694,
+          "listed_count": 1108,
+          "media_count": 3942,
+          "tweet_count": 40777
+        },
+        "url": "https://t.co/mX7eBFLDlM",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1807974852751773991",
+    "created_at": "2024-07-02T04:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T05:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807994185959854377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807994185959854377",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807974852751773991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwi_03096 我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1807974852751773991",
+        "created_at": "2024-07-02T04:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T05:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807994185959854377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807994185959854377",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807974852751773991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_03096 我也想"
+      },
+      {
+        "attachments": {},
+        "author_id": "1774410859491799041",
+        "conversation_id": "1807974852751773991",
+        "created_at": "2024-07-02T03:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807974852751773991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807974852751773991",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃lsd我想吃大麻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3961,
+          "following_count": 507,
+          "like_count": 13046,
+          "listed_count": 5,
+          "tweet_count": 9501
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "谢谢你们关注我，",
+        "id": "1774410859491799041",
+        "location": "Japan",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "1803824052672618657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798353254163812352/Hspp42ha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 182,
+          "like_count": 1692,
+          "listed_count": 2,
+          "tweet_count": 730
+        },
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

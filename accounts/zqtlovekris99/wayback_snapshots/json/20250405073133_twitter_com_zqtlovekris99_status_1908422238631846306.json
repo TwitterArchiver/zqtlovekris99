@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1908099887880892724",
+    "created_at": "2025-04-05T07:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T08:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908422238631846306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1085791168040861696",
+          "start": 0,
+          "username": "sezrijo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908422238631846306",
+    "in_reply_to_user_id": "1085791168040861696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908099887880892724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sezrijo じば"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1908099887880892724",
+        "created_at": "2025-04-05T07:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T08:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908422238631846306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1085791168040861696",
+              "start": 0,
+              "username": "sezrijo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908422238631846306",
+        "in_reply_to_user_id": "1085791168040861696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908099887880892724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sezrijo じば"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085791168040861696",
+        "conversation_id": "1908099887880892724",
+        "created_at": "2025-04-04T10:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908099887880892724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908099887880892724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2534,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何裝作日本人?\n\nStep 1: 網名改作兩個平假名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6348,
+          "following_count": 531,
+          "like_count": 17467,
+          "listed_count": 8,
+          "media_count": 1998,
+          "tweet_count": 16241
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T06:49:22.000Z",
+        "description": "純綠價格一個VOO",
+        "id": "1085791168040861696",
+        "location": "Cambridge, England",
+        "name": "🎲",
+        "pinned_tweet_id": "1788880578499981489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903094774565048322/vZnfhbZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 970,
+          "like_count": 13184,
+          "listed_count": 4,
+          "media_count": 1037,
+          "tweet_count": 5746
+        },
+        "username": "sezrijo",
+        "verified": false
+      }
+    ]
+  }
+}

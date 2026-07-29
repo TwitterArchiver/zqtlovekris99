@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1930003769447854307",
+    "created_at": "2025-06-04T03:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T04:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930098178159980569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881002090637557760",
+          "start": 0,
+          "username": "SharuruHolmes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930098178159980569",
+    "in_reply_to_user_id": "881002090637557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930003769447854307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SharuruHolmes 笑点解析：槟榔在加拿大不合法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930003764578004992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsjAMsLWsAAx7gJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1930003769447854307",
+        "created_at": "2025-06-04T03:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930098178159980569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881002090637557760",
+              "start": 0,
+              "username": "SharuruHolmes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930098178159980569",
+        "in_reply_to_user_id": "881002090637557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930003769447854307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SharuruHolmes 笑点解析：槟榔在加拿大不合法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930003764578004992"
+          ]
+        },
+        "author_id": "881002090637557760",
+        "conversation_id": "1930003769447854307",
+        "created_at": "2025-06-03T20:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T21:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930003769447854307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlilE9XoLz",
+              "end": 52,
+              "expanded_url": "https://x.com/SharuruHolmes/status/1930003769447854307/photo/1",
+              "media_key": "3_1930003764578004992",
+              "start": 29,
+              "url": "https://t.co/HlilE9XoLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930003769447854307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边吃着1000块一包的槟榔一边觉得外国人抽大麻天都塌了 https://t.co/HlilE9XoLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第3天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8061,
+          "following_count": 668,
+          "like_count": 19049,
+          "listed_count": 10,
+          "media_count": 2679,
+          "tweet_count": 18688
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-01T04:10:41.000Z",
+        "description": "179 54 双鱼ENTJ男高 #智商超高 #拉爆你男友 #大孝子 #欺骗女人的事我做不到 #魅上照毁了我的卡密梦 #基拉 #沉淀 #清纯小白花 #恋爱脑 #40秒憋笑挑战 #35秒后就宣布胜利吧 #感谢L #死神感谢我 #局长是我爸 #其他人能做到吗 #你的冥字 #隔着屏薄纱杀你 #那场大雨毁了我的成神梦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "智商超高"
+              },
+              {
+                "end": 28,
+                "start": 22,
+                "tag": "拉爆你男友"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "大孝子"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "tag": "欺骗女人的事我做不到"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "tag": "魅上照毁了我的卡密梦"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "基拉"
+              },
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "沉淀"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "清纯小白花"
+              },
+              {
+                "end": 77,
+                "start": 73,
+                "tag": "恋爱脑"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "40秒憋笑挑战"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "tag": "35秒后就宣布胜利吧"
+              },
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "感谢L"
+              },
+              {
+                "end": 110,
+                "start": 104,
+                "tag": "死神感谢我"
+              },
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "局长是我爸"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "tag": "其他人能做到吗"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "你的冥字"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "隔着屏薄纱杀你"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "tag": "那场大雨毁了我的成神梦"
+              }
+            ]
+          }
+        },
+        "id": "881002090637557760",
+        "location": "不在天堂亦不在地狱",
+        "name": "夜神月",
+        "pinned_tweet_id": "1695649764392546797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907933753277636608/AUgOFyXG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1032,
+          "like_count": 35480,
+          "listed_count": 3,
+          "media_count": 2690,
+          "tweet_count": 18750
+        },
+        "username": "SharuruHolmes",
+        "verified": false
+      }
+    ]
+  }
+}

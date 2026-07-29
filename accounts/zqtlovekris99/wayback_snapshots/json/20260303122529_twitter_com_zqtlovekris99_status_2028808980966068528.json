@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2028767805273768297",
+    "created_at": "2026-03-03T12:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028808980966068528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2497458150",
+          "start": 0,
+          "username": "fuckeveryword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028808980966068528",
+    "in_reply_to_user_id": "2497458150",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028767805273768297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckeveryword agreed"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2028767805273768297",
+        "created_at": "2026-03-03T12:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028808980966068528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2497458150",
+              "start": 0,
+              "username": "fuckeveryword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028808980966068528",
+        "in_reply_to_user_id": "2497458150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028767805273768297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckeveryword agreed"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497458150",
+        "conversation_id": "2028767805273768297",
+        "created_at": "2026-03-03T09:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T10:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028767805273768297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028767805273768297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3183,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "fucking chinese"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11818,
+          "following_count": 1408,
+          "like_count": 24497,
+          "listed_count": 15,
+          "media_count": 4369,
+          "tweet_count": 26377
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T01:03:46.000Z",
+        "description": "fucking every word in the english language. task 1 (fuck every word in the english language) completed 30 march 2025.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prideandprophecy.com/p/few.html",
+                "end": 23,
+                "expanded_url": "https://www.prideandprophecy.com/p/few.html",
+                "start": 0,
+                "url": "https://t.co/zyepb8SnVT"
+              }
+            ]
+          }
+        },
+        "id": "2497458150",
+        "name": "fucking every word",
+        "pinned_tweet_id": "2024615447023276212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477304353460477954/22GX6xG6_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133625,
+          "following_count": 16,
+          "like_count": 4150,
+          "listed_count": 409,
+          "media_count": 9,
+          "tweet_count": 109902
+        },
+        "url": "https://t.co/zyepb8SnVT",
+        "username": "fuckeveryword",
+        "verified": true
+      }
+    ]
+  }
+}

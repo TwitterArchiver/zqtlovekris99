@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966778802476064768",
+        "3_1966778802773872641"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536875454464",
+          "name": "UEFA Champions League"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1966778811137356131",
+    "created_at": "2025-09-13T08:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966778811137356131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4ejsHDben",
+          "end": 52,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1966778811137356131/photo/1",
+          "media_key": "3_1966778802476064768",
+          "start": 29,
+          "url": "https://t.co/e4ejsHDben"
+        },
+        {
+          "display_url": "pic.x.com/e4ejsHDben",
+          "end": 52,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1966778811137356131/photo/1",
+          "media_key": "3_1966778802773872641",
+          "start": 29,
+          "url": "https://t.co/e4ejsHDben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966778811137356131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你指的是连机场都不知道怎么导入的天才吗？而且UCL是什么 https://t.co/e4ejsHDben"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 353,
+        "media_key": "3_1966778802476064768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tm5oFaoAA0WKO.jpg",
+        "width": 765
+      },
+      {
+        "height": 1726,
+        "media_key": "3_1966778802773872641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tm5pMa0AEufFL.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966778802476064768",
+            "3_1966778802773872641"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536875454464",
+              "name": "UEFA Champions League"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1966778811137356131",
+        "created_at": "2025-09-13T08:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966778811137356131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4ejsHDben",
+              "end": 52,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1966778811137356131/photo/1",
+              "media_key": "3_1966778802476064768",
+              "start": 29,
+              "url": "https://t.co/e4ejsHDben"
+            },
+            {
+              "display_url": "pic.x.com/e4ejsHDben",
+              "end": 52,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1966778811137356131/photo/1",
+              "media_key": "3_1966778802773872641",
+              "start": 29,
+              "url": "https://t.co/e4ejsHDben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966778811137356131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你指的是连机场都不知道怎么导入的天才吗？而且UCL是什么 https://t.co/e4ejsHDben"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1966489378747973851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10027,
+          "following_count": 1018,
+          "like_count": 21510,
+          "listed_count": 10,
+          "media_count": 3503,
+          "tweet_count": 22177
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

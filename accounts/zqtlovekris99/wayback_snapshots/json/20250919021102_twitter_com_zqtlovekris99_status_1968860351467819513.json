@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1968691190166908930",
+    "created_at": "2025-09-19T02:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T03:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968860351467819513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946033647481712640",
+          "start": 0,
+          "username": "0xUNTITLED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968860351467819513",
+    "in_reply_to_user_id": "1946033647481712640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968744782127087870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xUNTITLED 强制休眠不了一点，天天被"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1968691190166908930",
+        "created_at": "2025-09-19T02:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T03:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968860351467819513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946033647481712640",
+              "start": 0,
+              "username": "0xUNTITLED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968860351467819513",
+        "in_reply_to_user_id": "1946033647481712640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968744782127087870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xUNTITLED 强制休眠不了一点，天天被"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946033647481712640",
+        "conversation_id": "1968691190166908930",
+        "created_at": "2025-09-18T18:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T19:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968744782127087870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968744782127087870",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968691190166908930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 （不能直接杀/强制休眠嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1967098999326077171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10123,
+          "following_count": 1022,
+          "like_count": 21718,
+          "listed_count": 10,
+          "media_count": 3550,
+          "tweet_count": 22375
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T02:26:05.000Z",
+        "description": "WARNING: 本账号可能含有 精神不安 负能🩸💊 创伤相关 多意识体相关｜抑郁症强迫症确诊｜换号了原来那个号也在用｜直fo是暗恋你｜LGBTQ+友好｜简体中文/正體中文/ENGLISH",
+        "id": "1946033647481712640",
+        "location": "Japan",
+        "name": "UNTITLED-0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946034252627480576/aLc1tEgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 76,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 230
+        },
+        "username": "0xUNTITLED",
+        "verified": false
+      }
+    ]
+  }
+}

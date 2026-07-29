@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "1919748566362280339",
+    "created_at": "2025-05-07T03:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T04:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919962232160419871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1416991798770102273",
+          "start": 0,
+          "username": "vegetable_ccai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919962232160419871",
+    "in_reply_to_user_id": "1416991798770102273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919835136277045385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vegetable_ccai 我cy2高中的时候用手机打的。。后来换到iPad发现不仅等级不互通，购买也不互通，还得重买。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "1919748566362280339",
+        "created_at": "2025-05-07T03:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T04:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919962232160419871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1416991798770102273",
+              "start": 0,
+              "username": "vegetable_ccai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919962232160419871",
+        "in_reply_to_user_id": "1416991798770102273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919835136277045385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vegetable_ccai 我cy2高中的时候用手机打的。。后来换到iPad发现不仅等级不互通，购买也不互通，还得重买。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416991798770102273",
+        "conversation_id": "1919748566362280339",
+        "created_at": "2025-05-06T19:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T20:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919835136277045385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919835136277045385",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919748566362280339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 好耶，是cy2， 我干过最蠢的一件事就是cy2玩的b服，现在想卖号都不方便"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 564,
+          "like_count": 18159,
+          "listed_count": 10,
+          "media_count": 2442,
+          "tweet_count": 17601
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T05:22:43.000Z",
+        "description": "主页 https://t.co/l5aQZtaWc3\n可以叫我菜菜（暂时没想好新名字）/欢迎互fo哦~想和大家成为朋友（长时间没回fo请私信）最喜欢的宝宝@XIAOLINGDANG520 会翻滚的可爱小猫@fangunmao /不会主动出击被骚扰请举报zyn假冒号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "XIAOLINGDANG520"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fangunmao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vegecai.moe",
+                "end": 26,
+                "expanded_url": "http://vegecai.moe",
+                "start": 3,
+                "url": "https://t.co/l5aQZtaWc3"
+              }
+            ]
+          }
+        },
+        "id": "1416991798770102273",
+        "location": "菜星",
+        "name": "${name}🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1840241644827984027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889000441029214209/YwLs4wKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 963,
+          "like_count": 3295,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 1732
+        },
+        "username": "vegetable_ccai",
+        "verified": false
+      }
+    ]
+  }
+}

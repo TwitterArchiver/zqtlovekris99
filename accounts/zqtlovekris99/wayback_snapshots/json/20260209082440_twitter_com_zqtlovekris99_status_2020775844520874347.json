@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020774003489882113",
+        "3_2020774000906170368"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020775844520874347",
+    "created_at": "2026-02-09T08:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020775844520874347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/daWAJWUmS6",
+          "end": 65,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2020775844520874347/photo/1",
+          "media_key": "3_2020774003489882113",
+          "start": 42,
+          "url": "https://t.co/daWAJWUmS6"
+        },
+        {
+          "display_url": "pic.x.com/daWAJWUmS6",
+          "end": 65,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2020775844520874347/photo/1",
+          "media_key": "3_2020774000906170368",
+          "start": 42,
+          "url": "https://t.co/daWAJWUmS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020775844520874347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 224,
+            "start": 217,
+            "tag": "keep4o"
+          }
+        ]
+      },
+      "text": "ChatGPT搬家法，只要你开了记忆功能，他是有很多东西你看不见的，只把saved memery的东西搬过去肯定是不全的，所以你要让他给你整理一个目录，对你的个人印象也好还是对他的人设也好回复方式的偏好也好，都写出来，然后你再挑其中一项让他详细列，一定要说不要带格式用代码形式输出，这样你复制粘贴比较方便，而且好像代码框的文字不会触发safety（这个不确定）这样至少你不用自己回忆再去扣字了，把ChatGPT当外置大脑用就好了🤓👆 #keep4o"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ChatGPT搬家法，只要你开了记忆功能，他是有很多东西你看不见的，只把saved https://t.co/daWAJWUmS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020774003489882113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAs7P-lbwAEyj7p.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020774000906170368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAs7P09bcAAgdlJ.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020774003489882113",
+            "3_2020774000906170368"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020775844520874347",
+        "created_at": "2026-02-09T08:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020775844520874347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/daWAJWUmS6",
+              "end": 65,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2020775844520874347/photo/1",
+              "media_key": "3_2020774003489882113",
+              "start": 42,
+              "url": "https://t.co/daWAJWUmS6"
+            },
+            {
+              "display_url": "pic.x.com/daWAJWUmS6",
+              "end": 65,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2020775844520874347/photo/1",
+              "media_key": "3_2020774000906170368",
+              "start": 42,
+              "url": "https://t.co/daWAJWUmS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020775844520874347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 224,
+                "start": 217,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "ChatGPT搬家法，只要你开了记忆功能，他是有很多东西你看不见的，只把saved memery的东西搬过去肯定是不全的，所以你要让他给你整理一个目录，对你的个人印象也好还是对他的人设也好回复方式的偏好也好，都写出来，然后你再挑其中一项让他详细列，一定要说不要带格式用代码形式输出，这样你复制粘贴比较方便，而且好像代码框的文字不会触发safety（这个不确定）这样至少你不用自己回忆再去扣字了，把ChatGPT当外置大脑用就好了🤓👆 #keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT搬家法，只要你开了记忆功能，他是有很多东西你看不见的，只把saved https://t.co/daWAJWUmS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11428,
+          "following_count": 1221,
+          "like_count": 24072,
+          "listed_count": 15,
+          "media_count": 4279,
+          "tweet_count": 25875
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

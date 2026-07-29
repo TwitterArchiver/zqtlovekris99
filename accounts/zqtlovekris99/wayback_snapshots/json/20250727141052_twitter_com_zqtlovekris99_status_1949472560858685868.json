@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1949328061335490788",
+    "created_at": "2025-07-27T14:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T15:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949472560858685868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949472560858685868",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949328061335490788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy 操，还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1949328061335490788",
+        "created_at": "2025-07-27T14:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949472560858685868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949472560858685868",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949328061335490788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy 操，还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366512947015520259",
+        "conversation_id": "1949328061335490788",
+        "created_at": "2025-07-27T04:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949328061335490788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Longlinlon/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Longlinlon/status/1949081337597485355",
+              "start": 65,
+              "url": "https://t.co/UhgfIRhr3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949328061335490788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949081337597485355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我们出生时候赶上非典，大学赶上新冠，国外的teenager都在outlaw的时候，我们被拴在课桌上，锁在学校里，困在小区内💧 https://t.co/UhgfIRhr3b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9469,
+          "following_count": 839,
+          "like_count": 20336,
+          "listed_count": 10,
+          "media_count": 3136,
+          "tweet_count": 20574
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "02/身高192/🇦🇺BNE/无政府主义者Ⓐ/od紫餐🈶/反康米-紫砂-死刑-致幻剂/【在全员伪装的时代，坦诚是最后的反叛】\n\n“我目睹过公司夺走农民的水源，然后是土地，V，我宣战不是因为资本主义是我的眼中钉，也不是为了怀念过去的美国才这么做的，这是一场人民反抗脱缰的社会体系的战争”\n\n社会主义是康米最后的遮羞布",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goresee.com/w/aCB6wp6TYaMy…",
+                "end": 23,
+                "expanded_url": "https://goresee.com/w/aCB6wp6TYaMyPNc1zG7MRN",
+                "start": 0,
+                "url": "https://t.co/w5WnMfQV3I"
+              }
+            ]
+          }
+        },
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "Mr.焚蒿🎩💼",
+        "pinned_tweet_id": "1905459125469020289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893458877691072512/AfqHjMdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1512,
+          "like_count": 120130,
+          "listed_count": 8,
+          "media_count": 1723,
+          "tweet_count": 25614
+        },
+        "url": "https://t.co/w5WnMfQV3I",
+        "username": "gsjzyyy",
+        "verified": false
+      }
+    ]
+  }
+}

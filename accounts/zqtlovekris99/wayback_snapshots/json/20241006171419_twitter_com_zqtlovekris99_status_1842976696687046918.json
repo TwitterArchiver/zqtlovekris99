@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1842441869302853788",
+    "created_at": "2024-10-06T17:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T18:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842976696687046918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365521689241522176",
+          "start": 0,
+          "username": "chenhj_sakana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842976696687046918",
+    "in_reply_to_user_id": "1365521689241522176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842441869302853788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenhj_sakana 这不我们原神的合成台吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1842441869302853788",
+        "created_at": "2024-10-06T17:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T18:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842976696687046918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365521689241522176",
+              "start": 0,
+              "username": "chenhj_sakana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842976696687046918",
+        "in_reply_to_user_id": "1365521689241522176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842441869302853788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenhj_sakana 这不我们原神的合成台吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842441861744799744"
+          ]
+        },
+        "author_id": "1365521689241522176",
+        "conversation_id": "1842441869302853788",
+        "created_at": "2024-10-05T05:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T06:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842441869302853788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sVAT8Ofk9p",
+              "end": 28,
+              "expanded_url": "https://x.com/chenhj_sakana/status/1842441869302853788/photo/1",
+              "media_key": "3_1842441861744799744",
+              "start": 5,
+              "url": "https://t.co/sVAT8Ofk9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842441869302853788",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7958,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一言难尽 https://t.co/sVAT8Ofk9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（想谈恋爱版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4681,
+          "following_count": 513,
+          "like_count": 14174,
+          "listed_count": 5,
+          "tweet_count": 11224
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T04:38:47.000Z",
+        "description": "陈叔叔/鲑鱼高中生/是呆唯厨子/星粉/果粉/虹杂/半个飞友/不会打音游的泻谱师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantanstic.top",
+                "end": 23,
+                "expanded_url": "http://fantanstic.top",
+                "start": 0,
+                "url": "https://t.co/WotMAIjBXj"
+              }
+            ]
+          }
+        },
+        "id": "1365521689241522176",
+        "location": "IP属地：理塘",
+        "name": "晨晖",
+        "pinned_tweet_id": "1422935734164459526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812520461739126784/VKVzYYPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 807,
+          "like_count": 135952,
+          "listed_count": 8,
+          "tweet_count": 14008
+        },
+        "url": "https://t.co/WotMAIjBXj",
+        "username": "chenhj_sakana",
+        "verified": false
+      }
+    ]
+  }
+}

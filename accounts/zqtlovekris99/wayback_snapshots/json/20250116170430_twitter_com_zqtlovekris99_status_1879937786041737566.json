@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1879932016520761610",
+    "created_at": "2025-01-16T17:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T18:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879937786041737566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261624588770762753",
+          "start": 0,
+          "username": "DudDuoduo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879937786041737566",
+    "in_reply_to_user_id": "1261624588770762753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879932016520761610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DudDuoduo 谁问你了？谁问你了？谁问你了？😡😡😡😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1879932016520761610",
+        "created_at": "2025-01-16T17:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T18:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879937786041737566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261624588770762753",
+              "start": 0,
+              "username": "DudDuoduo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879937786041737566",
+        "in_reply_to_user_id": "1261624588770762753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879932016520761610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DudDuoduo 谁问你了？谁问你了？谁问你了？😡😡😡😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879932002570510336"
+          ]
+        },
+        "author_id": "1261624588770762753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1879932016520761610",
+        "created_at": "2025-01-16T16:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T17:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879932016520761610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DhE0800DAD",
+              "end": 67,
+              "expanded_url": "https://x.com/DudDuoduo/status/1879932016520761610/photo/1",
+              "media_key": "3_1879932002570510336",
+              "start": 44,
+              "url": "https://t.co/DhE0800DAD"
+            },
+            {
+              "display_url": "x.com/dudduoduo/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/dudduoduo/status/1877161621115543882",
+              "start": 68,
+              "url": "https://t.co/FLCPo2vVM0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879932016520761610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877161621115543882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来的二十抽内又出了两个火神\n\n30抽内出了三个火神🥺\n人怎么能这么欧🥺\n我可以玩原神 https://t.co/DhE0800DAD https://t.co/FLCPo2vVM0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5402,
+          "following_count": 516,
+          "like_count": 15864,
+          "listed_count": 6,
+          "media_count": 1576,
+          "tweet_count": 14012
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T11:48:46.000Z",
+        "description": "今天不会好受，更得好好享受",
+        "id": "1261624588770762753",
+        "name": "duoduo",
+        "pinned_tweet_id": "1719623214417236019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856668743331618816/0aRPTNw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1355,
+          "like_count": 7705,
+          "listed_count": 11,
+          "media_count": 1801,
+          "tweet_count": 11230
+        },
+        "username": "DudDuoduo",
+        "verified": false
+      }
+    ]
+  }
+}

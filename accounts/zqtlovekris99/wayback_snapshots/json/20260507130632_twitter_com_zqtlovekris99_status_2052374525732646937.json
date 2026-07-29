@@ -1,0 +1,725 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2052374525732646937",
+    "created_at": "2026-05-07T13:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052374525732646937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 60,
+          "id": "1878225515561332736",
+          "start": 46,
+          "username": "EScanlon95354"
+        },
+        {
+          "end": 69,
+          "id": "1750894458659606528",
+          "start": 61,
+          "username": "fuko048"
+        },
+        {
+          "end": 84,
+          "id": "1760133988834791424",
+          "start": 70,
+          "username": "50mUnderazure"
+        },
+        {
+          "end": 99,
+          "id": "1857802986837172224",
+          "start": 85,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 112,
+          "id": "1479971045792641029",
+          "start": 100,
+          "username": "blackmos233"
+        },
+        {
+          "end": 129,
+          "id": "1881307287769509888",
+          "start": 113,
+          "username": "Fwyuwusjehsioow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052374525732646937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052374357113270300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: 开奖了开奖了，因为grok不回我就私聊问了，中奖名单 @EScanlon95354 @fuko048 @50mUnderazure @LingJiaXin233 @blackmos233 @Fwyuwusjehsioow @Citrus_a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2052373372303265792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt-tUqbUAAjPHi.jpg",
+        "width": 1185
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052373548195536896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt-3j6aYAAeNkk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052373548208193536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt-3j9bgAAlHy_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2052374525732646937",
+        "created_at": "2026-05-07T13:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052374525732646937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 60,
+              "id": "1878225515561332736",
+              "start": 46,
+              "username": "EScanlon95354"
+            },
+            {
+              "end": 69,
+              "id": "1750894458659606528",
+              "start": 61,
+              "username": "fuko048"
+            },
+            {
+              "end": 84,
+              "id": "1760133988834791424",
+              "start": 70,
+              "username": "50mUnderazure"
+            },
+            {
+              "end": 99,
+              "id": "1857802986837172224",
+              "start": 85,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 112,
+              "id": "1479971045792641029",
+              "start": 100,
+              "username": "blackmos233"
+            },
+            {
+              "end": 129,
+              "id": "1881307287769509888",
+              "start": 113,
+              "username": "Fwyuwusjehsioow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052374525732646937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052374357113270300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: 开奖了开奖了，因为grok不回我就私聊问了，中奖名单 @EScanlon95354 @fuko048 @50mUnderazure @LingJiaXin233 @blackmos233 @Fwyuwusjehsioow @Citrus_a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052373372303265792",
+            "3_2052373548195536896",
+            "3_2052373548208193536"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2050092855910085052",
+        "created_at": "2026-05-07T13:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052374357113270300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1878225515561332736",
+              "start": 27,
+              "username": "EScanlon95354"
+            },
+            {
+              "end": 50,
+              "id": "1750894458659606528",
+              "start": 42,
+              "username": "fuko048"
+            },
+            {
+              "end": 65,
+              "id": "1760133988834791424",
+              "start": 51,
+              "username": "50mUnderazure"
+            },
+            {
+              "end": 80,
+              "id": "1857802986837172224",
+              "start": 66,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 93,
+              "id": "1479971045792641029",
+              "start": 81,
+              "username": "blackmos233"
+            },
+            {
+              "end": 110,
+              "id": "1881307287769509888",
+              "start": 94,
+              "username": "Fwyuwusjehsioow"
+            },
+            {
+              "end": 124,
+              "id": "1866458229527764992",
+              "start": 111,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 138,
+              "id": "1778938149047287808",
+              "start": 125,
+              "username": "Lagrange2025"
+            },
+            {
+              "end": 152,
+              "id": "1895166510743855104",
+              "start": 141,
+              "username": "MaoQi33394"
+            },
+            {
+              "end": 167,
+              "id": "1837114188046684161",
+              "start": 153,
+              "username": "winterfruit_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1o48TgExy8",
+              "end": 233,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2052374357113270300/photo/1",
+              "media_key": "3_2052373372303265792",
+              "start": 210,
+              "url": "https://t.co/1o48TgExy8"
+            },
+            {
+              "display_url": "pic.x.com/1o48TgExy8",
+              "end": 233,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2052374357113270300/photo/1",
+              "media_key": "3_2052373548195536896",
+              "start": 210,
+              "url": "https://t.co/1o48TgExy8"
+            },
+            {
+              "display_url": "pic.x.com/1o48TgExy8",
+              "end": 233,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2052374357113270300/photo/1",
+              "media_key": "3_2052373548208193536",
+              "start": 210,
+              "url": "https://t.co/1o48TgExy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052374357113270300",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050092855910085052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开奖了开奖了，因为grok不回我就私聊问了，中奖名单 @EScanlon95354 @fuko048 @50mUnderazure @LingJiaXin233 @blackmos233 @Fwyuwusjehsioow @Citrus_amara @Lagrange2025   @MaoQi33394 @winterfruit_1 都是我手抄的哦，夸夸我吧🥰私信我收件地址和想写的内容，因为我货还没到得过几天才能发 https://t.co/1o48TgExy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2050092855910085052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12815,
+          "following_count": 1566,
+          "like_count": 25623,
+          "listed_count": 18,
+          "media_count": 4868,
+          "tweet_count": 27862
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "友跨不翻车！不雌堕！不吃糖！",
+        "id": "1878225515561332736",
+        "name": "大 E（友跨顺直男）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972161890035085312/hmpyjcQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 2446,
+          "like_count": 7185,
+          "listed_count": 6,
+          "media_count": 45,
+          "tweet_count": 2450
+        },
+        "username": "EScanlon95354",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T14:53:22.000Z",
+        "description": "pr80love/oder/英语本当上手/愿往生极乐\n\n明日方舟里的普瑞赛斯已经没有了😭",
+        "id": "1750894458659606528",
+        "location": "North Holland, The Netherlands",
+        "name": "fuko048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750894807176904704/MsU3qvjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 355,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 884
+        },
+        "username": "fuko048",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T02:47:12.000Z",
+        "description": "Bye.Thanks.I’ll love you all forever.The flowers will bloom soon.Good comrades  @X_User_404 @LastExeX01 @licici1949",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "X_User_404"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "LastExeX01"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "licici1949"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/50mUnderAzure",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/50mUnderAzure",
+                "start": 0,
+                "url": "https://t.co/jQyo2BVVzU"
+              }
+            ]
+          }
+        },
+        "id": "1760133988834791424",
+        "location": "Pisces α-1",
+        "name": "50m Under Azure☭",
+        "pinned_tweet_id": "1938111221217300560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999878562753769472/a8M4IJNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 5851,
+          "like_count": 27169,
+          "listed_count": 6,
+          "media_count": 2683,
+          "tweet_count": 13050
+        },
+        "url": "https://t.co/jQyo2BVVzU",
+        "username": "50mUnderazure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "mtf//性别，哲学与社会政策研究//果粉与数码爱好者//喜欢折腾//非crypto蓝v互fo//不讨论政治//希望能给大家带来快乐🥰//最爱的姐姐@aparasr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 75,
+                "username": "aparasr"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3818,
+          "following_count": 671,
+          "like_count": 16062,
+          "listed_count": 12,
+          "media_count": 1223,
+          "tweet_count": 4237
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-09T00:19:35.000Z",
+        "description": "16↑ ⌚️UTC+8⌚️he/she/they 🎮maimai/prsk🎮IoT Development/📻BG4KCY📻Use  Translator 🐈‍⬛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/blackmos233",
+                "end": 23,
+                "expanded_url": "https://github.com/blackmos233",
+                "start": 0,
+                "url": "https://t.co/6OX88OhMSe"
+              }
+            ]
+          }
+        },
+        "id": "1479971045792641029",
+        "location": "Catland/TriMark Labs",
+        "name": "blackmos233",
+        "pinned_tweet_id": "2010901773473796266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004924249270779904/0r5zPVMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 1171,
+          "like_count": 21416,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/6OX88OhMSe",
+        "username": "blackmos233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T11:46:36.000Z",
+        "description": "/OD / 自残/重度抑郁症/不登校/泛性恋/#shedtwt（只是看看帖子偶尔发一些东西\n我的英文很烂\n我人很好来找我交朋友呀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 23,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1881307287769509888",
+        "location": "天国",
+        "name": "三木",
+        "pinned_tweet_id": "1991893332273045660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051914183252623360/twS0lQiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1706,
+          "like_count": 23732,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1686
+        },
+        "username": "Fwyuwusjehsioow",
+        "verified": false
+      }
+    ]
+  }
+}

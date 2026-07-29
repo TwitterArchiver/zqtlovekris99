@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1818142066066804821",
+    "created_at": "2024-07-30T04:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T05:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1818142066066804821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GenshinImpact/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/GenshinImpact/status/1747120085683290327",
+          "start": 5,
+          "url": "https://t.co/n26WVFMeL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818142066066804821",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1747120085683290327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肠道灰红 https://t.co/n26WVFMeL4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1818142066066804821",
+        "created_at": "2024-07-30T04:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T05:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818142066066804821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GenshinImpact/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/GenshinImpact/status/1747120085683290327",
+              "start": 5,
+              "url": "https://t.co/n26WVFMeL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818142066066804821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1747120085683290327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肠道灰红 https://t.co/n26WVFMeL4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072404907230060544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1747120085683290327",
+        "created_at": "2024-01-16T04:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-16T05:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1747120085683290327"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "鳴神永",
+              "probability": 0.4567,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 1,
+              "tag": "原神"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1747120085683290327",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 0,
+          "like_count": 399,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🌟#原神 \n常道恢弘，鳴神永恆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 药物交流群 https://t.co/anaD3TmRm6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYA000",
+                "end": 108,
+                "expanded_url": "https://t.me/OLAIYA000",
+                "start": 85,
+                "url": "https://t.co/anaD3TmRm6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 514,
+          "like_count": 13384,
+          "listed_count": 5,
+          "tweet_count": 9989
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-11T08:17:08.000Z",
+        "description": "In the world of Teyvat — where all kinds of elemental powers constantly surge — epic adventures await, fearless Travelers!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/0jhgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/0jhgFBAL",
+                "start": 0,
+                "url": "https://t.co/e8FHL9Mxho"
+              }
+            ]
+          }
+        },
+        "id": "1072404907230060544",
+        "name": "Genshin Impact",
+        "pinned_tweet_id": "1815929899858715096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774799005261918208/lHTwTlxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5497531,
+          "following_count": 17,
+          "like_count": 372,
+          "listed_count": 7566,
+          "tweet_count": 5002
+        },
+        "url": "https://t.co/e8FHL9Mxho",
+        "username": "GenshinImpact",
+        "verified": true
+      }
+    ]
+  }
+}

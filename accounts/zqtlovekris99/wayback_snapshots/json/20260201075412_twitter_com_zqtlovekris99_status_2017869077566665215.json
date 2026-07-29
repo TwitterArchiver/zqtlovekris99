@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017869002752856064"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017869077566665215",
+    "created_at": "2026-02-01T07:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T08:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017869077566665215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ut1KEDCz73",
+          "end": 50,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2017869077566665215/photo/1",
+          "media_key": "3_2017869002752856064",
+          "start": 27,
+          "url": "https://t.co/ut1KEDCz73"
+        },
+        {
+          "display_url": "x.com/DonnaDo1826662…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/DonnaDo18266628/status/2017805527695430071",
+          "start": 51,
+          "url": "https://t.co/BbYsI1952W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017869077566665215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017805527695430071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没那么隐晦，那个网页点进去就直接写的是ChatGPT https://t.co/ut1KEDCz73 https://t.co/BbYsI1952W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2017869002752856064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADpKrhbEAAyUFB.jpg",
+        "width": 1200
+      },
+      {
+        "height": 723,
+        "media_key": "3_2017804410773245954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACua7pbEAID_w4.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2017804932775284736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HACu5UQaEAA0NG-.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017869002752856064"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017869077566665215",
+        "created_at": "2026-02-01T07:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017869077566665215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ut1KEDCz73",
+              "end": 50,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2017869077566665215/photo/1",
+              "media_key": "3_2017869002752856064",
+              "start": 27,
+              "url": "https://t.co/ut1KEDCz73"
+            },
+            {
+              "display_url": "x.com/DonnaDo1826662…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/DonnaDo18266628/status/2017805527695430071",
+              "start": 51,
+              "url": "https://t.co/BbYsI1952W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017869077566665215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017805527695430071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没那么隐晦，那个网页点进去就直接写的是ChatGPT https://t.co/ut1KEDCz73 https://t.co/BbYsI1952W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017804410773245954",
+            "3_2017804932775284736"
+          ]
+        },
+        "author_id": "1528325699416707072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2017805527695430071",
+        "created_at": "2026-02-01T03:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T04:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017805527695430071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFWCEvBa96",
+              "end": 128,
+              "expanded_url": "https://x.com/DonnaDo18266628/status/2017805527695430071/photo/1",
+              "media_key": "3_2017804410773245954",
+              "start": 105,
+              "url": "https://t.co/wFWCEvBa96"
+            },
+            {
+              "display_url": "pic.x.com/wFWCEvBa96",
+              "end": 128,
+              "expanded_url": "https://x.com/DonnaDo18266628/status/2017805527695430071/photo/1",
+              "media_key": "3_2017804932775284736",
+              "start": 105,
+              "url": "https://t.co/wFWCEvBa96"
+            },
+            {
+              "display_url": "x.com/DonnaDo1826662…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/DonnaDo18266628/status/2017798261072150657",
+              "start": 129,
+              "url": "https://t.co/CXAuuQd4hs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017805527695430071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2907,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017798261072150657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Google趁火打劫这一块哈哈哈，甚至还没正式推出都先把消息发出来了，竞争方案说的是谁呢？真是太巧了。\n我导入过其他前端，上下文充足的话模型几乎可以延续之前的风格。不过导入Gemini会不会那样灵动我也不确定 https://t.co/wFWCEvBa96 https://t.co/CXAuuQd4hs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11275,
+          "following_count": 1149,
+          "like_count": 23858,
+          "listed_count": 15,
+          "media_count": 4226,
+          "tweet_count": 25652
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "bug都修不好还想做AGI\n洗钱还差不多\n某些奇奇怪怪的人\n再来我面前舞的统一当自认五块钱配一天的猪",
+        "id": "1528325699416707072",
+        "name": "Donna",
+        "pinned_tweet_id": "1987797708208496883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 65,
+          "like_count": 20603,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3837
+        },
+        "username": "DonnaDo18266628",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1995475439935160578",
+    "created_at": "2026-03-16T05:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033410080302141475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1877440800",
+          "start": 0,
+          "username": "li9292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033410080302141475",
+    "in_reply_to_user_id": "1877440800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995475439935160578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li9292 不會吧不會吧你們玩幣大手子連註冊個谷歌帳號都不會？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_1995475075148152832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FaAiRaAAA-yKk.png",
+        "width": 727
+      },
+      {
+        "height": 876,
+        "media_key": "3_1995475113647751168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FaCxsbQAAECWt.jpg",
+        "width": 1597
+      },
+      {
+        "height": 676,
+        "media_key": "3_1995475226084495360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FaJUjb0AAkh4Y.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1995475439935160578",
+        "created_at": "2026-03-16T05:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033410080302141475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877440800",
+              "start": 0,
+              "username": "li9292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033410080302141475",
+        "in_reply_to_user_id": "1877440800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995475439935160578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li9292 不會吧不會吧你們玩幣大手子連註冊個谷歌帳號都不會？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995475075148152832",
+            "3_1995475113647751168",
+            "3_1995475226084495360"
+          ]
+        },
+        "author_id": "1877440800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1995475439935160578",
+        "created_at": "2025-12-01T12:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995475439935160578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "World's Fastest, Lightest Android Emulator and cloud gaming platform. Play mobile games on Windows & Mac. Perfect for RPG, strategy & action games.",
+              "display_url": "bluestacks.com/?&lang=zh-hant",
+              "end": 150,
+              "expanded_url": "https://www.bluestacks.com/?&lang=zh-hant",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2017092212962783232/maEbzdMY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017092212962783232/maEbzdMY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 127,
+              "status": 200,
+              "title": "BlueStacks: Play Games on PC & Mac, Android Emulator and Cloud Gaming Platform",
+              "unwound_url": "https://www.bluestacks.com/?&lang=zh-hant",
+              "url": "https://t.co/q4RY1JJw1B"
+            },
+            {
+              "display_url": "pic.x.com/uO9OcZNlTA",
+              "end": 174,
+              "expanded_url": "https://x.com/lee_toyofbob/status/1995475439935160578/photo/1",
+              "media_key": "3_1995475075148152832",
+              "start": 151,
+              "url": "https://t.co/uO9OcZNlTA"
+            },
+            {
+              "display_url": "pic.x.com/uO9OcZNlTA",
+              "end": 174,
+              "expanded_url": "https://x.com/lee_toyofbob/status/1995475439935160578/photo/1",
+              "media_key": "3_1995475113647751168",
+              "start": 151,
+              "url": "https://t.co/uO9OcZNlTA"
+            },
+            {
+              "display_url": "pic.x.com/uO9OcZNlTA",
+              "end": 174,
+              "expanded_url": "https://x.com/lee_toyofbob/status/1995475439935160578/photo/1",
+              "media_key": "3_1995475226084495360",
+              "start": 151,
+              "url": "https://t.co/uO9OcZNlTA"
+            },
+            {
+              "display_url": "x.com/li9292/status/…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/li9292/status/1992054677282631684",
+              "start": 175,
+              "url": "https://t.co/dP8FekcklK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995475439935160578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bluestacks.com/?&lang=zh-hant",
+                "end": 150,
+                "expanded_url": "https://www.bluestacks.com/?&lang=zh-hant",
+                "start": 127,
+                "url": "https://t.co/yzxdejqJ3O"
+              }
+            ]
+          },
+          "text": "嘘，韭二哥全网首发60秒免费注册谷歌Google账号\n不花钱\n不跳二维码验证\n不要翻译\n不要国外手机号\n不要指纹浏览器\n不要住宅IP\n羊毛多一个人韭少一个人\n只需你动动小手，60秒三步免费注册谷歌Google账号\n\n1⃣下载Bluestacks 链接：\nhttps://t.co/yzxdejqJ3O\nBluestack是一个安卓浏览器，国内国外均可下载安全\n\n2⃣在Windows电脑上安装完成打开\n搜索谷歌商店或者Google Play\n\n3⃣注册，手机验证时，记得选择中国地区手机号\n\n小提醒：\n你需要哪个国家的谷歌Google账号\n韭挂哪个国家的全局节点，最好配套相应国家电话\n\n兄弟们别收藏，干韭完了，不懂的评论区见或私信问"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 97325,
+          "like_count": 426,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992054677282631684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘘，韭二哥全网首发60秒免费注册谷歌Google账号\n不花钱\n不跳二维码验证\n不要翻译\n不要国外手机号\n不要指纹浏览器\n不要住宅IP\n羊毛多一个人韭少一个人\n只需你动动小手，60秒三步免费注册谷歌Google账号\n\n1⃣下载Bluestacks 链接：\nhttps://t.co/q4RY1JJw1B https://t.co/uO9OcZNlTA https://t.co/dP8FekcklK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕誠聘對象💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11931,
+          "following_count": 1425,
+          "like_count": 24803,
+          "listed_count": 15,
+          "media_count": 4416,
+          "tweet_count": 26758
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-18T00:52:13.000Z",
+        "description": "【文科生韭二代的自救和重生之路】李韭二 @lijiuer9888 微信同号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "lijiuer9888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vibeathon-100.vercel.app",
+                "end": 23,
+                "expanded_url": "https://vibeathon-100.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/fspfRWUyTo"
+              }
+            ]
+          }
+        },
+        "id": "1877440800",
+        "location": "Hong Kong",
+        "name": "李韭二",
+        "pinned_tweet_id": "2032268864059556001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958447835365707776/pezBwxG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6181,
+          "following_count": 556,
+          "like_count": 4507,
+          "listed_count": 60,
+          "media_count": 236,
+          "tweet_count": 2537
+        },
+        "url": "https://t.co/fspfRWUyTo",
+        "username": "li9292",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1916348884357652480"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1916348915961524579",
+    "created_at": "2025-04-27T04:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T05:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916348915961524579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJI9g8ux4A",
+          "end": 34,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1916348915961524579/video/1",
+          "media_key": "7_1916348884357652480",
+          "start": 11,
+          "url": "https://t.co/tJI9g8ux4A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916348915961524579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给哈基米们看点哈基米 https://t.co/tJI9g8ux4A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19233,
+        "height": 960,
+        "media_key": "7_1916348884357652480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1916348884357652480/pu/img/t9uy_iQA-jVlhfv7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916348884357652480/pu/vid/avc1/320x426/AXc576njjE4-7vy2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916348884357652480/pu/vid/avc1/480x640/AJuZn_QwqrKHl1mY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916348884357652480/pu/vid/avc1/720x960/QJVGMdfH1fV6Ldsj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1916348884357652480/pu/pl/I4nMrsSgAO8RJuCL.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1916348884357652480"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1916348915961524579",
+        "created_at": "2025-04-27T04:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T05:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916348915961524579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJI9g8ux4A",
+              "end": 34,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1916348915961524579/video/1",
+              "media_key": "7_1916348884357652480",
+              "start": 11,
+              "url": "https://t.co/tJI9g8ux4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916348915961524579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给哈基米们看点哈基米 https://t.co/tJI9g8ux4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1915067043763859862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6722,
+          "following_count": 554,
+          "like_count": 17999,
+          "listed_count": 9,
+          "media_count": 2285,
+          "tweet_count": 17130
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

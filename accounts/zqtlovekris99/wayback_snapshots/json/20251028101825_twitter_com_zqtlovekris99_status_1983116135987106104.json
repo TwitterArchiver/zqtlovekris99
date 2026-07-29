@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1983016650975727616",
+    "created_at": "2025-10-28T10:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T11:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983116135987106104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 37,
+          "expanded_url": "https://x.com/SalviaSWC/status/1936387264377958584?s=19",
+          "start": 14,
+          "url": "https://t.co/I0tCMAD4CA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983116135987106104",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936387264377958584",
+        "type": "quoted"
+      },
+      {
+        "id": "1983016650975727616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara https://t.co/I0tCMAD4CA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1936386891353337856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9tnkbWsAATDYs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1983016650975727616",
+        "created_at": "2025-10-28T10:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T11:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983116135987106104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 37,
+              "expanded_url": "https://x.com/SalviaSWC/status/1936387264377958584?s=19",
+              "start": 14,
+              "url": "https://t.co/I0tCMAD4CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983116135987106104",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936387264377958584",
+            "type": "quoted"
+          },
+          {
+            "id": "1983016650975727616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara https://t.co/I0tCMAD4CA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936386891353337856"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1936387264377958584",
+        "created_at": "2025-06-21T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936387264377958584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY73MZcjr4",
+              "end": 80,
+              "expanded_url": "https://x.com/SalviaSWC/status/1936387264377958584/photo/1",
+              "media_key": "3_1936386891353337856",
+              "start": 57,
+              "url": "https://t.co/dY73MZcjr4"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1933910576582779275",
+              "start": 81,
+              "url": "https://t.co/pPwqrhpkSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936387264377958584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 63199,
+          "like_count": 410,
+          "quote_count": 16,
+          "reply_count": 41,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933910576582779275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "愈美片手搓DXO教程V1出了🥺\n有问题可以在评论区问,窝都会回的喵🥰\n已经搓出来DXO的推u可以评价一下药效嘛😋 https://t.co/dY73MZcjr4 https://t.co/pPwqrhpkSl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1983016650975727616",
+        "created_at": "2025-10-28T03:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983016650975727616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983016650975727616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2044,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想试试提取愈美片里的右美沙芬了。给自己来一针纯右美沙芬不知道会有多爽😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1978721972730151397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10444,
+          "following_count": 1035,
+          "like_count": 22723,
+          "listed_count": 12,
+          "media_count": 3815,
+          "tweet_count": 23872
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981584394583216128/t8-6GGR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 635,
+          "like_count": 10207,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 4064
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 549,
+          "like_count": 9198,
+          "listed_count": 7,
+          "media_count": 124,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

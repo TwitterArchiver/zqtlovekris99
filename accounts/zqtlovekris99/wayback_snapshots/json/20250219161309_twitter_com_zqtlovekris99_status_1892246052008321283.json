@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "1892246052008321283",
+    "created_at": "2025-02-19T16:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T17:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892246052008321283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaomi/status/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Xiaomi/status/1891472670736150727",
+          "start": 44,
+          "url": "https://t.co/X1a4yHkq2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892246052008321283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891472670736150727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以c和h这种露一个角到到底选不选啊我真他妈烦这种人机人证，我像个人机一样小米还玩这梗 https://t.co/X1a4yHkq2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1891472667607224320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj_cXqcW0AAjHpI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1892246052008321283",
+        "created_at": "2025-02-19T16:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T17:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892246052008321283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaomi/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Xiaomi/status/1891472670736150727",
+              "start": 44,
+              "url": "https://t.co/X1a4yHkq2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892246052008321283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891472670736150727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以c和h这种露一个角到到底选不选啊我真他妈烦这种人机人证，我像个人机一样小米还玩这梗 https://t.co/X1a4yHkq2h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891472667607224320"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1891472670736150727",
+        "created_at": "2025-02-17T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891472670736150727"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Xiaomi Ultra",
+              "probability": 0.5559,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 113,
+              "normalized_text": "HumanCarHome",
+              "probability": 0.5383,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "MWC25",
+              "probability": 0.7877,
+              "start": 116,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 101,
+              "tag": "HumanCarHome"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "MWC25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9XmkwxxvC",
+              "end": 145,
+              "expanded_url": "https://x.com/Xiaomi/status/1891472670736150727/photo/1",
+              "media_key": "3_1891472667607224320",
+              "start": 122,
+              "url": "https://t.co/C9XmkwxxvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891472670736150727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 162290,
+          "like_count": 207,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "Get ready for a Xiaomi Ultra reveal!\n\nDo you think you're a Car captcha expert? RT with your answer! #HumanCarHome #MWC25 https://t.co/C9XmkwxxvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 系统内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQ9Up"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5792,
+          "following_count": 526,
+          "like_count": 16659,
+          "listed_count": 7,
+          "media_count": 1736,
+          "tweet_count": 14885
+        },
+        "url": "https://t.co/aHC44HQ9Up",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "Experience #ConnectedIntelligence.\nAll at #MWC25! 🗓 03-06 March 📍Hall 3 | 3M30, Fira Barcelona Gran Via.\n\nFor support, please contact @XiaomiSupport",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 11,
+                "tag": "ConnectedIntelligence"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "MWC25"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 148,
+                "start": 134,
+                "username": "XiaomiSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXbWvK"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "1891427382961033312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4397438,
+          "following_count": 358,
+          "like_count": 9769,
+          "listed_count": 3738,
+          "media_count": 8901,
+          "tweet_count": 13573
+        },
+        "url": "https://t.co/U0ZmlXbWvK",
+        "username": "Xiaomi",
+        "verified": true
+      }
+    ]
+  }
+}

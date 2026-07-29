@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1917859224312484099",
+    "created_at": "2025-05-01T08:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T09:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917864965341647215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1532606195214581760",
+          "start": 0,
+          "username": "xijinping1sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917864965341647215",
+    "in_reply_to_user_id": "1532606195214581760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917859224312484099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping1sb 什么敏感词"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917859208399351808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp2aye3a8AAfT2v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1917859224312484099",
+        "created_at": "2025-05-01T08:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917864965341647215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1532606195214581760",
+              "start": 0,
+              "username": "xijinping1sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917864965341647215",
+        "in_reply_to_user_id": "1532606195214581760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917859224312484099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping1sb 什么敏感词"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917859208399351808"
+          ]
+        },
+        "author_id": "1532606195214581760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1917859224312484099",
+        "created_at": "2025-05-01T08:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917859224312484099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2f7cqoktM2",
+              "end": 67,
+              "expanded_url": "https://x.com/xijinping1sb/status/1917859224312484099/photo/1",
+              "media_key": "3_1917859208399351808",
+              "start": 44,
+              "url": "https://t.co/2f7cqoktM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917859224312484099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前还想着原神到了6.4版本的时候要怎么规避敏感词，原来是用这种方式解决的吗，太厉害了 https://t.co/2f7cqoktM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6800,
+          "following_count": 556,
+          "like_count": 18020,
+          "listed_count": 9,
+          "media_count": 2361,
+          "tweet_count": 17337
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T06:12:55.000Z",
+        "description": "半岁静/二次元/N2已过，EJU准备中/🇺🇦🇮🇱/INFP-T/支持LGBTQ+🏳️‍⚧️🏳️‍🌈/崩三原神铁道玩家/包容所有政治立场/政治立场左下↙（或许是社民）,黑化形态是支黑/反绿/负能量注意/病/o💊/键政注意/不登校中/误b致歉/精神状态不好/求同存异/以上排名不分先后",
+        "id": "1532606195214581760",
+        "location": "IP属地：疯狂宇宙",
+        "name": "香蕉皮🍌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747686466111827968/N_p0ZG5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5825,
+          "following_count": 2710,
+          "like_count": 223932,
+          "listed_count": 14,
+          "media_count": 2272,
+          "tweet_count": 18890
+        },
+        "username": "xijinping1sb",
+        "verified": false
+      }
+    ]
+  }
+}

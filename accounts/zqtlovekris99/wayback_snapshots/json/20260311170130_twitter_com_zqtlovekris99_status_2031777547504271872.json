@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2031218699773030892",
+    "created_at": "2026-03-11T17:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031777547504271872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282893311573766145",
+          "start": 0,
+          "username": "9moX20076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031777547504271872",
+    "in_reply_to_user_id": "1282893311573766145",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031218699773030892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9moX20076 笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031218691753521154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBWo2caMAIYliV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2031218699773030892",
+        "created_at": "2026-03-11T17:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031777547504271872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282893311573766145",
+              "start": 0,
+              "username": "9moX20076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031777547504271872",
+        "in_reply_to_user_id": "1282893311573766145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031218699773030892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9moX20076 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031218691753521154"
+          ]
+        },
+        "author_id": "1282893311573766145",
+        "conversation_id": "2031218699773030892",
+        "created_at": "2026-03-10T04:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031218699773030892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MkP1O9uWz",
+              "end": 28,
+              "expanded_url": "https://x.com/9moX20076/status/2031218699773030892/photo/1",
+              "media_key": "3_2031218691753521154",
+              "start": 5,
+              "url": "https://t.co/5MkP1O9uWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031218699773030892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 596,
+          "impression_count": 1474702,
+          "like_count": 6085,
+          "quote_count": 85,
+          "reply_count": 165,
+          "retweet_count": 544
+        },
+        "reply_settings": "everyone",
+        "text": "例のやつ https://t.co/5MkP1O9uWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11886,
+          "following_count": 1425,
+          "like_count": 24732,
+          "listed_count": 15,
+          "media_count": 4397,
+          "tweet_count": 26625
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-14T04:23:07.000Z",
+        "description": "🇯🇵生まれの🇯🇵🇨🇳ハーフ/某関西無名大学/JLPT N1/HSK5級/左翼右派/HUAWEI/vivo/oppo/DJI/BYD/SFC修行準備中/サブ→@X_CNJP ※成分複雑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "X_CNJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinketu.com",
+                "end": 23,
+                "expanded_url": "http://kinketu.com",
+                "start": 0,
+                "url": "https://t.co/fDaBBVNXdz"
+              }
+            ]
+          }
+        },
+        "id": "1282893311573766145",
+        "location": "イワシ　むれで　いきる　さかな\n",
+        "name": "Kia",
+        "pinned_tweet_id": "1958453872277717471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884466026773180416/T92tL03V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6734,
+          "following_count": 6864,
+          "like_count": 107045,
+          "listed_count": 28,
+          "media_count": 12240,
+          "tweet_count": 95889
+        },
+        "url": "https://t.co/fDaBBVNXdz",
+        "username": "9moX20076",
+        "verified": false
+      }
+    ]
+  }
+}

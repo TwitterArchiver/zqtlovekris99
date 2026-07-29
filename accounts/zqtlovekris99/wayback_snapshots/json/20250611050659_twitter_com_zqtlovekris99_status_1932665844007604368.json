@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1932439363369206144",
+    "created_at": "2025-06-11T05:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T06:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932665844007604368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932665844007604368",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932439363369206144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 没必要，普瑞的药效并不会随着你叠量而变大，吃得越多变化越不明显，我个人觉得600mg就足够用来欣快感了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "16_1932439310277677056",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GtFnUG8aEAAnjAN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GtFnUG8aEAAnjAN.mp4"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1932439363369206144",
+        "created_at": "2025-06-11T05:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932665844007604368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932665844007604368",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932439363369206144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 没必要，普瑞的药效并不会随着你叠量而变大，吃得越多变化越不明显，我个人觉得600mg就足够用来欣快感了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1932439310277677056"
+          ]
+        },
+        "author_id": "1793636329299066880",
+        "conversation_id": "1932439363369206144",
+        "created_at": "2025-06-10T14:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932439363369206144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBx9rJUzWn",
+              "end": 33,
+              "expanded_url": "https://x.com/cuichuna7/status/1932439363369206144/photo/1",
+              "media_key": "16_1932439310277677056",
+              "start": 10,
+              "url": "https://t.co/RBx9rJUzWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932439363369206144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "红普可以吃这么多吗 https://t.co/RBx9rJUzWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第3天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8174,
+          "following_count": 671,
+          "like_count": 19246,
+          "listed_count": 10,
+          "media_count": 2730,
+          "tweet_count": 18982
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 3921,
+          "like_count": 7867,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 2874
+        },
+        "username": "cuichuna7",
+        "verified": false
+      }
+    ]
+  }
+}

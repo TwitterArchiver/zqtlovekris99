@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1894353013248245947",
+    "created_at": "2025-02-25T11:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T12:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894353013248245947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881946126829432832",
+          "start": 3,
+          "username": "Tchfang"
+        },
+        {
+          "end": 20,
+          "id": "1742381695045939200",
+          "start": 13,
+          "username": "mo6ji4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894353013248245947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894017572942811227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tchfang: @mo6ji4 很简单，因为没有情绪管理能力，好过压抑情绪。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1894353013248245947",
+        "created_at": "2025-02-25T11:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T12:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894353013248245947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881946126829432832",
+              "start": 3,
+              "username": "Tchfang"
+            },
+            {
+              "end": 20,
+              "id": "1742381695045939200",
+              "start": 13,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894353013248245947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894017572942811227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tchfang: @mo6ji4 很简单，因为没有情绪管理能力，好过压抑情绪。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881946126829432832",
+        "conversation_id": "1894011643463700817",
+        "created_at": "2025-02-24T13:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894017572942811227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742381695045939200",
+              "start": 0,
+              "username": "mo6ji4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894017572942811227",
+        "in_reply_to_user_id": "1742381695045939200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很简单，因为没有情绪管理能力，好过压抑情绪。\n没有情绪管理能力的男性大部分都会用自己的情绪去向外攻击，这样情绪不会攻击自己，而是去伤害他人，情绪出来了就不容易得精神疾病。而大部分女性容易压抑情绪，这是一种负向的情绪管理能力，情绪会向内攻击，也就是用不好的情绪攻击自己，从而更容易得精神疾病。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894011643463700817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo6ji4 很简单，因为没有情绪管理能力，好过压抑情绪。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 系统内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQ9Up"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 528,
+          "like_count": 16760,
+          "listed_count": 7,
+          "media_count": 1759,
+          "tweet_count": 15043
+        },
+        "url": "https://t.co/aHC44HQ9Up",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:05:11.000Z",
+        "description": "一个业余的心理学和温和的无糖可乐爱好者",
+        "id": "1881946126829432832",
+        "name": "教导处方枪枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883216038399242240/KhFFWK1o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 119,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 838
+        },
+        "username": "Tchfang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的 @35zf_out @Fiammetta1453  @Bingfei2v2 @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）小狗@GLaDOS8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "35zf_out"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Bingfei2v2"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "mingnaisama"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "GLaDOS8964"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）",
+        "pinned_tweet_id": "1891417536954036561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 928,
+          "like_count": 107626,
+          "listed_count": 9,
+          "media_count": 1877,
+          "tweet_count": 23861
+        },
+        "username": "mo6ji4",
+        "verified": false
+      }
+    ]
+  }
+}

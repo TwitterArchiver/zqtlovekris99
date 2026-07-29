@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1859918806312992819",
+    "created_at": "2024-11-22T13:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T14:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859956594584465494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "LinNai19890604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859956594584465494",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859952428084596911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinNai19890604 小女孩是小女孩，我评价的是以为所有男孩都有过想当女孩，有一部分是跨性别，但是顺男想当女孩是出于什么心态呢，只是单纯觉得女生很美好吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1859952428084596911].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1859952428084596911",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1859952428084596911"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1859918806312992819",
+        "created_at": "2024-11-22T13:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T14:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859956594584465494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "LinNai19890604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859956594584465494",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859952428084596911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinNai19890604 小女孩是小女孩，我评价的是以为所有男孩都有过想当女孩，有一部分是跨性别，但是顺男想当女孩是出于什么心态呢，只是单纯觉得女生很美好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 性别认同不明/地雷女(男?) | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | 我会平等地攻击所有群体 | HRT 2023.05.29 | 🚪68不搞黄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀pr80的老婆",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5040,
+          "following_count": 495,
+          "like_count": 14839,
+          "listed_count": 4,
+          "tweet_count": 12553
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "🤐有不喜欢我的地方请直说，我不介意\n\n🥺优先过熟人，陌生人请优先关注大号\n\n⚠️有阴暗碎碎念和不友善蛐蛐内容，介意者可双取",
+        "id": "1800825433979797504",
+        "name": "冯琳柰🇭🇰🇲🇴（？）🇹🇼",
+        "pinned_tweet_id": "1858078050727964790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852451053905793024/yFvBTMeL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 114,
+          "like_count": 16305,
+          "listed_count": 0,
+          "tweet_count": 4380
+        },
+        "username": "LinNai19890604",
+        "verified": false
+      }
+    ]
+  }
+}

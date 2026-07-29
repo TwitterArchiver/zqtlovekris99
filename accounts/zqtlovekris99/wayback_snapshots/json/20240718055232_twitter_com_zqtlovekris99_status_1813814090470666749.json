@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1813769572736204801"
+      ],
+      "media_source_tweet_id": [
+        "1813769586040582624"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1813814090470666749",
+    "created_at": "2024-07-18T05:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T06:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813814090470666749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1664988013406089217",
+          "start": 3,
+          "username": "SUKI_2023wasted"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/1JxV6RpnDv",
+          "end": 85,
+          "expanded_url": "https://twitter.com/SUKI_2023wasted/status/1813769586040582624/video/1",
+          "media_key": "13_1813769572736204801",
+          "start": 62,
+          "url": "https://t.co/1JxV6RpnDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813814090470666749",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813769586040582624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUKI_2023wasted: 1kfo了开个敷衍的抽奖  不抽任何药了）\n条件关转赞评\n5个10r口令红包 ） https://t.co/1JxV6RpnDv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813814090470666749].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813814090470666749",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813814090470666749"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8800,
+        "height": 178,
+        "media_key": "13_1813769572736204801",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1813769572736204801/img/CKzAJEmQCokD6Zzz.jpg",
+        "public_metrics": {
+          "view_count": 171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1813769572736204801/vid/avc1/240x178/DcgMkbDQbqi2j7pd.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1813769572736204801/pl/G7L4A5r_0fmtPe7f.m3u8?tag=16"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1813769572736204801"
+          ]
+        },
+        "author_id": "1664988013406089217",
+        "conversation_id": "1813769586040582624",
+        "created_at": "2024-07-18T02:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T03:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813769586040582624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1JxV6RpnDv",
+              "end": 64,
+              "expanded_url": "https://twitter.com/SUKI_2023wasted/status/1813769586040582624/video/1",
+              "media_key": "13_1813769572736204801",
+              "start": 41,
+              "url": "https://t.co/1JxV6RpnDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813769586040582624",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 565,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo了开个敷衍的抽奖  不抽任何药了）\n条件关转赞评\n5个10r口令红包 ） https://t.co/1JxV6RpnDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal | 药物交流群 https://t.co/anaD3TmRm6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYA000",
+                "end": 93,
+                "expanded_url": "https://t.me/OLAIYA000",
+                "start": 70,
+                "url": "https://t.co/anaD3TmRm6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 514,
+          "like_count": 13285,
+          "listed_count": 8,
+          "tweet_count": 9808
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T13:31:13.000Z",
+        "description": "ftx🏳️‍⚧️｜泛｜🚩Ⓐ 🏴｜18⬆️｜shtwt🔪 /od💉",
+        "id": "1664988013406089217",
+        "name": "SUKI-2.0｜",
+        "pinned_tweet_id": "1813227843800989934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812633053459599360/Lw8QkHBu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 430,
+          "like_count": 12656,
+          "listed_count": 0,
+          "tweet_count": 3455
+        },
+        "username": "SUKI_2023wasted",
+        "verified": false
+      }
+    ]
+  }
+}

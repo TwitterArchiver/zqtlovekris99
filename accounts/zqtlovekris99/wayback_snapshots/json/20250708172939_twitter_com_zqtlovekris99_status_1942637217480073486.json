@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1942637146839605312"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1942637126568534390",
+    "created_at": "2025-07-08T17:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T18:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942637217480073486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJWnKfUVfC",
+          "end": 112,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1942637217480073486/video/1",
+          "media_key": "7_1942637146839605312",
+          "start": 89,
+          "url": "https://t.co/IJWnKfUVfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942637217480073486",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942637126568534390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "Lumin遵從著Laurel的指令，繼續一刀一刀劃下去。他面無表情地割著，聽著血滴聲一滴一滴落進垃圾桶裡，与剛扔進去的思諾思藥板發出的碰撞聲。滴答。滴答。多麼動聽的自然之聲啊。 https://t.co/IJWnKfUVfC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942637217480073486].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942637217480073486",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942637217480073486"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30813,
+        "height": 1080,
+        "media_key": "7_1942637146839605312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942637146839605312/pu/img/ujMJed3mhwmW3HMd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942637146839605312/pu/vid/avc1/480x270/V8VyD4MUcubPSbYO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942637146839605312/pu/vid/avc1/640x360/VwY6CLgLA4RsgFR3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942637146839605312/pu/vid/avc1/1280x720/_xOCBSEo0WkRvZd_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942637146839605312/pu/pl/A-fDemvGDrniQDIX.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1942637102807871488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvWiJwhbcAAf6nf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942637102807871488"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1942637126568534390",
+        "created_at": "2025-07-08T17:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T18:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942637126568534390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvMzANjhfB",
+              "end": 125,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1942637126568534390/photo/1",
+              "media_key": "3_1942637102807871488",
+              "start": 102,
+              "url": "https://t.co/bvMzANjhfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942637126568534390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "Laurel看著胳膊上微不可見的條形碼，突然急了，命令Lumin去給自己的身體多添幾道疤。也不知道是好久沒自殘了，痛感閾值降低了，還是刀本身就太鋒利了。劃出幾個涼蓆印，滲出一點小血珠，就感覺已經很痛了。 https://t.co/bvMzANjhfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀账号暂时由Lumin接管",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9087,
+          "following_count": 770,
+          "like_count": 19892,
+          "listed_count": 10,
+          "media_count": 2996,
+          "tweet_count": 19979
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

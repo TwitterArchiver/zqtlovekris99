@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      }
+    ],
+    "conversation_id": "1883366375269470543",
+    "created_at": "2025-01-26T05:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T06:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883389158208770401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1339937151262330881",
+          "start": 0,
+          "username": "TonyGonePostal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883389158208770401",
+    "in_reply_to_user_id": "1339937151262330881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883386634353385618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TonyGonePostal 我妈现在是全家最潮流小仙女，综艺挨个看，现在那些流量明星全认识，然后还喜欢宋亚轩，我不知道是谁，但知道是小白脸，反正她天天嘚嘚这人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "1883366375269470543",
+        "created_at": "2025-01-26T05:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883389158208770401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1339937151262330881",
+              "start": 0,
+              "username": "TonyGonePostal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883389158208770401",
+        "in_reply_to_user_id": "1339937151262330881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883386634353385618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TonyGonePostal 我妈现在是全家最潮流小仙女，综艺挨个看，现在那些流量明星全认识，然后还喜欢宋亚轩，我不知道是谁，但知道是小白脸，反正她天天嘚嘚这人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339937151262330881",
+        "conversation_id": "1883366375269470543",
+        "created_at": "2025-01-26T05:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883386634353385618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883386634353385618",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883386126767210627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 怎么你妈这个岁数的人还追星的吗...？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 518,
+          "like_count": 16032,
+          "listed_count": 6,
+          "media_count": 1613,
+          "tweet_count": 14245
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-18T14:14:58.000Z",
+        "description": "\"I regret nothing.\" / 17 / ISFJ / #Postal #Deltarune #Vocaloid #FNAF / Loving #VocaloidOliver #Ralsei",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "Postal"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "tag": "Deltarune"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "Vocaloid"
+              },
+              {
+                "end": 68,
+                "start": 63,
+                "tag": "FNAF"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "tag": "VocaloidOliver"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "Ralsei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Tonielle",
+                "end": 23,
+                "expanded_url": "http://t.me/Tonielle",
+                "start": 0,
+                "url": "https://t.co/q97ipeWlLQ"
+              }
+            ]
+          }
+        },
+        "id": "1339937151262330881",
+        "name": "🖤🤍Tonielle🙂✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845408413485826051/VEgJYoPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 54,
+          "like_count": 6831,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 3813
+        },
+        "url": "https://t.co/q97ipeWlLQ",
+        "username": "TonyGonePostal",
+        "verified": false
+      }
+    ]
+  }
+}

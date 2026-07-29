@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1797556454691655898",
+    "created_at": "2024-06-04T06:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-04T07:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797880435923628496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1585452233964982272",
+          "start": 0,
+          "username": "rainIcicles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797880435923628496",
+    "in_reply_to_user_id": "1585452233964982272",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797556454691655898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainIcicles 最后那段你看一下谱面预览，我一开始也是那段死活找不到音，但是找到了就很好打了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1797556454691655898].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1797556454691655898",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1797556454691655898"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1797556454691655898",
+        "created_at": "2024-06-04T06:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T07:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797880435923628496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1585452233964982272",
+              "start": 0,
+              "username": "rainIcicles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797880435923628496",
+        "in_reply_to_user_id": "1585452233964982272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797556454691655898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainIcicles 最后那段你看一下谱面预览，我一开始也是那段死活找不到音，但是找到了就很好打了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | ODer💊 | 软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3744,
+          "following_count": 502,
+          "like_count": 12714,
+          "listed_count": 5,
+          "tweet_count": 8859
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-27T02:04:33.000Z",
+        "description": "小小幼年蚊子一枚｜自言自语bot｜我爱嗑药皮肤好好｜情绪不稳定⚠️｜关注我就多看看我｜觉得我好吵建议赶紧双取不要犹豫喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TiramisuDaisuki",
+                "end": 23,
+                "expanded_url": "https://t.me/TiramisuDaisuki",
+                "start": 0,
+                "url": "https://t.co/YJGDVi7njQ"
+              }
+            ]
+          }
+        },
+        "id": "1585452233964982272",
+        "location": "徐汇区宛平南路600号",
+        "name": "蚊子",
+        "pinned_tweet_id": "1796680538578886711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789636424041713664/FSGpUS-1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 92,
+          "like_count": 45522,
+          "listed_count": 2,
+          "tweet_count": 11143
+        },
+        "url": "https://t.co/YJGDVi7njQ",
+        "username": "rainIcicles",
+        "verified": false
+      }
+    ]
+  }
+}

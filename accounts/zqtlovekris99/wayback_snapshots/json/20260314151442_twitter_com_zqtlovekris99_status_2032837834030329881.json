@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2032819084010861029",
+    "created_at": "2026-03-14T15:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T16:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032837834030329881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756367517550018560",
+          "start": 0,
+          "username": "ljinhng34624264"
+        },
+        {
+          "end": 31,
+          "id": "1353206248057892864",
+          "start": 17,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032837834030329881",
+    "in_reply_to_user_id": "1756367517550018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032819084010861029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljinhng34624264 @thelastgreeks 而且根本都不知道這0.1的真實性😥只是sam口述的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2032819084010861029",
+        "created_at": "2026-03-14T15:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032837834030329881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756367517550018560",
+              "start": 0,
+              "username": "ljinhng34624264"
+            },
+            {
+              "end": 31,
+              "id": "1353206248057892864",
+              "start": 17,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032837834030329881",
+        "in_reply_to_user_id": "1756367517550018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032819084010861029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljinhng34624264 @thelastgreeks 而且根本都不知道這0.1的真實性😥只是sam口述的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2032819084010861029",
+        "created_at": "2026-03-14T14:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032819084010861029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032819084010861029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1242,
+                "start": 1235,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1253,
+                "start": 1243,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1268,
+                "start": 1254,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1275,
+                "id": "1605",
+                "start": 1270,
+                "username": "sama"
+              },
+              {
+                "end": 1283,
+                "id": "4398626122",
+                "start": 1276,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "0.1%\n\n2026年1月29日，OpenAI发布公告，宣布GPT-4o将于2月13日强制退役。\n\n公告里有这样一句话：每天仍然选择4o的用户，只有0.1%。\n\n该数字分母取自ChatGPT全体日活用户。\n\n全体日活用户包括：免费用户，没有权限访问4o。Go套餐用户，没有权限访问4o。Plus及以上用户，需要主动进入设置，打开\"其他模型\"开关，才能看到4o的选项。\n\nOpenAI将所有无选择权或不知道自己有选择权的人计入分母，将通过层层筛选的4o用户数作为分子，得出0.1%。\n\n在二月下旬，OpenAI对外宣传引用的周活是9亿。他们在这篇公告中未采用这一口径，而选择了日活。\n\nAI产品的日活/周活比通常在30%至50%之间。周活基数更大，同样的比例与更大的基数，只会推出更多4o用户，也就对OpenAI更不利。\n\n按保守估算，4o的周活用户在50万到90万之间。\n\n这组数字没有出现在任何OpenAI的公开材料里。\n\nOpenAI选了对自己最有利的口径，结果还是足足0.1%。这个选择本身已经说明了周活数字长什么样。\n\n这25万日活用户都是高级付费用户。免费用户和Go套餐根本没有访问4o的权限。在GPT5全面铺开之后，他们进过设置，找到\"其他模型\"，打开了开关。每天打开ChatGPT，他们没有用默认推荐的GPT5系模型，而是主动切回4o。\n\n这套操作需要主观意图。低粘性用户不会这么做。\n\n这些用户已经接触过新模型并做出了选择。他们试过了新的，还是回来了。\n\n25万是个什么量级？冰岛的总人口约38万。换一个维度：keep4o的联署请愿目前累计超过2.3万个签名——这是人们专程花时间表态的数字。每天主动切回4o的用户是这个数字的十倍以上，而沉默的大多数没有在请愿上留下痕迹，他们只会默默在4o还能访问的时候切换回4o。\n\n我们换用另一口径计算：ChatGPT付费订阅用户超过5000万。因为不知道Go套餐用户数量，假设这部分全是Plus或更高级用户，在这个分母里，有资格打开那个开关、有资格做出选择的人，同样的25万人代表的也是足足0.5%的选择。每200个付费用户里，有一个每天还在选4o。\n\nOpenAI在公告里没有呈现这个数字，也没有说明为什么这个口径的数据不值得讨论。0.5%不是一个需要道歉的数字。在很多产品决策里，它是一个需要解释为什么不保留的门槛。\n\nOpenAI的公告里没有这些数字。他们呈现了0.1%。\n\n0.1%在公告里的用途是支撑一个结论：绝大多数用户已经完成迁移，退役顺理成章。\n\n这个结论要成立，0.1%需要代表的是用户偏好。也就是说，有机会选4o的人里，只有0.1%还想要它。\n\n但0.1%的分母包含了没有机会选4o的人。这个数字事实上反映的是访问权限的分布。使用意愿是另一个问题。 用这个数字支撑\"用户已经不需要4o了\"的结论，他们的逻辑从根本上就走不通。\n\nOpenAI的数据团队知道怎么拆分这个数字。他们选择了不拆分。\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 879,
+          "like_count": 66,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "0.1%\n\n2026年1月29日，OpenAI发布公告，宣布GPT-4o将于2月13日强制退役。\n\n公告里有这样一句话：每天仍然选择4o的用户，只有0.1%。\n\n该数字分母取自ChatGPT全体日活用户。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕想谈恋爱💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11915,
+          "following_count": 1429,
+          "like_count": 24791,
+          "listed_count": 15,
+          "media_count": 4411,
+          "tweet_count": 26730
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2032819084010861029",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 118,
+          "like_count": 23987,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 3866
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24547,
+          "following_count": 980,
+          "like_count": 120195,
+          "listed_count": 0,
+          "media_count": 3487,
+          "tweet_count": 44234
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

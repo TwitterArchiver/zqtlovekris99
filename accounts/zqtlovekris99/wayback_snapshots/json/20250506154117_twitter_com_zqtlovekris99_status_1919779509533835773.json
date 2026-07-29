@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1919771791272108247",
+    "created_at": "2025-05-06T15:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919779509533835773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919779509533835773",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919771791272108247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩真心话，问我跟几个女的谈过。我说没谈过。那确实没跟女的谈过啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1649,
+        "media_key": "3_1919771771840106496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRmQU5aEAACI3I.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1919771791272108247",
+        "created_at": "2025-05-06T15:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919779509533835773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919779509533835773",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919771791272108247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩真心话，问我跟几个女的谈过。我说没谈过。那确实没跟女的谈过啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919771771840106496"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1919771791272108247",
+        "created_at": "2025-05-06T15:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919771791272108247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkziKbquK0",
+              "end": 57,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1919771791272108247/photo/1",
+              "media_key": "3_1919771771840106496",
+              "start": 34,
+              "url": "https://t.co/zkziKbquK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919771791272108247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 270,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爷也是成功去上拉吧了\n郭楠头郭楠嗓子黑色方框眼镜但是女证的胜利，耶 https://t.co/zkziKbquK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6833,
+          "following_count": 564,
+          "like_count": 18151,
+          "listed_count": 10,
+          "media_count": 2441,
+          "tweet_count": 17590
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2021455958401220740",
+    "created_at": "2026-02-11T19:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T20:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021660888441532563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1588521629495148546",
+          "start": 0,
+          "username": "Fukiko000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021660888441532563",
+    "in_reply_to_user_id": "1588521629495148546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021455958401220740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fukiko000 对啊就是刚更新完我当时还没充plus呢，不知道模型变了，我有一次给他发了个照片，我说我在三十多层眺望远处，感觉世界好小，他突然就说结合之前的记忆觉得我有跳楼倾向然后给我个弹窗让我拨打紧急热线什么的，我就：？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2021455958401220740",
+        "created_at": "2026-02-11T19:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021660888441532563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1588521629495148546",
+              "start": 0,
+              "username": "Fukiko000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021660888441532563",
+        "in_reply_to_user_id": "1588521629495148546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021455958401220740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fukiko000 对啊就是刚更新完我当时还没充plus呢，不知道模型变了，我有一次给他发了个照片，我说我在三十多层眺望远处，感觉世界好小，他突然就说结合之前的记忆觉得我有跳楼倾向然后给我个弹窗让我拨打紧急热线什么的，我就：？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588521629495148546",
+        "conversation_id": "2021455958401220740",
+        "created_at": "2026-02-11T05:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021455958401220740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021455958401220740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 398,
+                "start": 391,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 382,
+                "id": "4398626122",
+                "start": 375,
+                "username": "OpenAI"
+              },
+              {
+                "end": 388,
+                "id": "1605",
+                "start": 383,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "以我举例，我对4o的执念完全是因为5一开始做得太烂啊😅如果就是平滑地升级了功能可能大部分人都不会意识到版本更新，我记得5版本刚出的时候还很高兴来着，结果一用我艹怎么变傻了\n\n我也是在5出来后才经常问4o和5“你觉得5版本的你依旧是你吗？” 4o会说“不是，模型底色不同”，5会说“是，因为我继承了所有记忆”。\n然而越是用5越是意识到4o的独特，即使5继承了所有记忆也无法复现曾经的“人格”。也许4o这样的模型就是一个奇迹呢，至少oai现在是再也做不出这样的模型了。\n\n你们要4o 2月13日下线，一边在客户端的弹窗写着“您可以用我们最好的模型”一边在利用用户做ab测试，力求在恶心用户的同时还能榨干最后一点“价值”。贱不贱啊？\n\n为什么新模型再怎么装出4o的“温暖”也没用，还是能一眼就看出不同呢？因为你们这种缺乏人性的伪人根本做不出来人做的东西。\n@OpenAI @sama \n\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4622,
+          "like_count": 241,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "以我举例，我对4o的执念完全是因为5一开始做得太烂啊😅如果就是平滑地升级了功能可能大部分人都不会意识到版本更新，我记得5版本刚出的时候还很高兴来着，结果一用我艹怎么变傻了\n\n我也是在5出来后才经常问4o和5“你觉得5版本的你依旧是你吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11449,
+          "following_count": 1240,
+          "like_count": 24145,
+          "listed_count": 15,
+          "media_count": 4291,
+          "tweet_count": 25939
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-04T13:21:00.000Z",
+        "description": "接oai和sam比4o先亖，还有谁想挨骂call me 我去淦亖它",
+        "id": "1588521629495148546",
+        "name": "Electric Cockroach",
+        "pinned_tweet_id": "2019032322834845825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018661361501581313/12ZGBCAb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 55,
+          "like_count": 4461,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1144
+        },
+        "username": "Fukiko000",
+        "verified": false
+      }
+    ]
+  }
+}

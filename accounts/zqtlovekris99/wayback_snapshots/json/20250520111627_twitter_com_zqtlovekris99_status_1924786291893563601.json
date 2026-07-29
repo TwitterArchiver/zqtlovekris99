@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1923024490906161538",
+    "created_at": "2025-05-20T11:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T12:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924786291893563601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875602452982198273",
+          "start": 0,
+          "username": "chiakiqingchuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924786291893563601",
+    "in_reply_to_user_id": "1875602452982198273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923024490906161538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiakiqingchuan 应该是没问题的，我之前买过凝胶"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924786291893563601].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924786291893563601",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924786291893563601"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1923024454118264832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_0jWob0AAaaYN.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923024454118264832"
+          ]
+        },
+        "author_id": "1875602452982198273",
+        "conversation_id": "1923024490906161538",
+        "created_at": "2025-05-15T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923024490906161538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VhurX3vsEN",
+              "end": 35,
+              "expanded_url": "https://x.com/chiakiqingchuan/status/1923024490906161538/photo/1",
+              "media_key": "3_1923024454118264832",
+              "start": 12,
+              "url": "https://t.co/VhurX3vsEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923024490906161538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pxx上这种药能买吗？ https://t.co/VhurX3vsEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 蓝v互关永不取关 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7517,
+          "following_count": 756,
+          "like_count": 18642,
+          "listed_count": 10,
+          "media_count": 2562,
+          "tweet_count": 18151
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-04T17:57:39.000Z",
+        "description": "ftm（x?）/泛性恋/皮下高二在读/来自浙江/左下⭐🇨🇳🇵🇸🇺🇦可以和我互fo嘛？🥺玩CODM（国服q区）可以加我",
+        "id": "1875602452982198273",
+        "location": "月球🌕",
+        "name": "29c🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875604735291764736/KdYp4h1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 178,
+          "like_count": 6208,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 357
+        },
+        "username": "chiakiqingchuan",
+        "verified": false
+      }
+    ]
+  }
+}

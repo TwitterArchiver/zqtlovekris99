@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1889024654272323999",
+    "created_at": "2025-02-10T18:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T19:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889024654272323999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/04177_realname/status/1889016608414388430",
+          "start": 36,
+          "url": "https://t.co/CInJ60Bmfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889024654272323999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889016608414388430",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最想去的五个國家\n1：美國\n2：台灣\n3：法國\n4：日本\n5：澳大利亞 https://t.co/CInJ60Bmfs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1889024654272323999",
+        "created_at": "2025-02-10T18:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889024654272323999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/04177_realname/status/1889016608414388430",
+              "start": 36,
+              "url": "https://t.co/CInJ60Bmfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889024654272323999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889016608414388430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最想去的五个國家\n1：美國\n2：台灣\n3：法國\n4：日本\n5：澳大利亞 https://t.co/CInJ60Bmfs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1889016608414388430",
+        "created_at": "2025-02-10T18:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889016608414388430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tornado_napoli…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/tornado_napoli/status/1888990492698071419",
+              "start": 37,
+              "url": "https://t.co/768llPg0LZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889016608414388430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888990492698071419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最想去的五个城市\n1：慕尼黑\n2：京都\n3：沈阳\n4：里昂\n5：斯里兰卡 https://t.co/768llPg0LZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1888515060076892385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 522,
+          "like_count": 16481,
+          "listed_count": 7,
+          "media_count": 1700,
+          "tweet_count": 14680
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "学习，工作和休息",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9640,
+          "following_count": 6242,
+          "like_count": 61648,
+          "listed_count": 28,
+          "media_count": 1911,
+          "tweet_count": 16380
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

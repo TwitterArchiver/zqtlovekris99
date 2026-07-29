@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056969855748997120"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2057357221827350977",
+    "created_at": "2026-05-21T07:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057357221827350977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1GuNydkIrH",
+          "end": 33,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2057357221827350977/photo/1",
+          "media_key": "3_2056969855748997120",
+          "start": 10,
+          "url": "https://t.co/1GuNydkIrH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057357221827350977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们这是什么游戏？ https://t.co/1GuNydkIrH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2056969855748997120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvTL32bAAAaUBx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056969855748997120"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2057357221827350977",
+        "created_at": "2026-05-21T07:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057357221827350977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GuNydkIrH",
+              "end": 33,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2057357221827350977/photo/1",
+              "media_key": "3_2056969855748997120",
+              "start": 10,
+              "url": "https://t.co/1GuNydkIrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057357221827350977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这是什么游戏？ https://t.co/1GuNydkIrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13076,
+          "following_count": 1595,
+          "like_count": 25783,
+          "listed_count": 16,
+          "media_count": 5027,
+          "tweet_count": 28122
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

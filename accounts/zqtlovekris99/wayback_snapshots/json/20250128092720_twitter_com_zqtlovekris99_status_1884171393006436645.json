@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884171387188961280",
+        "3_1884171386698285056"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1884171393006436645",
+    "created_at": "2025-01-28T09:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T10:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884171393006436645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FginpqN56X",
+          "end": 144,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1884171393006436645/photo/1",
+          "media_key": "3_1884171387188961280",
+          "start": 121,
+          "url": "https://t.co/FginpqN56X"
+        },
+        {
+          "display_url": "pic.x.com/FginpqN56X",
+          "end": 144,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1884171393006436645/photo/1",
+          "media_key": "3_1884171386698285056",
+          "start": 121,
+          "url": "https://t.co/FginpqN56X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884171393006436645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭之前闖禍了，紫餐的時候把傷口劃得太深，導致兩天了還沒結痂，一直流血，然後弄了個彈性繃帶可以把傷口捏住，這樣應該就能癒合了吧，我可不想去醫院縫針啊😭\n放心，我有好好消毒的😇還有，大眼睛是真的好看，就是後續有點難處理，所以竹蜻蜓説誰弄的誰負責 https://t.co/FginpqN56X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884171393006436645].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884171393006436645",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884171393006436645"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884171387188961280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiXr5NVaYAA9Tpg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1884171386698285056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiXr5LgbQAA9RPL.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 518,
+          "like_count": 16105,
+          "listed_count": 6,
+          "media_count": 1628,
+          "tweet_count": 14294
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

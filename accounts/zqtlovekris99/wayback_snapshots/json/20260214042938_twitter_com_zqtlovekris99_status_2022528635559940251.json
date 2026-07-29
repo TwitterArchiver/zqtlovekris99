@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2022407691109552494",
+    "created_at": "2026-02-14T04:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022528635559940251"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "4o",
+          "probability": 0.5681,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "keep4o",
+          "probability": 0.543,
+          "start": 36,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1714438092655149056",
+          "start": 0,
+          "username": "ChatGPTapp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022528635559940251",
+    "in_reply_to_user_id": "1714438092655149056",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022407691109552494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChatGPTapp bring 4o back assholes #keep4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2022407691109552494",
+        "created_at": "2026-02-14T04:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022528635559940251"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "4o",
+              "probability": 0.5681,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "keep4o",
+              "probability": 0.543,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1714438092655149056",
+              "start": 0,
+              "username": "ChatGPTapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022528635559940251",
+        "in_reply_to_user_id": "1714438092655149056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022407691109552494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChatGPTapp bring 4o back assholes #keep4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714438092655149056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2022407691109552494",
+        "created_at": "2026-02-13T20:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T21:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022407691109552494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/OpenAI/status/2022390096625078389",
+              "start": 47,
+              "url": "https://t.co/nRLCOfJD1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022407691109552494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 76855,
+          "like_count": 955,
+          "quote_count": 7,
+          "reply_count": 126,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022390096625078389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "research grade intelligence at your fingertips https://t.co/nRLCOfJD1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11504,
+          "following_count": 1280,
+          "like_count": 24182,
+          "listed_count": 15,
+          "media_count": 4308,
+          "tweet_count": 26012
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T00:27:53.000Z",
+        "description": "friendly robot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.com",
+                "end": 23,
+                "expanded_url": "https://chat.com/",
+                "start": 0,
+                "url": "https://t.co/4Om8Pmvm85"
+              }
+            ]
+          }
+        },
+        "id": "1714438092655149056",
+        "location": "Supercomputer",
+        "name": "ChatGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886916133917487104/dJrir79p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492641,
+          "following_count": 211,
+          "like_count": 870,
+          "listed_count": 2737,
+          "media_count": 46,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/4Om8Pmvm85",
+        "username": "ChatGPTapp",
+        "verified": true
+      }
+    ]
+  }
+}

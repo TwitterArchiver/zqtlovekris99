@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910387726031126529"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1910386870565167168",
+    "created_at": "2025-04-10T17:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T18:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910387730313629724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "kagurazakaSiri_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ec4psLYLu7",
+          "end": 50,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1910387730313629724/photo/1",
+          "media_key": "3_1910387726031126529",
+          "start": 27,
+          "url": "https://t.co/Ec4psLYLu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910387730313629724",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910386870565167168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakaSiri_ 谢谢已经在打交互了 https://t.co/Ec4psLYLu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1910387726031126529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoMPg-FaAAEUaaf.jpg",
+        "width": 1620
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1910386859617972224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoMOuicacAA0U_t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910387726031126529"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1910386870565167168",
+        "created_at": "2025-04-10T17:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T18:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910387730313629724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "kagurazakaSiri_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ec4psLYLu7",
+              "end": 50,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1910387730313629724/photo/1",
+              "media_key": "3_1910387726031126529",
+              "start": 27,
+              "url": "https://t.co/Ec4psLYLu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910387730313629724",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910386870565167168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakaSiri_ 谢谢已经在打交互了 https://t.co/Ec4psLYLu7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910386859617972224"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1910386870565167168",
+        "created_at": "2025-04-10T17:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T18:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910386870565167168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqmSmq7gFO",
+              "end": 124,
+              "expanded_url": "https://x.com/kagurazakaSiri_/status/1910386870565167168/photo/1",
+              "media_key": "3_1910386859617972224",
+              "start": 101,
+              "url": "https://t.co/sqmSmq7gFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910386870565167168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "息が詰まる 息が詰まる 息が詰まる 息が詰まる 息が詰まる 息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる息が詰まる https://t.co/sqmSmq7gFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 526,
+          "like_count": 17537,
+          "listed_count": 8,
+          "media_count": 2049,
+          "tweet_count": 16413
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍🌈MtX/因为沾染了舞萌所以变得不幸/术力口&東方project/ASD&ADHD/♿️maimaiでらっくす/前https://t.co/UmzmLuA9oi编辑/💢入坑maimai since 2024.11.1 /😢9.00流速全外玩家/7sRef&天空街/头像 (from:東京喰種)@sotonami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 149,
+                "username": "sotonami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 83,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 60,
+                "url": "https://t.co/UmzmLuA9oi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆",
+        "name": "翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906796197278523392/2eeHkFvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 693,
+          "like_count": 16910,
+          "listed_count": 6,
+          "media_count": 812,
+          "tweet_count": 5975
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": false
+      }
+    ]
+  }
+}

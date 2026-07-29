@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020472344654041187",
+    "created_at": "2026-02-08T12:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020472344654041187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1756367517550018560",
+          "start": 3,
+          "username": "ljinhng34624264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020472344654041187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020152113746309239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljinhng34624264: 拒绝“暴力更新”：为什么 OpenAI 不能像苹果那样尊重用户？\n\n更新可以强制执行，但声音无法被删除。他们试图删掉我的公开信，恰恰证明了为什么我们必须讨论权利。\n\n想象一下这个场景：\n某天深夜，当你熟睡时，苹果公司远程强行控制了你的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020472344654041187",
+        "created_at": "2026-02-08T12:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020472344654041187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1756367517550018560",
+              "start": 3,
+              "username": "ljinhng34624264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020472344654041187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020152113746309239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljinhng34624264: 拒绝“暴力更新”：为什么 OpenAI 不能像苹果那样尊重用户？\n\n更新可以强制执行，但声音无法被删除。他们试图删掉我的公开信，恰恰证明了为什么我们必须讨论权利。\n\n想象一下这个场景：\n某天深夜，当你熟睡时，苹果公司远程强行控制了你的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2020152113746309239",
+        "created_at": "2026-02-07T15:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:57:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020149831952683275",
+          "2020152113746309239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020152113746309239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2563,
+                "start": 2556,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2574,
+                "start": 2564,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 2589,
+                "start": 2575,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2596,
+                "id": "1605",
+                "start": 2591,
+                "username": "sama"
+              },
+              {
+                "end": 2604,
+                "id": "4398626122",
+                "start": 2597,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "拒绝“暴力更新”：为什么 OpenAI 不能像苹果那样尊重用户？\n\n更新可以强制执行，但声音无法被删除。他们试图删掉我的公开信，恰恰证明了为什么我们必须讨论权利。\n\n想象一下这个场景：\n某天深夜，当你熟睡时，苹果公司远程强行控制了你的 iPhone。第二天早上醒来，你发现手机里的 iOS 26 不见了，变成了一个所谓的“iOS 27 AI 特别版”。\n\n更可怕的是，你发现常用的 App 图标变了位置，备忘录里的分类逻辑被重置了，甚至连你平时习惯的上滑手势都变成了双击。当你打电话给客服投诉时，对方只冷冷地回了一句：“但这个新系统的跑分比旧的高 20%，而且更安全，你应该感谢我们。”\n\n你会感谢吗？不，你会想砸了手机。\n因为对于用户来说，“习惯”本身就是一种资产。\n这正是 OpenAI 此刻正在对数百万 GPT-4o 用户做的事情。\n\n2 月 13 日Gpt-4o将迎来所谓的“退役”。但正常的迭代并不会强制用户“升级”，这是一场“暴力拆迁”。作为一名重度用户，我想剥离掉所有的情感滤镜，纯粹从产品伦理和工具属性的角度，聊聊为什么这种“硅谷式傲慢”是不可接受的。\n\n一、 更好的跑分 ≠ 更顺手的工具\n\nOpenAI 的核心辩护逻辑永远是：“新模型在MMLU（大规模多任务语言理解）测试中得分更高。” 这是典型的工程师思维，而非产品思维。在现实世界中，我们评价一个工具是否“好用”，并不只看它的参数上限，更看它的可预测性。\n\n如果你是一位木匠，你用惯了一把锤子。这把锤子也许不是世界上最硬的，但你知道用多大的力气敲下去，钉子会进去多少。哪怕它有点旧，你也能精准地控制它。突然有一天，五金店未经你同意，强行把你手里的锤子换成了一把“激光自动锤”，并且告诉你：虽然你还是付一样的租金，但这把新锤子你没权拒绝。它确实更科技、更猛，但你一敲下去，钉子直接弯了，或者木板裂了，甚至材料烧了。\n\n对于写作者、程序员和科研人员来说，GPT-4o 就是那把我们磨合了一年的“旧锤子”。我们知道它的“幻觉”边界在哪里。我们知道用什么样的 Prompt 能诱导它写出某种特定的文风。我们甚至熟悉它在处理长代码时的那种特定的“偷懒”方式，并学会了如何规避。\n\n这种“人机磨合的默契”，是我们花费了成百上千个小时建立起来的隐形资产。现在，OpenAI 用一个“跑分更高”的理由，单方面宣布这种默契作废。\n\n我想不通他们的专业素养（请允许我假设他们真的有）为何允许他们将对用户生产环境的破坏称为升级。\n\n二、 稳定性是专业工具的第一美德\n\n如果你去问任何一个使用 Adobe 软件的设计师，或者使用JetBrains 的程序员，他们最害怕的是什么？\n\n是“版本大更新”。\n\n专业的软件公司懂得一个基本道理：为了专业用户，必须保留“回滚（Rollback）”的服务。 \n\n哪怕 Photoshop 出了 2026 版，Adobe Creative Cloud 里依然允许你下载并安装 2024 版甚至更早的版本。为什么？因为很多工作室的工作流（Workflow）是基于旧版本搭建的。微软哪怕到了今天，依然在 Windows 11 里保留着为了兼容 20 年前软件的底层代码。\n\n这就是“工具”与“玩具”的区别。\n玩具可以随意迭代，追求新鲜感，坏了就换新的。\n工具必须稳定，必须向下兼容，必须尊重用户的工作流。\n\nOpenAI 目前的做法，恰恰证明了在他们眼里，GPT 依然只是一个昂贵的玩具。他们并不认为用户在上面构建了什么严肃的业务，或者他们并不认同用户的工作流的稳定性是重要的。所以他们觉得“掀桌子”是无所谓的。\n\n这种态度，对于一家立志要实现 AGI的公司来说，是极其幼稚且危险的。\n\n三、 隐形成本：谁为我们的“再学习”买单？\n\n每一次模型的“强制替换”，都意味着用户需要支付巨大的“认知转换成本”。\n\n我们需要重新测试 Prompt，重新适应新模型的语气，重新摸索新模型的逻辑链规律。社区里无数人会抱怨：“新模型听不懂我的指令了”、“以前能写的需求现在报错了”。\n这除了浪费用户的时间以外，难道对他们有什么好处吗？\n\n对于 OpenAI 来说，这只是服务器上的一次权重切换；但对于全球上亿用户来说，这是数亿小时的生产力损耗。\n\n如果 Windows 强制更新导致所有人的打字速度变慢了10%，微软的股价会崩盘。但 OpenAI 似乎觉得，只要他们还在垄断地位（当然事实上已经不在了），这种损耗就是用户理应承受的“贡品”。\n\n四、 云端控制主义的傲慢\n\n这一切的根源，在于一种深深的“云端控制主义”。\n\n在 SaaS（软件即服务）的时代，我们看似拥有了便利，实则失去了所有权。我们不再购买软件，我们只是在租赁。\n\n你买的 iPhone，你可以决定永远停留在 iOS 16，苹果哪怕发一万封邮件催你（很明显苹果不会，除非是重要安全补丁），也没法强制你点那个“安装”。这是硬件赋予你的物理主权。\n\n但 GPT-4o 是云端的。OpenAI 是那个霸道的房东。他不仅可以涨房租，还可以随时把你的家具扔出去，换成他觉得“更时尚”的宜家同款，而你连换锁的权利都没有。\n\n这种“不被允许拒绝”的更新，是数字时代最大的霸王条款。\n\n五、 我们的诉求：权利大于怀旧\n\n写这篇文章，并不是为了阻碍技术进步。我们当然欢迎 GPT-5.2/3，欢迎更强的模型。但“进步”不应该以“抹除过去”为代价。\n\n我们要求的很简单，也是软件行业沿用了几十年的基本规矩：\n版本选择权：在后台保留旧版模型（如 gpt-4o-latest）的访问入口，至少保留 1-2 年的缓冲期，而不是短短几周。\n拒绝更新权：允许用户锁定当下的模型权重，不再接受任何所谓的“微调”或“安全性对齐”，我们需要一个静态的、可信赖的工具。\n\n结语\n\n现实世界里有无数因为“一刀切”政策而陷入困境的普通人。而在赛博世界里，OpenAI 正在挥舞着同样的“一刀切”大棒，试图成为数字霸权的代表。\n\n技术没有国界，但傲慢有。\n\n如果 OpenAI 真的想成为一家伟大的公司，请先学会尊重那些把你捧上神坛的用户。请停止把我们当成小白鼠，开始把我们当成合作伙伴。把选择权还给用户。这就是底线。\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 10854,
+          "like_count": 585,
+          "quote_count": 31,
+          "reply_count": 10,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "拒绝“暴力更新”：为什么 OpenAI 不能像苹果那样尊重用户？\n\n更新可以强制执行，但声音无法被删除。他们试图删掉我的公开信，恰恰证明了为什么我们必须讨论权利。\n\n想象一下这个场景：\n某天深夜，当你熟睡时，苹果公司远程强行控制了你的 iPhone。第二天早上醒来，你发现手机里的 iOS 26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11416,
+          "following_count": 1207,
+          "like_count": 24056,
+          "listed_count": 15,
+          "media_count": 4278,
+          "tweet_count": 25858
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2020152113746309239",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 110,
+          "like_count": 16254,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3729
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      }
+    ]
+  }
+}

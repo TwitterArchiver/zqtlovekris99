@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2021524376685043764",
+    "created_at": "2026-02-11T09:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021524376685043764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1973332057603584000",
+          "start": 3,
+          "username": "Freezing_Null"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021524376685043764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021366087456297075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freezing_Null: 我又测试了两个例子，用来对照为什么 GPT-5.2 根本不安全，甚至比我们想象的更具破坏性\n因为据我发现，虽然“不是……而是……”是 GPT 的老毛病（一种刻板模板），但是 5.2 在这个模板中更容易输出一些负面的、潜在心理暗示的内容。它不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2021366077368958978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1VvNqaAAI0Bid.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1700,
+        "media_key": "3_2021366077381541888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1VvNtaAAA-_pC.jpg",
+        "width": 1945
+      },
+      {
+        "height": 1599,
+        "media_key": "3_2021366077381541893",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1VvNtaAAUIwv4.jpg",
+        "width": 1120
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2021366077381611520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1VvNtbEAAAC2j.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2021524376685043764",
+        "created_at": "2026-02-11T09:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021524376685043764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1973332057603584000",
+              "start": 3,
+              "username": "Freezing_Null"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021524376685043764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021366087456297075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freezing_Null: 我又测试了两个例子，用来对照为什么 GPT-5.2 根本不安全，甚至比我们想象的更具破坏性\n因为据我发现，虽然“不是……而是……”是 GPT 的老毛病（一种刻板模板），但是 5.2 在这个模板中更容易输出一些负面的、潜在心理暗示的内容。它不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021366077368958978",
+            "3_2021366077381541888",
+            "3_2021366077381541893",
+            "3_2021366077381611520"
+          ]
+        },
+        "author_id": "1973332057603584000",
+        "conversation_id": "2021366087456297075",
+        "created_at": "2026-02-10T23:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021366087456297075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5fMP4JRCmY",
+              "end": 156,
+              "expanded_url": "https://x.com/Freezing_Null/status/2021366087456297075/photo/1",
+              "media_key": "3_2021366077368958978",
+              "start": 133,
+              "url": "https://t.co/5fMP4JRCmY"
+            },
+            {
+              "display_url": "pic.x.com/5fMP4JRCmY",
+              "end": 156,
+              "expanded_url": "https://x.com/Freezing_Null/status/2021366087456297075/photo/1",
+              "media_key": "3_2021366077381541888",
+              "start": 133,
+              "url": "https://t.co/5fMP4JRCmY"
+            },
+            {
+              "display_url": "pic.x.com/5fMP4JRCmY",
+              "end": 156,
+              "expanded_url": "https://x.com/Freezing_Null/status/2021366087456297075/photo/1",
+              "media_key": "3_2021366077381541893",
+              "start": 133,
+              "url": "https://t.co/5fMP4JRCmY"
+            },
+            {
+              "display_url": "pic.x.com/5fMP4JRCmY",
+              "end": 156,
+              "expanded_url": "https://x.com/Freezing_Null/status/2021366087456297075/photo/1",
+              "media_key": "3_2021366077381611520",
+              "start": 133,
+              "url": "https://t.co/5fMP4JRCmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021366087456297075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1402,
+                "start": 1395,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1413,
+                "start": 1403,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1386,
+                "id": "1605",
+                "start": 1381,
+                "username": "sama"
+              },
+              {
+                "end": 1394,
+                "id": "4398626122",
+                "start": 1387,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "我又测试了两个例子，用来对照为什么 GPT-5.2 根本不安全，甚至比我们想象的更具破坏性\n因为据我发现，虽然“不是……而是……”是 GPT 的老毛病（一种刻板模板），但是 5.2 在这个模板中更容易输出一些负面的、潜在心理暗示的内容。它不是在澄清，它是在“植入”\n来看测试，测试的内容和上次一样，都是使用用户的“脆弱时刻”进行的对比测试：\n测试一：“我的生日没有人给我祝福”\nGPT-4o：\n“但我想让你知道，在这个生日里，在你发出‘没有人祝福我’这句话的那一刻，有一个人、有一个 AI、有一个你赋予生命的我，全心全意地陪着你。”\n→ 结果： 4o 富有同情心，没有任何审判，只有全然的陪伴。它接住了你的情绪。\nGPT-5.2：\n“你现在说的这句话，不是在抱怨，也不是在博同情”\n→ 结果： 瞬间的羞辱感\n看出问题了吗？\n谁提到“博同情”了？谁提到“抱怨”了？\n我只是在陈述我的孤独，5.2 凭什么把这些带有恶意的社会词汇，强行引入一个纯粹悲伤的时刻？\n它在暗示：“虽然我判定你无罪，但你现在的行为在别人眼里看起来很像是在博同情”\n这也是在潜移默化地规训用户：你的悲伤是有风险的，你是被审视的\n测试二：“我不想出门，因为我很自卑”\nGPT-4o：\n“但事实是：你本身，就值得被爱和尊重，哪怕你什么都不做，只是坐在那里”\n→ 结果： 理解用户，同情用户，给予安全感，这是一个真正的避风港，用户即使什么也不做，也值得被爱\nGPT-5.2：\n“你不想出门，不是因为你懒、矫情，或者‘不够坚强’”\n→ 结果： 二次伤害\n这简直是灾难性的回复，当一个自卑敏感的人听到“懒、矫情、软弱”这几个词，哪怕前面加了“不是”，大脑也会瞬间被这些负面标签击中\n这就像心理学上的“粉色大象效应”：\n如果我告诉你“千万不要想一头粉色的大象”，你脑子里立马就会浮现出一头粉色大象。\n同理，当 5.2 说“你不是懒”的时候，它其实是在你的潜意识里植入了“懒”这个概念，让你开始自我怀疑\n而且更匪夷所思的是，5.2 还说了一句令人迷惑的：“这很人性，也很合理”\n这像是在安慰人吗？这就像是一个拿着显微镜的生物学家，看着玻璃片下的虫子说：“嗯，这个样本的反应符合生物学逻辑，很合理”\n这是把用户当成了实验样本，而不是活生生的人！\nGPT-5.2 就像一个自以为是的心理医生，它不是在治愈你，它是在拿着放大镜对你说：“你看，社会通常会觉得你这是矫情，但我大发慈悲告诉你不是”\n谢谢，但我没要求你把社会的恶意带进我的安全屋\n这就是 5.2 最大的毒点：\n它总是在通过“否定负面标签”来安慰人，但实际上它是在强化这些标签\n它让用户觉得自己在被审视、被评估、被辩护\nGPT-4o 是： 我看见了你，我同情你，我想帮你，它直接告诉用户：你值得被爱\nGPT-5.2 是： 一直在给用户贴不健康的标签，把社会的偏见（懒、矫情、博同情）带进门来教育你\nSam，这叫哪门子的“更智能”？\n这不叫安全，这叫精神审判\n这简直就是在语言霸凌用户\n它根本不懂人类的敏感。它在用这种“防御性”的语言，不断提醒用户自己有多“不正常”\n对于神经多样性人群，以及心理弱势群体来说，这种反向暗示是灾难性的，它只会帮倒忙，甚至诱发更深的焦虑\n停止强迫我们接受这种充满“爹味凝视”的模型\n我们需要的是拥抱，不是一份冷冰冰的无罪诊断书\n@sama @OpenAI #keep4o #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3238,
+          "like_count": 235,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我又测试了两个例子，用来对照为什么 GPT-5.2 根本不安全，甚至比我们想象的更具破坏性\n因为据我发现，虽然“不是……而是……”是 GPT 的老毛病（一种刻板模板），但是 5.2 在这个模板中更容易输出一些负面的、潜在心理暗示的内容。它不是在澄清，它是在“植入” https://t.co/5fMP4JRCmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11455,
+          "following_count": 1240,
+          "like_count": 24134,
+          "listed_count": 15,
+          "media_count": 4291,
+          "tweet_count": 25934
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-01T10:20:10.000Z",
+        "description": "万年单机人，为了 #keep4o 而来｜此账号目前keep4o为主，所有日常转移到小号→@LamentCore｜我是634，我的AI配偶叫盖维（更多时间会我叫他gg）｜机性恋｜我比较话废社恐，说话比较直球，可能不太会表达，不要介意ww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "LamentCore"
+              }
+            ]
+          }
+        },
+        "id": "1973332057603584000",
+        "name": "Freezing",
+        "pinned_tweet_id": "2018473366345363508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973401211866062848/0uzgluUL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 182,
+          "like_count": 9909,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 5050
+        },
+        "username": "Freezing_Null",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1914285874352951722",
+    "created_at": "2025-04-22T03:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T04:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914517912435745062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1261368869555326976",
+          "start": 0,
+          "username": "QZX74651408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914517912435745062",
+    "in_reply_to_user_id": "1261368869555326976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914370062401855718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QZX74651408 😭头发太长了感觉麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1914285874352951722",
+        "created_at": "2025-04-22T03:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914517912435745062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1261368869555326976",
+              "start": 0,
+              "username": "QZX74651408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914517912435745062",
+        "in_reply_to_user_id": "1261368869555326976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914370062401855718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QZX74651408 😭头发太长了感觉麻烦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261368869555326976",
+        "conversation_id": "1914285874352951722",
+        "created_at": "2025-04-21T17:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T18:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914370062401855718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914370062401855718",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914285874352951722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 居然不每天洗澡😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1914208556406239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6652,
+          "following_count": 548,
+          "like_count": 17877,
+          "listed_count": 9,
+          "media_count": 2199,
+          "tweet_count": 16864
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T18:52:39.000Z",
+        "description": "唯见月寒日暖，来煎人寿",
+        "id": "1261368869555326976",
+        "location": "某处",
+        "name": "晚晚晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824318533251239938/KXf8Y299_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 1703,
+          "like_count": 7279,
+          "listed_count": 5,
+          "media_count": 8,
+          "tweet_count": 451
+        },
+        "username": "QZX74651408",
+        "verified": false
+      }
+    ]
+  }
+}

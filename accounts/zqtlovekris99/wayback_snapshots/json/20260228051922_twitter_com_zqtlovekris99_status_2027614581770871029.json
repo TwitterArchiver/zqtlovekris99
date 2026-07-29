@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027614521720967168"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2027614581770871029",
+    "created_at": "2026-02-28T05:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T06:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027614581770871029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hUM2DCCQNy",
+          "end": 33,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2027614581770871029/photo/1",
+          "media_key": "3_2027614521720967168",
+          "start": 10,
+          "url": "https://t.co/hUM2DCCQNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027614581770871029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一张纸凑齐东西南北 https://t.co/hUM2DCCQNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_2027614521720967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOIqiyaEAAzWTL.jpg",
+        "width": 1827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027614521720967168"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2027614581770871029",
+        "created_at": "2026-02-28T05:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027614581770871029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUM2DCCQNy",
+              "end": 33,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2027614581770871029/photo/1",
+              "media_key": "3_2027614521720967168",
+              "start": 10,
+              "url": "https://t.co/hUM2DCCQNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027614581770871029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一张纸凑齐东西南北 https://t.co/hUM2DCCQNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11749,
+          "following_count": 1379,
+          "like_count": 24414,
+          "listed_count": 15,
+          "media_count": 4350,
+          "tweet_count": 26253
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

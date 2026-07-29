@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1929494578023043368",
+    "created_at": "2025-06-02T11:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T12:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929494578023043368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NeKosora0228/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/NeKosora0228/status/1929485801999532032",
+          "start": 3,
+          "url": "https://t.co/AMcTPy4452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929494578023043368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929485801999532032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好诶 https://t.co/AMcTPy4452"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1929485742830686208",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GsbpD2yakAAAvXy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GsbpD2yakAAAvXy.mp4"
+          }
+        ],
+        "width": 350
+      },
+      {
+        "height": 1000,
+        "media_key": "3_1929485742818156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsbpD2vbYAA86Qx.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1929494578023043368",
+        "created_at": "2025-06-02T11:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929494578023043368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NeKosora0228/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/NeKosora0228/status/1929485801999532032",
+              "start": 3,
+              "url": "https://t.co/AMcTPy4452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929494578023043368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929485801999532032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好诶 https://t.co/AMcTPy4452"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1929485742830686208",
+            "3_1929485742818156544"
+          ]
+        },
+        "author_id": "1180509370833989632",
+        "conversation_id": "1929485801999532032",
+        "created_at": "2025-06-02T10:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T11:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929485801999532032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9mVNcjr3E",
+              "end": 46,
+              "expanded_url": "https://x.com/NeKosora0228/status/1929485801999532032/photo/1",
+              "media_key": "16_1929485742830686208",
+              "start": 23,
+              "url": "https://t.co/F9mVNcjr3E"
+            },
+            {
+              "display_url": "pic.x.com/F9mVNcjr3E",
+              "end": 46,
+              "expanded_url": "https://x.com/NeKosora0228/status/1929485801999532032/photo/1",
+              "media_key": "3_1929485742818156544",
+              "start": 23,
+              "url": "https://t.co/F9mVNcjr3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929485801999532032",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 来看猫猫后空翻 https://t.co/F9mVNcjr3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第2天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7934,
+          "following_count": 668,
+          "like_count": 19009,
+          "listed_count": 10,
+          "media_count": 2673,
+          "tweet_count": 18643
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-05T15:45:51.000Z",
+        "description": "对象🥰@zqtlovekris99｜Mtx👉友跨顺男｜INFJ｜ADHD重度患者｜可以互fo噢～（没回关到可以私信我）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1180509370833989632",
+        "location": "根據相關法律法規和政策，該位置末予顯示",
+        "name": "Ocean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922527463264976896/G9ub6TzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 495,
+          "like_count": 5676,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 548
+        },
+        "username": "NeKosora0228",
+        "verified": false
+      }
+    ]
+  }
+}

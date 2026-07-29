@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2042502374758265178",
+    "created_at": "2026-04-11T17:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043019628956520659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040970554635931648",
+          "start": 0,
+          "username": "MercyForerverU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043019628956520659",
+    "in_reply_to_user_id": "2040970554635931648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042502374758265178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MercyForerverU Σ( ° △ °|||)︴我一直以为你是顺女"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2042502374758265178].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042502374758265178",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2042502374758265178"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2042502374758265178",
+        "created_at": "2026-04-11T17:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043019628956520659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040970554635931648",
+              "start": 0,
+              "username": "MercyForerverU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043019628956520659",
+        "in_reply_to_user_id": "2040970554635931648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042502374758265178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MercyForerverU Σ( ° △ °|||)︴我一直以为你是顺女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "迷茫…\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 日常 @nktblovekris99 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2042944558267535660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11898,
+          "following_count": 1454,
+          "like_count": 25097,
+          "listed_count": 16,
+          "media_count": 4544,
+          "tweet_count": 27317
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "我也许永远在你身边。\nHer/She,BD/DPDR\nMTX，希望大家喜欢；💊#Drugtwt/#shtwt\n就说这么多吧....欢迎私信了解更多关于我。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "Drugtwt"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "shtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o1",
+                "start": 0,
+                "url": "https://t.co/Ry4ztU7893"
+              }
+            ]
+          }
+        },
+        "id": "2040970554635931648",
+        "location": "ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2042111686975623246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042130236528361472/DoFAj1dM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 107,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/Ry4ztU7893",
+        "username": "MercyForerverU",
+        "verified": false
+      }
+    ]
+  }
+}

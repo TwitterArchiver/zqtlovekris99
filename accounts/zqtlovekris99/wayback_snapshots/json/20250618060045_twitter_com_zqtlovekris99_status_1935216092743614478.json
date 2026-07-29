@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935216090352861188"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1934947550420943023",
+    "created_at": "2025-06-18T06:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T07:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935216092743614478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1752337393544544256",
+          "start": 0,
+          "username": "xdnlnpg"
+        },
+        {
+          "end": 22,
+          "id": "1684788748582883328",
+          "start": 9,
+          "username": "Martim036145"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w60oEyMt2P",
+          "end": 52,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1935216092743614478/photo/1",
+          "media_key": "3_1935216090352861188",
+          "start": 29,
+          "url": "https://t.co/w60oEyMt2P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935216092743614478",
+    "in_reply_to_user_id": "1752337393544544256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935143929671991661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xdnlnpg @Martim036145 先割割你的 https://t.co/w60oEyMt2P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 261,
+        "media_key": "3_1935216090352861188",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttEx-0aQAQfyGK.jpg",
+        "width": 366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935216090352861188"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1934947550420943023",
+        "created_at": "2025-06-18T06:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T07:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935216092743614478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1752337393544544256",
+              "start": 0,
+              "username": "xdnlnpg"
+            },
+            {
+              "end": 22,
+              "id": "1684788748582883328",
+              "start": 9,
+              "username": "Martim036145"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w60oEyMt2P",
+              "end": 52,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1935216092743614478/photo/1",
+              "media_key": "3_1935216090352861188",
+              "start": 29,
+              "url": "https://t.co/w60oEyMt2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935216092743614478",
+        "in_reply_to_user_id": "1752337393544544256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935143929671991661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xdnlnpg @Martim036145 先割割你的 https://t.co/w60oEyMt2P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752337393544544256",
+        "conversation_id": "1934947550420943023",
+        "created_at": "2025-06-18T01:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T02:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935143929671991661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684788748582883328",
+              "start": 0,
+              "username": "Martim036145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935143929671991661",
+        "in_reply_to_user_id": "1684788748582883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 696,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934947550420943023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martim036145 如果要关的话，在中国的话\n没割就关男的，割了关女的\n这个看第二性征，割了就说明没了属于女性第二性征，反之关男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒OD第∞天）每天都是最后一天OD",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8163,
+          "following_count": 692,
+          "like_count": 19416,
+          "listed_count": 10,
+          "media_count": 2815,
+          "tweet_count": 19283
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T14:27:07.000Z",
+        "description": "🫀",
+        "id": "1752337393544544256",
+        "location": "everywhere",
+        "name": "笑得挠了挠屁股",
+        "pinned_tweet_id": "1919745022179627300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928108842791096321/R1V2svsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 133,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 187
+        },
+        "username": "xdnlnpg",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:52:13.000Z",
+        "description": "ftm/激素四年左右/酗酒时长两年半/大陆下水道粪蛆/赛博模拟社交机器/十年精神病患者/巨剑神教狂热皈依者/所有药娘的爸爸/菜刀剃头真男人🔪🙏🏻/啃老又恨老/间歇性想死",
+        "id": "1684788748582883328",
+        "name": "菜刀剃头教教主🏳️‍⚧️",
+        "pinned_tweet_id": "1783089954052284777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892816510894092288/wAtxave-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 942,
+          "like_count": 9492,
+          "listed_count": 1,
+          "media_count": 697,
+          "tweet_count": 3943
+        },
+        "username": "Martim036145",
+        "verified": false
+      }
+    ]
+  }
+}

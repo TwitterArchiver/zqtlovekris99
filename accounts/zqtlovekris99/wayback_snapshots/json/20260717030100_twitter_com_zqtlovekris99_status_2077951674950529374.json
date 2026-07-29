@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077811053275295744"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2077951674950529374",
+    "created_at": "2026-07-17T03:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077951674950529374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XTj9kTB3fu",
+          "end": 31,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2077951674950529374/photo/1",
+          "media_key": "3_2077811053275295744",
+          "start": 8,
+          "url": "https://t.co/XTj9kTB3fu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077951674950529374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "地图说的是对的 https://t.co/XTj9kTB3fu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_2077811053275295744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXeJOzasAAWDA6.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077811053275295744"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2077951674950529374",
+        "created_at": "2026-07-17T03:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077951674950529374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTj9kTB3fu",
+              "end": 31,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2077951674950529374/photo/1",
+              "media_key": "3_2077811053275295744",
+              "start": 8,
+              "url": "https://t.co/XTj9kTB3fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077951674950529374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地图说的是对的 https://t.co/XTj9kTB3fu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13797,
+          "following_count": 1761,
+          "like_count": 26502,
+          "listed_count": 17,
+          "media_count": 5693,
+          "tweet_count": 29451
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

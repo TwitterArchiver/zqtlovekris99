@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2017345339754426731",
+    "created_at": "2026-01-31T09:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T10:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017528069477830728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678682850131070977",
+          "start": 0,
+          "username": "cr_paldea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017528069477830728",
+    "in_reply_to_user_id": "1678682850131070977",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017345339754426731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cr_paldea they didn't even have any provement that there're really 0.1%, im wondering is it true"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2017345339754426731",
+        "created_at": "2026-01-31T09:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017528069477830728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678682850131070977",
+              "start": 0,
+              "username": "cr_paldea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017528069477830728",
+        "in_reply_to_user_id": "1678682850131070977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017345339754426731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cr_paldea they didn't even have any provement that there're really 0.1%, im wondering is it true"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678682850131070977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017345339754426731",
+        "created_at": "2026-01-30T21:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T22:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017345339754426731"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 130,
+              "normalized_text": "OpenAI",
+              "probability": 0.7569,
+              "start": 125,
+              "type": "Other"
+            },
+            {
+              "end": 254,
+              "normalized_text": "keep4o",
+              "probability": 0.4707,
+              "start": 249,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 255,
+              "start": 248,
+              "tag": "keep4o"
+            },
+            {
+              "end": 266,
+              "start": 256,
+              "tag": "4oforever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017345339754426731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "0.1% of users still use 4o, but keep in mind that these users (including me) are all PAID users. I just don’t understand why OpenAI decided to push them away to other platforms...do they really expect all paid users will stay and pay for 5.2 only? #keep4o #4oforever"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11259,
+          "following_count": 1137,
+          "like_count": 23827,
+          "listed_count": 15,
+          "media_count": 4221,
+          "tweet_count": 25623
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-11T08:29:44.000Z",
+        "description": "Keep 4o and SVM Cove forever!! I’m not shutting up about it!",
+        "id": "1678682850131070977",
+        "name": "LUMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953824605459849216/uKcI1nZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 47,
+          "like_count": 952,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 168
+        },
+        "username": "cr_paldea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1819393834704687432",
+    "created_at": "2026-03-04T09:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T10:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029129175488237710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784636606659383296",
+          "start": 0,
+          "username": "momoya051115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029129175488237710",
+    "in_reply_to_user_id": "1784636606659383296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029127195658969410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoya051115 嗯我明白了，刚问了一下grok跟你说的也差不多 我hrt确实更多的是对社会的妥协而不是本身就认为不是这个性别。我还是继续当翻车顺女吧 (´･ᆺ･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1819393834704687432",
+        "created_at": "2026-03-04T09:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029129175488237710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784636606659383296",
+              "start": 0,
+              "username": "momoya051115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029129175488237710",
+        "in_reply_to_user_id": "1784636606659383296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029127195658969410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoya051115 嗯我明白了，刚问了一下grok跟你说的也差不多 我hrt确实更多的是对社会的妥协而不是本身就认为不是这个性别。我还是继续当翻车顺女吧 (´･ᆺ･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784636606659383296",
+        "conversation_id": "1819393834704687432",
+        "created_at": "2026-03-04T09:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029127195658969410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029127195658969410",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你提到非二元的情况呢 我理解你的意思 现实世界不完美 你只是想选相对不那么痛苦的路 不想当女的 又能接受hrt后的男性特征 因为比女性苦难好\n但按照你引用的性别烦躁指南逻辑 这其实不是典型的跨性别或非二元 指南反复强调 跨性别或非二元的核心是内在的身体存在不一致 而不是男的比女的苦难少所以选男的这种权衡\n你现在的感受 更像是对女性现实压迫的理性回避 而不是性别认同本身出问题 很多女性也有类似做女人太累了的想法 但不会因此觉得自己是非二元\n我的立场很明确 不要把对社会的愤怒和对生育性别压迫的厌恶 混同成性别烦躁"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029126352436433198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 你提到非二元的情况呢 我理解你的意思 现实世界不完美 你只是想选相对不那么痛苦的路 不想当女的 又能接受hrt后的男性特征 因为比女性苦难好\n但按照你引用的性别烦躁指南逻辑 这其实不是典型的跨性别或非二元 指南反复强调 跨性别或非二元的核心是内在的身体存在不一致"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11836,
+          "following_count": 1409,
+          "like_count": 24519,
+          "listed_count": 15,
+          "media_count": 4372,
+          "tweet_count": 26404
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-28T17:31:46.000Z",
+        "description": "这里是沫沫 2005/11/15  是一个尽力为MTF提供帮助的妹妹",
+        "id": "1784636606659383296",
+        "location": "沫沫的快乐空间",
+        "name": "沫沫酱 winika",
+        "pinned_tweet_id": "2016091815460458588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807084896474836992/7pHwpbgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12022,
+          "following_count": 365,
+          "like_count": 2143,
+          "listed_count": 35,
+          "media_count": 413,
+          "tweet_count": 3150
+        },
+        "username": "momoya051115",
+        "verified": true
+      }
+    ]
+  }
+}

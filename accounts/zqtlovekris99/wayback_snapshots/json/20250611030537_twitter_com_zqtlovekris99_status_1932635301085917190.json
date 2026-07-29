@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1932415500728090636",
+    "created_at": "2025-06-11T03:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T04:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932635301085917190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "909909858949922818",
+          "start": 0,
+          "username": "rnpgpsl40404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932635301085917190",
+    "in_reply_to_user_id": "909909858949922818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932569093460406549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnpgpsl40404 对呀那咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1932415500728090636",
+        "created_at": "2025-06-11T03:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T04:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932635301085917190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "909909858949922818",
+              "start": 0,
+              "username": "rnpgpsl40404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932635301085917190",
+        "in_reply_to_user_id": "909909858949922818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932569093460406549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnpgpsl40404 对呀那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "1932415500728090636",
+        "created_at": "2025-06-10T22:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T23:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932569093460406549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932569093460406549",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932415500728090636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 你不是翻车顺女吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第3天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8174,
+          "following_count": 671,
+          "like_count": 19245,
+          "listed_count": 10,
+          "media_count": 2730,
+          "tweet_count": 18975
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "tips only\n工程师的性别是工程师谢谢\nsoftware engineering is not real engineering\nMercedes is not real car",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+YJ1lMWwYDs0wO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+YJ1lMWwYDs0wODAx",
+                "start": 0,
+                "url": "https://t.co/JOxivvsUPj"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "New Jersey, USA",
+        "name": "你们软件工程的骂不过就挂人好可怜哦",
+        "pinned_tweet_id": "1928505441476079690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10524,
+          "following_count": 5958,
+          "like_count": 144869,
+          "listed_count": 23,
+          "media_count": 5768,
+          "tweet_count": 72208
+        },
+        "url": "https://t.co/JOxivvsUPj",
+        "username": "rnpgpsl40404",
+        "verified": false
+      }
+    ]
+  }
+}

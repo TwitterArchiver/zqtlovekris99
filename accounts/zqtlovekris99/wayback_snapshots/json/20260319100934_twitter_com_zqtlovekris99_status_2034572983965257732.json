@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2034540931286958083",
+    "created_at": "2026-03-19T10:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034572983965257732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034572983965257732",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034540931286958083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 晚安藥效"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2034540931286958083].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2034540931286958083",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2034540931286958083"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2034540931286958083",
+        "created_at": "2026-03-19T10:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034572983965257732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034572983965257732",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034540931286958083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 晚安藥效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕誠聘對象💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara 闺蜜 @Misako_25ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11931,
+          "following_count": 1421,
+          "like_count": 24829,
+          "listed_count": 16,
+          "media_count": 4435,
+          "tweet_count": 26844
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【偶尔锁推只是防止被推送出去】关注人=我喜欢你的内容!/同类想互关喵\n成分：oder｜🏳️‍🌈🏳️‍⚧️💛🤍💜🖤｜神经多样性\n#drugtwt #shtwt #nonbinary #transmasc #lgbtq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 78,
+                "start": 72,
+                "tag": "shtwt"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "tag": "transmasc"
+              },
+              {
+                "end": 107,
+                "start": 101,
+                "tag": "lgbtq"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them｜💉2025.8.25｜AuDHD",
+        "name": "🐱（想要互fo！）",
+        "pinned_tweet_id": "2022074802262225026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009441540230549504/cD1B4AtO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1018,
+          "like_count": 3569,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 2694
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

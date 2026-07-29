@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2035227254138233287",
+    "created_at": "2026-03-21T05:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T06:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035228353754800295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/2034647330583199838",
+          "start": 43,
+          "url": "https://t.co/ZC5zfzvIEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035228353754800295",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034647330583199838",
+        "type": "quoted"
+      },
+      {
+        "id": "2035227254138233287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天就說了這事了，明知是跟🍬買的被坑了別找我你活該，不知情的就去罵那個給你推薦路子的 https://t.co/ZC5zfzvIEQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034647322093846528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyE9ZyagAAY4LM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035227244038430721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6UZTYboAEAl86.jpg",
+        "width": 822
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035227244025847811",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6UZTVboAMgFR6.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2035227254138233287",
+        "created_at": "2026-03-21T05:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035228353754800295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2034647330583199838",
+              "start": 43,
+              "url": "https://t.co/ZC5zfzvIEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035228353754800295",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034647330583199838",
+            "type": "quoted"
+          },
+          {
+            "id": "2035227254138233287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天就說了這事了，明知是跟🍬買的被坑了別找我你活該，不知情的就去罵那個給你推薦路子的 https://t.co/ZC5zfzvIEQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034647322093846528"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2034647330583199838",
+        "created_at": "2026-03-19T15:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034647330583199838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UIq78AtY8",
+              "end": 150,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2034647330583199838/photo/1",
+              "media_key": "3_2034647322093846528",
+              "start": 127,
+              "url": "https://t.co/0UIq78AtY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034647330583199838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1202,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "沒一個無辜的，你說你以前不知道踩雷了那還挺同情的，糖語文幹了什麼事又不是不知道，他一開始說要當糖商一堆人反對說沒有好下場，那你自己還要去送，甚至都不能叫受害者，那些被忽悠了被人推薦的不混圈的真正不知情的才叫受害者，知道有坑還往裡跳還要給人送流量那叫共犯 https://t.co/0UIq78AtY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035227244038430721",
+            "3_2035227244025847811"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035227254138233287",
+        "created_at": "2026-03-21T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035227254138233287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0bmBIx85w",
+              "end": 138,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2035227254138233287/photo/1",
+              "media_key": "3_2035227244038430721",
+              "start": 115,
+              "url": "https://t.co/R0bmBIx85w"
+            },
+            {
+              "display_url": "pic.x.com/R0bmBIx85w",
+              "end": 138,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2035227254138233287/photo/1",
+              "media_key": "3_2035227244025847811",
+              "start": 115,
+              "url": "https://t.co/R0bmBIx85w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035227254138233287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是你他媽的，你讓買家找我幹啥我都不認識你，你還有原則上了，被坑的就是這些不知情的買家，你這原則倒好你一分錢不虧，你又不墊錢給人家退，找我求助我該罵還是罵你，說的自己很正義一樣你就是共犯，知道供貨商是🍬還當他代理，真是太有原則啦 https://t.co/R0bmBIx85w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕誠聘對象💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara 闺蜜 @Misako_25ji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11927,
+          "following_count": 1424,
+          "like_count": 24858,
+          "listed_count": 16,
+          "media_count": 4442,
+          "tweet_count": 26884
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

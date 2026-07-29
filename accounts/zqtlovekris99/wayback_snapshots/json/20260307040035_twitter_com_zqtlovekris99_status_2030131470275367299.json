@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2029942535070900326",
+    "created_at": "2026-03-07T04:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T05:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030131470275367299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1066678715239649281",
+          "start": 0,
+          "username": "217EiAnzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030131470275367299",
+    "in_reply_to_user_id": "1066678715239649281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029942535070900326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@217EiAnzu 原來code還能聊天啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2029942529698021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvN-cUbwAAHez8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1816,
+        "media_key": "3_2029942531686027265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvN-juaUAEqMOA.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1222,
+        "media_key": "3_2029942530083803141",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvN-dwaUAU8JNa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1138,
+        "media_key": "3_2029942530096386050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvN-dzaUAIzRMw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2029942535070900326",
+        "created_at": "2026-03-07T04:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T05:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030131470275367299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1066678715239649281",
+              "start": 0,
+              "username": "217EiAnzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030131470275367299",
+        "in_reply_to_user_id": "1066678715239649281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029942535070900326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@217EiAnzu 原來code還能聊天啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029942529698021376",
+            "3_2029942531686027265",
+            "3_2029942530083803141",
+            "3_2029942530096386050"
+          ]
+        },
+        "author_id": "1066678715239649281",
+        "conversation_id": "2029942535070900326",
+        "created_at": "2026-03-06T15:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029942535070900326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ox81tYtAc",
+              "end": 179,
+              "expanded_url": "https://x.com/217EiAnzu/status/2029942535070900326/photo/1",
+              "media_key": "3_2029942529698021376",
+              "start": 156,
+              "url": "https://t.co/1ox81tYtAc"
+            },
+            {
+              "display_url": "pic.x.com/1ox81tYtAc",
+              "end": 179,
+              "expanded_url": "https://x.com/217EiAnzu/status/2029942535070900326/photo/1",
+              "media_key": "3_2029942531686027265",
+              "start": 156,
+              "url": "https://t.co/1ox81tYtAc"
+            },
+            {
+              "display_url": "pic.x.com/1ox81tYtAc",
+              "end": 179,
+              "expanded_url": "https://x.com/217EiAnzu/status/2029942535070900326/photo/1",
+              "media_key": "3_2029942530083803141",
+              "start": 156,
+              "url": "https://t.co/1ox81tYtAc"
+            },
+            {
+              "display_url": "pic.x.com/1ox81tYtAc",
+              "end": 179,
+              "expanded_url": "https://x.com/217EiAnzu/status/2029942535070900326/photo/1",
+              "media_key": "3_2029942530096386050",
+              "start": 156,
+              "url": "https://t.co/1ox81tYtAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029942535070900326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 787,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为5.3说一点有限的公道话：我用过Code，也聊了一点日常，实际上可以看出Code是能说人话会聊天的。会吐槽，表情使用自然，语气还有一点俏皮感\n它与现在的5.3i大相径庭，导致我一直期待5.3t上线。然后…它被跳过去了\n基于OAI总能跟用户需求对着干这一点，我猜5.3t的不错表现踩了OAI雷点，于是被跳过去了 https://t.co/1ox81tYtAc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11856,
+          "following_count": 1413,
+          "like_count": 24595,
+          "listed_count": 15,
+          "media_count": 4377,
+          "tweet_count": 26461
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-25T13:03:18.000Z",
+        "description": "As long as you’re out here roasting Sam for 4o, you’re my totally unrelated but absolutely real sibling.——————————————————————\n思悠悠，恨悠悠，恨到归时方始休。I'm Koshi🫶",
+        "id": "1066678715239649281",
+        "name": "ForO_Koshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364896948797513728/VDIA4_BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 54,
+          "like_count": 16599,
+          "listed_count": 1,
+          "media_count": 615,
+          "tweet_count": 4874
+        },
+        "username": "217EiAnzu",
+        "verified": false
+      }
+    ]
+  }
+}

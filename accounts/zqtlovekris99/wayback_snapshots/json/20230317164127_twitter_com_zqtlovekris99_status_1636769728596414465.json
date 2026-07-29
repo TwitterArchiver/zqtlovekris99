@@ -1,0 +1,104 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1636769728596414465",
+    "created_at": "2023-03-17T16:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-17T17:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1636769728596414465"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1636769728596414465",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "右美o多咯感觉就自己是世界上最幸福的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1636769728596414465",
+        "created_at": "2023-03-17T16:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-17T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1636769728596414465"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1636769728596414465",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美o多咯感觉就自己是世界上最幸福的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "只说我自己想说的 // my love @komeijitony",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "komeijitony"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TaKePrinceChat",
+                "end": 23,
+                "expanded_url": "https://t.me/TaKePrinceChat",
+                "start": 0,
+                "url": "https://t.co/fxpcUPpcPN"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1633787240471224321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628701637354336256/6Ot_Yb9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3392,
+          "following_count": 637,
+          "listed_count": 3,
+          "tweet_count": 6674
+        },
+        "url": "https://t.co/fxpcUPpcPN",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

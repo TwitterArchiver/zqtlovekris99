@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1896620508101386546",
+    "created_at": "2025-03-04T06:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T07:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896814243959493016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "147786784",
+          "start": 0,
+          "username": "yetone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896814243959493016",
+    "in_reply_to_user_id": "147786784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896620508101386546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yetone 都是姓米的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1896620501759672320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlImTDEbwAAelLo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1896620508101386546",
+        "created_at": "2025-03-04T06:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896814243959493016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896814243959493016",
+        "in_reply_to_user_id": "147786784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896620508101386546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone 都是姓米的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896620501759672320"
+          ]
+        },
+        "author_id": "147786784",
+        "conversation_id": "1896620508101386546",
+        "created_at": "2025-03-03T17:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T18:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896620508101386546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMs1sNGTiO",
+              "end": 25,
+              "expanded_url": "https://x.com/yetone/status/1896620508101386546/photo/1",
+              "media_key": "3_1896620501759672320",
+              "start": 2,
+              "url": "https://t.co/CMs1sNGTiO"
+            },
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/zaobaosg/status/1896455721169866958",
+              "start": 26,
+              "url": "https://t.co/EA1yRLq4NC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896620508101386546",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 34395,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896455721169866958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/CMs1sNGTiO https://t.co/EA1yRLq4NC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 多意识体内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6073,
+          "following_count": 530,
+          "like_count": 16913,
+          "listed_count": 9,
+          "media_count": 1794,
+          "tweet_count": 15271
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "如果你是小粉红请不要关注我，谢谢！\n\n一个只会写屎代码的垃圾程序员，静态强类型系统的门下走狗。代数数据类型的虔诚门徒。 精神白洋淀人。他妈的，瓦拉莫夫。争取用 Rust 养活我余生。\n\nI built a Cursor-like experience plugin for Neovim: avante.nvim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1852992325770973229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55254,
+          "following_count": 4299,
+          "like_count": 15383,
+          "listed_count": 533,
+          "media_count": 1679,
+          "tweet_count": 14644
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      }
+    ]
+  }
+}

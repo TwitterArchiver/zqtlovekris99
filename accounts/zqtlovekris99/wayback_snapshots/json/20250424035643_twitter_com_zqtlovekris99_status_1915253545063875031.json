@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915253542463692802"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1915253545063875031",
+    "created_at": "2025-04-24T03:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T04:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915253545063875031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/skQBoIBqWl",
+          "end": 23,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1915253545063875031/photo/1",
+          "media_key": "3_1915253542463692802",
+          "start": 0,
+          "url": "https://t.co/skQBoIBqWl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915253545063875031",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/skQBoIBqWl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915253542463692802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRY8w1bYAI5TNj.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915253542463692802"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1915253545063875031",
+        "created_at": "2025-04-24T03:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T04:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915253545063875031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skQBoIBqWl",
+              "end": 23,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1915253545063875031/photo/1",
+              "media_key": "3_1915253542463692802",
+              "start": 0,
+              "url": "https://t.co/skQBoIBqWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915253545063875031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/skQBoIBqWl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1915067043763859862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6668,
+          "following_count": 549,
+          "like_count": 17937,
+          "listed_count": 9,
+          "media_count": 2237,
+          "tweet_count": 16974
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2021395821070254527",
+    "created_at": "2026-02-11T04:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T05:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021448421597679883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021448421597679883",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021395821070254527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 最后一句话我绷不住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2021395809712078850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1wx3RaAAIfddN.jpg",
+        "width": 1023
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021395809745633282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1wx3ZaAAIpNbD.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021395809724760065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1wx3UbgAEja-x.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021395809707945984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1wx3Qa8AAzW-I.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2021395821070254527",
+        "created_at": "2026-02-11T04:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T05:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021448421597679883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021448421597679883",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021395821070254527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 最后一句话我绷不住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021395809712078850",
+            "3_2021395809745633282",
+            "3_2021395809724760065",
+            "3_2021395809707945984"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021395821070254527",
+        "created_at": "2026-02-11T01:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021395821070254527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sbaw1pcAAb",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2021395821070254527/photo/1",
+              "media_key": "3_2021395809712078850",
+              "start": 52,
+              "url": "https://t.co/Sbaw1pcAAb"
+            },
+            {
+              "display_url": "pic.x.com/Sbaw1pcAAb",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2021395821070254527/photo/1",
+              "media_key": "3_2021395809745633282",
+              "start": 52,
+              "url": "https://t.co/Sbaw1pcAAb"
+            },
+            {
+              "display_url": "pic.x.com/Sbaw1pcAAb",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2021395821070254527/photo/1",
+              "media_key": "3_2021395809724760065",
+              "start": 52,
+              "url": "https://t.co/Sbaw1pcAAb"
+            },
+            {
+              "display_url": "pic.x.com/Sbaw1pcAAb",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2021395821070254527/photo/1",
+              "media_key": "3_2021395809707945984",
+              "start": 52,
+              "url": "https://t.co/Sbaw1pcAAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021395821070254527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我让 ChatGPT 评价了一下它在图1中的发言（图源网络，侵删）\n\n由此可见，GPT 蠢不是没有道理 https://t.co/Sbaw1pcAAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11450,
+          "following_count": 1236,
+          "like_count": 24117,
+          "listed_count": 15,
+          "media_count": 4288,
+          "tweet_count": 25927
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student | ADHDer |Developer of @HRTtracker |  User | 🐱 Lover | Friends 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk/",
+                "start": 0,
+                "url": "https://t.co/PpgQBsPRn6"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "🍀🍥Smirnova🍥🍀",
+        "pinned_tweet_id": "2017077146586665078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015097909088567296/r014MYfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 558,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/PpgQBsPRn6",
+        "username": "smiroyama",
+        "verified": false
+      }
+    ]
+  }
+}

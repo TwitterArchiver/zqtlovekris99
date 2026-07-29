@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993209071013707779"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1992988748049690640",
+    "created_at": "2025-11-25T06:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993209104790356354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "ChiangShauYuKan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ma4gxFlGKt",
+          "end": 40,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1993209104790356354/photo/1",
+          "media_key": "3_1993209071013707779",
+          "start": 17,
+          "url": "https://t.co/ma4gxFlGKt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993209104790356354",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992988748049690640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiangShauYuKan https://t.co/ma4gxFlGKt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993209071013707779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lNFvDbwAM6yTf.jpg",
+        "width": 920
+      },
+      {
+        "height": 1740,
+        "media_key": "3_1992988744706920449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iEtDmbkAEIqS6.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993209071013707779"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1992988748049690640",
+        "created_at": "2025-11-25T06:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993209104790356354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "ChiangShauYuKan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ma4gxFlGKt",
+              "end": 40,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1993209104790356354/photo/1",
+              "media_key": "3_1993209071013707779",
+              "start": 17,
+              "url": "https://t.co/ma4gxFlGKt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993209104790356354",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992988748049690640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiangShauYuKan https://t.co/ma4gxFlGKt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992988744706920449"
+          ]
+        },
+        "author_id": "1566739868688199680",
+        "conversation_id": "1992988748049690640",
+        "created_at": "2025-11-24T16:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992988748049690640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jpAEZX4Vdb",
+              "end": 34,
+              "expanded_url": "https://x.com/ChiangShauYuKan/status/1992988748049690640/photo/1",
+              "media_key": "3_1992988744706920449",
+              "start": 11,
+              "url": "https://t.co/jpAEZX4Vdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992988748049690640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沟槽的生成式ai幻觉 https://t.co/jpAEZX4Vdb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1992255921263960445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10873,
+          "following_count": 1049,
+          "like_count": 23149,
+          "listed_count": 13,
+          "media_count": 3983,
+          "tweet_count": 24537
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "阴晴不定 道德败坏",
+        "id": "1566739868688199680",
+        "location": "横幅由窝摄于2023.11.19",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989714390665629698/bHXyFTa7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 855,
+          "like_count": 231698,
+          "listed_count": 5,
+          "media_count": 1023,
+          "tweet_count": 25066
+        },
+        "username": "ChiangShauYuKan",
+        "verified": false
+      }
+    ]
+  }
+}

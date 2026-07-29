@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920883589451051008",
+        "3_1920883589253591040",
+        "3_1920883589237141507",
+        "13_1920883589211664385"
+      ],
+      "media_source_tweet_id": [
+        "1920883722481533366",
+        "1920883722481533366",
+        "1920883722481533366",
+        "1920883722481533366"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1920892223182274912",
+    "created_at": "2025-05-09T17:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T18:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920892223182274912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1180509370833989632",
+          "start": 3,
+          "username": "NeKosora0228"
+        },
+        {
+          "end": 38,
+          "id": "1390652924481527810",
+          "start": 24,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qjij1DLKhN",
+          "end": 94,
+          "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+          "media_key": "3_1920883589451051008",
+          "start": 71,
+          "url": "https://t.co/Qjij1DLKhN"
+        },
+        {
+          "display_url": "pic.x.com/Qjij1DLKhN",
+          "end": 94,
+          "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+          "media_key": "3_1920883589253591040",
+          "start": 71,
+          "url": "https://t.co/Qjij1DLKhN"
+        },
+        {
+          "display_url": "pic.x.com/Qjij1DLKhN",
+          "end": 94,
+          "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+          "media_key": "3_1920883589237141507",
+          "start": 71,
+          "url": "https://t.co/Qjij1DLKhN"
+        },
+        {
+          "display_url": "pic.x.com/Qjij1DLKhN",
+          "end": 94,
+          "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+          "media_key": "13_1920883589211664385",
+          "start": 71,
+          "url": "https://t.co/Qjij1DLKhN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920892223182274912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920883722481533366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NeKosora0228: 今晚和竹蜻蜓@zqtlovekris99 一起去machroom，玩的很开心🥰图片后面有哈基咪打架的视频 https://t.co/Qjij1DLKhN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1920883589451051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqhZcoQbcAAH-Vg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1920883589253591040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqhZcnhWcAA1NDB.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1183,
+        "media_key": "3_1920883589237141507",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqhZcndbcAMl_xo.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 28918,
+        "height": 720,
+        "media_key": "13_1920883589211664385",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920883589211664385/img/89wwDs7ptUB-JftI.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920883589211664385/vid/avc1/480x270/vt-TfzeDOELuFgAO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920883589211664385/vid/avc1/640x360/tQfZRgprATK0a6xT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920883589211664385/vid/avc1/1280x720/lT8ko4tmDvFSnaiV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920883589211664385/pl/d5QwEcTThh0SVuqr.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920883589451051008",
+            "3_1920883589253591040",
+            "3_1920883589237141507",
+            "13_1920883589211664385"
+          ],
+          "media_source_tweet_id": [
+            "1920883722481533366",
+            "1920883722481533366",
+            "1920883722481533366",
+            "1920883722481533366"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1920892223182274912",
+        "created_at": "2025-05-09T17:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T18:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920892223182274912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1180509370833989632",
+              "start": 3,
+              "username": "NeKosora0228"
+            },
+            {
+              "end": 38,
+              "id": "1390652924481527810",
+              "start": 24,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 94,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "3_1920883589451051008",
+              "start": 71,
+              "url": "https://t.co/Qjij1DLKhN"
+            },
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 94,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "3_1920883589253591040",
+              "start": 71,
+              "url": "https://t.co/Qjij1DLKhN"
+            },
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 94,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "3_1920883589237141507",
+              "start": 71,
+              "url": "https://t.co/Qjij1DLKhN"
+            },
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 94,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "13_1920883589211664385",
+              "start": 71,
+              "url": "https://t.co/Qjij1DLKhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920892223182274912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920883722481533366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NeKosora0228: 今晚和竹蜻蜓@zqtlovekris99 一起去machroom，玩的很开心🥰图片后面有哈基咪打架的视频 https://t.co/Qjij1DLKhN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920883589451051008",
+            "3_1920883589253591040",
+            "3_1920883589237141507",
+            "13_1920883589211664385"
+          ]
+        },
+        "author_id": "1180509370833989632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1920883722481533366",
+        "created_at": "2025-05-09T16:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T17:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920883722481533366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1390652924481527810",
+              "start": 6,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 76,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "3_1920883589451051008",
+              "start": 53,
+              "url": "https://t.co/Qjij1DLKhN"
+            },
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 76,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "3_1920883589253591040",
+              "start": 53,
+              "url": "https://t.co/Qjij1DLKhN"
+            },
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 76,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "3_1920883589237141507",
+              "start": 53,
+              "url": "https://t.co/Qjij1DLKhN"
+            },
+            {
+              "display_url": "pic.x.com/Qjij1DLKhN",
+              "end": 76,
+              "expanded_url": "https://x.com/NeKosora0228/status/1920883722481533366/video/1",
+              "media_key": "13_1920883589211664385",
+              "start": 53,
+              "url": "https://t.co/Qjij1DLKhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920883722481533366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今晚和竹蜻蜓@zqtlovekris99 一起去machroom，玩的很开心🥰图片后面有哈基咪打架的视频 https://t.co/Qjij1DLKhN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6922,
+          "following_count": 562,
+          "like_count": 18246,
+          "listed_count": 11,
+          "media_count": 2472,
+          "tweet_count": 17723
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-05T15:45:51.000Z",
+        "description": "｜Mtx👉友跨顺男｜INFJ｜ADHD重度患者｜可以互fo噢～",
+        "id": "1180509370833989632",
+        "location": "根據相關法律法規和政策，該位置末予顯示",
+        "name": "Ocean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864701917458518017/9Bx3qy78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 430,
+          "like_count": 5272,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 456
+        },
+        "username": "NeKosora0228",
+        "verified": false
+      }
+    ]
+  }
+}

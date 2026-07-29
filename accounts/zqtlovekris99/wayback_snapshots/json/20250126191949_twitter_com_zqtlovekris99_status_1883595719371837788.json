@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883595715227815937"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1883595719371837788",
+    "created_at": "2025-01-26T19:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T20:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883595719371837788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L4LH2JosKl",
+          "end": 34,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1883595719371837788/photo/1",
+          "media_key": "3_1883595715227815937",
+          "start": 11,
+          "url": "https://t.co/L4LH2JosKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883595719371837788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我覺得很美，不是嗎？ https://t.co/L4LH2JosKl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883595719371837788].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883595719371837788",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883595719371837788"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1883595715227815937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiPgUsKaEAE-LfT.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5457,
+          "following_count": 518,
+          "like_count": 16065,
+          "listed_count": 6,
+          "media_count": 1620,
+          "tweet_count": 14268
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

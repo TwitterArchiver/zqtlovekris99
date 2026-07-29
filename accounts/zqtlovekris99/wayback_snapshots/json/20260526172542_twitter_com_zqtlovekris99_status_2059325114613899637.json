@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2059124664505700631",
+    "created_at": "2026-05-26T17:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059325114613899637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902691463252852736",
+          "start": 0,
+          "username": "xinggu233893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059325114613899637",
+    "in_reply_to_user_id": "1902691463252852736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059124664505700631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinggu233893 这是什么，黄瓜片吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059124661620035584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJN6-FQb0AArHc_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2059124664505700631",
+        "created_at": "2026-05-26T17:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059325114613899637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1902691463252852736",
+              "start": 0,
+              "username": "xinggu233893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059325114613899637",
+        "in_reply_to_user_id": "1902691463252852736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059124664505700631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinggu233893 这是什么，黄瓜片吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059124661620035584"
+          ]
+        },
+        "author_id": "1902691463252852736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059124664505700631",
+        "created_at": "2026-05-26T04:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059124664505700631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ib2H6jdVke",
+              "end": 35,
+              "expanded_url": "https://x.com/xinggu233893/status/2059124664505700631/photo/1",
+              "media_key": "3_2059124661620035584",
+              "start": 12,
+              "url": "https://t.co/Ib2H6jdVke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059124664505700631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4447,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不清楚剂量够不够致幻（ https://t.co/Ib2H6jdVke"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13231,
+          "following_count": 1612,
+          "like_count": 25850,
+          "listed_count": 15,
+          "media_count": 5092,
+          "tweet_count": 28245
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T11:59:41.000Z",
+        "description": "高一牲 | MTX🏳️‍⚧️ |  泛性恋🏳️‍🌈  | 推上唯一的真穷鬼 | 165cm 42kg左右 | 无证含糖🍥（暂停） | 负能量警告‼️ | 微民科、民哲 | 坐标江西 | 随缘回fo | 长期碎碎念 | 抑郁质人格\n副人格：@s315258043",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 119,
+                "username": "s315258043"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/utopia72320",
+                "end": 23,
+                "expanded_url": "https://ngl.link/utopia72320",
+                "start": 0,
+                "url": "https://t.co/1fYFYOuHT2"
+              }
+            ]
+          }
+        },
+        "id": "1902691463252852736",
+        "location": "天国候车站",
+        "name": "斯仁S-315（垃圾帖大王） 🏳️‍⚧️",
+        "pinned_tweet_id": "2044708093305733221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039714212101160960/wyTFBp0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 260,
+          "like_count": 7580,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/1fYFYOuHT2",
+        "username": "xinggu233893",
+        "verified": false
+      }
+    ]
+  }
+}

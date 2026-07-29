@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2032264621311344926",
+    "created_at": "2026-03-13T06:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T07:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032340407196197124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1376365824689115140",
+          "start": 0,
+          "username": "8964rinrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032340407196197124",
+    "in_reply_to_user_id": "1376365824689115140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032264621311344926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964rinrina8964 建議每天開一個新窗口聊，Claude會根據上下文長度算額度的，你聊的太長了他讀取前文更多消耗的token就多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2032264621311344926",
+        "created_at": "2026-03-13T06:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032340407196197124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1376365824689115140",
+              "start": 0,
+              "username": "8964rinrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032340407196197124",
+        "in_reply_to_user_id": "1376365824689115140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032264621311344926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964rinrina8964 建議每天開一個新窗口聊，Claude會根據上下文長度算額度的，你聊的太長了他讀取前文更多消耗的token就多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376365824689115140",
+        "conversation_id": "2032264621311344926",
+        "created_at": "2026-03-13T01:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032264621311344926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032264621311344926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6168,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上呢元气满满的对claude code说了一句hi 它回我一句hi 然后百分之14的额度就没有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11898,
+          "following_count": 1427,
+          "like_count": 24782,
+          "listed_count": 15,
+          "media_count": 4402,
+          "tweet_count": 26685
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-29T02:49:32.000Z",
+        "description": "在日程序员",
+        "id": "1376365824689115140",
+        "name": "re",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969347431990247424/4-gvOY_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 722,
+          "like_count": 1833,
+          "listed_count": 14,
+          "media_count": 418,
+          "tweet_count": 2319
+        },
+        "username": "8964rinrina8964",
+        "verified": true
+      }
+    ]
+  }
+}

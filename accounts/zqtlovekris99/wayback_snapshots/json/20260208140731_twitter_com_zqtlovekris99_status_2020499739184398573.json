@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2020461205568016461",
+    "created_at": "2026-02-08T14:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T15:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020499739184398573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "Ceciliahyve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020499739184398573",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020489435662749761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ceciliahyve 扣了个寂寞，算了两次竖着切得了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020489435662749761].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020489435662749761",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020489435662749761"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2020461205568016461",
+        "created_at": "2026-02-08T14:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020499739184398573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "Ceciliahyve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020499739184398573",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020489435662749761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ceciliahyve 扣了个寂寞，算了两次竖着切得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11417,
+          "following_count": 1206,
+          "like_count": 24060,
+          "listed_count": 15,
+          "media_count": 4278,
+          "tweet_count": 25863
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "想和你们当一辈子互关：@doyle_gleb @spm14thdaduda @saksamalah2nd @ongte_time @kimintw_offical @hanabirikajiang @unnamed_rf。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "doyle_gleb"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "spm14thdaduda"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "ongte_time"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "kimintw_offical"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "hanabirikajiang"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "unnamed_rf"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "新艾丽都",
+        "name": "𝐂𝐞𝐜𝐢𝐥𝐢𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998815191480627200/ea7SRi2p_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 901,
+          "like_count": 215326,
+          "listed_count": 4,
+          "media_count": 281,
+          "tweet_count": 2363
+        },
+        "username": "Ceciliahyve",
+        "verified": false
+      }
+    ]
+  }
+}

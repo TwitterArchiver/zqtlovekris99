@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1928331468624801938",
+    "created_at": "2025-05-30T06:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T07:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928337867773764043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1180509370833989632",
+          "start": 0,
+          "username": "NeKosora0228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928337867773764043",
+    "in_reply_to_user_id": "1180509370833989632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928337420543578148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeKosora0228 你又好伤心了搞的就像我的错一样，是我毛病太多了，脾气太差了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1928331468624801938",
+        "created_at": "2025-05-30T06:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T07:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928337867773764043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1180509370833989632",
+              "start": 0,
+              "username": "NeKosora0228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928337867773764043",
+        "in_reply_to_user_id": "1180509370833989632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928337420543578148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeKosora0228 你又好伤心了搞的就像我的错一样，是我毛病太多了，脾气太差了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180509370833989632",
+        "conversation_id": "1928331468624801938",
+        "created_at": "2025-05-30T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928337420543578148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928337420543578148",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928336250257428593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我真的好伤心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第0天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7901,
+          "following_count": 670,
+          "like_count": 18915,
+          "listed_count": 10,
+          "media_count": 2642,
+          "tweet_count": 18540
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-05T15:45:51.000Z",
+        "description": "对象🥰@zqtlovekris99｜Mtx👉友跨顺男｜INFJ｜ADHD重度患者｜可以互fo噢～（没回关到可以私信我）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1180509370833989632",
+        "location": "根據相關法律法規和政策，該位置末予顯示",
+        "name": "Ocean",
+        "pinned_tweet_id": "1922974824462160200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922527463264976896/G9ub6TzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 492,
+          "like_count": 5626,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 530
+        },
+        "username": "NeKosora0228",
+        "verified": false
+      }
+    ]
+  }
+}

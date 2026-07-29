@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1855546999241925043",
+    "created_at": "2024-11-11T06:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T07:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855853143600632283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "LinNai19890604"
+        },
+        {
+          "end": 26,
+          "id": "1728680622439489536",
+          "start": 16,
+          "username": "mottoye89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855853143600632283",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855846965449568412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinNai19890604 @mottoye89 他都冷暴力你了你还想表现啥，我给你捋捋这逻辑，他如果毫无原因把你踢了那就是他先得罪的你，然后你去尝试跟他沟通就已经是你退一步了，但是他不理你，拒绝沟通，然后你还要继续退让的话那我只能尊重了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1855846965449568412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1855846965449568412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1855846965449568412"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1855546999241925043",
+        "created_at": "2024-11-11T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855853143600632283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "LinNai19890604"
+            },
+            {
+              "end": 26,
+              "id": "1728680622439489536",
+              "start": 16,
+              "username": "mottoye89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855853143600632283",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855846965449568412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinNai19890604 @mottoye89 他都冷暴力你了你还想表现啥，我给你捋捋这逻辑，他如果毫无原因把你踢了那就是他先得罪的你，然后你去尝试跟他沟通就已经是你退一步了，但是他不理你，拒绝沟通，然后你还要继续退让的话那我只能尊重了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 性别认同不明/地雷系 | PTSD/OD💊/bpd(80%)→npd(20%)/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 想谈恋爱快来推油跟我谈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀pr80的老婆",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 496,
+          "like_count": 14602,
+          "listed_count": 4,
+          "tweet_count": 12279
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "润🇸🇬中但是不知何年何月能上岸\n\n🥺优先过熟人，陌生人请优先关注大号\n\n⚠️有阴暗碎碎念和不友善蛐蛐内容，介意者可双取",
+        "id": "1800825433979797504",
+        "name": "冯琳柰🇭🇰🇲🇴（？）🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852451053905793024/yFvBTMeL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 101,
+          "like_count": 15023,
+          "listed_count": 0,
+          "tweet_count": 3967
+        },
+        "username": "LinNai19890604",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T07:42:46.000Z",
+        "description": "04/infp/女/学生 都会互fo的! 私信什么的有空就回 喜欢大家～能和小夜做朋友的都是好人喔 泛中华文化爱好者 堅定清水不動搖 小号 門檻128 @mottoye64（清水生活推）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "mottoye64"
+              }
+            ]
+          }
+        },
+        "id": "1728680622439489536",
+        "location": "九龍城, 香港",
+        "name": "魔盗小夜🇭🇰",
+        "pinned_tweet_id": "1814501627380093009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789530188734455808/eya0OBWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6092,
+          "following_count": 2900,
+          "like_count": 33739,
+          "listed_count": 13,
+          "tweet_count": 8479
+        },
+        "username": "mottoye89",
+        "verified": true
+      }
+    ]
+  }
+}

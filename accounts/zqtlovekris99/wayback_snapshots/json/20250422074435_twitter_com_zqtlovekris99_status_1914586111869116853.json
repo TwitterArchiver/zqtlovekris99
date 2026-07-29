@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914586109184761858"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1914566635710754897",
+    "created_at": "2025-04-22T07:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T08:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914586111869116853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        },
+        {
+          "end": 27,
+          "id": "1528928909734973440",
+          "start": 17,
+          "username": "HiyouNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bKtA3GByTd",
+          "end": 79,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1914586111869116853/photo/1",
+          "media_key": "3_1914586109184761858",
+          "start": 56,
+          "url": "https://t.co/bKtA3GByTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914586111869116853",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914585684301766725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo @HiyouNeko 司来主要是因为有这个忌口，我比较担心，所以一直没敢吃过 https://t.co/bKtA3GByTd"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1914585684301766725].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1914585684301766725",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1914585684301766725"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_1914586109184761858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpH57CHa4AI_4wr.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914586109184761858"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1914566635710754897",
+        "created_at": "2025-04-22T07:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T08:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914586111869116853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            },
+            {
+              "end": 27,
+              "id": "1528928909734973440",
+              "start": 17,
+              "username": "HiyouNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKtA3GByTd",
+              "end": 79,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1914586111869116853/photo/1",
+              "media_key": "3_1914586109184761858",
+              "start": 56,
+              "url": "https://t.co/bKtA3GByTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914586111869116853",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914585684301766725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo @HiyouNeko 司来主要是因为有这个忌口，我比较担心，所以一直没敢吃过 https://t.co/bKtA3GByTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1914208556406239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6646,
+          "following_count": 549,
+          "like_count": 17890,
+          "listed_count": 9,
+          "media_count": 2208,
+          "tweet_count": 16892
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "支黑｜Mio宝宝：@moeTvT｜Yuki宝宝：@Kazuko045｜奶茶姐姐：@Shirasu8964228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "moeTvT"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "Kazuko045"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "Shirasu8964228"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "name": "🐱にゃこ🇲🇰🌸",
+        "pinned_tweet_id": "1898684314717765927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895010945635598336/XgCB_WbF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 273,
+          "like_count": 7455,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 2714
+        },
+        "username": "wtswaishiteruyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 1002,
+          "like_count": 8809,
+          "listed_count": 6,
+          "media_count": 666,
+          "tweet_count": 2885
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

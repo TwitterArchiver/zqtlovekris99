@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1940997287922356646",
+    "created_at": "2025-07-04T04:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T05:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940997287922356646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tualatrix/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/tualatrix/status/1940585526136131795",
+          "start": 16,
+          "url": "https://t.co/P4CpBkg00e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940997287922356646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940585526136131795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本动漫里很多主角都住这种楼哎 https://t.co/P4CpBkg00e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1940585514416984064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5YPmMX0AARSjn.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1940585518271447040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu5YP0jWQAAzIrk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1940997287922356646",
+        "created_at": "2025-07-04T04:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T05:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940997287922356646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tualatrix/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/tualatrix/status/1940585526136131795",
+              "start": 16,
+              "url": "https://t.co/P4CpBkg00e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940997287922356646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940585526136131795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本动漫里很多主角都住这种楼哎 https://t.co/P4CpBkg00e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940585514416984064",
+            "3_1940585518271447040"
+          ]
+        },
+        "author_id": "121908437",
+        "conversation_id": "1940585526136131795",
+        "created_at": "2025-07-03T01:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T02:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940585526136131795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvOr5dUVro",
+              "end": 62,
+              "expanded_url": "https://x.com/tualatrix/status/1940585526136131795/photo/1",
+              "media_key": "3_1940585514416984064",
+              "start": 39,
+              "url": "https://t.co/hvOr5dUVro"
+            },
+            {
+              "display_url": "pic.x.com/hvOr5dUVro",
+              "end": 62,
+              "expanded_url": "https://x.com/tualatrix/status/1940585526136131795/photo/1",
+              "media_key": "3_1940585518271447040",
+              "start": 39,
+              "url": "https://t.co/hvOr5dUVro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940585526136131795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 30147,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这应该就是典型的新加坡政府造的「组屋」了，有约8成新加坡人居住在这种公寓里。 https://t.co/hvOr5dUVro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 小狗 @hzyj772 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "hzyj772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9023,
+          "following_count": 719,
+          "like_count": 19767,
+          "listed_count": 10,
+          "media_count": 2958,
+          "tweet_count": 19827
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-11T00:35:59.000Z",
+        "description": "📍 生活在杭州良渚的开发者。🍎专注 Apple 生态和效率工具多年。🚢目前正打造新的出海公司与产品。🤖最近在做 @PopTranslate。🎲随机了解我的一款产品 https://t.co/jpmuMzdJpU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "PopTranslate"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "imtx.me/random/x/",
+                "end": 105,
+                "expanded_url": "https://imtx.me/random/x/",
+                "start": 82,
+                "url": "https://t.co/jpmuMzdJpU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imtx.me",
+                "end": 23,
+                "expanded_url": "https://imtx.me",
+                "start": 0,
+                "url": "https://t.co/NP9nPh3vjf"
+              }
+            ]
+          }
+        },
+        "id": "121908437",
+        "location": "Hangzhou, China",
+        "name": "图拉鼎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/675270246509350912/lV9-F5ey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103748,
+          "following_count": 1182,
+          "like_count": 22252,
+          "listed_count": 1010,
+          "media_count": 19218,
+          "tweet_count": 104383
+        },
+        "url": "https://t.co/NP9nPh3vjf",
+        "username": "tualatrix",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1917539449992314984",
+    "created_at": "2025-04-30T13:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T14:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917567941811527731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917567941811527731",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917539449992314984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@WaiFu8964 感觉这种像是有人找他开户然后多收他几千块钱之后转手到你这边开，中间商赚差价"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1917539440643244032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpx39jJXgAATA_I.jpg",
+        "width": 611
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1917539442505519104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpx39qFXkAAZiYA.jpg",
+        "width": 613
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1917539449992314984",
+        "created_at": "2025-04-30T13:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917567941811527731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917567941811527731",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917539449992314984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@WaiFu8964 感觉这种像是有人找他开户然后多收他几千块钱之后转手到你这边开，中间商赚差价"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917539440643244032",
+            "3_1917539442505519104"
+          ]
+        },
+        "author_id": "1419403960696385546",
+        "conversation_id": "1917539449992314984",
+        "created_at": "2025-04-30T11:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917539449992314984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fxp4e4Kqki",
+              "end": 79,
+              "expanded_url": "https://x.com/WaiFu8964/status/1917539449992314984/photo/1",
+              "media_key": "3_1917539440643244032",
+              "start": 56,
+              "url": "https://t.co/Fxp4e4Kqki"
+            },
+            {
+              "display_url": "pic.x.com/Fxp4e4Kqki",
+              "end": 79,
+              "expanded_url": "https://x.com/WaiFu8964/status/1917539449992314984/photo/1",
+              "media_key": "3_1917539442505519104",
+              "start": 56,
+              "url": "https://t.co/Fxp4e4Kqki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917539449992314984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 377,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "一般来说名字里带专业二字的，都不会专业，骗几千rmb 就注销跑路是常态。而真正的专业无需多言，都是客户的评价。 https://t.co/Fxp4e4Kqki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1915067043763859862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6804,
+          "following_count": 556,
+          "like_count": 18006,
+          "listed_count": 9,
+          "media_count": 2351,
+          "tweet_count": 17303
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1889677863458095549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6878,
+          "following_count": 2077,
+          "like_count": 5044,
+          "listed_count": 18,
+          "media_count": 665,
+          "tweet_count": 5503
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

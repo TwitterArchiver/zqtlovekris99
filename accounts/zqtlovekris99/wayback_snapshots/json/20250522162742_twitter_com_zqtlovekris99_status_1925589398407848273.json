@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925587057977720832"
+      ],
+      "media_source_tweet_id": [
+        "1925587061291327516"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1925589398407848273",
+    "created_at": "2025-05-22T16:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T17:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925589398407848273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527308255927492609",
+          "start": 3,
+          "username": "love1027w"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6YFLo3iafN",
+          "end": 63,
+          "expanded_url": "https://x.com/love1027w/status/1925587061291327516/photo/1",
+          "media_key": "3_1925587057977720832",
+          "start": 40,
+          "url": "https://t.co/6YFLo3iafN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925589398407848273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925587061291327516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love1027w: 通过淡化自己的痛苦\n来减轻面对非恶意冒犯时的难过 https://t.co/6YFLo3iafN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925587057977720832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrkPOh7aAAAapvS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925587057977720832"
+          ],
+          "media_source_tweet_id": [
+            "1925587061291327516"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1925589398407848273",
+        "created_at": "2025-05-22T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925589398407848273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527308255927492609",
+              "start": 3,
+              "username": "love1027w"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YFLo3iafN",
+              "end": 63,
+              "expanded_url": "https://x.com/love1027w/status/1925587061291327516/photo/1",
+              "media_key": "3_1925587057977720832",
+              "start": 40,
+              "url": "https://t.co/6YFLo3iafN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925589398407848273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925587061291327516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love1027w: 通过淡化自己的痛苦\n来减轻面对非恶意冒犯时的难过 https://t.co/6YFLo3iafN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925587057977720832"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "conversation_id": "1925587061291327516",
+        "created_at": "2025-05-22T16:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T17:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925587061291327516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YFLo3iafN",
+              "end": 48,
+              "expanded_url": "https://x.com/love1027w/status/1925587061291327516/photo/1",
+              "media_key": "3_1925587057977720832",
+              "start": 25,
+              "url": "https://t.co/6YFLo3iafN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925587061291327516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "通过淡化自己的痛苦\n来减轻面对非恶意冒犯时的难过 https://t.co/6YFLo3iafN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7528,
+          "following_count": 758,
+          "like_count": 18698,
+          "listed_count": 10,
+          "media_count": 2566,
+          "tweet_count": 18174
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922067490928226304/fx0nM_Vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11793,
+          "following_count": 451,
+          "like_count": 42012,
+          "listed_count": 13,
+          "media_count": 1681,
+          "tweet_count": 24193
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

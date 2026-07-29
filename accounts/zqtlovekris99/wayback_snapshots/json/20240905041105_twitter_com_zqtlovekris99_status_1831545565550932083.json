@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1831276303053685054",
+    "created_at": "2024-09-05T04:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T05:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831545565550932083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758514650776588288",
+          "start": 0,
+          "username": "hansfreesoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831545565550932083",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831545366728319034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hansfreesoul 北上深（不算广）的这些一线城市都差不多这个物价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1831276303053685054",
+        "created_at": "2024-09-05T04:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T05:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831545565550932083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758514650776588288",
+              "start": 0,
+              "username": "hansfreesoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831545565550932083",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831545366728319034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hansfreesoul 北上深（不算广）的这些一线城市都差不多这个物价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1831276303053685054",
+        "created_at": "2024-09-05T04:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T05:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831545366728319034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758514650776588288",
+              "start": 0,
+              "username": "hansfreesoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831545366728319034",
+        "in_reply_to_user_id": "1758514650776588288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831276303053685054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hansfreesoul 北京这个价也不贵啊，看你说贵我还以为是啥三四线城市这个价，北京吃饭人均100不都正常情况嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 518,
+          "like_count": 13755,
+          "listed_count": 5,
+          "tweet_count": 10502
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:32:32.000Z",
+        "description": "谣言粉碎机｜支持小政府、自由经济 ；希望平等尊重、双赢 ｜反对极端主义",
+        "id": "1758514650776588288",
+        "location": "China",
+        "name": "hans",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758784227510988800/hbGB3sEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 1214,
+          "like_count": 6255,
+          "listed_count": 40,
+          "tweet_count": 7903
+        },
+        "username": "hansfreesoul",
+        "verified": true
+      }
+    ]
+  }
+}

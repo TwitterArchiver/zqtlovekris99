@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1886086392385826878",
+    "created_at": "2025-02-03T07:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T08:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886308996908527901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886308996908527901",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886086392385826878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 😨你因为发了啥内容被封了让我注意一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1886086392385826878",
+        "created_at": "2025-02-03T07:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T08:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886308996908527901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886308996908527901",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886086392385826878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 😨你因为发了啥内容被封了让我注意一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886086381682008064"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1886086392385826878",
+        "created_at": "2025-02-02T16:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886086392385826878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQ7JPKuKr1",
+              "end": 35,
+              "expanded_url": "https://x.com/Allenium114/status/1886086392385826878/photo/1",
+              "media_key": "3_1886086381682008064",
+              "start": 12,
+              "url": "https://t.co/jQ7JPKuKr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886086392385826878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11491,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我惹谁了？\n我的号没了 https://t.co/jQ7JPKuKr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1884275894426165419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647,
+          "following_count": 522,
+          "like_count": 16294,
+          "listed_count": 7,
+          "media_count": 1656,
+          "tweet_count": 14463
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍⚧️🍥hrt2024.4.20/持“證”ADHD💯/常驻川渝/小证持有⁉️/178cm57kg/A-Level🇭🇰/🔞08 年 16 岁小登♿️/前osw编辑/需要促智/美白/减肥/HRT等药物找@Minokakay喵 /舞萌w3神人/Sis:@beijieyoufengle💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 101,
+                "username": "Minokakay"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "beijieyoufengle"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "翎酱被封号气死了🍥（5kfo 前世被封）",
+        "pinned_tweet_id": "1842819783219376461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886145434009436160/H41JRjBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 185,
+          "like_count": 1536,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 213
+        },
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

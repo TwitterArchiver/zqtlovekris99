@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1946948838683709767",
+    "created_at": "2025-07-20T15:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T16:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946960352241123594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713754542930796544",
+          "start": 0,
+          "username": "Da8liars_0806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946960352241123594",
+    "in_reply_to_user_id": "1713754542930796544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946959406266282468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Da8liars_0806 😨"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946959406266282468].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946959406266282468",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946959406266282468"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1946948838683709767",
+        "created_at": "2025-07-20T15:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T16:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946960352241123594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713754542930796544",
+              "start": 0,
+              "username": "Da8liars_0806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946960352241123594",
+        "in_reply_to_user_id": "1713754542930796544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946959406266282468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Da8liars_0806 😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 小狗 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9345,
+          "following_count": 818,
+          "like_count": 20120,
+          "listed_count": 10,
+          "media_count": 3091,
+          "tweet_count": 20368
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-16T03:13:00.000Z",
+        "description": "顺直男 尸体级死宅 看各种番 音游 音乐 自由交流观点 观点无对错语言有高低 友跨友同 双向情感障碍+惊恐 我是伊甸，请多关照！台独，反穆斯林，右下派，泛支黑",
+        "id": "1713754542930796544",
+        "location": "the inbetween of the galaxies",
+        "name": "坂下 エデン",
+        "pinned_tweet_id": "1877731364088217651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884644413621809152/ZQtPM6Hi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 1209,
+          "like_count": 34581,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 14663
+        },
+        "username": "Da8liars_0806",
+        "verified": false
+      }
+    ]
+  }
+}

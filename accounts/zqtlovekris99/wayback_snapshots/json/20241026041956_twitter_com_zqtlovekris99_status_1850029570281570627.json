@@ -1,0 +1,180 @@
+{
+  "data": {
+    "author_id": "1390652924481527810",
+    "conversation_id": "1849523244002574719",
+    "created_at": "2024-10-26T04:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T05:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850029570281570627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        },
+        {
+          "end": 31,
+          "id": "1649404613764988930",
+          "start": 15,
+          "username": "zhaizhaiwa56701"
+        }
+      ]
+    },
+    "id": "1850029570281570627",
+    "in_reply_to_user_id": "1069931275698335744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 679,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849850984505442524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma @zhaizhaiwa56701 t恤牛仔裤其实就是中性服装嘛去大街上看其实大多数人都是t恤衬衫牛仔裤运动裤，只不过颜色不太一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1390652924481527810",
+        "conversation_id": "1849523244002574719",
+        "created_at": "2024-10-26T04:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850029570281570627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            },
+            {
+              "end": 31,
+              "id": "1649404613764988930",
+              "start": 15,
+              "username": "zhaizhaiwa56701"
+            }
+          ]
+        },
+        "id": "1850029570281570627",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849850984505442524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma @zhaizhaiwa56701 t恤牛仔裤其实就是中性服装嘛去大街上看其实大多数人都是t恤衬衫牛仔裤运动裤，只不过颜色不太一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "精神状态极差，别理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🙁竹蜻蜓🙁🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5134,
+          "following_count": 504,
+          "like_count": 15139,
+          "listed_count": 5,
+          "media_count": 1361,
+          "tweet_count": 13117
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "福建",
+        "name": "TponyS",
+        "pinned_tweet_id": "1859445552620110285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857023122332925952/gInxJWal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12904,
+          "following_count": 284,
+          "like_count": 2136,
+          "listed_count": 96,
+          "media_count": 583,
+          "tweet_count": 4287
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T13:28:11.000Z",
+        "description": "小宅 阴暗死宅玻璃心👁️👁️🚪88/188/520",
+        "id": "1649404613764988930",
+        "location": "🪼🪼🪼",
+        "name": "❄︎",
+        "pinned_tweet_id": "1857127173100036117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860022472307015681/CB1hZAuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 147,
+          "like_count": 8193,
+          "listed_count": 0,
+          "media_count": 600,
+          "tweet_count": 4758
+        },
+        "username": "zhaizhaiwa56701",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1909232899314061650",
+    "created_at": "2025-04-07T13:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T14:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909237466353283170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "EricaGPT"
+        },
+        {
+          "end": 22,
+          "id": "1685207720457363458",
+          "start": 10,
+          "username": "ColourPlain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909237466353283170",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909233992664220047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricaGPT @ColourPlain 因为脚离地面近头离地面远，就算在地上放一块立牌他也是上面的边缘比下面糊，看着别扭就是因为他没有做透视全身上下都是同一个清晰度的影子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909233992664220047].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909233992664220047",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909233992664220047"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1909232899314061650",
+        "created_at": "2025-04-07T13:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T14:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909237466353283170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "EricaGPT"
+            },
+            {
+              "end": 22,
+              "id": "1685207720457363458",
+              "start": 10,
+              "username": "ColourPlain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909237466353283170",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909233992664220047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricaGPT @ColourPlain 因为脚离地面近头离地面远，就算在地上放一块立牌他也是上面的边缘比下面糊，看着别扭就是因为他没有做透视全身上下都是同一个清晰度的影子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6375,
+          "following_count": 533,
+          "like_count": 17515,
+          "listed_count": 8,
+          "media_count": 2025,
+          "tweet_count": 16316
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "性别认同：🤡。我没有叫Erica的其他账号，请注意辨别。永远在看着你👁️👁️@KoNya14056。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "KoNya14056"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚",
+        "name": "𝐄𝐫𝐢𝐜𝐚小语言模型☝🏻",
+        "pinned_tweet_id": "1892869669570408956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877114294510432259/nkgKPwwL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 3774,
+          "like_count": 205291,
+          "listed_count": 5,
+          "media_count": 1263,
+          "tweet_count": 8542
+        },
+        "username": "EricaGPT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T08:37:01.000Z",
+        "description": "好勝而懶惰的人啊！為何不找尋自身的原因。",
+        "id": "1685207720457363458",
+        "location": "San Francisco",
+        "name": "L🍞℃",
+        "pinned_tweet_id": "1814422585020690521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859921725435392000/KFsgTLZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 658,
+          "like_count": 42883,
+          "listed_count": 13,
+          "media_count": 5763,
+          "tweet_count": 26384
+        },
+        "username": "ColourPlain",
+        "verified": false
+      }
+    ]
+  }
+}

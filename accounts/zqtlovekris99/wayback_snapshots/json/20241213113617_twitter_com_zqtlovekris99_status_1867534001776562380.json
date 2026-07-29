@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867418849613955072"
+      ],
+      "media_source_tweet_id": [
+        "1867418863463543194"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1867534001776562380",
+    "created_at": "2024-12-13T11:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T12:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867534001776562380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1839916966804611072",
+          "start": 3,
+          "username": "AKTV123456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0yT7ovivTU",
+          "end": 98,
+          "expanded_url": "https://x.com/AKTV123456/status/1867418863463543194/photo/1",
+          "media_key": "3_1867418849613955072",
+          "start": 75,
+          "url": "https://t.co/0yT7ovivTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867534001776562380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867418863463543194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKTV123456: 因为对女性过于饥渴，但又不想付出代价得到，才把目标转移到跨性别上，他们不是真正的爱跨性别，只是视为没有女性的代餐罢了 https://t.co/0yT7ovivTU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1513,
+        "media_key": "3_1867418849613955072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GepnjLobwAAFOBx.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867418849613955072"
+          ],
+          "media_source_tweet_id": [
+            "1867418863463543194"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1867534001776562380",
+        "created_at": "2024-12-13T11:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T12:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867534001776562380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1839916966804611072",
+              "start": 3,
+              "username": "AKTV123456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yT7ovivTU",
+              "end": 98,
+              "expanded_url": "https://x.com/AKTV123456/status/1867418863463543194/photo/1",
+              "media_key": "3_1867418849613955072",
+              "start": 75,
+              "url": "https://t.co/0yT7ovivTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867534001776562380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867418863463543194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKTV123456: 因为对女性过于饥渴，但又不想付出代价得到，才把目标转移到跨性别上，他们不是真正的爱跨性别，只是视为没有女性的代餐罢了 https://t.co/0yT7ovivTU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867418849613955072"
+          ]
+        },
+        "author_id": "1839916966804611072",
+        "conversation_id": "1867418863463543194",
+        "created_at": "2024-12-13T03:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T04:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867418863463543194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yT7ovivTU",
+              "end": 82,
+              "expanded_url": "https://x.com/AKTV123456/status/1867418863463543194/photo/1",
+              "media_key": "3_1867418849613955072",
+              "start": 59,
+              "url": "https://t.co/0yT7ovivTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867418863463543194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "因为对女性过于饥渴，但又不想付出代价得到，才把目标转移到跨性别上，他们不是真正的爱跨性别，只是视为没有女性的代餐罢了 https://t.co/0yT7ovivTU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 FtX | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5176,
+          "following_count": 505,
+          "like_count": 15299,
+          "listed_count": 6,
+          "media_count": 1403,
+          "tweet_count": 13310
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T06:36:38.000Z",
+        "description": "大家好，我們是愛跨TV團隊，成員來自於中國大陸各個地方，是全網最關愛、關懷、友愛跨性別的媒體，歡迎大家加入我們",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveMtF",
+                "end": 23,
+                "expanded_url": "http://t.me/LoveMtF",
+                "start": 0,
+                "url": "https://t.co/mEjKSKd81R"
+              }
+            ]
+          }
+        },
+        "id": "1839916966804611072",
+        "name": "愛跨TV",
+        "pinned_tweet_id": "1863487642178089454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839919500671807488/mddrrVR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 102,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/mEjKSKd81R",
+        "username": "AKTV123456",
+        "verified": false
+      }
+    ]
+  }
+}

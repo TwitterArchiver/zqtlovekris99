@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2057609075970719921",
+    "created_at": "2026-05-22T17:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057879890998034890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1980483857863655424",
+          "start": 0,
+          "username": "KamisatoSeele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057879890998034890",
+    "in_reply_to_user_id": "1980483857863655424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057609075970719921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamisatoSeele 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2057609075970719921",
+        "created_at": "2026-05-22T17:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057879890998034890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1980483857863655424",
+              "start": 0,
+              "username": "KamisatoSeele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057879890998034890",
+        "in_reply_to_user_id": "1980483857863655424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057609075970719921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamisatoSeele 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980483857863655424",
+        "conversation_id": "2057609075970719921",
+        "created_at": "2026-05-21T23:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057609075970719921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057609075970719921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 11578,
+          "like_count": 160,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中奖了喵，猫猫是XX+XXY嵌合体喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13172,
+          "following_count": 1591,
+          "like_count": 25807,
+          "listed_count": 16,
+          "media_count": 5046,
+          "tweet_count": 28153
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T03:58:50.000Z",
+        "description": "无证 | MtF | \n早已出柜喵 | 猫娘|\nmtf，mtx树洞喵（不随时在线看到会回喵）",
+        "id": "1980483857863655424",
+        "name": "Shizuku Kamisato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056301748499935232/KGuyqf8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 94,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 344
+        },
+        "username": "KamisatoSeele",
+        "verified": false
+      }
+    ]
+  }
+}

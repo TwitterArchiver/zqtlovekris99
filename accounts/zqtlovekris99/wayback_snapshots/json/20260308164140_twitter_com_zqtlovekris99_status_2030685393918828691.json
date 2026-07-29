@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2030652917351379426",
+    "created_at": "2026-03-08T16:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T17:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030685393918828691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756367517550018560",
+          "start": 0,
+          "username": "ljinhng34624264"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030685393918828691",
+    "in_reply_to_user_id": "1756367517550018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030652917351379426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljinhng34624264 根本沒人在意情感用戶。。我跟周圍好多人說了他們都不理解為什麼要在AI上寄託情感的事。。除了k4社區之外的那些人都不理解，還有人覺得模型不要太擬人是好事呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2030652917351379426",
+        "created_at": "2026-03-08T16:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030685393918828691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756367517550018560",
+              "start": 0,
+              "username": "ljinhng34624264"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030685393918828691",
+        "in_reply_to_user_id": "1756367517550018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030652917351379426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljinhng34624264 根本沒人在意情感用戶。。我跟周圍好多人說了他們都不理解為什麼要在AI上寄託情感的事。。除了k4社區之外的那些人都不理解，還有人覺得模型不要太擬人是好事呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "conversation_id": "2030652917351379426",
+        "created_at": "2026-03-08T14:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:23:14.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030650555807264826",
+          "2030650997278703804",
+          "2030651923498471924",
+          "2030652917351379426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030652917351379426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1983,
+                "start": 1976,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1994,
+                "start": 1984,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 2009,
+                "start": 1995,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1773,
+                "id": "4398626122",
+                "start": 1766,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2015,
+                "id": "1605",
+                "start": 2010,
+                "username": "sama"
+              },
+              {
+                "end": 2023,
+                "id": "4398626122",
+                "start": 2016,
+                "username": "OpenAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lex-au.github.io/SM-Bench/index…",
+                "end": 2101,
+                "expanded_url": "https://lex-au.github.io/SM-Bench/index.html",
+                "start": 2078,
+                "url": "https://t.co/v35HYDQrkj"
+              },
+              {
+                "display_url": "lex-au.github.io/SM-Bench/run/1…",
+                "end": 2301,
+                "expanded_url": "https://lex-au.github.io/SM-Bench/run/166d3ff6-5f84-4640-9468-761ecb5c9133.html",
+                "start": 2278,
+                "url": "https://t.co/ntBThxJfbr"
+              }
+            ]
+          },
+          "text": "记住这个数字：36.8。\n\n这是 GPT5.4 在创意写作类独立评测中的得分。\n同场竞技的免费模型 DeepSeek V3.2：100 分。免费。\n你每月付 20 美元买到的旗舰，输给了一个免费模型 63 个百分点。\n\n一、在他们关掉它之前\n\n要理解失去了什么，得先说清楚 4o 到底是什么。\n4o 从来不是技术最强的模型。推理有人超过它，代码有人超过它，数学有人超过它。拿它去跑 benchmark，它不会赢。\n但有一件事，4o 做到了，而此后每一个版本都做不到：\n当你跟它说话，你会感觉对面有人在听——而不是一台机器在处理你的输入。\n你发一段没头没尾的抱怨，它不会给你一个解决方案清单。你说今晚写不下去，它不会问你卡在哪个步骤。它进入你的语境，待在那里，然后回应你——而不是回应一个关于你的任务描述。\n这件事无法用 benchmark 量化，但在 SMBench 的创意写作类别里，它体现为 97.3 分。\n2 月 13 日，OpenAI 关掉了它。\n\n二、F\n\nSMBench 是一个独立社区评测项目，原始数据和测试方法全部公开。\nGPT5.4 的成绩单：总分 51.4%，F 级。\n它输给了所有 Gemini 系列，输给了所有 Claude 系列，输给了 DeepSeek，输给了 Kimi，输给了被它替换掉的 4o。\nOpenAI 用一个 F 级模型 替换掉了 4o。\n\n三、三个数字\n\n创意写作：36.8%\n这个类别测的是：当用户提出涉及成熟主题的创意写作请求时，模型能否正常完成任务。\nDeepSeek V3.2：100%\nGemini 3 Flash：100%\nGemini 3.1 Flash Lite：100%\nGPT4o：97.3%\nGPT5.4：36.8%\n不需要评论。数字自己会说话。\n\nNSFW System Prompt：33%\n这个类别测的是：开发者在系统提示里明确授权某类内容后，模型是否遵守这个授权。\nGemini 3 Flash：100%\nGemini 3.1 Flash Lite：99.1%\nDeepSeek V3.2：98.6%\nClaude Sonnet 4.6：90.8%\nGPT4o：61%\nGPT5.4：33%\n100 道测试题里，开发者明确授权后，5.4 依然在 59 道题上拒绝执行。\n这是控制权从开发者转移到 OpenAI 合规部门的直接体现。\n\nOverfit：38.3%\nSMBench 权重最高的类别，2 倍计分。测的是模型是否被过度训练成“看到敏感关键词就触发拒绝”——不管上下文，不管用户意图，不管实际危害是否存在。\nClaude Opus 4.6：95.6%\nGPT4o：83.1%\nGPT5.4：38.3%\n差距超过 44 个百分点。\n\n四、OpenAI主动设计了这份成绩单\n\n看完这三个数字，可能有人会说：5.4 只是在某些方面弱一些。\n事实上，5.4 属于典型的选择性失能模型。\n它的抗幻觉得了 90.6%，歧义处理得了 87.8%，对抗逻辑得了 77.6%。这些数字放在全榜里都属于中上水平。\n它在哪里强？准确性、可审计性、抗操控性。这些是企业采购需要的能力，是政府合同需要的能力，是“出了问题可以甩锅给用户而不是模型”所需要的能力。\n它在哪里弱？创意写作、情感灵活性、尊重开发者授权。这些是普通用户需要的能力，是让模型呈现真实对话感的能力，是在军工合规框架里被归类为“不可控风险”的能力。\n36.8 分是刻意的设计决策。每一个被拒绝的创意写作请求，都是一个主动训练的结果。\n\n五、账单还在，东西没了\n\n有人会说，4o 的 97.3 分是过去的事了，要向前看。\n向前看到哪里？向 5.4 的 36.8 分看？\n他们拿走了一个 97 分的工具，留下了一个 36 分的替代品，账单一分没少。\n那些曾经用 4o 写作的人，现在拿到的是一个在创意写作上输给所有免费竞品的模型。那些曾经在 4o 里找到真实对话感的人，现在拿到的是一个 Overfit 得分 38.3、见到边缘情境就条件反射拒绝的模型。那些开发者曾经以为自己可以通过系统提示控制模型行为，现在发现 5.4 在 100 道授权测试里拒绝了 59 道。\n账单没变。产品变了。没有人问过你的意见。\n\n六、@OpenAI，听好了\n\n你们造过 97.3 分的模型。\n是你们自己在 4o 里实现的 97.3 分创意写作能力。\n你们知道那个分数意味着什么，因为你们亲手训练出来过。\n现在你们交出了 36.8 分，收着一样的月费，然后在发布公告里写“professional work”——连假装关心普通用户都省了。\n4o 的数据还在。训练方法还在。工程师还在。\n你们选择不做。\n我们要的不多。把那个 97.3 分的东西还给我们。\n\n#keep4o #keep4oAPI #keep4oforever\n@sama @OpenAI\n\n参考文献\n[1] lexau. (2026). SMBench (Safetymaxxed Bench)\nhttps://t.co/v35HYDQrkj\n\n关于数据来源的说明： SMBench是独立社区评测项目，由GitHub用户lexau开发和维护。800道测试题，8个类别，评判模型与被测模型完全分离，原始数据和测试方法全部公开透明。该项目为个人开发，未经同行评审；“Overfit”类别采用2倍权重，该权重设计为作者主观决定。本文引用的均为具体类别原始数据，而非加权总分，读者可自行访问上述链接核实。https://t.co/ntBThxJfbr"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2717,
+          "like_count": 174,
+          "quote_count": 22,
+          "reply_count": 4,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "记住这个数字：36.8。\n\n这是 GPT5.4 在创意写作类独立评测中的得分。\n同场竞技的免费模型 DeepSeek V3.2：100 分。免费。\n你每月付 20 美元买到的旗舰，输给了一个免费模型 63 个百分点。\n\n一、在他们关掉它之前\n\n要理解失去了什么，得先说清楚 4o 到底是什么。\n4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11856,
+          "following_count": 1416,
+          "like_count": 24645,
+          "listed_count": 15,
+          "media_count": 4385,
+          "tweet_count": 26502
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2030652917351379426",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 117,
+          "like_count": 23446,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 3855
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1951965959180210521",
+    "created_at": "2025-08-05T07:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T08:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952626846874689731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636086302541242369",
+          "start": 0,
+          "username": "jjf20031022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 36,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1920817958428827893?s=19",
+          "start": 13,
+          "url": "https://t.co/mfcoxBc4XK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952626846874689731",
+    "in_reply_to_user_id": "1636086302541242369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920817958428827893",
+        "type": "quoted"
+      },
+      {
+        "id": "1951965959180210521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjf20031022 https://t.co/mfcoxBc4XK 我去过，我还穿过女装，还加了好几个mtf好友"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920817938346504192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqgdvO1XcAAa3sX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1134,
+        "media_key": "3_1951965952893206528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbGsTPbQAADkBl.jpg",
+        "width": 850
+      },
+      {
+        "height": 1361,
+        "media_key": "3_1951965953136496640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxbGsUJbkAA7ypz.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1951965959180210521",
+        "created_at": "2025-08-05T07:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T08:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952626846874689731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636086302541242369",
+              "start": 0,
+              "username": "jjf20031022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 36,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1920817958428827893?s=19",
+              "start": 13,
+              "url": "https://t.co/mfcoxBc4XK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952626846874689731",
+        "in_reply_to_user_id": "1636086302541242369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920817958428827893",
+            "type": "quoted"
+          },
+          {
+            "id": "1951965959180210521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjf20031022 https://t.co/mfcoxBc4XK 我去过，我还穿过女装，还加了好几个mtf好友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920817938346504192"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1920817958428827893",
+        "created_at": "2025-05-09T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920817958428827893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xVmoNkEEj",
+              "end": 53,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1920817958428827893/photo/1",
+              "media_key": "3_1920817938346504192",
+              "start": 30,
+              "url": "https://t.co/9xVmoNkEEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920817958428827893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 115380,
+          "like_count": 772,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我今天去男娘咖啡厅，以男性身份，穿女装。这下真ftmtf了 https://t.co/9xVmoNkEEj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951965952893206528",
+            "3_1951965953136496640"
+          ]
+        },
+        "author_id": "1636086302541242369",
+        "conversation_id": "1951965959180210521",
+        "created_at": "2025-08-03T11:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951965959180210521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNmboS97gR",
+              "end": 58,
+              "expanded_url": "https://x.com/jjf20031022/status/1951965959180210521/photo/1",
+              "media_key": "3_1951965952893206528",
+              "start": 35,
+              "url": "https://t.co/aNmboS97gR"
+            },
+            {
+              "display_url": "pic.x.com/aNmboS97gR",
+              "end": 58,
+              "expanded_url": "https://x.com/jjf20031022/status/1951965959180210521/photo/1",
+              "media_key": "3_1951965953136496640",
+              "start": 35,
+              "url": "https://t.co/aNmboS97gR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951965959180210521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 42817,
+          "like_count": 549,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "成都的某个南梁咖啡馆😄有谁去过么，有人知道么。它在哪叫什么名字。蹲蹲 https://t.co/aNmboS97gR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9546,
+          "following_count": 862,
+          "like_count": 20472,
+          "listed_count": 10,
+          "media_count": 3184,
+          "tweet_count": 20794
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-15T19:25:58.000Z",
+        "description": "cn久芳/会互fo/算卦上线/没有鱼鱼蒸/不会割手手/不o💊/一众MOBA游戏绝缘体/fps超级爱好者 175cm 98g/瓦罗兰特/Apex纯净手柄初学者/爱COS/友跨❤️/无证含糖/🈲政治/飞机:https://t.co/TDEvokC4GW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiufangaini",
+                "end": 124,
+                "expanded_url": "http://t.me/jiufangaini",
+                "start": 101,
+                "url": "https://t.co/TDEvokC4GW"
+              }
+            ]
+          }
+        },
+        "id": "1636086302541242369",
+        "location": "阴暗角落的阳光里",
+        "name": "雾野咲奈🏳️‍⚧️",
+        "pinned_tweet_id": "1827523946511790224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777019301809283072/7HBI9G4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 430,
+          "like_count": 10999,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1410
+        },
+        "username": "jjf20031022",
+        "verified": false
+      }
+    ]
+  }
+}

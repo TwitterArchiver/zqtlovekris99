@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1860322536485236873",
+    "created_at": "2024-11-24T02:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T03:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860504709423038628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666599054917218305",
+          "start": 0,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860504709423038628",
+    "in_reply_to_user_id": "1666599054917218305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860322536485236873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirakira4th 蛋蛋可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1860322536485236873",
+        "created_at": "2024-11-24T02:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T03:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860504709423038628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666599054917218305",
+              "start": 0,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860504709423038628",
+        "in_reply_to_user_id": "1666599054917218305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860322536485236873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira4th 蛋蛋可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860322521951928325"
+          ]
+        },
+        "author_id": "1666599054917218305",
+        "conversation_id": "1860322536485236873",
+        "created_at": "2024-11-23T14:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860322536485236873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyBnzSreG9",
+              "end": 56,
+              "expanded_url": "https://x.com/kirakira4th/status/1860322536485236873/photo/1",
+              "media_key": "3_1860322521951928325",
+              "start": 33,
+              "url": "https://t.co/lyBnzSreG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860322536485236873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 39741,
+          "like_count": 296,
+          "quote_count": 2,
+          "reply_count": 70,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "现在我也想开了，什么老公不老公，我往巷子里一站，谁老公不是我老公 https://t.co/lyBnzSreG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 性别认同不明 | 多意识体（存疑） | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 🚪68不搞黄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 498,
+          "like_count": 14862,
+          "listed_count": 5,
+          "tweet_count": 12608
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "投胎错为猪",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859954806733037568/ITs21zwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 1931,
+          "like_count": 26984,
+          "listed_count": 6,
+          "tweet_count": 6733
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

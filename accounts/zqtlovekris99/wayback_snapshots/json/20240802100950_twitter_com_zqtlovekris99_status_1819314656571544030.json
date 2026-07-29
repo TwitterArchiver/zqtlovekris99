@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1819306882559041680",
+    "created_at": "2024-08-02T10:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T11:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819314656571544030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819314656571544030",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819306882559041680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 我记得有人讲过这个原理，是要改的，改完概率更大，但我忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1819306882559041680",
+        "created_at": "2024-08-02T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819314656571544030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819314656571544030",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819306882559041680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 我记得有人讲过这个原理，是要改的，改完概率更大，但我忘了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819306860631019520"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1819306882559041680",
+        "created_at": "2024-08-02T09:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T10:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819306882559041680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "三扇门问题"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LSqAbghJLM",
+              "end": 119,
+              "expanded_url": "https://twitter.com/04177_realname/status/1819306882559041680/photo/1",
+              "media_key": "3_1819306860631019520",
+              "start": 96,
+              "url": "https://t.co/LSqAbghJLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819306882559041680",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#三扇门问题\n小明参加一个节目，在三扇门的某一扇后面有奖品，当他选择一扇门后，主持人会打开他未选择的一扇门，展示打开的门后面没有奖品，并问他是否更改选择，为了有更高概率得奖，小明要不要改呢？ https://t.co/LSqAbghJLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 药物交流群 https://t.co/anaD3TmRm6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYA000",
+                "end": 108,
+                "expanded_url": "https://t.me/OLAIYA000",
+                "start": 85,
+                "url": "https://t.co/anaD3TmRm6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4106,
+          "following_count": 513,
+          "like_count": 13409,
+          "listed_count": 5,
+          "tweet_count": 10029
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/我推の芙莉莲/收集人类碎片/提问箱：https://t.co/pe56J9RL4w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 74,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 51,
+                "url": "https://t.co/pe56J9RL4w"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1801305651844681741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4571,
+          "following_count": 3991,
+          "like_count": 36786,
+          "listed_count": 16,
+          "tweet_count": 10019
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

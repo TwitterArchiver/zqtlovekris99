@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2042041481326919921",
+    "created_at": "2026-04-09T10:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042183134847062176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 21,
+          "id": "1909390269533011968",
+          "start": 16,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042183134847062176",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042041481326919921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @gork 我可以草你吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1046,
+        "media_key": "3_2042041474255310848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFbJ5tGaUAApwgP.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2042041481326919921",
+        "created_at": "2026-04-09T10:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042183134847062176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 21,
+              "id": "1909390269533011968",
+              "start": 16,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042183134847062176",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042041481326919921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @gork 我可以草你吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042041474255310848"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042041481326919921",
+        "created_at": "2026-04-09T00:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042041481326919921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2Ruyqk7Ay",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2042041481326919921/photo/1",
+              "media_key": "3_2042041474255310848",
+              "start": 16,
+              "url": "https://t.co/c2Ruyqk7Ay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042041481326919921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3556,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜 GPT 她欺负環状線😭 https://t.co/c2Ruyqk7Ay"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "跨男娘/翻车顺女 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11919,
+          "following_count": 1451,
+          "like_count": 25068,
+          "listed_count": 16,
+          "media_count": 4530,
+          "tweet_count": 27253
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 宝宝@HoroyoiBerry | CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 110,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 87,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 140,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 117,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 387,
+          "like_count": 11597,
+          "listed_count": 4,
+          "media_count": 788,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418758,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 393,
+          "media_count": 44923,
+          "tweet_count": 2341922
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

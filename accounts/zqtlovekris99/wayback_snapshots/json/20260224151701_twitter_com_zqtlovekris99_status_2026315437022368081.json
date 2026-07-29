@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2026307170795663601",
+    "created_at": "2026-02-24T15:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026315437022368081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862933333552009216",
+          "start": 0,
+          "username": "qichuanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026315437022368081",
+    "in_reply_to_user_id": "1862933333552009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026307170795663601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qichuanzz Gemini不给用换个节点试试，有时候就这样，墙内显示的ip好像是跟运营商关联的还是啥的我忘了，反正跟VPN走的不是同一条路，所以代理没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2026307170795663601",
+        "created_at": "2026-02-24T15:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026315437022368081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862933333552009216",
+              "start": 0,
+              "username": "qichuanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026315437022368081",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026307170795663601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qichuanzz Gemini不给用换个节点试试，有时候就这样，墙内显示的ip好像是跟运营商关联的还是啥的我忘了，反正跟VPN走的不是同一条路，所以代理没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862933333552009216",
+        "conversation_id": "2026307170795663601",
+        "created_at": "2026-02-24T14:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026307170795663601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026307170795663601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好慌啊😱明明可以上推和gpt，但是Gemini一直登不上去，xhs和微博还显示的是真实ip，，别搞我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11740,
+          "following_count": 1380,
+          "like_count": 24372,
+          "listed_count": 15,
+          "media_count": 4342,
+          "tweet_count": 26201
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/黑匣子/家g🐆家克🐱/Cat exists.\n#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "1936940604174606518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900416315355139/x2gv4Bh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 227,
+          "like_count": 7296,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 2699
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

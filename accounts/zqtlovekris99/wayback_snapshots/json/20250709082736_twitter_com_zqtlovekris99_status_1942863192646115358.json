@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1942861532905329068",
+    "created_at": "2025-07-09T08:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942863192646115358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "6thCuteK1tten"
+        },
+        {
+          "end": 26,
+          "id": "1825908586297368576",
+          "start": 15,
+          "username": "Aether8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942863192646115358",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942861532905329068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6thCuteK1tten @Aether8964 这人也屏蔽我了🤣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942861532905329068].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942861532905329068",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942861532905329068"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1942861532905329068",
+        "created_at": "2025-07-09T08:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942863192646115358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "6thCuteK1tten"
+            },
+            {
+              "end": 26,
+              "id": "1825908586297368576",
+              "start": 15,
+              "username": "Aether8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942863192646115358",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942861532905329068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6thCuteK1tten @Aether8964 这人也屏蔽我了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀账号暂时由Lumin接管",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9093,
+          "following_count": 770,
+          "like_count": 19891,
+          "listed_count": 10,
+          "media_count": 3001,
+          "tweet_count": 20000
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "病み垢。只过活人 查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/zAEKkueaV9"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1941039106303406377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935293281031561216/w3DQYC7X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 336,
+          "like_count": 4971,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/zAEKkueaV9",
+        "username": "6thCuteK1tten",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T14:51:55.000Z",
+        "description": "悪鬼と争い高下を決し、覇王に寸分も譲らず｜小号@AEEER8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "AEEER8964"
+              }
+            ]
+          }
+        },
+        "id": "1825908586297368576",
+        "location": "蛤布斯堡",
+        "name": "江え",
+        "pinned_tweet_id": "1937814220013543725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891798808767627264/TZzgESDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 309,
+          "like_count": 37471,
+          "listed_count": 0,
+          "media_count": 647,
+          "tweet_count": 6895
+        },
+        "username": "Aether8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912340533944455168"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1912340536540967170",
+    "created_at": "2025-04-16T03:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T04:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912340536540967170"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zHFQsMb8dv",
+          "end": 94,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1912340536540967170/photo/1",
+          "media_key": "3_1912340533944455168",
+          "start": 71,
+          "url": "https://t.co/zHFQsMb8dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912340536540967170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有个视频是日男说女友去澳洲留学，要带个新男友回来同居，日男表示同意的同时认为这是自己锻炼交往技能的机会...\n小日子会写牛头人不是没原因的 https://t.co/zHFQsMb8dv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_1912340533944455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gon_lWdXEAApHzM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912340533944455168"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1912340536540967170",
+        "created_at": "2025-04-16T03:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T04:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912340536540967170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHFQsMb8dv",
+              "end": 94,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1912340536540967170/photo/1",
+              "media_key": "3_1912340533944455168",
+              "start": 71,
+              "url": "https://t.co/zHFQsMb8dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912340536540967170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有个视频是日男说女友去澳洲留学，要带个新男友回来同居，日男表示同意的同时认为这是自己锻炼交往技能的机会...\n小日子会写牛头人不是没原因的 https://t.co/zHFQsMb8dv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6516,
+          "following_count": 526,
+          "like_count": 17639,
+          "listed_count": 9,
+          "media_count": 2104,
+          "tweet_count": 16603
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

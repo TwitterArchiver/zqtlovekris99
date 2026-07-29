@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1935147387628277794",
+    "created_at": "2025-06-18T05:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T06:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935203562969252098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935203562969252098",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935147387628277794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w 哇彩色的纹身真的太可爱啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935147373480787968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsGSIhaQAAB5QA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935147373812137990",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsGSJwaQAYOVNa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 838,
+        "media_key": "3_1935147373501800448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtsGSIma4AAh8hQ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1935147387628277794",
+        "created_at": "2025-06-18T05:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935203562969252098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935203562969252098",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935147387628277794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w 哇彩色的纹身真的太可爱啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935147373480787968",
+            "3_1935147373812137990",
+            "3_1935147373501800448"
+          ]
+        },
+        "author_id": "1527308255927492609",
+        "conversation_id": "1935147387628277794",
+        "created_at": "2025-06-18T01:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T02:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935147387628277794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQEnZHG9nA",
+              "end": 170,
+              "expanded_url": "https://x.com/love1027w/status/1935147387628277794/photo/1",
+              "media_key": "3_1935147373480787968",
+              "start": 147,
+              "url": "https://t.co/XQEnZHG9nA"
+            },
+            {
+              "display_url": "pic.x.com/XQEnZHG9nA",
+              "end": 170,
+              "expanded_url": "https://x.com/love1027w/status/1935147387628277794/photo/1",
+              "media_key": "3_1935147373812137990",
+              "start": 147,
+              "url": "https://t.co/XQEnZHG9nA"
+            },
+            {
+              "display_url": "pic.x.com/XQEnZHG9nA",
+              "end": 170,
+              "expanded_url": "https://x.com/love1027w/status/1935147387628277794/photo/1",
+              "media_key": "3_1935147373501800448",
+              "start": 147,
+              "url": "https://t.co/XQEnZHG9nA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935147387628277794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 574,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六色彩虹+金毛小狗+分号😈\n纹这个是想纪念小祁以及兮柚居然存活至今（bushi）小祁最喜欢金毛所以纹了一只自由自在向前奔跑的小狗，仿佛顺着疤痕奔跑，一直跨越障碍努力向前。\n\n非常有缘的是当我加了纹身师微信后，发现很火的p3就是这位纹身师的作品，而这张图刚好又是小祁的QQ背景图_(:з」∠)_ https://t.co/XQEnZHG9nA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒OD第∞天）每天都是最后一天OD",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8165,
+          "following_count": 692,
+          "like_count": 19416,
+          "listed_count": 10,
+          "media_count": 2812,
+          "tweet_count": 19276
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922067490928226304/fx0nM_Vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11755,
+          "following_count": 447,
+          "like_count": 41928,
+          "listed_count": 13,
+          "media_count": 1685,
+          "tweet_count": 24246
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

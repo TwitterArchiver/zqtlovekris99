@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2012198932861043119",
+    "created_at": "2026-01-16T17:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012223105486209493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012223105486209493",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012198932861043119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 华立干的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 609,
+        "media_key": "3_2012193313294856192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-y_KEpbMAA8BYQ.jpg",
+        "width": 619
+      },
+      {
+        "height": 1055,
+        "media_key": "3_2012193308580483072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-y_JzFbkAAHJ7o.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2012198932861043119",
+        "created_at": "2026-01-16T17:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012223105486209493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012223105486209493",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012198932861043119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 华立干的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012193313294856192",
+            "3_2012193308580483072"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2012198932861043119",
+        "created_at": "2026-01-16T16:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012198932861043119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL7smVWM3l",
+              "end": 32,
+              "expanded_url": "https://x.com/Cldeop/status/2012198932861043119/photo/1",
+              "media_key": "3_2012193313294856192",
+              "start": 9,
+              "url": "https://t.co/rL7smVWM3l"
+            },
+            {
+              "display_url": "pic.x.com/rL7smVWM3l",
+              "end": 32,
+              "expanded_url": "https://x.com/Cldeop/status/2012198932861043119/photo/1",
+              "media_key": "3_2012193308580483072",
+              "start": 9,
+              "url": "https://t.co/rL7smVWM3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012198932861043119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5057,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "速报：推特又炸了 https://t.co/rL7smVWM3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11009,
+          "following_count": 1098,
+          "like_count": 23639,
+          "listed_count": 13,
+          "media_count": 4161,
+          "tweet_count": 25265
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98200,
+          "following_count": 684,
+          "like_count": 33855,
+          "listed_count": 276,
+          "media_count": 15062,
+          "tweet_count": 21734
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

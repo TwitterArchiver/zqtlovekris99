@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891068876198391809",
+        "3_1891068878077489152"
+      ],
+      "media_source_tweet_id": [
+        "1891068884553187830",
+        "1891068884553187830"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1891380659131666653",
+    "created_at": "2025-02-17T06:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T07:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891380659131666653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797727504540807168",
+          "start": 3,
+          "username": "od_angelkaii_od"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O1Vj7pwJ84",
+          "end": 44,
+          "expanded_url": "https://x.com/od_angelkaii_od/status/1891068884553187830/photo/1",
+          "media_key": "3_1891068876198391809",
+          "start": 21,
+          "url": "https://t.co/O1Vj7pwJ84"
+        },
+        {
+          "display_url": "pic.x.com/O1Vj7pwJ84",
+          "end": 44,
+          "expanded_url": "https://x.com/od_angelkaii_od/status/1891068884553187830/photo/1",
+          "media_key": "3_1891068878077489152",
+          "start": 21,
+          "url": "https://t.co/O1Vj7pwJ84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891380659131666653",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891068884553187830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @od_angelkaii_od: https://t.co/O1Vj7pwJ84"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_1891068876198391809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj5tH6OaMAEJcKr.jpg",
+        "width": 1069
+      },
+      {
+        "height": 530,
+        "media_key": "3_1891068878077489152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj5tIBOa8AAvfZa.jpg",
+        "width": 441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891068876198391809",
+            "3_1891068878077489152"
+          ],
+          "media_source_tweet_id": [
+            "1891068884553187830",
+            "1891068884553187830"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891380659131666653",
+        "created_at": "2025-02-17T06:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T07:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891380659131666653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1797727504540807168",
+              "start": 3,
+              "username": "od_angelkaii_od"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1Vj7pwJ84",
+              "end": 44,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1891068884553187830/photo/1",
+              "media_key": "3_1891068876198391809",
+              "start": 21,
+              "url": "https://t.co/O1Vj7pwJ84"
+            },
+            {
+              "display_url": "pic.x.com/O1Vj7pwJ84",
+              "end": 44,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1891068884553187830/photo/1",
+              "media_key": "3_1891068878077489152",
+              "start": 21,
+              "url": "https://t.co/O1Vj7pwJ84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891380659131666653",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891068884553187830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @od_angelkaii_od: https://t.co/O1Vj7pwJ84"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891068876198391809",
+            "3_1891068878077489152"
+          ]
+        },
+        "author_id": "1797727504540807168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1891068884553187830",
+        "created_at": "2025-02-16T10:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T11:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891068884553187830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1Vj7pwJ84",
+              "end": 23,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1891068884553187830/photo/1",
+              "media_key": "3_1891068876198391809",
+              "start": 0,
+              "url": "https://t.co/O1Vj7pwJ84"
+            },
+            {
+              "display_url": "pic.x.com/O1Vj7pwJ84",
+              "end": 23,
+              "expanded_url": "https://x.com/od_angelkaii_od/status/1891068884553187830/photo/1",
+              "media_key": "3_1891068878077489152",
+              "start": 0,
+              "url": "https://t.co/O1Vj7pwJ84"
+            },
+            {
+              "display_url": "x.com/2temisinin/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/2temisinin/status/1891063971911713179",
+              "start": 24,
+              "url": "https://t.co/vFO024O394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891068884553187830",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1476,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891063971911713179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/O1Vj7pwJ84 https://t.co/vFO024O394"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1888515060076892385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5776,
+          "following_count": 525,
+          "like_count": 16613,
+          "listed_count": 7,
+          "media_count": 1723,
+          "tweet_count": 14812
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw85LH"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1889540094710915274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 3971,
+          "like_count": 2082,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/nDuhQw85LH",
+        "username": "od_angelkaii_od",
+        "verified": false
+      }
+    ]
+  }
+}

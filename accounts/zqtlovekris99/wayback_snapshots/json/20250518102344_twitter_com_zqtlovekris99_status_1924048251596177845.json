@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924048249062576128"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1924048241618035127",
+    "created_at": "2025-05-18T10:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T11:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924048251596177845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I97IkJegmD",
+          "end": 23,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1924048251596177845/photo/1",
+          "media_key": "3_1924048249062576128",
+          "start": 0,
+          "url": "https://t.co/I97IkJegmD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924048251596177845",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924048241618035127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/I97IkJegmD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1924048249062576128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOXsEAWUAA2-Q2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1230,
+        "media_key": "3_1924048238404878337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOXrcTWwAE4sxj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924048249062576128"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1924048241618035127",
+        "created_at": "2025-05-18T10:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924048251596177845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I97IkJegmD",
+              "end": 23,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1924048251596177845/photo/1",
+              "media_key": "3_1924048249062576128",
+              "start": 0,
+              "url": "https://t.co/I97IkJegmD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924048251596177845",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924048241618035127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/I97IkJegmD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924048238404878337"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1924048241618035127",
+        "created_at": "2025-05-18T10:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T11:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924048241618035127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwDyIlYgEL",
+              "end": 68,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1924048241618035127/photo/1",
+              "media_key": "3_1924048238404878337",
+              "start": 45,
+              "url": "https://t.co/WwDyIlYgEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924048241618035127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯。。高中因为家长管的很严没办法抽烟喝酒烫头美甲，只能在校内家长管不到的地方偷偷叛逆。。 https://t.co/WwDyIlYgEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 蓝v互关永不取关 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7472,
+          "following_count": 719,
+          "like_count": 18560,
+          "listed_count": 10,
+          "media_count": 2536,
+          "tweet_count": 18059
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

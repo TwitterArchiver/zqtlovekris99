@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905641304497029123"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1905626454874095794",
+    "created_at": "2025-03-28T15:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T16:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905641309257564398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HMnzSaTvl",
+          "end": 32,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1905641309257564398/photo/1",
+          "media_key": "3_1905641304497029123",
+          "start": 9,
+          "url": "https://t.co/4HMnzSaTvl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905641309257564398",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905626454874095794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩不上了，睡觉了 https://t.co/4HMnzSaTvl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905641304497029123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIyq3_bgAMgDuJ.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1905626405247090692",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIlHn9bgAQXMt6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905641304497029123"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1905626454874095794",
+        "created_at": "2025-03-28T15:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905641309257564398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HMnzSaTvl",
+              "end": 32,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1905641309257564398/photo/1",
+              "media_key": "3_1905641304497029123",
+              "start": 9,
+              "url": "https://t.co/4HMnzSaTvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905641309257564398",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905626454874095794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩不上了，睡觉了 https://t.co/4HMnzSaTvl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905626405247090692"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1905626454874095794",
+        "created_at": "2025-03-28T14:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T15:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905626454874095794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0g6wZJpTf",
+              "end": 60,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1905626454874095794/photo/1",
+              "media_key": "3_1905626405247090692",
+              "start": 37,
+              "url": "https://t.co/J0g6wZJpTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905626454874095794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赶紧赶紧，回家第一件事就是更新原神，6个G还挺快的看来今天还能晚上热乎的 https://t.co/J0g6wZJpTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6323,
+          "following_count": 536,
+          "like_count": 17341,
+          "listed_count": 8,
+          "media_count": 1957,
+          "tweet_count": 16061
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971154763141218310"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1971150431343833158",
+    "created_at": "2025-09-25T10:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971154766341550210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "CuteKittenO3O"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ktm090FoRW",
+          "end": 120,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1971154766341550210/photo/1",
+          "media_key": "3_1971154763141218310",
+          "start": 97,
+          "url": "https://t.co/Ktm090FoRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971154766341550210",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971153880571576565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteKittenO3O 分医院的，就问他最多能开多少，省医院就最多只给开两周的，可能成都四院管的不严，不过他们医院全是这种垃圾仿制药，蓝色的右佐，药效垃圾的很，绿白盒的劳拉西泮见都没见过 https://t.co/Ktm090FoRW"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1971153880571576565].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1971153880571576565",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1971153880571576565"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1104,
+        "media_key": "3_1971154763141218310",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ry0D5aAAYnQra.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971154763141218310"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1971150431343833158",
+        "created_at": "2025-09-25T10:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971154766341550210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "CuteKittenO3O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ktm090FoRW",
+              "end": 120,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1971154766341550210/photo/1",
+              "media_key": "3_1971154763141218310",
+              "start": 97,
+              "url": "https://t.co/Ktm090FoRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971154766341550210",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971153880571576565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteKittenO3O 分医院的，就问他最多能开多少，省医院就最多只给开两周的，可能成都四院管的不严，不过他们医院全是这种垃圾仿制药，蓝色的右佐，药效垃圾的很，绿白盒的劳拉西泮见都没见过 https://t.co/Ktm090FoRW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10166,
+          "following_count": 1021,
+          "like_count": 21817,
+          "listed_count": 10,
+          "media_count": 3603,
+          "tweet_count": 22624
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜🍧:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPS2U"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1969878237728956784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970755176219947008/8nYeAtQd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 554,
+          "like_count": 13000,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 5532
+        },
+        "url": "https://t.co/nRpYRqPS2U",
+        "username": "CuteKittenO3O",
+        "verified": false
+      }
+    ]
+  }
+}

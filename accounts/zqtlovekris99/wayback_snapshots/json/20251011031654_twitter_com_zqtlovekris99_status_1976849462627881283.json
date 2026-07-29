@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1976786300704534535",
+    "created_at": "2025-10-11T03:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T04:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976849462627881283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976849462627881283",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976786300704534535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup 梅事的只要我没有性生活就永远不会得😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 337,
+        "media_key": "3_1976786296875237380",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G270qd4bwAQiH-8.jpg",
+        "width": 554
+      },
+      {
+        "height": 684,
+        "media_key": "3_1976786297290416128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G270qfba4AADSZi.jpg",
+        "width": 529
+      },
+      {
+        "height": 311,
+        "media_key": "3_1976786297789509632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G270qhSacAAAZdX.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1976786300704534535",
+        "created_at": "2025-10-11T03:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976849462627881283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976849462627881283",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976786300704534535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 梅事的只要我没有性生活就永远不会得😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976786296875237380",
+            "3_1976786297290416128",
+            "3_1976786297789509632"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1976786300704534535",
+        "created_at": "2025-10-10T23:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T00:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976786300704534535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEeGmAAz20",
+              "end": 77,
+              "expanded_url": "https://x.com/jianlvup/status/1976786300704534535/photo/1",
+              "media_key": "3_1976786296875237380",
+              "start": 54,
+              "url": "https://t.co/ZEeGmAAz20"
+            },
+            {
+              "display_url": "pic.x.com/ZEeGmAAz20",
+              "end": 77,
+              "expanded_url": "https://x.com/jianlvup/status/1976786300704534535/photo/1",
+              "media_key": "3_1976786297290416128",
+              "start": 54,
+              "url": "https://t.co/ZEeGmAAz20"
+            },
+            {
+              "display_url": "pic.x.com/ZEeGmAAz20",
+              "end": 77,
+              "expanded_url": "https://x.com/jianlvup/status/1976786300704534535/photo/1",
+              "media_key": "3_1976786297789509632",
+              "start": 54,
+              "url": "https://t.co/ZEeGmAAz20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976786300704534535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 926,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看谁以后还敢抱有侥幸？\n前两天我朋友说身体不舒服，手上长红斑，我当时就感觉不对劲，果然带他过去一看中招了。 https://t.co/ZEeGmAAz20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1976670174951719018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10270,
+          "following_count": 999,
+          "like_count": 22350,
+          "listed_count": 10,
+          "media_count": 3708,
+          "tweet_count": 23315
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1976166466232910150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10013,
+          "following_count": 999,
+          "like_count": 47967,
+          "listed_count": 35,
+          "media_count": 1727,
+          "tweet_count": 4058
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

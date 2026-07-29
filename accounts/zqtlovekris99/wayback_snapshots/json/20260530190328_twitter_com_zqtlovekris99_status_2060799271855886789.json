@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2060549907380113680",
+    "created_at": "2026-05-30T19:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T20:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060799271855886789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752259037566218240",
+          "start": 0,
+          "username": "aru_ve_lut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060799271855886789",
+    "in_reply_to_user_id": "1752259037566218240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060549907380113680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aru_ve_lut 那你就跟羡慕精神分裂的幻觉不用吃置换剂一样😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2060549907380113680",
+        "created_at": "2026-05-30T19:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060799271855886789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752259037566218240",
+              "start": 0,
+              "username": "aru_ve_lut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060799271855886789",
+        "in_reply_to_user_id": "1752259037566218240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060549907380113680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aru_ve_lut 那你就跟羡慕精神分裂的幻觉不用吃置换剂一样😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752259037566218240",
+        "conversation_id": "2060549907380113680",
+        "created_at": "2026-05-30T02:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060549907380113680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060549907380113680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2995,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "羡慕那些能自己解离的，不用吃愈美片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13265,
+          "following_count": 1624,
+          "like_count": 25897,
+          "listed_count": 14,
+          "media_count": 5141,
+          "tweet_count": 28333
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T09:14:57.000Z",
+        "description": "atto/见晴miharu/081013/日常推/中文/En/日语学习中/intp-a/od/自残/休学/友跨/希望和大家交朋友/超级社恐/很温良的小女孩/欢迎互fo 直fo就是喜欢你",
+        "id": "1752259037566218240",
+        "name": "见晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045456632256290816/rzugZvz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 358,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 390
+        },
+        "username": "aru_ve_lut",
+        "verified": false
+      }
+    ]
+  }
+}

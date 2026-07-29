@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066191966120140800"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2066030542261551163",
+    "created_at": "2026-06-14T16:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066192022470640039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 24,
+          "id": "2063957681984225280",
+          "start": 14,
+          "username": "YuwenMewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8PV3Ovm4eQ",
+          "end": 55,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2066192022470640039/photo/1",
+          "media_key": "3_2066191966120140800",
+          "start": 32,
+          "url": "https://t.co/8PV3Ovm4eQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066192022470640039",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066181508386247164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara @YuwenMewo 吃饭中勿扰（ https://t.co/8PV3Ovm4eQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2066191966120140800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyWpWJbYAAysUG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066191966120140800"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2066030542261551163",
+        "created_at": "2026-06-14T16:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066192022470640039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 24,
+              "id": "2063957681984225280",
+              "start": 14,
+              "username": "YuwenMewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PV3Ovm4eQ",
+              "end": 55,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2066192022470640039/photo/1",
+              "media_key": "3_2066191966120140800",
+              "start": 32,
+              "url": "https://t.co/8PV3Ovm4eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066192022470640039",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066181508386247164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @YuwenMewo 吃饭中勿扰（ https://t.co/8PV3Ovm4eQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2066030542261551163",
+        "created_at": "2026-06-14T15:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066181508386247164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 25,
+              "id": "1390652924481527810",
+              "start": 11,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 40,
+              "id": "1390652924481527810",
+              "start": 26,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066181508386247164",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066123951387095541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo @zqtlovekris99 @zqtlovekris99 管管你家的鼠鼠！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13390,
+          "following_count": 1666,
+          "like_count": 26155,
+          "listed_count": 15,
+          "media_count": 5294,
+          "tweet_count": 28727
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "π@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 27,
+                "start": 16,
+                "username": "shsh548866"
+              },
+              {
+                "end": 44,
+                "start": 30,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 1110,
+          "like_count": 20576,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 11577
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2066139335825744226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 19,
+          "like_count": 66,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 341
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

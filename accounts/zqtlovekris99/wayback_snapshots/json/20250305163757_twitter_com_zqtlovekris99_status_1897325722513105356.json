@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1897325722513105356",
+    "created_at": "2025-03-05T16:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897325722513105356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1805655851786711040",
+          "start": 3,
+          "username": "meiriaikua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897325722513105356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897071766314578015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meiriaikua: 帮上清蒸协会（国内最大爱跨社群，国外几乎没有人懂进，高人一等）50元/次\n每日爱跨 30元/次\n爱跨TV（爱跨必备，不是B站那些三流炒作狗可以比的）45/次\n每次一共五分钟，逾期将进行罚款\n不懂的别来BB，我交易都是成本价，友跨勿扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1897325722513105356",
+        "created_at": "2025-03-05T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897325722513105356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1805655851786711040",
+              "start": 3,
+              "username": "meiriaikua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897325722513105356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897071766314578015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meiriaikua: 帮上清蒸协会（国内最大爱跨社群，国外几乎没有人懂进，高人一等）50元/次\n每日爱跨 30元/次\n爱跨TV（爱跨必备，不是B站那些三流炒作狗可以比的）45/次\n每次一共五分钟，逾期将进行罚款\n不懂的别来BB，我交易都是成本价，友跨勿扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805655851786711040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1897071766314578015",
+        "created_at": "2025-03-04T23:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T00:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897071766314578015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZW3333T/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/ZW3333T/status/1896920627455623265",
+              "start": 117,
+              "url": "https://t.co/MaeisxfNrf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897071766314578015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 244,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896920627455623265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮上清蒸协会（国内最大爱跨社群，国外几乎没有人懂进，高人一等）50元/次\n每日爱跨 30元/次\n爱跨TV（爱跨必备，不是B站那些三流炒作狗可以比的）45/次\n每次一共五分钟，逾期将进行罚款\n不懂的别来BB，我交易都是成本价，友跨勿扰 https://t.co/MaeisxfNrf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 多意识体内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 530,
+          "like_count": 16945,
+          "listed_count": 9,
+          "media_count": 1806,
+          "tweet_count": 15315
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-25T17:34:52.000Z",
+        "description": "个人运营 \n政治露阴癖/低能反串狗/瞎骂恶俗人勿扰\n\n “吾杀汝辈，实救汝辈于世上诸苦，虽杀之，实爱之也”    欢迎各位爱跨雅士和跨性别私信交流、投稿、匿名传话（本人不对任何推友来稿言论做负责）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveMtF",
+                "end": 23,
+                "expanded_url": "http://t.me/LoveMtF",
+                "start": 0,
+                "url": "https://t.co/XJnCuDdMqg"
+              }
+            ]
+          }
+        },
+        "id": "1805655851786711040",
+        "location": "什么才是你真正需要的？什么才是你真正想要的？",
+        "name": "每日爱跨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1877058901067100529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805656500108771329/dqPhwmdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 70,
+          "like_count": 1110,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/XJnCuDdMqg",
+        "username": "meiriaikua",
+        "verified": false
+      }
+    ]
+  }
+}

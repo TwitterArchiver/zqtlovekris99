@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1930201723731161438",
+    "created_at": "2025-06-04T11:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T12:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930221418081587554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "shadow110705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930221418081587554",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930220926412669378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadow110705 绿陪，但是他们会接和男的约会吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1930220926412669378].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1930220926412669378",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1930220926412669378"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1930201723731161438",
+        "created_at": "2025-06-04T11:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T12:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930221418081587554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "shadow110705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930221418081587554",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930220926412669378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadow110705 绿陪，但是他们会接和男的约会吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第4天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8086,
+          "following_count": 668,
+          "like_count": 19068,
+          "listed_count": 10,
+          "media_count": 2688,
+          "tweet_count": 18715
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "影渡（かげ）/ Shadow｜中国出身｜CN⇢EN⇢JA｜18⤵︎｜⚧（中性寄り\nCosplay｜Guitar｜Drawing｜Daily things\nPlural system / 精神疾患持ち（未服薬）\n文スト・ぼざろ・ボカロ \n日本語は８割翻訳機頼みだけど\nいちばんだいすきなお姉ちゃん→ @GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "GuiMengNya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kage110705",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kage110705",
+                "start": 0,
+                "url": "https://t.co/XmEN7yPXmw"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "Shadow",
+        "pinned_tweet_id": "1928843044800827492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929497532612407296/rGCtp8cb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 258,
+          "like_count": 8246,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/XmEN7yPXmw",
+        "username": "shadow110705",
+        "verified": false
+      }
+    ]
+  }
+}

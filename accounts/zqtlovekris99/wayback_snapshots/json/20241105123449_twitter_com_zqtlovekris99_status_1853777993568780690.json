@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1853770360602452461",
+    "created_at": "2024-11-05T12:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T13:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853777993568780690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853777993568780690",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853773285554839999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 好像炸了，我下午引用的那条推显示的来自不存在的账号"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1853773285554839999].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1853773285554839999",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1853773285554839999"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1853770360602452461",
+        "created_at": "2024-11-05T12:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T13:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853777993568780690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853777993568780690",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853773285554839999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 好像炸了，我下午引用的那条推显示的来自不存在的账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 恋人 @RinkokoroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（自言自语版）",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4925,
+          "following_count": 500,
+          "like_count": 14548,
+          "listed_count": 4,
+          "tweet_count": 12118
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Are we fated, faithful, or fatal?\n\n*注: 请不要当面问我的性别，问性别一律视为性骚扰; 实在好奇请自行探究/打听",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/eIe8Qr32WC"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "💙🌘 藍朔| 鱼鱼蒸发作中| 断pr80更鱼鱼中",
+        "pinned_tweet_id": "1852076436590596605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822660399034163200/Wndwgn1V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 754,
+          "like_count": 34613,
+          "listed_count": 2,
+          "tweet_count": 30503
+        },
+        "url": "https://t.co/eIe8Qr32WC",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

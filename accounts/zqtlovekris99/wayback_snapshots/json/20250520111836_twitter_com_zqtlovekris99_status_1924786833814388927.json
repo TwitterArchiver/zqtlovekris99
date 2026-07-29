@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1924765392582619395",
+    "created_at": "2025-05-20T11:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T12:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924786833814388927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924723503254929408",
+          "start": 0,
+          "username": "blmario668"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924786833814388927",
+    "in_reply_to_user_id": "1924723503254929408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924765392582619395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blmario668 1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1924765392582619395].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924765392582619395",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924765392582619395"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1924765392582619395",
+        "created_at": "2025-05-20T11:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T12:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924786833814388927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924723503254929408",
+              "start": 0,
+              "username": "blmario668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924786833814388927",
+        "in_reply_to_user_id": "1924723503254929408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924765392582619395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blmario668 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 蓝v互关永不取关 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7518,
+          "following_count": 766,
+          "like_count": 18649,
+          "listed_count": 10,
+          "media_count": 2562,
+          "tweet_count": 18154
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T07:07:10.000Z",
+        "description": "加密行业资深编辑 | 内容创作者 | #Zypher Network 社区大使 | 老韭菜 #Binance 所有内容不做投资建议 | DYOR 商务合作  约稿、宣发合作 TG：blmario | DM ✉️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 19,
+                "tag": "Zypher"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "Binance"
+              }
+            ]
+          }
+        },
+        "id": "1924723503254929408",
+        "name": "黑色马里奥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924732756585807872/OL3-O1uQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 100,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "blmario668",
+        "verified": true
+      }
+    ]
+  }
+}

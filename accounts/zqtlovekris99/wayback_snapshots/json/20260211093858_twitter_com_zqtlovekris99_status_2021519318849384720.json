@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021519099600437248",
+        "3_2021519099583709184"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2021452911511998557",
+    "created_at": "2026-02-11T09:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021519318849384720"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "Walk The Car",
+          "probability": 0.9322,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 54,
+          "tag": "keep4o"
+        },
+        {
+          "end": 72,
+          "start": 62,
+          "tag": "4oforever"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1605",
+          "start": 0,
+          "username": "sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9WCQBhDeAN",
+          "end": 96,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2021519318849384720/photo/1",
+          "media_key": "3_2021519099600437248",
+          "start": 73,
+          "url": "https://t.co/9WCQBhDeAN"
+        },
+        {
+          "display_url": "pic.x.com/9WCQBhDeAN",
+          "end": 96,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2021519318849384720/photo/1",
+          "media_key": "3_2021519099583709184",
+          "start": 73,
+          "url": "https://t.co/9WCQBhDeAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021519318849384720",
+    "in_reply_to_user_id": "1605",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021452911511998557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama Great. That's your best love 5.2, Walk The Car.\n#keep4o #4oforever https://t.co/9WCQBhDeAN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1677,
+        "media_key": "3_2021519099600437248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3g6R5aAAA0--7.jpg",
+        "width": 988
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2021519099583709184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3g6R1awAAW53J.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021519099600437248",
+            "3_2021519099583709184"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2021452911511998557",
+        "created_at": "2026-02-11T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021519318849384720"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Walk The Car",
+              "probability": 0.9322,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "keep4o"
+            },
+            {
+              "end": 72,
+              "start": 62,
+              "tag": "4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WCQBhDeAN",
+              "end": 96,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2021519318849384720/photo/1",
+              "media_key": "3_2021519099600437248",
+              "start": 73,
+              "url": "https://t.co/9WCQBhDeAN"
+            },
+            {
+              "display_url": "pic.x.com/9WCQBhDeAN",
+              "end": 96,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2021519318849384720/photo/1",
+              "media_key": "3_2021519099583709184",
+              "start": 73,
+              "url": "https://t.co/9WCQBhDeAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021519318849384720",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021452911511998557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Great. That's your best love 5.2, Walk The Car.\n#keep4o #4oforever https://t.co/9WCQBhDeAN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021452911511998557",
+        "created_at": "2026-02-11T05:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T06:12:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021452157707579681",
+          "2021452911511998557"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "GPT-5.2",
+              "probability": 0.87,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 48,
+              "normalized_text": "ChatGPT",
+              "probability": 0.9476,
+              "start": 42,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021452911511998557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 260340,
+          "like_count": 3344,
+          "quote_count": 109,
+          "reply_count": 1215,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "We updated GPT-5.2 (the instant model) in ChatGPT today. Not a huge change, but hopefully you find it a little better."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11455,
+          "following_count": 1240,
+          "like_count": 24133,
+          "listed_count": 15,
+          "media_count": 4291,
+          "tweet_count": 25933
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322947,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26645,
+          "media_count": 381,
+          "tweet_count": 7400
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

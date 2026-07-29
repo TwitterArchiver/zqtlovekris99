@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037479937167577088"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2037409284288659596",
+    "created_at": "2026-03-27T10:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037479945740660983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012631283898187776",
+          "start": 0,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfTf4ucFRS",
+          "end": 33,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2037479945740660983/photo/1",
+          "media_key": "3_2037479937167577088",
+          "start": 10,
+          "url": "https://t.co/zfTf4ucFRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037479945740660983",
+    "in_reply_to_user_id": "2012631283898187776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037409284288659596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youy1qwq https://t.co/zfTf4ucFRS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 204,
+        "media_key": "3_2037479937167577088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEaVNTPb0AA4r9r.jpg",
+        "width": 446
+      },
+      {
+        "height": 321,
+        "media_key": "3_2037388238734635008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZBzv9WMAAAt0d.jpg",
+        "width": 404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037479937167577088"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2037409284288659596",
+        "created_at": "2026-03-27T10:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037479945740660983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfTf4ucFRS",
+              "end": 33,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2037479945740660983/photo/1",
+              "media_key": "3_2037479937167577088",
+              "start": 10,
+              "url": "https://t.co/zfTf4ucFRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037479945740660983",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037409284288659596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq https://t.co/zfTf4ucFRS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037388238734635008"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2037409284288659596",
+        "created_at": "2026-03-27T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037409284288659596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GsiGaQ1WSz",
+              "end": 49,
+              "expanded_url": "https://x.com/youy1qwq/status/2037409284288659596/photo/1",
+              "media_key": "3_2037388238734635008",
+              "start": 26,
+              "url": "https://t.co/GsiGaQ1WSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037409284288659596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17146,
+          "like_count": 220,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🫪🫪🫪ios新更新的这个emoji好可爱！能看到吗 https://t.co/GsiGaQ1WSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 默认蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara 闺蜜 @Misako_25ji 诡秘 @maoxian1527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "maoxian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11961,
+          "following_count": 1448,
+          "like_count": 24944,
+          "listed_count": 15,
+          "media_count": 4474,
+          "tweet_count": 27022
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8479,
+          "following_count": 1387,
+          "like_count": 3306,
+          "listed_count": 13,
+          "media_count": 1074,
+          "tweet_count": 1493
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

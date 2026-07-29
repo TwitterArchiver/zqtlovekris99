@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2043306118521159680"
+      ],
+      "media_source_tweet_id": [
+        "2043306547665662014"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043345876018671923",
+    "created_at": "2026-04-12T15:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043345876018671923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459703033315610633",
+          "start": 3,
+          "username": "lukas_trips"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JjTkoaqsgI",
+          "end": 44,
+          "expanded_url": "https://x.com/lukas_trips/status/2043306547665662014/photo/1",
+          "media_key": "16_2043306118521159680",
+          "start": 21,
+          "url": "https://t.co/JjTkoaqsgI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043345876018671923",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043306547665662014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lukas_trips: ✨🌀✨ https://t.co/JjTkoaqsgI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2043306118521159680",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFtIFsHWAAAeLxU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFtIFsHWAAAeLxU.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043306118521159680"
+          ],
+          "media_source_tweet_id": [
+            "2043306547665662014"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043345876018671923",
+        "created_at": "2026-04-12T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043345876018671923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459703033315610633",
+              "start": 3,
+              "username": "lukas_trips"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjTkoaqsgI",
+              "end": 44,
+              "expanded_url": "https://x.com/lukas_trips/status/2043306547665662014/photo/1",
+              "media_key": "16_2043306118521159680",
+              "start": 21,
+              "url": "https://t.co/JjTkoaqsgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043345876018671923",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043306547665662014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lukas_trips: ✨🌀✨ https://t.co/JjTkoaqsgI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043306118521159680"
+          ]
+        },
+        "author_id": "1459703033315610633",
+        "conversation_id": "2043306547665662014",
+        "created_at": "2026-04-12T12:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043306547665662014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjTkoaqsgI",
+              "end": 27,
+              "expanded_url": "https://x.com/lukas_trips/status/2043306547665662014/photo/1",
+              "media_key": "16_2043306118521159680",
+              "start": 4,
+              "url": "https://t.co/JjTkoaqsgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043306547665662014",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 590,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "✨🌀✨ https://t.co/JjTkoaqsgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "迷茫…\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 日常 @nktblovekris99 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2042944558267535660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11899,
+          "following_count": 1459,
+          "like_count": 25111,
+          "listed_count": 16,
+          "media_count": 4557,
+          "tweet_count": 27341
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-14T02:01:59.000Z",
+        "description": "Digital Artist / Exploring the realities behind Fractals, Maths and Generative means.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lukas_trips",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lukas_trips",
+                "start": 0,
+                "url": "https://t.co/z80E7lZMAD"
+              }
+            ]
+          }
+        },
+        "id": "1459703033315610633",
+        "location": "Argentina",
+        "name": "Trips",
+        "pinned_tweet_id": "1680605376050343940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003154229687472128/v7S1L0XN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8802,
+          "following_count": 2693,
+          "like_count": 108664,
+          "listed_count": 163,
+          "media_count": 1742,
+          "tweet_count": 40780
+        },
+        "url": "https://t.co/z80E7lZMAD",
+        "username": "lukas_trips",
+        "verified": false
+      }
+    ]
+  }
+}

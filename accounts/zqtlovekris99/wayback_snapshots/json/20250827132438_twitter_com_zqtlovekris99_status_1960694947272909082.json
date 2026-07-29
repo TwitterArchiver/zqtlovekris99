@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1960654390626541584",
+    "created_at": "2025-08-27T13:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960694947272909082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 39,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1960694537795621106?s=19",
+          "start": 16,
+          "url": "https://t.co/0vqI4zQtPQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960694947272909082",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960694537795621106",
+        "type": "quoted"
+      },
+      {
+        "id": "1960654390626541584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname https://t.co/0vqI4zQtPQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 812,
+        "media_key": "3_1960654352068349952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWkvsZbkAAjjn4.jpg",
+        "width": 1170
+      },
+      {
+        "height": 685,
+        "media_key": "3_1960654356128391174",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWkv7ha4AY3Ruh.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1960654390626541584",
+        "created_at": "2025-08-27T13:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960694947272909082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1960694537795621106?s=19",
+              "start": 16,
+              "url": "https://t.co/0vqI4zQtPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960694947272909082",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960694537795621106",
+            "type": "quoted"
+          },
+          {
+            "id": "1960654390626541584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname https://t.co/0vqI4zQtPQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1960694537795621106",
+        "created_at": "2025-08-27T13:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960694537795621106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "资料自取！欢迎分享",
+              "display_url": "t.me/ftmcomm",
+              "end": 50,
+              "expanded_url": "https://t.me/ftmcomm",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1960694584226586625/nzv6GLzz?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1960694584226586625/nzv6GLzz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "FT🐱渠道大全",
+              "unwound_url": "https://t.me/ftmcomm",
+              "url": "https://t.co/OKuog2GCic"
+            },
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/04177_realname/status/1960654390626541584",
+              "start": 116,
+              "url": "https://t.co/pSK0bsrTws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960694537795621106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960654390626541584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便宣传一下，如果想要hrt资料的可以加这个tg频道 https://t.co/OKuog2GCic 这个不卡成分，因为也有一些通用知识比如说肌注教程和怎么找跨性别友好医生，手术需要准备的材料之类的，也有一些睾酮药物的渠道和小知识 https://t.co/pSK0bsrTws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960654352068349952",
+            "3_1960654356128391174"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1960654390626541584",
+        "created_at": "2025-08-27T10:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T11:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960654390626541584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4S1sQyCx9Y",
+              "end": 73,
+              "expanded_url": "https://x.com/04177_realname/status/1960654390626541584/photo/1",
+              "media_key": "3_1960654352068349952",
+              "start": 50,
+              "url": "https://t.co/4S1sQyCx9Y"
+            },
+            {
+              "display_url": "pic.x.com/4S1sQyCx9Y",
+              "end": 73,
+              "expanded_url": "https://x.com/04177_realname/status/1960654390626541584/photo/1",
+              "media_key": "3_1960654356128391174",
+              "start": 50,
+              "url": "https://t.co/4S1sQyCx9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960654390626541584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1043,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ftm的兄弟盟群聊解散了 原因如下 真名打算建一个 收留落单ftm 有意愿的ftm请进 仅限ftm https://t.co/4S1sQyCx9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9802,
+          "following_count": 906,
+          "like_count": 20825,
+          "listed_count": 10,
+          "media_count": 3326,
+          "tweet_count": 21437
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11015,
+          "following_count": 6145,
+          "like_count": 64479,
+          "listed_count": 35,
+          "media_count": 2576,
+          "tweet_count": 18992
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

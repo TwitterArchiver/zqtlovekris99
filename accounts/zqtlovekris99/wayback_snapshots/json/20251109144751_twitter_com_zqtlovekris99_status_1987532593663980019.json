@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987532590149210112"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1987532593663980019",
+    "created_at": "2025-11-09T14:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987532593663980019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ikNNcpDo6",
+          "end": 72,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1987532593663980019/photo/1",
+          "media_key": "3_1987532590149210112",
+          "start": 49,
+          "url": "https://t.co/2ikNNcpDo6"
+        },
+        {
+          "display_url": "x.com/NaiveTomcat/st…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/NaiveTomcat/status/1987482233427685470",
+          "start": 73,
+          "url": "https://t.co/MfNsxCGoqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987532593663980019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987482233427685470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我复活了！谢谢这位推油！不过其他账号依然登不进去就是。各位最近没事别log out，推特有bug https://t.co/2ikNNcpDo6 https://t.co/MfNsxCGoqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987532590149210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UiXD9bEAAWzBu.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987532590149210112"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1987532593663980019",
+        "created_at": "2025-11-09T14:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987532593663980019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ikNNcpDo6",
+              "end": 72,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1987532593663980019/photo/1",
+              "media_key": "3_1987532590149210112",
+              "start": 49,
+              "url": "https://t.co/2ikNNcpDo6"
+            },
+            {
+              "display_url": "x.com/NaiveTomcat/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/NaiveTomcat/status/1987482233427685470",
+              "start": 73,
+              "url": "https://t.co/MfNsxCGoqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987532593663980019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987482233427685470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我复活了！谢谢这位推油！不过其他账号依然登不进去就是。各位最近没事别log out，推特有bug https://t.co/2ikNNcpDo6 https://t.co/MfNsxCGoqL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1195313424198074369",
+        "conversation_id": "1987065891448906192",
+        "created_at": "2025-11-09T11:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987482233427685470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987482233427685470",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987065891448906192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 在登陆界面忘记密码，不是在别的地方忘记密码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1987100180169343238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10647,
+          "following_count": 1045,
+          "like_count": 22893,
+          "listed_count": 12,
+          "media_count": 3873,
+          "tweet_count": 24095
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-15T12:11:54.000Z",
+        "description": "是废猫… 已经没学上了…\nLe vent se lève, il faut tenter de vivre\n💕@ShiroiTree_idol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "ShiroiTree_idol"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.naivetomcat.cn",
+                "end": 23,
+                "expanded_url": "https://blog.naivetomcat.cn",
+                "start": 0,
+                "url": "https://t.co/LzAb0rHttS"
+              }
+            ]
+          }
+        },
+        "id": "1195313424198074369",
+        "location": "Xi'an, Shaanxi",
+        "name": "NaiveTomcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581855604754518016/7T391RF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 291,
+          "like_count": 4297,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/LzAb0rHttS",
+        "username": "NaiveTomcat",
+        "verified": true
+      }
+    ]
+  }
+}

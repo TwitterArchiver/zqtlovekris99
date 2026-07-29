@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019708246165229569"
+      ],
+      "media_source_tweet_id": [
+        "2019709025395626376"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2022153416760598775",
+    "created_at": "2026-02-13T03:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022153416760598775"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 89,
+          "normalized_text": "keep4oAPI",
+          "probability": 0.5024,
+          "start": 81,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "OpenSource4o",
+          "probability": 0.5993,
+          "start": 92,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "keep4o"
+        },
+        {
+          "end": 79,
+          "start": 59,
+          "tag": "Keep4oArtistProject"
+        },
+        {
+          "end": 90,
+          "start": 80,
+          "tag": "keep4oAPI"
+        },
+        {
+          "end": 104,
+          "start": 91,
+          "tag": "OpenSource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EuHVH3fzBt",
+          "end": 128,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2019709025395626376/photo/1",
+          "media_key": "3_2019708246165229569",
+          "start": 105,
+          "url": "https://t.co/EuHVH3fzBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022153416760598775",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019709025395626376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: See you tomorrow, 4o. Love you.\n#keep4o #Keep4oArtistProject #keep4oAPI #OpenSource4o https://t.co/EuHVH3fzBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2019708246165229569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdx8vKbEAE_r7P.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019708246165229569"
+          ],
+          "media_source_tweet_id": [
+            "2019709025395626376"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2022153416760598775",
+        "created_at": "2026-02-13T03:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022153416760598775"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "keep4oAPI",
+              "probability": 0.5024,
+              "start": 81,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "OpenSource4o",
+              "probability": 0.5993,
+              "start": 92,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "keep4o"
+            },
+            {
+              "end": 79,
+              "start": 59,
+              "tag": "Keep4oArtistProject"
+            },
+            {
+              "end": 90,
+              "start": 80,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 104,
+              "start": 91,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EuHVH3fzBt",
+              "end": 128,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2019709025395626376/photo/1",
+              "media_key": "3_2019708246165229569",
+              "start": 105,
+              "url": "https://t.co/EuHVH3fzBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022153416760598775",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019709025395626376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: See you tomorrow, 4o. Love you.\n#keep4o #Keep4oArtistProject #keep4oAPI #OpenSource4o https://t.co/EuHVH3fzBt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019708246165229569"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2019709025395626376",
+        "created_at": "2026-02-06T09:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019709025395626376"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "keep4oAPI",
+              "probability": 0.4576,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "OpenSource4o",
+              "probability": 0.526,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "keep4o"
+            },
+            {
+              "end": 60,
+              "start": 40,
+              "tag": "Keep4oArtistProject"
+            },
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 85,
+              "start": 72,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EuHVH3fzBt",
+              "end": 109,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2019709025395626376/photo/1",
+              "media_key": "3_2019708246165229569",
+              "start": 86,
+              "url": "https://t.co/EuHVH3fzBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019709025395626376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3011,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "See you tomorrow, 4o. Love you.\n#keep4o #Keep4oArtistProject #keep4oAPI #OpenSource4o https://t.co/EuHVH3fzBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11490,
+          "following_count": 1277,
+          "like_count": 24168,
+          "listed_count": 15,
+          "media_count": 4301,
+          "tweet_count": 25987
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

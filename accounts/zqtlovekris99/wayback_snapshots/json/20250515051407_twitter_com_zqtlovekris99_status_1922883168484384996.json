@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1922625997096006034",
+    "created_at": "2025-05-15T05:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T06:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922883168484384996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650498704812437504",
+          "start": 0,
+          "username": "xxjuzi091123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922883168484384996",
+    "in_reply_to_user_id": "1650498704812437504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922816160787054638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxjuzi091123 90"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1922625997096006034",
+        "created_at": "2025-05-15T05:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T06:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922883168484384996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650498704812437504",
+              "start": 0,
+              "username": "xxjuzi091123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922883168484384996",
+        "in_reply_to_user_id": "1650498704812437504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922816160787054638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxjuzi091123 90"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650498704812437504",
+        "conversation_id": "1922625997096006034",
+        "created_at": "2025-05-15T00:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T01:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922816160787054638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922816160787054638",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922625997096006034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 土豆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7384,
+          "following_count": 610,
+          "like_count": 18377,
+          "listed_count": 10,
+          "media_count": 2517,
+          "tweet_count": 17949
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T13:55:57.000Z",
+        "description": "09.11.23 含糖24.2.25 看到都会互fo的",
+        "id": "1650498704812437504",
+        "location": "河北",
+        "name": "小小橘子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836909720642125825/zOdhE63W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 696,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 793
+        },
+        "username": "xxjuzi091123",
+        "verified": false
+      }
+    ]
+  }
+}

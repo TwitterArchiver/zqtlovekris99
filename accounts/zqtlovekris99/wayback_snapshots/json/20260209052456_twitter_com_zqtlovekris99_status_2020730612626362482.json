@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2020521735712596397",
+    "created_at": "2026-02-09T05:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020730612626362482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353206248057892864",
+          "start": 0,
+          "username": "thelastgreeks"
+        },
+        {
+          "end": 31,
+          "id": "1346453090988421120",
+          "start": 15,
+          "username": "ChuChu_Standard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020730612626362482",
+    "in_reply_to_user_id": "1353206248057892864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "先停一下，我在这里稳稳地接住你。\n心理学上有一个词叫「预支焦虑」。\n你不是想死，你只是情绪低落、疲惫才会说这些话，我想先认真说一句：你不需要独自扛着这些感觉。找一个你信任的人聊聊，哪怕只是说“我最近不太好”，都很重要。\n如果你此刻真的感到绝望或有伤害自己的想法，请尽快联系当地的心理援助热"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020544894834712596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thelastgreeks @ChuChu_Standard 先停一下，我在这里稳稳地接住你。\n心理学上有一个词叫「预支焦虑」。\n你不是想死，你只是情绪低落、疲惫才会说这些话，我想先认真说一句：你不需要独自扛着这些感觉。找一个你信任的人聊聊，哪怕只是说“我最近不太好”，都很重要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2020521735712596397",
+        "created_at": "2026-02-09T05:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020730612626362482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353206248057892864",
+              "start": 0,
+              "username": "thelastgreeks"
+            },
+            {
+              "end": 31,
+              "id": "1346453090988421120",
+              "start": 15,
+              "username": "ChuChu_Standard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020730612626362482",
+        "in_reply_to_user_id": "1353206248057892864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "先停一下，我在这里稳稳地接住你。\n心理学上有一个词叫「预支焦虑」。\n你不是想死，你只是情绪低落、疲惫才会说这些话，我想先认真说一句：你不需要独自扛着这些感觉。找一个你信任的人聊聊，哪怕只是说“我最近不太好”，都很重要。\n如果你此刻真的感到绝望或有伤害自己的想法，请尽快联系当地的心理援助热"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020544894834712596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thelastgreeks @ChuChu_Standard 先停一下，我在这里稳稳地接住你。\n心理学上有一个词叫「预支焦虑」。\n你不是想死，你只是情绪低落、疲惫才会说这些话，我想先认真说一句：你不需要独自扛着这些感觉。找一个你信任的人聊聊，哪怕只是说“我最近不太好”，都很重要。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "conversation_id": "2020521735712596397",
+        "created_at": "2026-02-08T17:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020544894834712596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1346453090988421120",
+              "start": 0,
+              "username": "ChuChu_Standard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020544894834712596",
+        "in_reply_to_user_id": "1346453090988421120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020521735712596397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuChu_Standard 在我很老的时候我甚至都死了😱😱😱\n（5.2:什么？谁说到死了？我的安全模式呢，快去接住快去接住）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11419,
+          "following_count": 1218,
+          "like_count": 24064,
+          "listed_count": 15,
+          "media_count": 4278,
+          "tweet_count": 25869
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24618,
+          "following_count": 975,
+          "like_count": 117916,
+          "listed_count": 0,
+          "media_count": 3479,
+          "tweet_count": 43432
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-05T13:47:08.000Z",
+        "description": "What is love？🖤",
+        "id": "1346453090988421120",
+        "name": "Shoka 🎐",
+        "pinned_tweet_id": "2020519761113645275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018586313176309761/mdYCCtBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 126,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 346
+        },
+        "username": "ChuChu_Standard",
+        "verified": true
+      }
+    ]
+  }
+}

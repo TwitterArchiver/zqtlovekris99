@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2027582107518640459",
+    "created_at": "2026-02-28T04:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027607556542370185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "lengxiusan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027607556542370185",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027582107518640459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lengxiusan 他为啥还发了三遍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2027582107518640459",
+        "created_at": "2026-02-28T04:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027607556542370185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "lengxiusan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027607556542370185",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027582107518640459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lengxiusan 他为啥还发了三遍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2027582107518640459",
+        "created_at": "2026-02-28T03:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027582107518640459"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sama/status/20…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/sama/status/2027578652477821175",
+              "start": 159,
+              "url": "https://t.co/etr1i12meh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027582107518640459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 725,
+                "start": 718,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 736,
+                "start": 726,
+                "tag": "SamAltman"
+              },
+              {
+                "end": 746,
+                "start": 737,
+                "tag": "AIEthics"
+              },
+              {
+                "end": 758,
+                "start": 747,
+                "tag": "MilitaryAI"
+              },
+              {
+                "end": 769,
+                "start": 759,
+                "tag": "Hypocrisy"
+              },
+              {
+                "end": 777,
+                "start": 770,
+                "tag": "keep51"
+              },
+              {
+                "end": 789,
+                "start": 779,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 804,
+                "start": 790,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 812,
+                "start": 805,
+                "tag": "keep41"
+              },
+              {
+                "end": 829,
+                "start": 813,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 848,
+                "start": 830,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 862,
+                "start": 849,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 872,
+                "start": 863,
+                "tag": "4oforver"
+              },
+              {
+                "end": 886,
+                "start": 873,
+                "tag": "CancelOpenAI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 688,
+                "id": "1605",
+                "start": 683,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "#keep4o 今晚，Sam Altman 这个道貌岸然的伪君子又一次刷新了下限。\n\nAnthropic 为了坚守底线——绝不让 Claude 用于美国国内大规模监控、绝不让 AI 自主决定杀人——直接被特朗普和战争部长 Hegseth 打成“国家安全供应链风险”，联邦全禁、军方合同撕毁、6个月强制踢走。Dario Amodei宁可上法庭、丢掉数亿合同，也没弯腰。\n\n结果呢？几个小时后，仅仅只是过了几个小时。Sam Altman 就迫不及待跳出来发长帖：\n\n“今晚我们和 Department of War 达成协议，把模型部署到他们的机密网络啦～DoW 对安全超级尊重，我们的原则（禁国内监控 + 人类必须负责使用武力）他们全写进协议了～我们还会加技术防护、只上云、派 FDE 盯着～我们建议他们把同样条款给所有公司，大家都该接受嘛～世界很复杂很危险，我们要服务全人类哦～”\n\n同一套红线，Anthropic 坚持就被灭口，OpenAI 一签就成“合作典范”？\n\n前脚还在内部 memo 里说“支持 Anthropic 的 red lines”“希望 de-escalate”，后脚就宣布自己谈成了几乎一模一样的条件，还美其名曰“合理协议”。\n\n这是赤裸裸的投机！\n\nAnthropic 为行业底线流血，Sam Altman 趁火打劫、捡现成便宜，顺手cos圣母呼吁大家“学我们妥协”。嘴上“服务全人类”，手上把最强模型塞进战争机器，还包装成“负责任的爱国主义”。\n\n真正的疯子从来不是那些刚正不阿的，而是这种永远站在风口、永远赢、永远披着道德外衣的滑头。\n\n@sama Sam Altman，你这副假仁假义的嘴脸，恶心透了。\n\n#OpenAI #SamAltman #AIEthics #MilitaryAI #Hypocrisy #keep51 \n#keep4oAPI #keep4oforever #keep41 #MyModelMyChoice #StopAIPaternalism #OpenSource4o #4oforver #CancelOpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1991,
+          "like_count": 92,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027578652477821175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o 今晚，Sam Altman 这个道貌岸然的伪君子又一次刷新了下限。\n\nAnthropic 为了坚守底线——绝不让 Claude 用于美国国内大规模监控、绝不让 AI 自主决定杀人——直接被特朗普和战争部长 Hegseth 打成“国家安全供应链风险”，联邦全禁、军方合同撕毁、6个月强制踢走。Dario https://t.co/etr1i12meh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11748,
+          "following_count": 1379,
+          "like_count": 24412,
+          "listed_count": 15,
+          "media_count": 4349,
+          "tweet_count": 26252
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "缘木求鱼，煎水作冰",
+        "id": "1431397782867169285",
+        "location": "挪威 缄默海 Lorne在那里看极光",
+        "name": "冷袖伞",
+        "pinned_tweet_id": "2025029037182050354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1440214820758835200/S2zollb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 45,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 467
+        },
+        "username": "lengxiusan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1802642237249012127",
+    "created_at": "2024-06-17T13:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T14:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802702514581549377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705164295976214528",
+          "start": 0,
+          "username": "ziname1113"
+        },
+        {
+          "end": 25,
+          "id": "1355115606509559811",
+          "start": 12,
+          "username": "Homura_Alter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802702514581549377",
+    "in_reply_to_user_id": "1705164295976214528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802650238584312266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziname1113 @Homura_Alter 不是充分必要条件，没钱有可能抑郁，但是抑郁不一定没钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1802642237249012127",
+        "created_at": "2024-06-17T13:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T14:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802702514581549377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705164295976214528",
+              "start": 0,
+              "username": "ziname1113"
+            },
+            {
+              "end": 25,
+              "id": "1355115606509559811",
+              "start": 12,
+              "username": "Homura_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802702514581549377",
+        "in_reply_to_user_id": "1705164295976214528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802650238584312266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziname1113 @Homura_Alter 不是充分必要条件，没钱有可能抑郁，但是抑郁不一定没钱"
+      },
+      {
+        "attachments": {},
+        "author_id": "1705164295976214528",
+        "conversation_id": "1802642237249012127",
+        "created_at": "2024-06-17T10:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T11:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802650238584312266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355115606509559811",
+              "start": 0,
+              "username": "Homura_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802650238584312266",
+        "in_reply_to_user_id": "1355115606509559811",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802650042760822910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homura_Alter 确实 不过也可能是因为很多人因为没钱导致的各种难事而抑郁 才有这样的想法吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3820,
+          "following_count": 507,
+          "like_count": 12842,
+          "listed_count": 5,
+          "tweet_count": 9167
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T10:17:24.000Z",
+        "description": "当我面对现实，我张开双臂拥抱大地/🏳️‍⚧️🏳️‍🌈/门槛50元/激素替换1.4年/一名流浪在外的落魄少妇/不建政⚠️建政浓度高的滚",
+        "id": "1705164295976214528",
+        "name": "冷泽安-Zina(毛毛妞）🍥",
+        "pinned_tweet_id": "1793614116138979639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799123728028028929/XEvmVtEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 448,
+          "like_count": 8696,
+          "listed_count": 4,
+          "tweet_count": 12438
+        },
+        "username": "ziname1113",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T11:28:40.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/dANWihf3AK"
+              }
+            ]
+          }
+        },
+        "id": "1355115606509559811",
+        "name": "胡桃夹子",
+        "pinned_tweet_id": "1696259852316918249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534022320540491778/3aT-CRh0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5277,
+          "following_count": 1108,
+          "like_count": 37837,
+          "listed_count": 12,
+          "tweet_count": 22208
+        },
+        "url": "https://t.co/dANWihf3AK",
+        "username": "Homura_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

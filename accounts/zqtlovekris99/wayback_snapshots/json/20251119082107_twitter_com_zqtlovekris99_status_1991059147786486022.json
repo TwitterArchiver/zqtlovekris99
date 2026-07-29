@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1991009208536609204",
+    "created_at": "2025-11-19T08:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991059147786486022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991059147786486022",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991009208536609204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 图啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1991009205571211264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6F8Utqa0AAg4MJ.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1991009203369238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6F8UldbYAAPi3a.jpg",
+        "width": 960
+      },
+      {
+        "height": 384,
+        "media_key": "3_1991009203583062016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6F8UmQaEAAfvru.jpg",
+        "width": 510
+      },
+      {
+        "height": 499,
+        "media_key": "3_1991009204702973952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6F8UqbakAAgoOY.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1991009208536609204",
+        "created_at": "2025-11-19T08:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991059147786486022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991059147786486022",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991009208536609204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 图啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991009205571211264",
+            "3_1991009203369238528",
+            "3_1991009203583062016",
+            "3_1991009204702973952"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "1991009208536609204",
+        "created_at": "2025-11-19T05:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991009208536609204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Nv4PUVMyB",
+              "end": 190,
+              "expanded_url": "https://x.com/wngy189327/status/1991009208536609204/photo/1",
+              "media_key": "3_1991009205571211264",
+              "start": 167,
+              "url": "https://t.co/5Nv4PUVMyB"
+            },
+            {
+              "display_url": "pic.x.com/5Nv4PUVMyB",
+              "end": 190,
+              "expanded_url": "https://x.com/wngy189327/status/1991009208536609204/photo/1",
+              "media_key": "3_1991009203369238528",
+              "start": 167,
+              "url": "https://t.co/5Nv4PUVMyB"
+            },
+            {
+              "display_url": "pic.x.com/5Nv4PUVMyB",
+              "end": 190,
+              "expanded_url": "https://x.com/wngy189327/status/1991009208536609204/photo/1",
+              "media_key": "3_1991009203583062016",
+              "start": 167,
+              "url": "https://t.co/5Nv4PUVMyB"
+            },
+            {
+              "display_url": "pic.x.com/5Nv4PUVMyB",
+              "end": 190,
+              "expanded_url": "https://x.com/wngy189327/status/1991009208536609204/photo/1",
+              "media_key": "3_1991009204702973952",
+              "start": 167,
+              "url": "https://t.co/5Nv4PUVMyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991009208536609204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 10134,
+          "like_count": 49,
+          "quote_count": 7,
+          "reply_count": 47,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "爸妈一次又一次的逼我，你们不仁就别怪我不义，我今天把我和父母的信息和大头照都发到网上。\n我\n姓名：王域\n身份证号：150981201005040599\n电话：13331213604\n妈\n姓名：李宏敏\n身份证号：130604196405270629\n电话：15303126920\n家庭住址：中国河北省保定市竞秀区格林漫都2-3-101 https://t.co/5Nv4PUVMyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1989193562035306838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10804,
+          "following_count": 1050,
+          "like_count": 23032,
+          "listed_count": 13,
+          "media_count": 3939,
+          "tweet_count": 24393
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一段时间先不上推了（偶尔可能也会上，但是不会像以前那样频繁了）\n140斤\n10年的mtf\n15岁的xyn\n有小证\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n会割手但不od（偶尔也会o）\n同类互fo",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥（实名上网）",
+        "pinned_tweet_id": "1991009208536609204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 391,
+          "like_count": 5783,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 832
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

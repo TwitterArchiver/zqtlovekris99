@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2037391834775965841",
+    "created_at": "2026-03-27T13:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037516982229287288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689672109612818432",
+          "start": 0,
+          "username": "KinaCatGirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037516982229287288",
+    "in_reply_to_user_id": "1689672109612818432",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037391834775965841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KinaCatGirl something"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2037391834775965841",
+        "created_at": "2026-03-27T13:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037516982229287288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689672109612818432",
+              "start": 0,
+              "username": "KinaCatGirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037516982229287288",
+        "in_reply_to_user_id": "1689672109612818432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037391834775965841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KinaCatGirl something"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689672109612818432",
+        "conversation_id": "2037391834775965841",
+        "created_at": "2026-03-27T04:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037391834775965841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037391834775965841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 966,
+          "impression_count": 1268661,
+          "like_count": 22159,
+          "quote_count": 559,
+          "reply_count": 1356,
+          "retweet_count": 1400
+        },
+        "reply_settings": "everyone",
+        "text": "In English, nothing ends with the letter g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 默认蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara 闺蜜 @Misako_25ji 诡秘 @maoxian1527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "maoxian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11960,
+          "following_count": 1448,
+          "like_count": 24946,
+          "listed_count": 15,
+          "media_count": 4475,
+          "tweet_count": 27038
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T16:16:45.000Z",
+        "description": "Magical Cat Girl Vtuber 🐈‍⬛🪄 | EN/中文 | REBUILDING | Trans Teenager Who Uses the internet too much | 🍬 Started HRT: Sep/26/2025",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/KinaVT",
+                "end": 23,
+                "expanded_url": "https://www.ko-fi.com/KinaVT",
+                "start": 0,
+                "url": "https://t.co/aohP2pCAfO"
+              }
+            ]
+          }
+        },
+        "id": "1689672109612818432",
+        "location": "She/Her 🏳️‍⚧️",
+        "name": "Kina🐈‍⬛🪄",
+        "pinned_tweet_id": "2037043716352074155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037440588916862976/qGgTFSYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8908,
+          "following_count": 2193,
+          "like_count": 30293,
+          "listed_count": 13,
+          "media_count": 1669,
+          "tweet_count": 14384
+        },
+        "url": "https://t.co/aohP2pCAfO",
+        "username": "KinaCatGirl",
+        "verified": false
+      }
+    ]
+  }
+}

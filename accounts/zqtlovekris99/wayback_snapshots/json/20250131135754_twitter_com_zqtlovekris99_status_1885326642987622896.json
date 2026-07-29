@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1885326642987622896",
+    "created_at": "2025-01-31T13:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T14:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885326642987622896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247769753097101318",
+          "start": 3,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885326642987622896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884976366938132781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X09COTCC: 我其实没有很喜欢喝酒。酒不好喝。我只是想借着酒精做我想做的事说我想说的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1885326642987622896",
+        "created_at": "2025-01-31T13:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T14:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885326642987622896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247769753097101318",
+              "start": 3,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885326642987622896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884976366938132781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X09COTCC: 我其实没有很喜欢喝酒。酒不好喝。我只是想借着酒精做我想做的事说我想说的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247769753097101318",
+        "conversation_id": "1884976366938132781",
+        "created_at": "2025-01-30T14:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884976366938132781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884976366938132781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1284,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我其实没有很喜欢喝酒。酒不好喝。我只是想借着酒精做我想做的事说我想说的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1884275894426165419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5593,
+          "following_count": 522,
+          "like_count": 16210,
+          "listed_count": 6,
+          "media_count": 1643,
+          "tweet_count": 14382
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "Con un poco de aguardiente y limón. Baby, sabes tan dulce.",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "%ᵕ‿‿ᵕ%",
+        "pinned_tweet_id": "1878259098212339863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876776345906409472/oIiZHFws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 1524,
+          "like_count": 123849,
+          "listed_count": 14,
+          "media_count": 936,
+          "tweet_count": 33134
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1911651379514642716",
+    "created_at": "2025-04-14T07:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T08:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911678522961322008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1672822866986024961",
+          "start": 0,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911678522961322008",
+    "in_reply_to_user_id": "1672822866986024961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911666114674954691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lycaropia 不是，我只是不知道跟别人提他的时候用什么词描述，\"我一个朋友\"？感觉又不止是朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1911651379514642716",
+        "created_at": "2025-04-14T07:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T08:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911678522961322008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911678522961322008",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911666114674954691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 不是，我只是不知道跟别人提他的时候用什么词描述，\"我一个朋友\"？感觉又不止是朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "1911651379514642716",
+        "created_at": "2025-04-14T06:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T07:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911666114674954691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911666114674954691",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911651379514642716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 为什么非要给一段关系以名字才能知道以后该怎么相处下去呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6442,
+          "following_count": 526,
+          "like_count": 17572,
+          "listed_count": 9,
+          "media_count": 2074,
+          "tweet_count": 16524
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Aspie | TS Fullstack | Transgirl 🏳️‍⚧️ | Les | GF @CatTalkerMitaka\nLOVE ❤ FOREVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1835227356170190958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 1039,
+          "like_count": 71686,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 9130
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

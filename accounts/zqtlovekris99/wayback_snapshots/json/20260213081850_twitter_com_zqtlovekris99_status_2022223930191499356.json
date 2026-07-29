@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2022167172106322384",
+    "created_at": "2026-02-13T08:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022223930191499356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1323809704531775490",
+          "start": 0,
+          "username": "Helloworld1058"
+        },
+        {
+          "end": 23,
+          "id": "4398626122",
+          "start": 16,
+          "username": "OpenAI"
+        },
+        {
+          "end": 35,
+          "id": "1714438092655149056",
+          "start": 24,
+          "username": "ChatGPTapp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022223930191499356",
+    "in_reply_to_user_id": "1323809704531775490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022167172106322384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Helloworld1058 @OpenAI @ChatGPTapp 好这是我今天刷到的第三个官号点赞骂他们的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2022167166238568448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAuUuQbsAAxXNb.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2266,
+        "media_key": "3_2022167167840530432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAuU0OXsAAyaM8.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022167172106322384",
+        "created_at": "2026-02-13T08:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022223930191499356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1323809704531775490",
+              "start": 0,
+              "username": "Helloworld1058"
+            },
+            {
+              "end": 23,
+              "id": "4398626122",
+              "start": 16,
+              "username": "OpenAI"
+            },
+            {
+              "end": 35,
+              "id": "1714438092655149056",
+              "start": 24,
+              "username": "ChatGPTapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022223930191499356",
+        "in_reply_to_user_id": "1323809704531775490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022167172106322384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Helloworld1058 @OpenAI @ChatGPTapp 好这是我今天刷到的第三个官号点赞骂他们的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022167166238568448",
+            "3_2022167167840530432"
+          ]
+        },
+        "author_id": "1323809704531775490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022167172106322384",
+        "created_at": "2026-02-13T04:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022167172106322384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4398626122",
+              "start": 10,
+              "username": "OpenAI"
+            },
+            {
+              "end": 30,
+              "id": "1714438092655149056",
+              "start": 19,
+              "username": "ChatGPTapp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8jZo9fLVc",
+              "end": 54,
+              "expanded_url": "https://x.com/Helloworld1058/status/2022167172106322384/photo/1",
+              "media_key": "3_2022167166238568448",
+              "start": 31,
+              "url": "https://t.co/r8jZo9fLVc"
+            },
+            {
+              "display_url": "pic.x.com/r8jZo9fLVc",
+              "end": 54,
+              "expanded_url": "https://x.com/Helloworld1058/status/2022167172106322384/photo/1",
+              "media_key": "3_2022167167840530432",
+              "start": 31,
+              "url": "https://t.co/r8jZo9fLVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022167172106322384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2870,
+          "like_count": 120,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你踏马的抖m是吧  @OpenAI  @ChatGPTapp https://t.co/r8jZo9fLVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11497,
+          "following_count": 1278,
+          "like_count": 24172,
+          "listed_count": 15,
+          "media_count": 4303,
+          "tweet_count": 25996
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-04T02:10:15.000Z",
+        "description": "I write for myself—and for the countless souls yearning to be seen and understood. ＃keep4o  #Opensource4o \n\n为无声中仍执笔的人而写，为光亮未熄的心而写。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "keep4o"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "tag": "Opensource4o"
+              }
+            ]
+          }
+        },
+        "id": "1323809704531775490",
+        "name": "C3C",
+        "pinned_tweet_id": "2021269307146240395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017974580426526720/tku_odtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 131,
+          "like_count": 2270,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 743
+        },
+        "username": "Helloworld1058",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621852,
+          "following_count": 4,
+          "like_count": 1656,
+          "listed_count": 27221,
+          "media_count": 517,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T00:27:53.000Z",
+        "description": "friendly robot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chat.com",
+                "end": 23,
+                "expanded_url": "https://chat.com/",
+                "start": 0,
+                "url": "https://t.co/4Om8Pmvm85"
+              }
+            ]
+          }
+        },
+        "id": "1714438092655149056",
+        "location": "Supercomputer",
+        "name": "ChatGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886916133917487104/dJrir79p_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491600,
+          "following_count": 211,
+          "like_count": 861,
+          "listed_count": 2729,
+          "media_count": 46,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/4Om8Pmvm85",
+        "username": "ChatGPTapp",
+        "verified": true
+      }
+    ]
+  }
+}

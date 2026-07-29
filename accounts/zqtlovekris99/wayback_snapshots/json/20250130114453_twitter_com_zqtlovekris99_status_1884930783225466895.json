@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1884896762043019676",
+    "created_at": "2025-01-30T11:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T12:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884930783225466895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884930783225466895",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884896762043019676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 溜冰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1884896762043019676",
+        "created_at": "2025-01-30T11:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T12:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884930783225466895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884930783225466895",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884896762043019676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 溜冰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1884896671332741120"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1884896762043019676",
+        "created_at": "2025-01-30T09:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T10:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884896762043019676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2W42sVXXn",
+              "end": 38,
+              "expanded_url": "https://x.com/04177_realname/status/1884896762043019676/video/1",
+              "media_key": "13_1884896671332741120",
+              "start": 15,
+              "url": "https://t.co/W2W42sVXXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884896762043019676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被拉着在冰上玩↖(^ω^)↗ https://t.co/W2W42sVXXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1884275894426165419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5503,
+          "following_count": 519,
+          "like_count": 16183,
+          "listed_count": 6,
+          "media_count": 1640,
+          "tweet_count": 14357
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/逃生舱：@04177_truth/🦋：@04177realname.bsky.social/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/不爱了请双取，你的单取是我午夜梦回的惩罚😿/提问箱：https://t.co/pe56J9RdeY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "04177_truth"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 128,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 105,
+                "url": "https://t.co/pe56J9RdeY"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9450,
+          "following_count": 6148,
+          "like_count": 59241,
+          "listed_count": 27,
+          "media_count": 1836,
+          "tweet_count": 15673
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

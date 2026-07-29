@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962719283856973827"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1962521936228962716",
+    "created_at": "2025-09-02T03:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T04:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962719286633566555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/51Ea9Ul4Kg",
+          "end": 37,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1962719286633566555/photo/1",
+          "media_key": "3_1962719283856973827",
+          "start": 14,
+          "url": "https://t.co/51Ea9Ul4Kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962719286633566555",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962521936228962716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara https://t.co/51Ea9Ul4Kg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1962719283856973827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzz6yiwaoAMOD1i.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962719283856973827"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1962521936228962716",
+        "created_at": "2025-09-02T03:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962719286633566555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/51Ea9Ul4Kg",
+              "end": 37,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1962719286633566555/photo/1",
+              "media_key": "3_1962719283856973827",
+              "start": 14,
+              "url": "https://t.co/51Ea9Ul4Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962719286633566555",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962521936228962716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara https://t.co/51Ea9Ul4Kg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1962521936228962716",
+        "created_at": "2025-09-01T14:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962521936228962716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Revive_Meink/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Revive_Meink/status/1962398452601479346",
+              "start": 18,
+              "url": "https://t.co/bCL6hA1xYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962521936228962716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 164,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962398452601479346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯对其实我想看zqt大战lumin https://t.co/bCL6hA1xYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9853,
+          "following_count": 915,
+          "like_count": 21006,
+          "listed_count": 10,
+          "media_count": 3380,
+          "tweet_count": 21664
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。忘记回fo请私聊。block一定会回\n包含跨性别内容/滥用药物/暴论",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 381,
+          "like_count": 5552,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 2125
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

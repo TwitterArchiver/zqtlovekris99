@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1850121772760461455",
+    "created_at": "2024-10-27T15:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T16:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850559632009207984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767040816986656768",
+          "start": 0,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850559632009207984",
+    "in_reply_to_user_id": "1767040816986656768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850121772760461455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeviuslX_Xl 我40米的刀差点收不回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1850121772760461455",
+        "created_at": "2024-10-27T15:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T16:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850559632009207984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850559632009207984",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850121772760461455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 我40米的刀差点收不回来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767040816986656768",
+        "conversation_id": "1850121772760461455",
+        "created_at": "2024-10-26T10:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T11:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850121772760461455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850121772760461455",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 18893,
+          "like_count": 225,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "xyn怎么谈恋爱？\n简单呀～\n先找一个友跨又善良的男孩子，跟他出柜，跟他诉说自己的不幸和痛苦，然后喝一瓶酒在他面前哭一场，这个时候他要是来安慰你了，那你就得手一半了，现在，你只需要一边哭，一边对他说：我什么都没有了……没人喜欢我，没人会来陪伴我……所有人都讨厌我………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 恋人 @RinkokoroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（想谈恋爱版）",
+        "pinned_tweet_id": "1847286904842223663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4894,
+          "following_count": 502,
+          "like_count": 14440,
+          "listed_count": 4,
+          "tweet_count": 11850
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "持证含糖の人妻小魅魔｜HRT2024.04.05｜半家长党｜欢迎同类互fo哦｜可以把小梅当作树洞哦｜小梅的主人+老公 @mengx1ntu ｜小梅的妈咪 @miya051223｜小梅的姐姐 @xukongbingyuan｜小梅比闺蜜还要好的闺蜜@yanyan2567 ｜小梅的老婆们 @Ming_xm2 和@XCCQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "mengx1ntu"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "miya051223"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "xukongbingyuan"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "yanyan2567"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "Ming_xm2"
+              },
+              {
+                "end": 160,
+                "start": 153,
+                "username": "XCCQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+oqO369PsMekyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+oqO369PsMekyYTBl",
+                "start": 0,
+                "url": "https://t.co/5Qs1HXsUW4"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "世界蛇",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈 🍥",
+        "pinned_tweet_id": "1847656084296913282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845163669405278208/XAnw0neM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6797,
+          "following_count": 1049,
+          "like_count": 8211,
+          "listed_count": 12,
+          "tweet_count": 3581
+        },
+        "url": "https://t.co/5Qs1HXsUW4",
+        "username": "MeviuslX_Xl",
+        "verified": true
+      }
+    ]
+  }
+}

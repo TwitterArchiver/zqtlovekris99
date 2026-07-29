@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1886739546571694086",
+    "created_at": "2025-02-05T08:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T09:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887057379155697903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1615229704549859329",
+          "start": 0,
+          "username": "Rain_Haruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887057379155697903",
+    "in_reply_to_user_id": "1615229704549859329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886739546571694086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Haruka asd也不一定会发逆天言论，大多数时候他们的观点我都理解不了，感觉不在一个宇宙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1886739546571694086",
+        "created_at": "2025-02-05T08:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887057379155697903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1615229704549859329",
+              "start": 0,
+              "username": "Rain_Haruka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887057379155697903",
+        "in_reply_to_user_id": "1615229704549859329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886739546571694086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Haruka asd也不一定会发逆天言论，大多数时候他们的观点我都理解不了，感觉不在一个宇宙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615229704549859329",
+        "conversation_id": "1886739546571694086",
+        "created_at": "2025-02-04T11:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T12:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886739546571694086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886739546571694086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3758,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "逆天言论和这人是不是ASD没关系，就算是ASD也有基本的判断能力，以这个借口就要对ASD赶尽杀绝，我称之为这是NT的霸权。\n我知道你们又要说我割席了，但是事实就是如此，而且我觉得很多自称ASD的应该自己判断一下自己到底是不是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1884275894426165419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5690,
+          "following_count": 524,
+          "like_count": 16386,
+          "listed_count": 7,
+          "media_count": 1674,
+          "tweet_count": 14543
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T06:09:40.000Z",
+        "description": "aka Yuyao, Ame Haruka or Lanina Regenferne｜🇩🇪Deutschlerner",
+        "id": "1615229704549859329",
+        "location": "Another Sky(UTC+1)",
+        "name": "はるか281系HA605編成",
+        "pinned_tweet_id": "1885613984633573666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886481923758788608/4tnFC4iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 3340,
+          "like_count": 40629,
+          "listed_count": 3,
+          "media_count": 972,
+          "tweet_count": 13334
+        },
+        "username": "Rain_Haruka",
+        "verified": false
+      }
+    ]
+  }
+}

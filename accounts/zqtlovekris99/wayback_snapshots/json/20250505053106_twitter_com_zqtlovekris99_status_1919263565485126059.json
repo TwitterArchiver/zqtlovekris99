@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919263563270787072"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1919257699432403438",
+    "created_at": "2025-05-05T05:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T06:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919263565485126059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Muoujiang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/udh16O1Cpd",
+          "end": 93,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1919263565485126059/photo/1",
+          "media_key": "3_1919263563270787072",
+          "start": 70,
+          "url": "https://t.co/udh16O1Cpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919263565485126059",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919257699432403438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muoujiang_ 我觉得墙外软件用英文更没违和感，但他妈问题是我手机系统语言是中文，所以就出现了这么一种中英文杂交的bug，更奇怪了 https://t.co/udh16O1Cpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 337,
+        "media_key": "3_1919263563270787072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKYCscbEAABnjr.jpg",
+        "width": 1085
+      },
+      {
+        "height": 1477,
+        "media_key": "3_1919257696458706944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKStM3bEAApbyN.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919263563270787072"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1919257699432403438",
+        "created_at": "2025-05-05T05:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919263565485126059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Muoujiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/udh16O1Cpd",
+              "end": 93,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1919263565485126059/photo/1",
+              "media_key": "3_1919263563270787072",
+              "start": 70,
+              "url": "https://t.co/udh16O1Cpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919263565485126059",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919257699432403438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muoujiang_ 我觉得墙外软件用英文更没违和感，但他妈问题是我手机系统语言是中文，所以就出现了这么一种中英文杂交的bug，更奇怪了 https://t.co/udh16O1Cpd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919257696458706944"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1919257699432403438",
+        "created_at": "2025-05-05T05:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919257699432403438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2ed9X4qoU",
+              "end": 52,
+              "expanded_url": "https://x.com/Muoujiang_/status/1919257699432403438/photo/1",
+              "media_key": "3_1919257696458706944",
+              "start": 29,
+              "url": "https://t.co/V2ed9X4qoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919257699432403438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 394,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，推特语言还是改回简体中文叭，简体看上去更清爽些（？） https://t.co/V2ed9X4qoU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6807,
+          "following_count": 560,
+          "like_count": 18110,
+          "listed_count": 10,
+          "media_count": 2424,
+          "tweet_count": 17537
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🏳️‍🌈🏳️‍⚧️ | 家长反对党 | 在留头发 | HRT→大学之后🍥（怕被家里发现 | 跨跨帮助跨跨 | @huahuojiang_ | 妹妹: @liveDeath750122 @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "liveDeath750122"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Zapolyary Palace, Snezhnaya",
+        "name": "木偶酱～🍥",
+        "pinned_tweet_id": "1910218894813675591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915955699227799552/DKSKir8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20684,
+          "following_count": 10617,
+          "like_count": 73320,
+          "listed_count": 71,
+          "media_count": 3496,
+          "tweet_count": 13177
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

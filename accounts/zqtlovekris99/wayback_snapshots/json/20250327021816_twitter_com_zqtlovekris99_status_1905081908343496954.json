@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1905081908343496954",
+    "created_at": "2025-03-27T02:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T03:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905081908343496954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Got_BoostMK9/s…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/Got_BoostMK9/status/1904746944083218548",
+          "start": 59,
+          "url": "https://t.co/9pT09NCn6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905081908343496954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904746944083218548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全心全意效忠君主咋就鞋垫了，中国小学生还让你背热爱中国共产党坚决贯彻习近平思想，只不过没用效忠这个词说的好听了点而已 https://t.co/9pT09NCn6l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1904746896570085376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8FNe0WcAAVUW0.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1904746897790619648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8FNjXWUAA7GFG.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1904746896574279680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8FNe1WcAA_poP.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1905081908343496954",
+        "created_at": "2025-03-27T02:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T03:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905081908343496954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Got_BoostMK9/s…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Got_BoostMK9/status/1904746944083218548",
+              "start": 59,
+              "url": "https://t.co/9pT09NCn6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905081908343496954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904746944083218548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全心全意效忠君主咋就鞋垫了，中国小学生还让你背热爱中国共产党坚决贯彻习近平思想，只不过没用效忠这个词说的好听了点而已 https://t.co/9pT09NCn6l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904746896570085376",
+            "3_1904746897790619648",
+            "3_1904746896574279680"
+          ]
+        },
+        "author_id": "712064456377892864",
+        "conversation_id": "1904746944083218548",
+        "created_at": "2025-03-26T04:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904746944083218548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhcAubxPVe",
+              "end": 44,
+              "expanded_url": "https://x.com/Got_BoostMK9/status/1904746944083218548/photo/1",
+              "media_key": "3_1904746896570085376",
+              "start": 21,
+              "url": "https://t.co/MhcAubxPVe"
+            },
+            {
+              "display_url": "pic.x.com/MhcAubxPVe",
+              "end": 44,
+              "expanded_url": "https://x.com/Got_BoostMK9/status/1904746944083218548/photo/1",
+              "media_key": "3_1904746897790619648",
+              "start": 21,
+              "url": "https://t.co/MhcAubxPVe"
+            },
+            {
+              "display_url": "pic.x.com/MhcAubxPVe",
+              "end": 44,
+              "expanded_url": "https://x.com/Got_BoostMK9/status/1904746944083218548/photo/1",
+              "media_key": "3_1904746896574279680",
+              "start": 21,
+              "url": "https://t.co/MhcAubxPVe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904746944083218548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 412046,
+          "like_count": 1569,
+          "quote_count": 63,
+          "reply_count": 115,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "马来西亚小学生就是看这种儿童邪典教材的？ https://t.co/MhcAubxPVe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6272,
+          "following_count": 534,
+          "like_count": 17286,
+          "listed_count": 8,
+          "media_count": 1938,
+          "tweet_count": 15979
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-21T23:52:50.000Z",
+        "description": "",
+        "id": "712064456377892864",
+        "location": "东哈特尔",
+        "name": "齐忆センハネ",
+        "pinned_tweet_id": "1904712917011832966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904714351711260673/uZ27cc7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 440,
+          "like_count": 42815,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 8866
+        },
+        "username": "Got_BoostMK9",
+        "verified": false
+      }
+    ]
+  }
+}

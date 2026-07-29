@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876918169056714752"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1876896337557332415",
+    "created_at": "2025-01-08T09:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T10:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876918181412954275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1355115606509559811",
+          "start": 0,
+          "username": "Homura_Alter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6zalnJvasP",
+          "end": 72,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1876918181412954275/photo/1",
+          "media_key": "3_1876918169056714752",
+          "start": 49,
+          "url": "https://t.co/6zalnJvasP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876918181412954275",
+    "in_reply_to_user_id": "1355115606509559811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876896337557332415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homura_Alter 去年在曼谷拍的，感觉大街上还是挺安全的，别自己没事往没人的地方跑就行 https://t.co/6zalnJvasP"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1876896337557332415].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876896337557332415",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1876896337557332415"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1876918169056714752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgwnIWMaIAAfqIi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876918169056714752"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1876896337557332415",
+        "created_at": "2025-01-08T09:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T10:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876918181412954275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1355115606509559811",
+              "start": 0,
+              "username": "Homura_Alter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6zalnJvasP",
+              "end": 72,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1876918181412954275/photo/1",
+              "media_key": "3_1876918169056714752",
+              "start": 49,
+              "url": "https://t.co/6zalnJvasP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876918181412954275",
+        "in_reply_to_user_id": "1355115606509559811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876896337557332415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homura_Alter 去年在曼谷拍的，感觉大街上还是挺安全的，别自己没事往没人的地方跑就行 https://t.co/6zalnJvasP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5328,
+          "following_count": 514,
+          "like_count": 15747,
+          "listed_count": 6,
+          "media_count": 1533,
+          "tweet_count": 13824
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T11:28:40.000Z",
+        "description": "仇跨/仇左/拥共支黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/dANWihf3AK"
+              }
+            ]
+          }
+        },
+        "id": "1355115606509559811",
+        "name": "胡桃夹子",
+        "pinned_tweet_id": "1855248190523822407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534022320540491778/3aT-CRh0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4995,
+          "following_count": 1078,
+          "like_count": 36127,
+          "listed_count": 11,
+          "media_count": 954,
+          "tweet_count": 22365
+        },
+        "url": "https://t.co/dANWihf3AK",
+        "username": "Homura_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

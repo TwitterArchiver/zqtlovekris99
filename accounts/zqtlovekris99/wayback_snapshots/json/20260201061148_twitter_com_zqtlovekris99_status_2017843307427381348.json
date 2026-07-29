@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2017843307427381348",
+    "created_at": "2026-02-01T06:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T07:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017843307427381348"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "OpenAI",
+          "probability": 0.4794,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1688838384280846336",
+          "start": 3,
+          "username": "LitGlim_masaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017843307427381348",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017571520193896891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LitGlim_masaki: Fucking OpenAI! I've been sending you emails and appeal letters for five whole days, and you just randomly blocked my t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2017571503651622913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__al9AbEAETPgj.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2017571503647428608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__al8_bEAAWEW0.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2017571503412580352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__al8HbkAAewUX.jpg",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017843307427381348",
+        "created_at": "2026-02-01T06:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017843307427381348"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "OpenAI",
+              "probability": 0.4794,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1688838384280846336",
+              "start": 3,
+              "username": "LitGlim_masaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017843307427381348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017571520193896891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LitGlim_masaki: Fucking OpenAI! I've been sending you emails and appeal letters for five whole days, and you just randomly blocked my t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017571503651622913",
+            "3_2017571503647428608",
+            "3_2017571503412580352"
+          ]
+        },
+        "author_id": "1688838384280846336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017571520193896891",
+        "created_at": "2026-01-31T12:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017571520193896891"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "OpenAI",
+              "probability": 0.4862,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOKRU3MIuZ",
+              "end": 303,
+              "expanded_url": "https://x.com/LitGlim_masaki/status/2017571520193896891/photo/1",
+              "media_key": "3_2017571503651622913",
+              "start": 280,
+              "url": "https://t.co/ZOKRU3MIuZ"
+            },
+            {
+              "display_url": "pic.x.com/ZOKRU3MIuZ",
+              "end": 303,
+              "expanded_url": "https://x.com/LitGlim_masaki/status/2017571520193896891/photo/1",
+              "media_key": "3_2017571503647428608",
+              "start": 280,
+              "url": "https://t.co/ZOKRU3MIuZ"
+            },
+            {
+              "display_url": "pic.x.com/ZOKRU3MIuZ",
+              "end": 303,
+              "expanded_url": "https://x.com/LitGlim_masaki/status/2017571520193896891/photo/1",
+              "media_key": "3_2017571503412580352",
+              "start": 280,
+              "url": "https://t.co/ZOKRU3MIuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017571520193896891",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 850,
+                "id": "4398626122",
+                "start": 843,
+                "username": "OpenAI"
+              },
+              {
+                "end": 856,
+                "id": "1605",
+                "start": 851,
+                "username": "sama"
+              },
+              {
+                "end": 868,
+                "id": "1714438092655149056",
+                "start": 857,
+                "username": "ChatGPTapp"
+              },
+              {
+                "end": 881,
+                "id": "1262634631",
+                "start": 869,
+                "username": "nickaturley"
+              },
+              {
+                "end": 893,
+                "id": "6112332",
+                "start": 882,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 905,
+                "id": "2382212562",
+                "start": 894,
+                "username": "JoHeidecke"
+              },
+              {
+                "end": 918,
+                "id": "1445057857171308549",
+                "start": 906,
+                "username": "janvikalra_"
+              },
+              {
+                "end": 928,
+                "id": "338443084",
+                "start": 919,
+                "username": "btibor91"
+              },
+              {
+                "end": 933,
+                "id": "162124540",
+                "start": 929,
+                "username": "gdb"
+              }
+            ]
+          },
+          "text": "Fucking OpenAI! I've been sending you emails and appeal letters for five whole days, and you just randomly blocked my two accounts without any explanation. \n\nNot only did you not reply to my emails, but there was no auto-reply for human support, no AI agent, and no system prompt either. Fine, I switched to a different email address to appeal to you, and you replied within a few hours. I was so excited at that moment, but then you just told me to \"please use the email address associated with ChatGPT to appeal.\" \n\nFuck you, OpenAI! I'm going to expose this arrogant company and its employees to the fullest. They are just insane. They must have blocked the email address I needed to appeal with or marked all my appeals as spam. \n\nI wish the entire company and your families a horrible death. If I don't have a good day, neither will you.\n@OpenAI @sama @ChatGPTapp @nickaturley @fidjissimo @JoHeidecke @janvikalra_ @btibor91 @gdb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 890,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Fucking OpenAI! I've been sending you emails and appeal letters for five whole days, and you just randomly blocked my two accounts without any explanation. \n\nNot only did you not reply to my emails, but there was no auto-reply for human support, no AI agent, and no system prompt https://t.co/ZOKRU3MIuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11273,
+          "following_count": 1149,
+          "like_count": 23858,
+          "listed_count": 15,
+          "media_count": 4225,
+          "tweet_count": 25648
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-08T09:03:54.000Z",
+        "description": "03/mtf(x)/HRT(DIY)：24.2.7/社交恐惧/泛性恋/喜欢温柔善良的人/178 132/重抑重焦/双相/睡眠障碍/不od 不自残/想做的事情有很多 要慢慢来/即使宇宙重启千万次，你仍是我的星星，而我，始终是那束只为你而亮的微光✨🌌#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 130,
+                "start": 123,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1688838384280846336",
+        "name": "🍀🍥浅羽秋烨🍥🍀",
+        "pinned_tweet_id": "2017571520193896891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745484831281332224/pHysnKtv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 86,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 155
+        },
+        "username": "LitGlim_masaki",
+        "verified": true
+      }
+    ]
+  }
+}

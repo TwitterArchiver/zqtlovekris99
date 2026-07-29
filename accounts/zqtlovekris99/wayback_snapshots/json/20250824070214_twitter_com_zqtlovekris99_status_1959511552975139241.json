@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1959504300788572277",
+    "created_at": "2025-08-24T07:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T08:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959511552975139241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1532606195214581760",
+          "start": 0,
+          "username": "xijinping1sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959511552975139241",
+    "in_reply_to_user_id": "1532606195214581760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959504300788572277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping1sb 我的是纱巾的O(∩_∩)O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959504296464257024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGOxpaakAAeSeE.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1959504300788572277",
+        "created_at": "2025-08-24T07:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T08:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959511552975139241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1532606195214581760",
+              "start": 0,
+              "username": "xijinping1sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959511552975139241",
+        "in_reply_to_user_id": "1532606195214581760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959504300788572277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping1sb 我的是纱巾的O(∩_∩)O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959504296464257024"
+          ]
+        },
+        "author_id": "1532606195214581760",
+        "conversation_id": "1959504300788572277",
+        "created_at": "2025-08-24T06:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959504300788572277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGFzvtgn6k",
+              "end": 34,
+              "expanded_url": "https://x.com/xijinping1sb/status/1959504300788572277/photo/1",
+              "media_key": "3_1959504296464257024",
+              "start": 11,
+              "url": "https://t.co/AGFzvtgn6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959504300788572277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人的第一张银行卡 https://t.co/AGFzvtgn6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9768,
+          "following_count": 895,
+          "like_count": 20730,
+          "listed_count": 10,
+          "media_count": 3301,
+          "tweet_count": 21330
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-03T06:12:55.000Z",
+        "description": "半岁静/二次元/N2已过，EJU准备中/🇺🇦🇮🇱/INFP-T/支持LGBTQ+🏳️‍⚧️🏳️‍🌈/崩三原神铁道玩家/包容所有政治立场/政治立场左下↙（或许是社民）,黑化形态是支黑/反绿/负能量注意/病/o💊/键政注意/不登校中/误b致歉/精神状态不好/求同存异/以上排名不分先后",
+        "id": "1532606195214581760",
+        "location": "IP属地：疯狂宇宙",
+        "name": "香蕉皮🍌",
+        "pinned_tweet_id": "1951811473757663697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747686466111827968/N_p0ZG5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5756,
+          "following_count": 2683,
+          "like_count": 224020,
+          "listed_count": 14,
+          "media_count": 2338,
+          "tweet_count": 19236
+        },
+        "username": "xijinping1sb",
+        "verified": false
+      }
+    ]
+  }
+}

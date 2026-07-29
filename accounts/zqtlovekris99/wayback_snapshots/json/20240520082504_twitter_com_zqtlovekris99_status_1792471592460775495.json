@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1792172540627959983",
+    "created_at": "2024-05-20T08:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T09:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792471592460775495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597352675137720320",
+          "start": 0,
+          "username": "CNCEOPresidentK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792471592460775495",
+    "in_reply_to_user_id": "1597352675137720320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792172540627959983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CNCEOPresidentK 我喜欢喝黑绿色的，感觉魔爪没有红牛那么甜腻所以爱喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1792172540627959983",
+        "created_at": "2024-05-20T08:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T09:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792471592460775495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597352675137720320",
+              "start": 0,
+              "username": "CNCEOPresidentK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792471592460775495",
+        "in_reply_to_user_id": "1597352675137720320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792172540627959983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CNCEOPresidentK 我喜欢喝黑绿色的，感觉魔爪没有红牛那么甜腻所以爱喝"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792172534894395392"
+          ]
+        },
+        "author_id": "1597352675137720320",
+        "conversation_id": "1792172540627959983",
+        "created_at": "2024-05-19T12:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T13:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792172540627959983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NOk2wrkUlJ",
+              "end": 58,
+              "expanded_url": "https://twitter.com/CNCEOPresidentK/status/1792172540627959983/photo/1",
+              "media_key": "3_1792172534894395392",
+              "start": 35,
+              "url": "https://t.co/NOk2wrkUlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792172540627959983",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1841,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨亚文化，把魔爪变成了地雷女专属，这明明是我从小喝到大的运动饮料。 https://t.co/NOk2wrkUlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | 沉迷OD💊 | 软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sparkle166",
+                "end": 23,
+                "expanded_url": "https://t.me/sparkle166",
+                "start": 0,
+                "url": "https://t.co/TqgCk0yx8Y"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3673,
+          "following_count": 504,
+          "like_count": 12443,
+          "listed_count": 5,
+          "tweet_count": 8546
+        },
+        "url": "https://t.co/TqgCk0yx8Y",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T22:12:14.000Z",
+        "description": "当神无能为力的时候，那将由魔来普度众生",
+        "id": "1597352675137720320",
+        "location": "USA",
+        "name": "小兵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773155275974815744/j7JZvA6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 526,
+          "like_count": 3381,
+          "listed_count": 2,
+          "tweet_count": 3129
+        },
+        "username": "CNCEOPresidentK",
+        "verified": false
+      }
+    ]
+  }
+}

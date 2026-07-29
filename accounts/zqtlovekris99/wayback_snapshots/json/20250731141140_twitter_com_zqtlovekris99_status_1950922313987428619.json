@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1950870565570711715",
+    "created_at": "2025-07-31T14:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T15:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950922313987428619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1199138410704715776",
+          "start": 0,
+          "username": "L_R_001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950922313987428619",
+    "in_reply_to_user_id": "1199138410704715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950921643364106575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L_R_001 就打针啊，肌注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1950870565570711715",
+        "created_at": "2025-07-31T14:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950922313987428619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1199138410704715776",
+              "start": 0,
+              "username": "L_R_001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950922313987428619",
+        "in_reply_to_user_id": "1199138410704715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950921643364106575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L_R_001 就打针啊，肌注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199138410704715776",
+        "conversation_id": "1950870565570711715",
+        "created_at": "2025-07-31T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950921643364106575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950921643364106575",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950870565570711715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 你是怎么hrt的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9495,
+          "following_count": 854,
+          "like_count": 20377,
+          "listed_count": 10,
+          "media_count": 3160,
+          "tweet_count": 20677
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-26T01:31:00.000Z",
+        "description": "/网络安全/实验室研究员/摄影 日语 读书 写作 健身/",
+        "id": "1199138410704715776",
+        "location": "せかい",
+        "name": "另一只漂亮鼠",
+        "pinned_tweet_id": "1945702586797244559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918642501352853505/p9QZSn7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 926,
+          "like_count": 3648,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 2788
+        },
+        "username": "L_R_001",
+        "verified": false
+      }
+    ]
+  }
+}

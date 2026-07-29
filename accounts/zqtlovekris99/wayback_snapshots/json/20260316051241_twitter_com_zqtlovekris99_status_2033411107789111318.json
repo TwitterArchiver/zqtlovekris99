@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2033230538459517165",
+    "created_at": "2026-03-16T05:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T06:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033411107789111318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033411107789111318",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033230538459517165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 我也才5%，還是我連著在幣圈嚎了好幾天的結果，之前才3%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2033230538459517165",
+        "created_at": "2026-03-16T05:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T06:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033411107789111318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033411107789111318",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033230538459517165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 我也才5%，還是我連著在幣圈嚎了好幾天的結果，之前才3%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2033230538459517165",
+        "created_at": "2026-03-15T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033230538459517165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itscatroll/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/itscatroll/status/2032955551399948407",
+              "start": 77,
+              "url": "https://t.co/q29BXmyMEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033230538459517165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1073,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032955551399948407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我愿称这个百分比为活人指数。\n\n%越低，说明账号更像人类，%越高，说明账号只是一个毫无意义的垃圾内容农场\n\n当然猫卷也不是0%，因为猫卷是活猫，不算活人 https://t.co/q29BXmyMEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕誠聘對象💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11931,
+          "following_count": 1425,
+          "like_count": 24803,
+          "listed_count": 15,
+          "media_count": 4416,
+          "tweet_count": 26760
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "🍥🍬请私信或下方tg // 你还年轻 都会出人头地 // @hobartr6 @_furryfur_ // 头像画师@TUTAIiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "hobartr6"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "TUTAIiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷",
+        "pinned_tweet_id": "2032853428851138654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032795972015894532/PilHEyZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 844,
+          "like_count": 2814,
+          "listed_count": 7,
+          "media_count": 74,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

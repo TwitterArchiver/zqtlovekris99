@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2018682414122361174",
+    "created_at": "2026-02-04T02:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T03:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018874801637712278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "MisakaBit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018874801637712278",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018682414122361174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaBit ？AI不都是会拿你的对话去训练吗，不然他是从哪训练的语料库，除非你开gpt企业版，至少人谷歌还写出来告诉你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2018682409860861952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPM9NIWEAA9Y_3.jpg",
+        "width": 1554
+      },
+      {
+        "height": 1096,
+        "media_key": "3_2018682411328868352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPM9SmWEAAF_RO.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2018682414122361174",
+        "created_at": "2026-02-04T02:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018874801637712278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018874801637712278",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018682414122361174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaBit ？AI不都是会拿你的对话去训练吗，不然他是从哪训练的语料库，除非你开gpt企业版，至少人谷歌还写出来告诉你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018682409860861952",
+            "3_2018682411328868352"
+          ]
+        },
+        "author_id": "1905258429821898752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          }
+        ],
+        "conversation_id": "2018682414122361174",
+        "created_at": "2026-02-03T13:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018682414122361174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0whYzyByzr",
+              "end": 54,
+              "expanded_url": "https://x.com/MisakaBit/status/2018682414122361174/photo/1",
+              "media_key": "3_2018682409860861952",
+              "start": 31,
+              "url": "https://t.co/0whYzyByzr"
+            },
+            {
+              "display_url": "pic.x.com/0whYzyByzr",
+              "end": 54,
+              "expanded_url": "https://x.com/MisakaBit/status/2018682414122361174/photo/1",
+              "media_key": "3_2018682411328868352",
+              "start": 31,
+              "url": "https://t.co/0whYzyByzr"
+            },
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/landiantech/status/2018620826451693618",
+              "start": 55,
+              "url": "https://t.co/jgOhLbIQ8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018682414122361174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 23775,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018620826451693618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini是屎，只要开对话历史就可能被拿去训练甚至被别人看 https://t.co/0whYzyByzr https://t.co/jgOhLbIQ8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11348,
+          "following_count": 1173,
+          "like_count": 23938,
+          "listed_count": 15,
+          "media_count": 4248,
+          "tweet_count": 25725
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 社恐重度，不熟悉之前不私聊不面基 | INFJ | 双極性II型・重度うつ・不安・BPD・ADHD・地雷注意 | 已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/YK3sc6jJBI"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "御坂晚🍥",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015693279015116800/fx2rpsly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 604,
+          "like_count": 5482,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/YK3sc6jJBI",
+        "username": "MisakaBit",
+        "verified": false
+      }
+    ]
+  }
+}

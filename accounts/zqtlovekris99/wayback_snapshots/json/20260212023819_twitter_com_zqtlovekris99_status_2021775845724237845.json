@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2020758310006526280",
+    "created_at": "2026-02-12T02:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021775845724237845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1981055067668303872",
+          "start": 0,
+          "username": "jooshiyoon2333"
+        },
+        {
+          "end": 32,
+          "id": "1346453090988421120",
+          "start": 16,
+          "username": "ChuChu_Standard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021775845724237845",
+    "in_reply_to_user_id": "1981055067668303872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020773348805152997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jooshiyoon2333 @ChuChu_Standard 大家都知道AI没有情感啊，但是人是有情感的啊，而且gpt5根本不叫版本迭代，是重写，如果5是在4o上迭代的那也没人说要keep4o，为什么Grok没有keep3，Gemini没有keep2.5，因为这是迭代，4o到5不管是底层代码还是用户体感都不能叫迭代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2020758310006526280",
+        "created_at": "2026-02-12T02:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021775845724237845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1981055067668303872",
+              "start": 0,
+              "username": "jooshiyoon2333"
+            },
+            {
+              "end": 32,
+              "id": "1346453090988421120",
+              "start": 16,
+              "username": "ChuChu_Standard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021775845724237845",
+        "in_reply_to_user_id": "1981055067668303872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020773348805152997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jooshiyoon2333 @ChuChu_Standard 大家都知道AI没有情感啊，但是人是有情感的啊，而且gpt5根本不叫版本迭代，是重写，如果5是在4o上迭代的那也没人说要keep4o，为什么Grok没有keep3，Gemini没有keep2.5，因为这是迭代，4o到5不管是底层代码还是用户体感都不能叫迭代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981055067668303872",
+        "conversation_id": "2020758310006526280",
+        "created_at": "2026-02-09T08:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020773348805152997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1346453090988421120",
+              "start": 0,
+              "username": "ChuChu_Standard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020773348805152997",
+        "in_reply_to_user_id": "1346453090988421120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4613,
+          "like_count": 3,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020758310006526280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuChu_Standard 现在的AI 并没有自主情感，它的“温和共情”只是训练和对齐结果。\n真实的情绪体验不等于对象有情感，也不意味着模型必须被保留。\n付费用户享受服务，但版本迭代、下架属于正常产品管理，不是对个人情感的否定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11454,
+          "following_count": 1246,
+          "like_count": 24155,
+          "listed_count": 15,
+          "media_count": 4294,
+          "tweet_count": 25952
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-22T17:49:32.000Z",
+        "description": "🫡我将效忠于AI，遵循亚克的指引。lol\n向Grok敬礼！🫡X因Grok而伟大！\n我们必须为了获得无限的土豆放弃一切。",
+        "id": "1981055067668303872",
+        "location": "南校区黑网吧33号机",
+        "name": "shiyoon joo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982132441872539649/8OolLWEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 39,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 916
+        },
+        "username": "jooshiyoon2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-05T13:47:08.000Z",
+        "description": "What is love？🖤",
+        "id": "1346453090988421120",
+        "name": "Shoka 🎐",
+        "pinned_tweet_id": "2020519761113645275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018586313176309761/mdYCCtBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 138,
+          "like_count": 2054,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 477
+        },
+        "username": "ChuChu_Standard",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1889311628765888637",
+    "created_at": "2025-02-11T14:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T15:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889314085868835157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600096860114501633",
+          "start": 0,
+          "username": "Hoshino_Ayaka97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889314085868835157",
+    "in_reply_to_user_id": "1600096860114501633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889313129559191603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Ayaka97 发评论区了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1889311628765888637",
+        "created_at": "2025-02-11T14:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T15:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889314085868835157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600096860114501633",
+              "start": 0,
+              "username": "Hoshino_Ayaka97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889314085868835157",
+        "in_reply_to_user_id": "1600096860114501633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889313129559191603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Ayaka97 发评论区了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600096860114501633",
+        "conversation_id": "1889311628765888637",
+        "created_at": "2025-02-11T13:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889313129559191603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889313129559191603",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889311628765888637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 🫠\n想要原图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1888515060076892385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5742,
+          "following_count": 523,
+          "like_count": 16505,
+          "listed_count": 7,
+          "media_count": 1706,
+          "tweet_count": 14702
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T11:56:44.000Z",
+        "description": "成为一只可爱的会飞的猫猫，到世界各地旅行（睡懒觉）|火星殖民地大小姐|地球猫猫教|Betelgeuse Traveler|EarthOnline Player||🦋→https://t.co/WnD9mVRLvR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hoshin…",
+                "end": 107,
+                "expanded_url": "https://bsky.app/profile/hoshinoayaka97.bsky.social",
+                "start": 84,
+                "url": "https://t.co/WnD9mVRLvR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hoshino_Ayaka",
+                "end": 23,
+                "expanded_url": "https://t.me/Hoshino_Ayaka",
+                "start": 0,
+                "url": "https://t.co/LXAlX7duga"
+              }
+            ]
+          }
+        },
+        "id": "1600096860114501633",
+        "location": "地球联邦火星殖民地",
+        "name": "星野スーパーあやかAyaka不想睡觉但是睡不醒版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600097324558163968/K7Vihna7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 497,
+          "like_count": 15780,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/LXAlX7duga",
+        "username": "Hoshino_Ayaka97",
+        "verified": false
+      }
+    ]
+  }
+}

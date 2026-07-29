@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1842185367723897020",
+    "created_at": "2024-10-05T15:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T16:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842585289912676833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1776104098112421888",
+          "start": 0,
+          "username": "seaandsky_04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842585289912676833",
+    "in_reply_to_user_id": "1776104098112421888",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842529154786570543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaandsky_04 你太低估劳保的保守能力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1842185367723897020",
+        "created_at": "2024-10-05T15:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T16:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842585289912676833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776104098112421888",
+              "start": 0,
+              "username": "seaandsky_04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842585289912676833",
+        "in_reply_to_user_id": "1776104098112421888",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842529154786570543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaandsky_04 你太低估劳保的保守能力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776104098112421888",
+        "conversation_id": "1842185367723897020",
+        "created_at": "2024-10-05T11:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842529154786570543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842529154786570543",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842442882273480764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 理解不了性别认同，还能理解不了性取向吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（想谈恋爱版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 513,
+          "like_count": 14159,
+          "listed_count": 5,
+          "tweet_count": 11196
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T04:26:57.000Z",
+        "description": "澄澈的爱，只为中国｜愿意学习先进意识形态、政治理论，为中国特色社会主义制度添砖加瓦｜翻墙只为骂反贼",
+        "id": "1776104098112421888",
+        "location": "刘飞宇先生的心中♡",
+        "name": "FEIYV",
+        "pinned_tweet_id": "1828477057237725216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795802699793084416/9PIEXnUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 249,
+          "like_count": 422,
+          "listed_count": 0,
+          "tweet_count": 912
+        },
+        "username": "seaandsky_04",
+        "verified": false
+      }
+    ]
+  }
+}

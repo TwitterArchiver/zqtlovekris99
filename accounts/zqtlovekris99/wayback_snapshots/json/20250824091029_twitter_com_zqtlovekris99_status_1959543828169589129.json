@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1959540471216341149",
+    "created_at": "2025-08-24T09:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T10:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959543828169589129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853728008580050944",
+          "start": 0,
+          "username": "transman_meme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959543828169589129",
+    "in_reply_to_user_id": "1853728008580050944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959540471216341149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@transman_meme 我感觉他说的第二点有点类似你中激女，她觉得女的长发穿裙子化妆是性别规训，于是就开始规训别人留寸头穿裤子素颜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_1959540445647929344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGvpznbAAAf66E.jpg",
+        "width": 2360
+      },
+      {
+        "height": 991,
+        "media_key": "3_1959540464522346496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGvq57bwAAIcGq.jpg",
+        "width": 2360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1959540471216341149",
+        "created_at": "2025-08-24T09:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959543828169589129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853728008580050944",
+              "start": 0,
+              "username": "transman_meme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959543828169589129",
+        "in_reply_to_user_id": "1853728008580050944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959540471216341149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@transman_meme 我感觉他说的第二点有点类似你中激女，她觉得女的长发穿裙子化妆是性别规训，于是就开始规训别人留寸头穿裤子素颜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959540445647929344",
+            "3_1959540464522346496"
+          ]
+        },
+        "author_id": "1853728008580050944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1959540471216341149",
+        "created_at": "2025-08-24T08:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959540471216341149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2JE6P6RG4",
+              "end": 90,
+              "expanded_url": "https://x.com/transman_meme/status/1959540471216341149/photo/1",
+              "media_key": "3_1959540445647929344",
+              "start": 67,
+              "url": "https://t.co/O2JE6P6RG4"
+            },
+            {
+              "display_url": "pic.x.com/O2JE6P6RG4",
+              "end": 90,
+              "expanded_url": "https://x.com/transman_meme/status/1959540471216341149/photo/1",
+              "media_key": "3_1959540464522346496",
+              "start": 67,
+              "url": "https://t.co/O2JE6P6RG4"
+            },
+            {
+              "display_url": "x.com/transman_meme/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/transman_meme/status/1959316062698176529",
+              "start": 91,
+              "url": "https://t.co/zUEbx1PGkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959540471216341149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959316062698176529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我剛剛問了Chatgpt「難道一個男人穿着裙裝個性愛哭自稱自己是女人就不是一種性別刻板印象嗎？」這裡就好像比較要討論到認同感的問題了 https://t.co/O2JE6P6RG4 https://t.co/zUEbx1PGkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9769,
+          "following_count": 898,
+          "like_count": 20741,
+          "listed_count": 11,
+          "media_count": 3303,
+          "tweet_count": 21339
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-05T09:16:18.000Z",
+        "description": "只求共嗚 主帳：@plfk87（不用fol）\n棉花糖：https://t.co/BxL63AFAPE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "plfk87"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v985ssw9pk6p7m…",
+                "end": 50,
+                "expanded_url": "https://marshmallow-qa.com/v985ssw9pk6p7my?t=ajwEqv&utm_medium=url_text&utm_source=promotion",
+                "start": 27,
+                "url": "https://t.co/BxL63AFAPE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/transm…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/transmanmeme.bsky.social",
+                "start": 0,
+                "url": "https://t.co/mRidPau6T7"
+              }
+            ]
+          }
+        },
+        "id": "1853728008580050944",
+        "name": "跨男迷因",
+        "pinned_tweet_id": "1945538139894026576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939723306653097984/CGtjuE-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 103,
+          "like_count": 673,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/mRidPau6T7",
+        "username": "transman_meme",
+        "verified": false
+      }
+    ]
+  }
+}

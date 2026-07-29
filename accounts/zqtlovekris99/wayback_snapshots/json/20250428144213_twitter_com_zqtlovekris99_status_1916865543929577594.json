@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916865540364382208"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1916865543929577594",
+    "created_at": "2025-04-28T14:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T15:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916865543929577594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbCqT4MJig",
+          "end": 28,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1916865543929577594/photo/1",
+          "media_key": "3_1916865540364382208",
+          "start": 5,
+          "url": "https://t.co/gbCqT4MJig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916865543929577594",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好涩好涩 https://t.co/gbCqT4MJig"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916865543929577594].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916865543929577594",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916865543929577594"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1916865540364382208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoTDY-bMAAJAAF.jpg",
+        "width": 550
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1915067043763859862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6783,
+          "following_count": 556,
+          "like_count": 17989,
+          "listed_count": 9,
+          "media_count": 2320,
+          "tweet_count": 17209
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

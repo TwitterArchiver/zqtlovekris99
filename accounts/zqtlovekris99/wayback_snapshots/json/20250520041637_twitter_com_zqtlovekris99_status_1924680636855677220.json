@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1924502582552313956",
+    "created_at": "2025-05-20T04:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924680636855677220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805655851786711040",
+          "start": 0,
+          "username": "meiriaikua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924680636855677220",
+    "in_reply_to_user_id": "1805655851786711040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924502582552313956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiriaikua 信息茧房是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1924502582552313956",
+        "created_at": "2025-05-20T04:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924680636855677220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805655851786711040",
+              "start": 0,
+              "username": "meiriaikua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924680636855677220",
+        "in_reply_to_user_id": "1805655851786711040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924502582552313956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiriaikua 信息茧房是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805655851786711040",
+        "conversation_id": "1924502582552313956",
+        "created_at": "2025-05-19T16:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924502582552313956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sutanghentian/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sutanghentian/status/1924305827172958462",
+              "start": 17,
+              "url": "https://t.co/hqu0x2rJg3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924502582552313956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924305827172958462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“为什么顺女不会被骂”\n懒得吐槽 https://t.co/hqu0x2rJg3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 蓝v互关永不取关 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7513,
+          "following_count": 755,
+          "like_count": 18639,
+          "listed_count": 10,
+          "media_count": 2559,
+          "tweet_count": 18144
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-25T17:34:52.000Z",
+        "description": "【近日繁忙，将会减少吐槽，单纯转发】欢迎各位爱跨雅士和跨性别私信交流、投稿、匿名传话（本人不对任何推友来稿言论做负责）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveMtF",
+                "end": 23,
+                "expanded_url": "http://t.me/LoveMtF",
+                "start": 0,
+                "url": "https://t.co/XJnCuDdMqg"
+              }
+            ]
+          }
+        },
+        "id": "1805655851786711040",
+        "location": " “吾杀汝辈，实救汝辈于世上诸苦，虽杀之，实爱之也”  ",
+        "name": "每日爱跨🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1877058901067100529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907179692698034176/xhNxc36z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 73,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/XJnCuDdMqg",
+        "username": "meiriaikua",
+        "verified": false
+      }
+    ]
+  }
+}

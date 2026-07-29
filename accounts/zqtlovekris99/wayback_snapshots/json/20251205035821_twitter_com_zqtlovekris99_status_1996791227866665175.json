@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1996775411112727001",
+    "created_at": "2025-12-05T03:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996791227866665175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996791227866665175",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996775411112727001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoZheFanQie 我们必须强制开摄像头不然扣考勤分。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_1996775402120032257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X4phuaMAE5Pe_.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1996775411112727001",
+        "created_at": "2025-12-05T03:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996791227866665175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996791227866665175",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996775411112727001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie 我们必须强制开摄像头不然扣考勤分。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996775402120032257"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1996775411112727001",
+        "created_at": "2025-12-05T02:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996775411112727001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NSlnZPube",
+              "end": 35,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/1996775411112727001/photo/1",
+              "media_key": "3_1996775402120032257",
+              "start": 12,
+              "url": "https://t.co/6NSlnZPube"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996775411112727001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在也是这么看网课的 https://t.co/6NSlnZPube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1992255921263960445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10922,
+          "following_count": 1088,
+          "like_count": 23254,
+          "listed_count": 13,
+          "media_count": 4028,
+          "tweet_count": 24737
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄生活推🍅\n，以记录生活为主，本号不键政",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuAtzg"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "name": "包着🍅籽的🍅",
+        "pinned_tweet_id": "1994433287570534543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985834505693999104/YrM20Ruv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 2917,
+          "like_count": 1593,
+          "listed_count": 7,
+          "media_count": 665,
+          "tweet_count": 8097
+        },
+        "url": "https://t.co/R2tlnuAtzg",
+        "username": "BaoZheFanQie",
+        "verified": false
+      }
+    ]
+  }
+}

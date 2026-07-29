@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1919724150282657799",
+    "created_at": "2025-05-06T17:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T18:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919802285296672933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1457763473589694464",
+          "start": 0,
+          "username": "maori_maoqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919802285296672933",
+    "in_reply_to_user_id": "1457763473589694464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919796298838114687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maori_maoqi 确实，重庆的更辣😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1919724150282657799",
+        "created_at": "2025-05-06T17:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T18:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919802285296672933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1457763473589694464",
+              "start": 0,
+              "username": "maori_maoqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919802285296672933",
+        "in_reply_to_user_id": "1457763473589694464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919796298838114687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maori_maoqi 确实，重庆的更辣😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457763473589694464",
+        "conversation_id": "1919724150282657799",
+        "created_at": "2025-05-06T16:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919796298838114687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919796298838114687",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919724150282657799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 成都不辣，真觉得成都没有重庆辣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6834,
+          "following_count": 564,
+          "like_count": 18153,
+          "listed_count": 10,
+          "media_count": 2441,
+          "tweet_count": 17595
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T17:34:51.000Z",
+        "description": "00/172cm52kg/infp/刚开始一点点经营自己的x账号/长期准备srs中……/过气傲娇/前dlsiteRPG重度玩家",
+        "id": "1457763473589694464",
+        "location": "Hunan",
+        "name": "猫泠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865622385795469312/vpJ82Oca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 47,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 296
+        },
+        "username": "maori_maoqi",
+        "verified": false
+      }
+    ]
+  }
+}

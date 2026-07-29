@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1985191890074141149",
+    "created_at": "2025-11-04T03:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985549196594987164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1480902127820021761",
+          "start": 0,
+          "username": "cammywhite777"
+        },
+        {
+          "end": 22,
+          "id": "1228032684552642560",
+          "start": 15,
+          "username": "xpizad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985549196594987164",
+    "in_reply_to_user_id": "1480902127820021761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985247773781094641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cammywhite777 @xpizad 一个词语大家知道它指的是什么就足够了，你们这种执念有什么意义吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1985191890074141149",
+        "created_at": "2025-11-04T03:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985549196594987164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1480902127820021761",
+              "start": 0,
+              "username": "cammywhite777"
+            },
+            {
+              "end": 22,
+              "id": "1228032684552642560",
+              "start": 15,
+              "username": "xpizad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985549196594987164",
+        "in_reply_to_user_id": "1480902127820021761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985247773781094641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cammywhite777 @xpizad 一个词语大家知道它指的是什么就足够了，你们这种执念有什么意义吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902127820021761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1985191890074141149",
+        "created_at": "2025-11-03T07:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985247773781094641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1228032684552642560",
+              "start": 0,
+              "username": "xpizad"
+            },
+            {
+              "end": 22,
+              "id": "1390652924481527810",
+              "start": 8,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985247773781094641",
+        "in_reply_to_user_id": "1228032684552642560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 864,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985229260190347627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xpizad @zqtlovekris99 管“徽章”叫“吧唧”，\n管“动画”叫“动漫”（并因此衍生出“动漫和漫画”这种令人高血压的说法），\n还有每年出警“端午节不能说快乐”……\n这是现在中文圈的现状。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1978721972730151397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10470,
+          "following_count": 1034,
+          "like_count": 22839,
+          "listed_count": 12,
+          "media_count": 3842,
+          "tweet_count": 23974
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-11T13:59:31.000Z",
+        "description": "二次元爱好者，喜欢动漫和游戏。\nMy favorite character is \"Killer Bee\" Cammy White from Street Fighter Zero.\n（白=White，嘉米=Cammy）",
+        "id": "1480902127820021761",
+        "name": "白嘉米",
+        "pinned_tweet_id": "1500113737763934208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617153681522331649/_RbqjnML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 45,
+          "like_count": 1577,
+          "listed_count": 6,
+          "media_count": 1224,
+          "tweet_count": 9005
+        },
+        "username": "cammywhite777",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T19:06:36.000Z",
+        "description": "newbie",
+        "id": "1228032684552642560",
+        "name": "Sanguini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858697236529770499/eYYVyQWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 283,
+          "like_count": 5574,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 2329
+        },
+        "username": "xpizad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1914982804078891247",
+    "created_at": "2025-04-23T10:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T11:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914982804078891247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Gacha_Zone/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Gacha_Zone/status/1914892472586522974",
+          "start": 8,
+          "url": "https://t.co/d0C62taTH9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914982804078891247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914892472586522974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦天阿老师好帅 https://t.co/d0C62taTH9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1914892467008122880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMQjZ8XMAAuKp4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1914982804078891247",
+        "created_at": "2025-04-23T10:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T11:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914982804078891247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Gacha_Zone/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Gacha_Zone/status/1914892472586522974",
+              "start": 8,
+              "url": "https://t.co/d0C62taTH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914982804078891247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914892472586522974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦天阿老师好帅 https://t.co/d0C62taTH9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914892467008122880"
+          ]
+        },
+        "author_id": "1313827203679948800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1914892472586522974",
+        "created_at": "2025-04-23T04:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T05:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914892472586522974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s93FFmAO30",
+              "end": 48,
+              "expanded_url": "https://x.com/Gacha_Zone/status/1914892472586522974/photo/1",
+              "media_key": "3_1914892467008122880",
+              "start": 25,
+              "url": "https://t.co/s93FFmAO30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914892472586522974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 496,
+          "impression_count": 194891,
+          "like_count": 10860,
+          "quote_count": 409,
+          "reply_count": 112,
+          "retweet_count": 715
+        },
+        "reply_settings": "everyone",
+        "text": "Genshin 5.6 Official art https://t.co/s93FFmAO30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1914208556406239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 549,
+          "like_count": 17922,
+          "listed_count": 9,
+          "media_count": 2228,
+          "tweet_count": 16954
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T13:03:19.000Z",
+        "description": "Life is a Gacha\nEmail: Genshinmem@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/gacha_memees",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/gacha_memees",
+                "start": 0,
+                "url": "https://t.co/lC4SlDU6NH"
+              }
+            ]
+          }
+        },
+        "id": "1313827203679948800",
+        "name": "Gacha Zone",
+        "pinned_tweet_id": "1912705800172118448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869195786619105280/0rMTRq63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274524,
+          "following_count": 742,
+          "like_count": 8237,
+          "listed_count": 1811,
+          "media_count": 8991,
+          "tweet_count": 9651
+        },
+        "url": "https://t.co/lC4SlDU6NH",
+        "username": "Gacha_Zone",
+        "verified": true
+      }
+    ]
+  }
+}

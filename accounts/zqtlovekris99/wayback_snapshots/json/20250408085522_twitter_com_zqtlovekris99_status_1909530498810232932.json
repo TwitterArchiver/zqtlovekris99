@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1909530496725663943",
+    "created_at": "2025-04-08T08:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T09:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909530498810232932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909530498810232932",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909530496725663943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "\\( x^n + y^n = z^n \\)（\\( n &gt; 2 \\)）。\n   - 通过构造一个特殊的椭圆曲线（称为**弗雷曲线**，Frey curve）：\n     \\[\n     y^2 = x(x - a^n)(x + b^n),\n     \\]\n     其中 \\( a, b \\) 由费马方程的解导出。\n   Ken Ribet证明了：如果费马大定理不成立，弗雷曲线不可能是模椭圆曲线。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_1909530494007754755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoAD3f8bwAMj7Tq.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1909530496725663943",
+        "created_at": "2025-04-08T08:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T09:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909530498810232932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909530498810232932",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909530496725663943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\\( x^n + y^n = z^n \\)（\\( n &gt; 2 \\)）。\n   - 通过构造一个特殊的椭圆曲线（称为**弗雷曲线**，Frey curve）：\n     \\[\n     y^2 = x(x - a^n)(x + b^n),\n     \\]\n     其中 \\( a, b \\) 由费马方程的解导出。\n   Ken Ribet证明了：如果费马大定理不成立，弗雷曲线不可能是模椭圆曲线。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909530494007754755"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1909530496725663943",
+        "created_at": "2025-04-08T08:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T09:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909530496725663943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "竹蜻蜓的提问箱"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/nekotonbo",
+              "end": 33,
+              "expanded_url": "https://ngl.link/nekotonbo",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/1909167865636474880/I0PKwtCl?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1909167865636474880/I0PKwtCl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 10,
+              "status": 200,
+              "title": "@nekotonbo: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/nekotonbo",
+              "url": "https://t.co/2xgkQbq9L6"
+            },
+            {
+              "display_url": "pic.x.com/5DVVLatAEi",
+              "end": 248,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1909530496725663943/photo/1",
+              "media_key": "3_1909530494007754755",
+              "start": 225,
+              "url": "https://t.co/5DVVLatAEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909530496725663943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#竹蜻蜓的提问箱 \nhttps://t.co/2xgkQbq9L6\n&gt; 对于整数 \\( n &gt; 2 \\)，不存在正整数 \\( x, y, z \\) 满足方程  \n&gt; \\[ x^n + y^n = z^n. \\]\n 假设费马大定理不成立，即存在 \\( x, y, z, n \\) 满足 \\( x^n + y^n = z^n \\)（\\( n &gt; 2 \\)）。 假设费马大定理不成立，即存在 \\( x, y, z, n \\) 满足 https://t.co/5DVVLatAEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 526,
+          "like_count": 17521,
+          "listed_count": 8,
+          "media_count": 2030,
+          "tweet_count": 16333
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

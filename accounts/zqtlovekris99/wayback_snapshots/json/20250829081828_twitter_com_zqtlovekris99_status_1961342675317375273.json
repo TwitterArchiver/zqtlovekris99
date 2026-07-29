@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1961322058756796796",
+    "created_at": "2025-08-29T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961342675317375273"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961342675317375273",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961322058756796796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈似乎觉得我就是个打睾酮的女的。算了随便吧反正我不gd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 175,
+        "media_key": "3_1961322055959474176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgEBLOacAAC3a2.jpg",
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1961322058756796796",
+        "created_at": "2025-08-29T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961342675317375273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961342675317375273",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961322058756796796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈似乎觉得我就是个打睾酮的女的。算了随便吧反正我不gd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961322055959474176"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1961322058756796796",
+        "created_at": "2025-08-29T06:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T07:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961322058756796796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgXqat3uxj",
+              "end": 110,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1961322058756796796/photo/1",
+              "media_key": "3_1961322055959474176",
+              "start": 87,
+              "url": "https://t.co/UgXqat3uxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961322058756796796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈今天看黄历说欸七夕节又叫女儿节，正好你爸不在我跟我女儿过\n我：……我算女儿吗？\n我妈：（似乎理解成我说自己年纪大）怎么不算呢，你活到80也是我女儿\n我：（无力.jpg） https://t.co/UgXqat3uxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9839,
+          "following_count": 912,
+          "like_count": 20891,
+          "listed_count": 10,
+          "media_count": 3346,
+          "tweet_count": 21533
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

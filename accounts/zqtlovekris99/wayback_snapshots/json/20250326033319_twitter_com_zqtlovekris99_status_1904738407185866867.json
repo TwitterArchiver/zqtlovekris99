@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1904392160650379484",
+    "created_at": "2025-03-26T03:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T04:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904738407185866867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904738407185866867",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904392160650379484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 你玩原神玩魔怔了吧，LGBT就是性少数的概括缩写，后来发现涵盖的不全面所以越来越长变成lgbtqia+，你是怎么想出来有对跨性别的偏见的，跨性别确实是少数群体之一啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1904392160650379484",
+        "created_at": "2025-03-26T03:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T04:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904738407185866867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904738407185866867",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904392160650379484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 你玩原神玩魔怔了吧，LGBT就是性少数的概括缩写，后来发现涵盖的不全面所以越来越长变成lgbtqia+，你是怎么想出来有对跨性别的偏见的，跨性别确实是少数群体之一啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1904392160650379484",
+        "created_at": "2025-03-25T04:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T05:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904392160650379484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kevints5863665…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/Kevints58636658/status/1903951277673054278",
+              "start": 157,
+              "url": "https://t.co/Jylaqi3QwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904392160650379484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2319,
+          "like_count": 32,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903951277673054278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对LGBT文化霸权的一个原因就是这样\n我们不是大箩筐“LGBTQIA”，我们是中国大陆跨女，中国大陆跨女不是LGBT\n跨女可以是异性恋，可以是同性恋，也可以是无性恋\n跨女可以留辫子，跨女可以留短发，跨女可以写代码掉光头发\nLGBT这个词本身就含有对跨性别的偏见，一个L不可能是G或B，但一个T，可能是L/G/B https://t.co/Jylaqi3QwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6261,
+          "following_count": 533,
+          "like_count": 17268,
+          "listed_count": 8,
+          "media_count": 1922,
+          "tweet_count": 15941
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MtF转发bot（TG那个是冒充的）",
+        "pinned_tweet_id": "1903736859572007367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904469897620701184/IBaWTsyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 336,
+          "like_count": 1808,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 3072
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

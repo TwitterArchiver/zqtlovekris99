@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2016455030921220149",
+    "created_at": "2026-01-29T05:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016738545550119252",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016455030921220149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 第一张也不猥琐啊，还挺戳我xp的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016455018036199424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ7-aAAAcKO8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78awAAa4-0.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027831297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78aUAEHCRW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027900928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78bYAA248b.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016455018036199424",
+            "3_2016455018027859968",
+            "3_2016455018027831297",
+            "3_2016455018027900928"
+          ]
+        },
+        "author_id": "1763381254035251200",
+        "conversation_id": "2016455030921220149",
+        "created_at": "2026-01-28T10:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018036199424",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027859968",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027831297",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027900928",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016455030921220149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18428,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无毒贩来现身说法 https://t.co/WYbl8p0m1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11220,
+          "following_count": 1132,
+          "like_count": 23820,
+          "listed_count": 14,
+          "media_count": 4203,
+          "tweet_count": 25546
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 589,
+          "like_count": 42077,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 3973
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2040434283643646344",
+    "created_at": "2026-04-07T06:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041408885416960054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        },
+        {
+          "end": 24,
+          "id": "1818678630824001538",
+          "start": 12,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041408885416960054",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040793207592931380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki @Misako_25ji 并不是啊，就算还有234，1a和1b也只是身份分离程度的问题，失忆程度并不是区分1a和1b的标准，你要这么区分也应该是横着摆的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2040791161456234496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJYv69bEAApQ9T.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2040434283643646344",
+        "created_at": "2026-04-07T06:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041408885416960054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            },
+            {
+              "end": 24,
+              "id": "1818678630824001538",
+              "start": 12,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041408885416960054",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040793207592931380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki @Misako_25ji 并不是啊，就算还有234，1a和1b也只是身份分离程度的问题，失忆程度并不是区分1a和1b的标准，你要这么区分也应该是横着摆的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040791161456234496"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2040434283643646344",
+        "created_at": "2026-04-05T14:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040793207592931380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 27,
+              "id": "1818678630824001538",
+              "start": 15,
+              "username": "Misako_25ji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZTViAIlIR",
+              "end": 196,
+              "expanded_url": "https://x.com/_Shikieiki/status/2040793207592931380/photo/1",
+              "media_key": "3_2040791161456234496",
+              "start": 173,
+              "url": "https://t.co/DZTViAIlIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040793207592931380",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040776133566935385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @Misako_25ji DSM5中对DID的诊断大概如下，我个人认为OSDD-1a是符合除了A的所有条件，而1b是符合除了B的所有条件。\n况且OSDD中还包含2、3、4三种亚型，各自的分离程度和失忆程度都不一样。所以单用OSDD/OSDD1还是太概括性了。\n结构性解离在这方面可能更加可信一些，在涉及到创伤方面。 https://t.co/DZTViAIlIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "跨男娘/翻车顺女 HRT 2023.05.29 | OSDD多意识体/od💊/ed BMI14.2 | 🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 防走丢小号 @nktblovekris99 闺蜜 @Misako_25ji 诡秘 @maoxian1527 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2033604806393434477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11967,
+          "following_count": 1470,
+          "like_count": 24986,
+          "listed_count": 15,
+          "media_count": 4519,
+          "tweet_count": 27190
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "好困",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2040004095713685681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 841,
+          "like_count": 25125,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3326
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "私わ誰?美沙子。星灵。星理。莉莉丝。\n只是一个杭州普通高三学生罢了。\n——\n 🥰:@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "astlinga.github.io",
+                "end": 23,
+                "expanded_url": "http://astlinga.github.io",
+                "start": 0,
+                "url": "https://t.co/fjvpGqmAmf"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "彼得羅巴甫洛夫斯克",
+        "name": "Misako～美沙子喵～🏳️‍⚧️",
+        "pinned_tweet_id": "1984721260514062727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039134498701590528/V65dvaCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2634,
+          "following_count": 1284,
+          "like_count": 1799,
+          "listed_count": 8,
+          "media_count": 209,
+          "tweet_count": 1296
+        },
+        "url": "https://t.co/fjvpGqmAmf",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

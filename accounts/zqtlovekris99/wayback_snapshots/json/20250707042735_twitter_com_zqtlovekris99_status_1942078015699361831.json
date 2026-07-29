@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1941858796122575132",
+    "created_at": "2025-07-07T04:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T05:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942078015699361831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942078015699361831",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941858796122575132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 这不是在搞抽象吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1941858796122575132",
+        "created_at": "2025-07-07T04:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T05:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942078015699361831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942078015699361831",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941858796122575132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 这不是在搞抽象吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1941858796122575132",
+        "created_at": "2025-07-06T13:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941858796122575132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IhateHubeib/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/IhateHubeib/status/1941857350417031508",
+              "start": 21,
+              "url": "https://t.co/exNleCmCHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941858796122575132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941857350417031508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没看懂，有没有同样人格分裂的朋友科普一下 https://t.co/exNleCmCHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀账号暂时由Lumin接管",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9062,
+          "following_count": 759,
+          "like_count": 19858,
+          "listed_count": 10,
+          "media_count": 2979,
+          "tweet_count": 19924
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中）٩(˃̶͈̀௰˂̶͈́)و\n已有男友，是正经人\ntg群组https://t.co/kvz722N3ba\n\n未婚夫:  @nideniuzi186074\n\n闺蜜&姐姐&引路人:  @zihou1968025650",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "nideniuzi186074"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+s-NP42sLYX43M…",
+                "end": 70,
+                "expanded_url": "https://t.me/+s-NP42sLYX43M2I1",
+                "start": 47,
+                "url": "https://t.co/kvz722N3ba"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "name": "折筱orisam🏳️‍⚧️🍛🍚🍲🍙🍱🍣",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926184509931749376/bHjkjFoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 1050,
+          "like_count": 39902,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 9168
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

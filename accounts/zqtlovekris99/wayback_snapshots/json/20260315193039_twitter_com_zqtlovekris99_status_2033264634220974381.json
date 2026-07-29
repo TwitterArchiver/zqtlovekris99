@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2033264634220974381",
+    "created_at": "2026-03-15T19:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T20:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033264634220974381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1390652924481527810",
+          "start": 3,
+          "username": "zqtlovekris99"
+        },
+        {
+          "end": 31,
+          "id": "1998903684202377219",
+          "start": 19,
+          "username": "0k1chioma21"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/9asZup",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/9asZup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033264634220974381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033264524766466541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zqtlovekris99: @0k1chioma21 誰認識這人，被盜號了，這個我在英區就碰見過一次，包騙子的，不要舉報他，千萬不要去聯繫discord那個人，誰🈶這人其他聯繫方式去提醒一下他，別舉報人帳號把他帳號弄沒了就不好了 https://t.co/9asZup…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033264516654579712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDebTiGaQAAwLhZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033264516650389504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDebTiFaUAApGbD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2033264634220974381",
+        "created_at": "2026-03-15T19:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033264634220974381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1390652924481527810",
+              "start": 3,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 31,
+              "id": "1998903684202377219",
+              "start": 19,
+              "username": "0k1chioma21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/9asZup",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/9asZup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033264634220974381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033264524766466541",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zqtlovekris99: @0k1chioma21 誰認識這人，被盜號了，這個我在英區就碰見過一次，包騙子的，不要舉報他，千萬不要去聯繫discord那個人，誰🈶這人其他聯繫方式去提醒一下他，別舉報人帳號把他帳號弄沒了就不好了 https://t.co/9asZup…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033264516654579712",
+            "3_2033264516650389504"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2033264524766466541",
+        "created_at": "2026-03-15T19:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033264524766466541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998903684202377219",
+              "start": 0,
+              "username": "0k1chioma21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9asZuptufZ",
+              "end": 124,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2033264524766466541/photo/1",
+              "media_key": "3_2033264516654579712",
+              "start": 101,
+              "url": "https://t.co/9asZuptufZ"
+            },
+            {
+              "display_url": "pic.x.com/9asZuptufZ",
+              "end": 124,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2033264524766466541/photo/1",
+              "media_key": "3_2033264516650389504",
+              "start": 101,
+              "url": "https://t.co/9asZuptufZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033264524766466541",
+        "in_reply_to_user_id": "1998903684202377219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@0k1chioma21 誰認識這人，被盜號了，這個我在英區就碰見過一次，包騙子的，不要舉報他，千萬不要去聯繫discord那個人，誰🈶這人其他聯繫方式去提醒一下他，別舉報人帳號把他帳號弄沒了就不好了 https://t.co/9asZuptufZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕誠聘對象💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11927,
+          "following_count": 1426,
+          "like_count": 24801,
+          "listed_count": 15,
+          "media_count": 4415,
+          "tweet_count": 26753
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T23:54:57.000Z",
+        "description": "双相 高p 型月/MUG同好可以找我互fo 匿名提问箱https://t.co/naHFiYB7kN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k0k1chioma",
+                "end": 50,
+                "expanded_url": "https://ngl.link/k0k1chioma",
+                "start": 27,
+                "url": "https://t.co/naHFiYB7kN"
+              }
+            ]
+          }
+        },
+        "id": "1998903684202377219",
+        "location": "Shanghai",
+        "name": "云雲有雨",
+        "pinned_tweet_id": "2024844256595042367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018397012538892289/JlKoNwjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 131,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 466
+        },
+        "username": "0k1chioma21",
+        "verified": true
+      }
+    ]
+  }
+}

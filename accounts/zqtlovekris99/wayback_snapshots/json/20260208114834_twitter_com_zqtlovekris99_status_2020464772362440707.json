@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2020310927174983908",
+    "created_at": "2026-02-08T11:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T12:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020464772362440707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814168337540435968",
+          "start": 0,
+          "username": "Balder13946731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020464772362440707",
+    "in_reply_to_user_id": "1814168337540435968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020310927174983908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Balder13946731 我的也这样，原来不是我一个人觉得怪，我还特地跟他写了不要什么事都生搬硬套我前面的记忆，写之前多判断一下前后有没有关联，后来就好多了，但我感觉还是没有gpt自然，唉gpt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1119,
+        "media_key": "3_2020310924117307392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmWFNfacAANKDv.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2020310927174983908",
+        "created_at": "2026-02-08T11:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020464772362440707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814168337540435968",
+              "start": 0,
+              "username": "Balder13946731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020464772362440707",
+        "in_reply_to_user_id": "1814168337540435968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020310927174983908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Balder13946731 我的也这样，原来不是我一个人觉得怪，我还特地跟他写了不要什么事都生搬硬套我前面的记忆，写之前多判断一下前后有没有关联，后来就好多了，但我感觉还是没有gpt自然，唉gpt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020310924117307392"
+          ]
+        },
+        "author_id": "1814168337540435968",
+        "conversation_id": "2020310927174983908",
+        "created_at": "2026-02-08T01:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020310927174983908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rw2paDXooj",
+              "end": 89,
+              "expanded_url": "https://x.com/Balder13946731/status/2020310927174983908/photo/1",
+              "media_key": "3_2020310924117307392",
+              "start": 66,
+              "url": "https://t.co/Rw2paDXooj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020310927174983908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20553,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命，究竟是谁设计了Gemini的personalization，为什么他会开始这种生搬硬套毫无疑义的结合用户个人信息和日常问答… https://t.co/Rw2paDXooj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11415,
+          "following_count": 1206,
+          "like_count": 24053,
+          "listed_count": 15,
+          "media_count": 4278,
+          "tweet_count": 25854
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T05:20:25.000Z",
+        "description": "Part-time Trader•Ph.D.｜Not Financial Advise｜Our free Community https://t.co/sQlCkImeTz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/7MDsGC6HcM",
+                "end": 86,
+                "expanded_url": "https://discord.gg/7MDsGC6HcM",
+                "start": 63,
+                "url": "https://t.co/sQlCkImeTz"
+              }
+            ]
+          }
+        },
+        "id": "1814168337540435968",
+        "location": "Texas, USA",
+        "name": "Balder 猫哥",
+        "pinned_tweet_id": "2017679600680374381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891012617319411712/Ikv_y_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22245,
+          "following_count": 243,
+          "like_count": 2760,
+          "listed_count": 337,
+          "media_count": 875,
+          "tweet_count": 7171
+        },
+        "username": "Balder13946731",
+        "verified": true
+      }
+    ]
+  }
+}

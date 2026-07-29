@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2053331651892335097",
+    "created_at": "2026-05-13T15:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T16:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054583099070279879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960697619497287680",
+          "start": 0,
+          "username": "T20250827"
+        },
+        {
+          "end": 24,
+          "id": "2051158365343191042",
+          "start": 11,
+          "username": "Frieastarsea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054583099070279879",
+    "in_reply_to_user_id": "1960697619497287680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054571813892739337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T20250827 @Frieastarsea 瞎填的搜不出来啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054571813892739337].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054571813892739337",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054571813892739337"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2053331651892335097",
+        "created_at": "2026-05-13T15:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T16:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054583099070279879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960697619497287680",
+              "start": 0,
+              "username": "T20250827"
+            },
+            {
+              "end": 24,
+              "id": "2051158365343191042",
+              "start": 11,
+              "username": "Frieastarsea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054583099070279879",
+        "in_reply_to_user_id": "1960697619497287680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054571813892739337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T20250827 @Frieastarsea 瞎填的搜不出来啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12899,
+          "following_count": 1582,
+          "like_count": 25674,
+          "listed_count": 18,
+          "media_count": 4941,
+          "tweet_count": 27972
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-27T13:35:32.000Z",
+        "description": "是T",
+        "id": "1960697619497287680",
+        "location": "People's Republic of China",
+        "name": "T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960699058894348289/8u4mNckt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 189,
+          "like_count": 815,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 6310
+        },
+        "username": "T20250827",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T04:37:16.000Z",
+        "description": "人類與權力的鬥爭，就是記憶與遺忘的鬥爭\n星海旅人｜拯救世界的天才｜Tomboy｜活在記憶裡｜自由主義｜我思故我在｜人類的讚歌是勇氣的讚歌｜馬基雅維利｜加速黨｜海盜黨｜歡迎關注，有fo必回～可以找我聊天喔^_^",
+        "id": "2051158365343191042",
+        "location": "おきなわ",
+        "name": "星宿海🌃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051168681485533185/uGMcBAhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 26,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 104
+        },
+        "username": "Frieastarsea",
+        "verified": false
+      }
+    ]
+  }
+}

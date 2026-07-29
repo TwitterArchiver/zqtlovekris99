@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2000404776656548244",
+    "created_at": "2025-12-15T15:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000591397708251271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520126866132434944",
+          "start": 0,
+          "username": "baimao_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000591397708251271",
+    "in_reply_to_user_id": "1520126866132434944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000582703503015947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimao_suki 懒得搞，好麻烦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2000404776656548244",
+        "created_at": "2025-12-15T15:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000591397708251271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520126866132434944",
+              "start": 0,
+              "username": "baimao_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000591397708251271",
+        "in_reply_to_user_id": "1520126866132434944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000582703503015947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimao_suki 懒得搞，好麻烦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520126866132434944",
+        "conversation_id": "2000404776656548244",
+        "created_at": "2025-12-15T15:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000582703503015947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000582703503015947",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000404776656548244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我现在的方案就是 咸鱼上 搜codex 工作空间 用4O 一个月迁移一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1992255921263960445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10894,
+          "following_count": 1070,
+          "like_count": 23255,
+          "listed_count": 13,
+          "media_count": 4053,
+          "tweet_count": 24824
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-29T19:44:32.000Z",
+        "description": "电脑DIY爱好者/ ysyxer/CS2玩家/ 头像是⁹ 背景是桜田シロ/疑似双A被bug拖着走 /容易踩地雷（雾）",
+        "id": "1520126866132434944",
+        "location": "广州",
+        "name": "白毛suki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671767047737602051/c8nMOrhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 1502,
+          "like_count": 27217,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2819
+        },
+        "username": "baimao_suki",
+        "verified": false
+      }
+    ]
+  }
+}

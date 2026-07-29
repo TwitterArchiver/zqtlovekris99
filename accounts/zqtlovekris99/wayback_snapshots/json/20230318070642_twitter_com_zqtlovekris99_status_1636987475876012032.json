@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1636631478120644608",
+    "created_at": "2023-03-18T07:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2023-03-18T07:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1636987475876012032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1228546301572173825",
+          "start": 0,
+          "username": "AAAAAMTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1636987475876012032",
+    "in_reply_to_user_id": "1228546301572173825",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1636981636356259841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAAAAMTxT 好qwq感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1636631478120644608",
+        "created_at": "2023-03-18T07:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-18T07:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1636987475876012032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1228546301572173825",
+              "start": 0,
+              "username": "AAAAAMTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1636987475876012032",
+        "in_reply_to_user_id": "1228546301572173825",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1636981636356259841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAAAAMTxT 好qwq感谢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "conversation_id": "1636631478120644608",
+        "created_at": "2023-03-18T06:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-03-18T07:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1636981636356259841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "twitter.com/Oo_luv__oO/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Oo_luv__oO/status/1556951006004772864?t=guB53c2sEYW1FZCPRNjc5w&s=19",
+              "start": 20,
+              "url": "https://t.co/NMFZCaeDEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1636981636356259841",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1556951006004772864",
+            "type": "quoted"
+          },
+          {
+            "id": "1636631478120644608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 参考这条\nhttps://t.co/NMFZCaeDEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "只说我自己想说的 // my love @komeijitony",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "komeijitony"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TaKePrinceChat",
+                "end": 23,
+                "expanded_url": "https://t.me/TaKePrinceChat",
+                "start": 0,
+                "url": "https://t.co/fxpcUPpcPN"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1633787240471224321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628701637354336256/6Ot_Yb9g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3405,
+          "following_count": 637,
+          "listed_count": 3,
+          "tweet_count": 6705
+        },
+        "url": "https://t.co/fxpcUPpcPN",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里阿门，是个les，永远17岁的美少女！INFJ，有双相情感障碍，不接受请自行远离",
+        "id": "1228546301572173825",
+        "location": "新海市",
+        "name": "阿阿阿阿阿门",
+        "pinned_tweet_id": "1548265983311499264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597279516568625152/vnOBUIVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 218,
+          "listed_count": 1,
+          "tweet_count": 2914
+        },
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

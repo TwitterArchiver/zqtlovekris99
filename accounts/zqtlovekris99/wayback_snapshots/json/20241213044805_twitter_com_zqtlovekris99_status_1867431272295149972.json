@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1867398191085498398",
+    "created_at": "2024-12-13T04:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T05:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867431272295149972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647406271572869122",
+          "start": 0,
+          "username": "ottowulawula"
+        },
+        {
+          "end": 29,
+          "id": "1680508885394927616",
+          "start": 14,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867431272295149972",
+    "in_reply_to_user_id": "1647406271572869122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867412926661112310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ottowulawula @04177_realname 这张图我总觉得像一个平板后背，然后光线从正上方照过来反光，颜色过度那块是个明显的菱角，下面黑的是完全照不到的地方🤔莫名就看成3d的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1867398191085498398",
+        "created_at": "2024-12-13T04:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T05:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867431272295149972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647406271572869122",
+              "start": 0,
+              "username": "ottowulawula"
+            },
+            {
+              "end": 29,
+              "id": "1680508885394927616",
+              "start": 14,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867431272295149972",
+        "in_reply_to_user_id": "1647406271572869122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867412926661112310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ottowulawula @04177_realname 这张图我总觉得像一个平板后背，然后光线从正上方照过来反光，颜色过度那块是个明显的菱角，下面黑的是完全照不到的地方🤔莫名就看成3d的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867412923360194562"
+          ]
+        },
+        "author_id": "1647406271572869122",
+        "conversation_id": "1867398191085498398",
+        "created_at": "2024-12-13T03:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T04:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867412926661112310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4WEd1V6mD",
+              "end": 86,
+              "expanded_url": "https://x.com/ottowulawula/status/1867412926661112310/photo/1",
+              "media_key": "3_1867412923360194562",
+              "start": 63,
+              "url": "https://t.co/u4WEd1V6mD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867412926661112310",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867398191085498398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 好巧昨天刚看到科普，这是反阴影保护色，让动物更融入背景不易被发现，也有反规律的，就是警告色。 https://t.co/u4WEd1V6mD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 FtX | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5177,
+          "following_count": 505,
+          "like_count": 15288,
+          "listed_count": 6,
+          "media_count": 1400,
+          "tweet_count": 13298
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T01:07:26.000Z",
+        "description": "176/60 \n88r电报群一百多图",
+        "id": "1647406271572869122",
+        "name": "椰子饼",
+        "pinned_tweet_id": "1844046451451818183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792061144284471296/I84ZuOhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 72,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 218
+        },
+        "username": "ottowulawula",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/逃生舱：@04177_truth/🦋：@04177realname.bsky.social/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/不爱了请双取，你的单取是我午夜梦回的惩罚😿/提问箱：https://t.co/pe56J9RdeY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "04177_truth"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 128,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 105,
+                "url": "https://t.co/pe56J9RdeY"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8281,
+          "following_count": 5812,
+          "like_count": 53170,
+          "listed_count": 26,
+          "media_count": 1504,
+          "tweet_count": 13882
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

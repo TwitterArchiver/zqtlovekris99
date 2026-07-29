@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046667584540758016"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2046627293603430891",
+    "created_at": "2026-04-21T19:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T20:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046667617071751539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 21,
+          "id": "1885154179922227200",
+          "start": 11,
+          "username": "Snow_Xue_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYXyaKcaQG",
+          "end": 74,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2046667617071751539/photo/1",
+          "media_key": "3_2046667584540758016",
+          "start": 51,
+          "url": "https://t.co/yYXyaKcaQG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046667617071751539",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046627293603430891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama @Snow_Xue_ 唐的那个算血药浓度的app也是你们做的吗还是蒸馏了你们的 https://t.co/yYXyaKcaQG"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Snow_Xue_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Snow_Xue_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Snow_Xue_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046667584540758016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGc5Uw3b0AAD4ky.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046667584540758016"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2046627293603430891",
+        "created_at": "2026-04-21T19:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T20:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046667617071751539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 21,
+              "id": "1885154179922227200",
+              "start": 11,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYXyaKcaQG",
+              "end": 74,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2046667617071751539/photo/1",
+              "media_key": "3_2046667584540758016",
+              "start": 51,
+              "url": "https://t.co/yYXyaKcaQG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046667617071751539",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046627293603430891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama @Snow_Xue_ 唐的那个算血药浓度的app也是你们做的吗还是蒸馏了你们的 https://t.co/yYXyaKcaQG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2046627293603430891",
+        "created_at": "2026-04-21T16:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046627293603430891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1885154179922227200",
+              "start": 34,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hrt.mahiro.uk",
+              "end": 26,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "start": 3,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/thW0wJpqxz"
+            },
+            {
+              "display_url": "hrt.mahiro.uk",
+              "end": 100,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "start": 77,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/thW0wJpqxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046627293603430891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1525,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "作为 https://t.co/thW0wJpqxz 的站长，得知 @Snow_Xue_ 发表了一些对跨性别社群不友善的言论，我将删除其账户\n\n顺带一提，https://t.co/thW0wJpqxz 将支持推特（X）登录"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12068,
+          "following_count": 1517,
+          "like_count": 25299,
+          "listed_count": 16,
+          "media_count": 4672,
+          "tweet_count": 27523
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\ndev https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 63,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 40,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 1953,
+          "like_count": 8404,
+          "listed_count": 9,
+          "media_count": 1218,
+          "tweet_count": 5146
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2032684560060919817",
+    "created_at": "2026-03-14T05:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032684560060919817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/redraft2000/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/redraft2000/status/2032667859927912928",
+          "start": 12,
+          "url": "https://t.co/hmSP55jYaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032684560060919817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032667859927912928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看我就說跨出就是跨出 https://t.co/hmSP55jYaP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2032684560060919817",
+        "created_at": "2026-03-14T05:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032684560060919817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/redraft2000/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/redraft2000/status/2032667859927912928",
+              "start": 12,
+              "url": "https://t.co/hmSP55jYaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032684560060919817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032667859927912928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看我就說跨出就是跨出 https://t.co/hmSP55jYaP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953528457339834368",
+        "conversation_id": "2032492720032510444",
+        "created_at": "2026-03-14T03:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032667859927912928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            },
+            {
+              "end": 23,
+              "id": "1472814126095237123",
+              "start": 13,
+              "username": "H03949416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032667859927912928",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032651019021332622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 @H03949416 唐原本和知式谈，后来找了沃沃，再后来小仙来送炮，唐和小仙在沃沃的面前打炮，后来跑知式家在知式面前打炮，小仙表示不爱唐，激怒了唐，唐当场打了小仙，格式化小仙手机，故知式要和唐分手。沃沃还在和唐谈，再后来烧仙草出现了，唐出轨第三次，也就是说把小仙算在内的话，烧仙草算小五"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信 💕想谈恋爱💕防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11902,
+          "following_count": 1428,
+          "like_count": 24778,
+          "listed_count": 15,
+          "media_count": 4405,
+          "tweet_count": 26703
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 86,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1630
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

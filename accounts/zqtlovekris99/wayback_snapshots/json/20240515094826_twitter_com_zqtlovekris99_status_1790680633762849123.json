@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1790630209252937798",
+    "created_at": "2024-05-15T09:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T10:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790680633762849123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637484449054048262",
+          "start": 0,
+          "username": "JackMa574723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790680633762849123",
+    "in_reply_to_user_id": "1637484449054048262",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790641907103904181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JackMa574723 好像除了中国都是红跌绿涨，我感觉是因为中国人觉得红色吉利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1790630209252937798",
+        "created_at": "2024-05-15T09:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T10:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790680633762849123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637484449054048262",
+              "start": 0,
+              "username": "JackMa574723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790680633762849123",
+        "in_reply_to_user_id": "1637484449054048262",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790641907103904181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackMa574723 好像除了中国都是红跌绿涨，我感觉是因为中国人觉得红色吉利"
+      },
+      {
+        "attachments": {},
+        "author_id": "1637484449054048262",
+        "conversation_id": "1790630209252937798",
+        "created_at": "2024-05-15T07:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T08:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790641907103904181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790641907103904181",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790630209252937798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 我记得也有红跌绿涨的说法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | They/them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://t.me/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/IwkyoPvDhD"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3638,
+          "following_count": 500,
+          "like_count": 12335,
+          "listed_count": 5,
+          "tweet_count": 8448
+        },
+        "url": "https://t.co/IwkyoPvDhD",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T16:01:44.000Z",
+        "description": "音游休闲玩家，主玩maimai，住在上海，欢迎和我做朋友❤️",
+        "id": "1637484449054048262",
+        "location": "中国上海",
+        "name": "SatoriA09",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651139423562506242/_-eM6nGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 265,
+          "like_count": 297,
+          "listed_count": 0,
+          "tweet_count": 222
+        },
+        "username": "JackMa574723",
+        "verified": false
+      }
+    ]
+  }
+}

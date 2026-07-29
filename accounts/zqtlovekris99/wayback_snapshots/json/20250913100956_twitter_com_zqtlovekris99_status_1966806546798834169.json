@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1966723031339794499",
+    "created_at": "2025-09-13T10:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T11:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966806546798834169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "mitei011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966806546798834169",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966804261754261554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitei011 我一只双眼皮一只内双，看起来不太对称，化妆的话还得贴双眼皮贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1966723031339794499",
+        "created_at": "2025-09-13T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966806546798834169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "mitei011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966806546798834169",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966804261754261554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitei011 我一只双眼皮一只内双，看起来不太对称，化妆的话还得贴双眼皮贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "1966723031339794499",
+        "created_at": "2025-09-13T10:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966804261754261554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966804261754261554",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966723031339794499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 单眼皮或者内双真的很容易pass\n我这种超长睫毛加大眼睛加大卧蚕加双眼皮没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1966489378747973851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10025,
+          "following_count": 1018,
+          "like_count": 21527,
+          "listed_count": 10,
+          "media_count": 3505,
+          "tweet_count": 22184
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "",
+        "id": "1831984756432760832",
+        "location": "0.01km",
+        "name": "野猪王在争夺地盘的决斗后负伤的胜者刚刚长好的新鲜嫩肉",
+        "pinned_tweet_id": "1960318261884768311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965731148606349312/KTVknGM3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 385,
+          "like_count": 10620,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1091
+        },
+        "username": "mitei011",
+        "verified": false
+      }
+    ]
+  }
+}

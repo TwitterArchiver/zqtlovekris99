@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1927525723591311483",
+    "created_at": "2025-05-28T10:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T11:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927674896873656770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927674896873656770",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 148,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 4,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927525723591311483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia 因为不想看见一个人穿着我喜欢的角色的衣服顶着一张大丑脸有问题吗😓你但凡稍微化点妆哪怕化的不好看也没人喷你，妆娘又不贵，漫展群里白菜价的妆娘多的是，你都花了几百买了衣服了再花几十约个妆娘很难吗"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1927525723591311483].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1927525723591311483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927525723591311483"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1927525723591311483",
+        "created_at": "2025-05-28T10:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T11:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927674896873656770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927674896873656770",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927525723591311483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia 因为不想看见一个人穿着我喜欢的角色的衣服顶着一张大丑脸有问题吗😓你但凡稍微化点妆哪怕化的不好看也没人喷你，妆娘又不贵，漫展群里白菜价的妆娘多的是，你都花了几百买了衣服了再花几十约个妆娘很难吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGeLZ"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第3天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7847,
+          "following_count": 670,
+          "like_count": 18847,
+          "listed_count": 10,
+          "media_count": 2623,
+          "tweet_count": 18422
+        },
+        "url": "https://t.co/fYYZhHGeLZ",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "トランスじゃなく",
+        "id": "1559088842333769728",
+        "location": "寮",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1927684462529138859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805979917391405057/dySmOpSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1124,
+          "like_count": 9155,
+          "listed_count": 5,
+          "media_count": 557,
+          "tweet_count": 4385
+        },
+        "username": "hsnyuia",
+        "verified": false
+      }
+    ]
+  }
+}

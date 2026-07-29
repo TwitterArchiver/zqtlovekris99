@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927287876347174912",
+        "3_1927287875336278016",
+        "3_1927287875919376384"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1927287879773962533",
+    "created_at": "2025-05-27T08:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T09:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927287879773962533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "竹蜻蜓的那年今日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QfGzcZPwbz",
+          "end": 87,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1927287879773962533/photo/1",
+          "media_key": "3_1927287876347174912",
+          "start": 64,
+          "url": "https://t.co/QfGzcZPwbz"
+        },
+        {
+          "display_url": "pic.x.com/QfGzcZPwbz",
+          "end": 87,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1927287879773962533/photo/1",
+          "media_key": "3_1927287875336278016",
+          "start": 64,
+          "url": "https://t.co/QfGzcZPwbz"
+        },
+        {
+          "display_url": "pic.x.com/QfGzcZPwbz",
+          "end": 87,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1927287879773962533/photo/1",
+          "media_key": "3_1927287875919376384",
+          "start": 64,
+          "url": "https://t.co/QfGzcZPwbz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927287879773962533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#竹蜻蜓的那年今日 买的原神联名安踏的鞋子，七百块钱的鞋，把周边卖了回了430多，等于我不到三百买了双跑鞋。你们魈厨是真有钱啊 https://t.co/QfGzcZPwbz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_1927287876347174912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8aHMGXIAAak6s.jpg",
+        "width": 1188
+      },
+      {
+        "height": 309,
+        "media_key": "3_1927287875336278016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8aHIVWEAAWa50.jpg",
+        "width": 1126
+      },
+      {
+        "height": 992,
+        "media_key": "3_1927287875919376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8aHKgXcAAudj2.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927287876347174912",
+            "3_1927287875336278016",
+            "3_1927287875919376384"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1927287879773962533",
+        "created_at": "2025-05-27T08:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927287879773962533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "竹蜻蜓的那年今日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfGzcZPwbz",
+              "end": 87,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1927287879773962533/photo/1",
+              "media_key": "3_1927287876347174912",
+              "start": 64,
+              "url": "https://t.co/QfGzcZPwbz"
+            },
+            {
+              "display_url": "pic.x.com/QfGzcZPwbz",
+              "end": 87,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1927287879773962533/photo/1",
+              "media_key": "3_1927287875336278016",
+              "start": 64,
+              "url": "https://t.co/QfGzcZPwbz"
+            },
+            {
+              "display_url": "pic.x.com/QfGzcZPwbz",
+              "end": 87,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1927287879773962533/photo/1",
+              "media_key": "3_1927287875919376384",
+              "start": 64,
+              "url": "https://t.co/QfGzcZPwbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927287879773962533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#竹蜻蜓的那年今日 买的原神联名安踏的鞋子，七百块钱的鞋，把周边卖了回了430多，等于我不到三百买了双跑鞋。你们魈厨是真有钱啊 https://t.co/QfGzcZPwbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7815,
+          "following_count": 669,
+          "like_count": 18834,
+          "listed_count": 10,
+          "media_count": 2615,
+          "tweet_count": 18370
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

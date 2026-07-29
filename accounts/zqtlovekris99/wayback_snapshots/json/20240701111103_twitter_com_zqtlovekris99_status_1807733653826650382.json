@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1807491338134573561",
+    "created_at": "2024-07-01T11:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T12:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807733653826650382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643522738743840769",
+          "start": 0,
+          "username": "opium_39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807733653826650382",
+    "in_reply_to_user_id": "1643522738743840769",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807491338134573561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opium_39 单纯查就行了，不能看推荐，不能看评论区，还是个很好用的软件的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1807491338134573561",
+        "created_at": "2024-07-01T11:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T12:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807733653826650382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643522738743840769",
+              "start": 0,
+              "username": "opium_39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807733653826650382",
+        "in_reply_to_user_id": "1643522738743840769",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807491338134573561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opium_39 单纯查就行了，不能看推荐，不能看评论区，还是个很好用的软件的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1643522738743840769",
+        "conversation_id": "1807491338134573561",
+        "created_at": "2024-06-30T19:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T20:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807491338134573561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807491338134573561",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 50281,
+          "like_count": 428,
+          "quote_count": 8,
+          "reply_count": 66,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小红书是很好的查攻略软件呀，可以称得上生活百科全书了，为什么要污名化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3953,
+          "following_count": 508,
+          "like_count": 13043,
+          "listed_count": 5,
+          "tweet_count": 9495
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T07:55:39.000Z",
+        "description": "老实的女孩",
+        "id": "1643522738743840769",
+        "location": "1.9km",
+        "name": "收音",
+        "pinned_tweet_id": "1801634534389387314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800434419729367040/mwKpiKH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 203,
+          "like_count": 13637,
+          "listed_count": 1,
+          "tweet_count": 7098
+        },
+        "username": "opium_39",
+        "verified": false
+      }
+    ]
+  }
+}

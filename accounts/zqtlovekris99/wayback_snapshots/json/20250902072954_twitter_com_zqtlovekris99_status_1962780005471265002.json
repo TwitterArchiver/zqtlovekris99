@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1962761776287883738",
+    "created_at": "2025-09-02T07:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962780005471265002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "Ceciliahyve"
+        },
+        {
+          "end": 21,
+          "id": "1694068450220744707",
+          "start": 13,
+          "username": "YS97OwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962780005471265002",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962779636133437536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ceciliahyve @YS97OwO 一开始剧情不完整的时候是不太喜欢，但是芙芙的声线还可以，刻律这个声线就莫名其妙戳到我讨厌的点了我也说不清楚"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962779636133437536].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1962779636133437536",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1962779636133437536"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1962761776287883738",
+        "created_at": "2025-09-02T07:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962780005471265002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "Ceciliahyve"
+            },
+            {
+              "end": 21,
+              "id": "1694068450220744707",
+              "start": 13,
+              "username": "YS97OwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962780005471265002",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962779636133437536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ceciliahyve @YS97OwO 一开始剧情不完整的时候是不太喜欢，但是芙芙的声线还可以，刻律这个声线就莫名其妙戳到我讨厌的点了我也说不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9853,
+          "following_count": 915,
+          "like_count": 21035,
+          "listed_count": 10,
+          "media_count": 3382,
+          "tweet_count": 21681
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "：@doyle_gleb @spm14thdaduda @saksamalah2nd @ongte_time @kimintw_offical @hanabirikajiang @unnamed_rf。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "doyle_gleb"
+              },
+              {
+                "end": 27,
+                "start": 13,
+                "username": "spm14thdaduda"
+              },
+              {
+                "end": 42,
+                "start": 28,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ongte_time"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "kimintw_offical"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hanabirikajiang"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "unnamed_rf"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "Hoyoverse",
+        "name": "𝐂𝐞𝐜𝐢𝐥𝐢𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945886768408006656/6hA1GQ49_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 907,
+          "like_count": 208804,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 640
+        },
+        "username": "Ceciliahyve",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T19:26:15.000Z",
+        "description": "🇨🇳大学生一名/轻小说&漫画&插画&音游🥰/#maimai #Arcaea #CHUNITHM #Phigros #プロセカ #Rotaeno/Bilibili同名/互fo🉑/副账号：①bluesky：https://t.co/XjEX0sUhIc  ②@ys97OvO（日常&避难）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "maimai"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Arcaea"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "Phigros"
+              },
+              {
+                "end": 62,
+                "start": 57,
+                "tag": "プロセカ"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "tag": "Rotaeno"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "ys97OvO"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ys1230.bsky.social",
+                "end": 124,
+                "expanded_url": "http://ys1230.bsky.social",
+                "start": 101,
+                "url": "https://t.co/XjEX0sUhIc"
+              }
+            ]
+          }
+        },
+        "id": "1694068450220744707",
+        "location": "音游窝",
+        "name": "游笙OωO",
+        "pinned_tweet_id": "1854553242308686210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831365569427468290/ZUd6XzGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 4171,
+          "like_count": 80098,
+          "listed_count": 7,
+          "media_count": 2937,
+          "tweet_count": 27614
+        },
+        "username": "YS97OwO",
+        "verified": false
+      }
+    ]
+  }
+}

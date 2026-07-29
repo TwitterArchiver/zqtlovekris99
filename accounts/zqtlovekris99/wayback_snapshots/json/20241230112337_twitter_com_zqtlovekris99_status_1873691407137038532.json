@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1873691407137038532",
+    "created_at": "2024-12-30T11:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T12:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873691407137038532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OliviaWantsHug…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/OliviaWantsHugs/status/1873637579838701891",
+          "start": 58,
+          "url": "https://t.co/0jCRP5W5U3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873691407137038532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873637579838701891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我骨子里就是个很虚荣的人 \n我想受欢迎 想有许多粉丝 想用大牌奢侈品\n但是我家庭不好 我是个米卫兵\n我要去玩原神了 https://t.co/0jCRP5W5U3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1873691407137038532",
+        "created_at": "2024-12-30T11:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T12:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873691407137038532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OliviaWantsHug…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/OliviaWantsHugs/status/1873637579838701891",
+              "start": 58,
+              "url": "https://t.co/0jCRP5W5U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873691407137038532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873637579838701891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我骨子里就是个很虚荣的人 \n我想受欢迎 想有许多粉丝 想用大牌奢侈品\n但是我家庭不好 我是个米卫兵\n我要去玩原神了 https://t.co/0jCRP5W5U3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "1873637579838701891",
+        "created_at": "2024-12-30T07:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T08:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873637579838701891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saaaki1_/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/saaaki1_/status/1873556696213446749",
+              "start": 58,
+              "url": "https://t.co/ObMsXhW4ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873637579838701891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 485,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873556696213446749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我骨子里就是个很虚荣的人 \n我想受欢迎 想有许多粉丝 想用大牌奢侈品\n但是我家庭不好 我是个舞萌吃\n我要去打舞萌了 https://t.co/ObMsXhW4ks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 FtX | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5285,
+          "following_count": 512,
+          "like_count": 15630,
+          "listed_count": 6,
+          "media_count": 1505,
+          "tweet_count": 13710
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "Liberty & Love & Life \\ 新加坡第一枕头公主 \\ 中文不好 \\ #AAA6ixty8ight返图bot \\ 本体喵喵叫幼年萨摩耶 \\ 里号: @OliviaNeedsHugs \\ 最可爱的妹妹: @Azuelle \\ M&sub&喜欢绳子不跟香草谈恋爱 \\ 宫寒怕冷空调最低24度 \\ 粉红老保滚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 43,
+                "tag": "AAA6ixty8ight返图bot"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "OliviaNeedsHugs"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "Azuelle"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "Olivia⭕🍐🐸重生之NEEDY PUPPY OVERDOSE",
+        "pinned_tweet_id": "1807816448360042949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847978083649040385/K7ZdNTap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4042,
+          "following_count": 991,
+          "like_count": 22485,
+          "listed_count": 17,
+          "media_count": 1149,
+          "tweet_count": 19660
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

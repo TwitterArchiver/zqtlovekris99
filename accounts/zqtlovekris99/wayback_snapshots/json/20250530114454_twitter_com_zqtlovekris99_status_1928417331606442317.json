@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1928337330101751873",
+    "created_at": "2025-05-30T11:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T12:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928417331606442317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581134413512859648",
+          "start": 0,
+          "username": "xiaoxueljx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928417331606442317",
+    "in_reply_to_user_id": "1581134413512859648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928394799788277899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxueljx 我不喜欢他了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1928337330101751873",
+        "created_at": "2025-05-30T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928417331606442317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581134413512859648",
+              "start": 0,
+              "username": "xiaoxueljx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928417331606442317",
+        "in_reply_to_user_id": "1581134413512859648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928394799788277899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxueljx 我不喜欢他了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581134413512859648",
+        "conversation_id": "1928337330101751873",
+        "created_at": "2025-05-30T10:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928394799788277899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928394799788277899",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928337330101751873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 你不是有对象吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第0天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7903,
+          "following_count": 668,
+          "like_count": 18924,
+          "listed_count": 10,
+          "media_count": 2646,
+          "tweet_count": 18564
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T04:06:46.000Z",
+        "description": "千山鸟飞绝，万径人踪灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhblog.top",
+                "end": 23,
+                "expanded_url": "http://xhblog.top",
+                "start": 0,
+                "url": "https://t.co/0DH1NwBqI4"
+              }
+            ]
+          }
+        },
+        "id": "1581134413512859648",
+        "location": "Hong Kong",
+        "name": "小雪花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683086711931432962/nyzHUNKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 228,
+          "like_count": 860,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/0DH1NwBqI4",
+        "username": "xiaoxueljx",
+        "verified": false
+      }
+    ]
+  }
+}

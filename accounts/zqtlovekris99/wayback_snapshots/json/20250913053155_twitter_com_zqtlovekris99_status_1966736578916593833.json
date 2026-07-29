@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1966505368038592885",
+    "created_at": "2025-09-13T05:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T06:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966736578916593833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1125017516055482368",
+          "start": 0,
+          "username": "String_fish"
+        },
+        {
+          "end": 23,
+          "id": "1659962043460354050",
+          "start": 13,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zqtlovekris99/…",
+          "end": 47,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1966736499413508105?s=19",
+          "start": 24,
+          "url": "https://t.co/OvklzF3j2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966736578916593833",
+    "in_reply_to_user_id": "1125017516055482368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966736499413508105",
+        "type": "quoted"
+      },
+      {
+        "id": "1966529616018817279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@String_fish @SalviaSWC https://t.co/OvklzF3j2f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1966505368038592885",
+        "created_at": "2025-09-13T05:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966736578916593833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1125017516055482368",
+              "start": 0,
+              "username": "String_fish"
+            },
+            {
+              "end": 23,
+              "id": "1659962043460354050",
+              "start": 13,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 47,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1966736499413508105?s=19",
+              "start": 24,
+              "url": "https://t.co/OvklzF3j2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966736578916593833",
+        "in_reply_to_user_id": "1125017516055482368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966736499413508105",
+            "type": "quoted"
+          },
+          {
+            "id": "1966529616018817279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@String_fish @SalviaSWC https://t.co/OvklzF3j2f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1966736499413508105",
+        "created_at": "2025-09-13T05:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T06:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966736499413508105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Downgrades a Psychonaut Journal v12 export to be compatible with v11.",
+              "display_url": "codeberg.org/embr/journal-d…",
+              "end": 65,
+              "expanded_url": "https://codeberg.org/embr/journal-downgrader",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1966736507927994368/SVmlKlTN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966736507927994368/SVmlKlTN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "journal-downgrader",
+              "unwound_url": "https://codeberg.org/embr/journal-downgrader",
+              "url": "https://t.co/rQrOH8dyX7"
+            },
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1966515795040842038",
+              "start": 97,
+              "url": "https://t.co/p1s0xagHYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966736499413508105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966515795040842038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "journal如果自动更新了，新版导出数据不能直接导入旧版，外网有大佬做了个转换器 https://t.co/rQrOH8dyX7 包好用的，如果还是不行就把你自定义的那些东西删了再重新跑一次 https://t.co/p1s0xagHYz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125017516055482368",
+        "conversation_id": "1966505368038592885",
+        "created_at": "2025-09-12T15:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966529616018817279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 25,
+              "id": "1659962043460354050",
+              "start": 15,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966529616018817279",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966515795040842038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @SalviaSWC 要怎么打补丁呢……刚降级了也是没法导入新版的数据"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1966489378747973851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10023,
+          "following_count": 1010,
+          "like_count": 21498,
+          "listed_count": 10,
+          "media_count": 3499,
+          "tweet_count": 22169
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-05T12:40:52.000Z",
+        "description": "Salted fish\n一条咸鱼。\n @kage_papuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "kage_papuki"
+              }
+            ]
+          }
+        },
+        "id": "1125017516055482368",
+        "name": "Arius sul G String",
+        "pinned_tweet_id": "1906695939617878398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726651138899144704/1YP2C4fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 1872,
+          "like_count": 79966,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 2655
+        },
+        "username": "String_fish",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 436,
+          "like_count": 6368,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2031722270646034684",
+    "created_at": "2026-03-11T16:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T17:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031771824145731802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1909390269533011968",
+          "start": 0,
+          "username": "gork"
+        },
+        {
+          "end": 15,
+          "id": "2013707720357224449",
+          "start": 6,
+          "username": "hjh31585"
+        },
+        {
+          "end": 29,
+          "id": "1967962536000753666",
+          "start": 16,
+          "username": "FUHGRC694lol"
+        },
+        {
+          "end": 39,
+          "id": "1940872452609093632",
+          "start": 30,
+          "username": "yry8279_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031771824145731802",
+    "in_reply_to_user_id": "1909390269533011968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031752038292320596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gork @hjh31585 @FUHGRC694lol @yry8279_ 你怎麼也開始裝糖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2031722270646034684",
+        "created_at": "2026-03-11T16:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031771824145731802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            },
+            {
+              "end": 15,
+              "id": "2013707720357224449",
+              "start": 6,
+              "username": "hjh31585"
+            },
+            {
+              "end": 29,
+              "id": "1967962536000753666",
+              "start": 16,
+              "username": "FUHGRC694lol"
+            },
+            {
+              "end": 39,
+              "id": "1940872452609093632",
+              "start": 30,
+              "username": "yry8279_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031771824145731802",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031752038292320596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gork @hjh31585 @FUHGRC694lol @yry8279_ 你怎麼也開始裝糖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909390269533011968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2031722270646034684",
+        "created_at": "2026-03-11T15:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T16:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031752038292320596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Grok",
+              "probability": 0.835,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2013707720357224449",
+              "start": 0,
+              "username": "hjh31585"
+            },
+            {
+              "end": 23,
+              "id": "1967962536000753666",
+              "start": 10,
+              "username": "FUHGRC694lol"
+            },
+            {
+              "end": 33,
+              "id": "1940872452609093632",
+              "start": 24,
+              "username": "yry8279_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/premium_sign…",
+              "end": 165,
+              "expanded_url": "https://x.com/i/premium_sign_up?referring_page=grok-post-2031752015202935029",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2031721313988165632/6InmFann?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031721313988165632/6InmFann?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/iI0Ymayhjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031752038292320596",
+        "in_reply_to_user_id": "2013707720357224449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031752015202935029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hjh31585 @FUHGRC694lol @yry8279_ Ask Grok is currently available to Premium and Premium+ subscribers only. Subscribe to unlock this feature: https://t.co/iI0Ymayhjh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11882,
+          "following_count": 1425,
+          "like_count": 24731,
+          "listed_count": 15,
+          "media_count": 4397,
+          "tweet_count": 26618
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411973,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 392,
+          "media_count": 43661,
+          "tweet_count": 2241125
+        },
+        "username": "gork",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T20:18:42.000Z",
+        "description": "",
+        "id": "2013707720357224449",
+        "name": "达柔邦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013707782013464576/S7cxjKU__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 1383,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "hjh31585",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T14:43:37.000Z",
+        "description": "在首页—我的家园—家园果实—图鉴解锁后使用，活动或家园果实可获得碎片。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cultsphil",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cultsphil",
+                "start": 0,
+                "url": "https://t.co/jBwePHUXbF"
+              }
+            ]
+          }
+        },
+        "id": "1967962536000753666",
+        "location": "迷拉星",
+        "name": "中華帝國最忠誠的迷你世界狙擊手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011620687623094272/DI5lY0RU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 66,
+          "like_count": 41997,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1780
+        },
+        "url": "https://t.co/jBwePHUXbF",
+        "username": "FUHGRC694lol",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T20:38:15.000Z",
+        "description": "ᗜ - ᗜ 喜欢钱",
+        "id": "1940872452609093632",
+        "location": "🚪520000000000000",
+        "name": "緣",
+        "pinned_tweet_id": "2029511850514387415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014372792498786304/eAZ_7Ig7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 61,
+          "like_count": 5988,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 225
+        },
+        "username": "yry8279_",
+        "verified": false
+      }
+    ]
+  }
+}

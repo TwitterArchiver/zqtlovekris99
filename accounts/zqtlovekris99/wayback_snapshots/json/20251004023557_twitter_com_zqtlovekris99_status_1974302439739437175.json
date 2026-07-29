@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1974006275521290386",
+    "created_at": "2025-10-04T02:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T03:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974302439739437175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721714145480114176",
+          "start": 0,
+          "username": "2_A_L_Iris_Z"
+        },
+        {
+          "end": 27,
+          "id": "1973585079852257280",
+          "start": 14,
+          "username": "TangYuwenMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974302439739437175",
+    "in_reply_to_user_id": "1721714145480114176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974134682691514857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2_A_L_Iris_Z @TangYuwenMTF 好好好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_1974134680057466880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WJCDea0AAmnX9.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1974006275521290386",
+        "created_at": "2025-10-04T02:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T03:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974302439739437175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "2_A_L_Iris_Z"
+            },
+            {
+              "end": 27,
+              "id": "1973585079852257280",
+              "start": 14,
+              "username": "TangYuwenMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974302439739437175",
+        "in_reply_to_user_id": "1721714145480114176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974134682691514857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2_A_L_Iris_Z @TangYuwenMTF 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974134680057466880"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "conversation_id": "1974006275521290386",
+        "created_at": "2025-10-03T15:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974134682691514857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 28,
+              "id": "1973585079852257280",
+              "start": 15,
+              "username": "TangYuwenMTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpIZhmXqyZ",
+              "end": 79,
+              "expanded_url": "https://x.com/2_A_L_Iris_Z/status/1974134682691514857/photo/1",
+              "media_key": "3_1974134680057466880",
+              "start": 56,
+              "url": "https://t.co/gpIZhmXqyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974134682691514857",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974111431433072731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @TangYuwenMTF 這不就有了嗎。\n事實上他上個號並非沒了，只是訪問受限 https://t.co/gpIZhmXqyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10206,
+          "following_count": 988,
+          "like_count": 22102,
+          "listed_count": 10,
+          "media_count": 3662,
+          "tweet_count": 23001
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "CN：Iris /BD. / ASD. / 🎂Age 20 /🌆Living in Hefei / 💻Programmer /🛜CTFer  /Telegram🚪HK$1😋 /🏳️‍🌈🏳️‍⚧️ friendly / No 🍥 💉HRT / Not MtF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2alirisz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2alirisz",
+                "start": 0,
+                "url": "https://t.co/jxHRysWwiG"
+              }
+            ]
+          }
+        },
+        "id": "1721714145480114176",
+        "location": "距您 5.2 公里",
+        "name": "👾Iris-de-lux",
+        "pinned_tweet_id": "1961299787820703753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973677911879409664/jHP2-mu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 356,
+          "like_count": 5272,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/jxHRysWwiG",
+        "username": "2_A_L_Iris_Z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "传奇耐封王\n对象：@zhishi_cook @wowo_yz\nMTF hrt started : 2025.6.30\n抽象mtf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 53,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      }
+    ]
+  }
+}

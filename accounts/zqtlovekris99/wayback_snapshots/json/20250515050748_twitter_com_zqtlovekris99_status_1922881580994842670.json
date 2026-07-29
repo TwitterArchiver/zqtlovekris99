@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1922876060829454377",
+    "created_at": "2025-05-15T05:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T06:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922881580994842670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1531914703798030336",
+          "start": 0,
+          "username": "yl7722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922881580994842670",
+    "in_reply_to_user_id": "1531914703798030336",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922876060829454377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yl7722 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1922876060829454377",
+        "created_at": "2025-05-15T05:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T06:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922881580994842670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1531914703798030336",
+              "start": 0,
+              "username": "yl7722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922881580994842670",
+        "in_reply_to_user_id": "1531914703798030336",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922876060829454377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yl7722 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531914703798030336",
+        "conversation_id": "1922876060829454377",
+        "created_at": "2025-05-15T04:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T05:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922876060829454377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922876060829454377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "永不取关！！！评论筛选活人蓝V 互关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7382,
+          "following_count": 566,
+          "like_count": 18373,
+          "listed_count": 10,
+          "media_count": 2517,
+          "tweet_count": 17945
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T08:25:14.000Z",
+        "description": "泪水打湿猪脚饭 发誓要赚一百万",
+        "id": "1531914703798030336",
+        "name": "大绿洲💵重生之我在web3",
+        "pinned_tweet_id": "1912882426923401595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914308038431055873/9p0QU5zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 425,
+          "like_count": 323,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 237
+        },
+        "username": "yl7722",
+        "verified": true
+      }
+    ]
+  }
+}

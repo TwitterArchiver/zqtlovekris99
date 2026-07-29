@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919730707657543680"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1919724150282657799",
+    "created_at": "2025-05-06T12:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T13:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919730722132127880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EOiTtJSKIK",
+          "end": 52,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1919730722132127880/photo/1",
+          "media_key": "3_1919730707657543680",
+          "start": 29,
+          "url": "https://t.co/EOiTtJSKIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919730722132127880",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919730289506713971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 重庆群友评价：这不纯微辣 https://t.co/EOiTtJSKIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2056,
+        "media_key": "3_1919730707657543680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqRA6E5WUAA0Vt2.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919730707657543680"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1919724150282657799",
+        "created_at": "2025-05-06T12:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919730722132127880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EOiTtJSKIK",
+              "end": 52,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1919730722132127880/photo/1",
+              "media_key": "3_1919730707657543680",
+              "start": 29,
+              "url": "https://t.co/EOiTtJSKIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919730722132127880",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919730289506713971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 重庆群友评价：这不纯微辣 https://t.co/EOiTtJSKIK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1919724150282657799",
+        "created_at": "2025-05-06T12:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T13:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919730289506713971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919730289506713971",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919724150282657799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 这tm是微辣？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6828,
+          "following_count": 564,
+          "like_count": 18148,
+          "listed_count": 10,
+          "media_count": 2438,
+          "tweet_count": 17580
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1915768145026994218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10744,
+          "following_count": 6191,
+          "like_count": 62579,
+          "listed_count": 31,
+          "media_count": 2267,
+          "tweet_count": 17465
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919419902223667200"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299113760322273280",
+          "name": "Printmaking"
+        }
+      }
+    ],
+    "conversation_id": "1919419907738939693",
+    "created_at": "2025-05-05T15:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T16:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919419907738939693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xj4qZCwE25",
+          "end": 115,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1919419907738939693/photo/1",
+          "media_key": "3_1919419902223667200",
+          "start": 92,
+          "url": "https://t.co/xj4qZCwE25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919419907738939693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天要出去玩了火速摸鱼，银枝整完了，纯美哥真的太红了跟旁边那两个萝莉一个颜色的，再加上我的Q版画风，拿去让一个不玩原铁的人猜哪个是男的，肯定猜不出来╭(ᵔ_&gt;ᵔ)╮\n下一个画散 https://t.co/xj4qZCwE25"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1919419902223667200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMmO0bbUAANC1L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919419902223667200"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299113760322273280",
+              "name": "Printmaking"
+            }
+          }
+        ],
+        "conversation_id": "1919419907738939693",
+        "created_at": "2025-05-05T15:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T16:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919419907738939693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xj4qZCwE25",
+              "end": 115,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1919419907738939693/photo/1",
+              "media_key": "3_1919419902223667200",
+              "start": 92,
+              "url": "https://t.co/xj4qZCwE25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919419907738939693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要出去玩了火速摸鱼，银枝整完了，纯美哥真的太红了跟旁边那两个萝莉一个颜色的，再加上我的Q版画风，拿去让一个不玩原铁的人猜哪个是男的，肯定猜不出来╭(ᵔ_&gt;ᵔ)╮\n下一个画散 https://t.co/xj4qZCwE25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | 墙内好友位🚪68搞黄128",
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1917790974404878767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6803,
+          "following_count": 560,
+          "like_count": 18119,
+          "listed_count": 10,
+          "media_count": 2435,
+          "tweet_count": 17558
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

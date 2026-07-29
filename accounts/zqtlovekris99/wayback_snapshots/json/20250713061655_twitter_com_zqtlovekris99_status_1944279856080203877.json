@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1943988782468149689",
+    "created_at": "2025-07-13T06:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T07:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944279856080203877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802931870218502144",
+          "start": 0,
+          "username": "Ranran4223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944279856080203877",
+    "in_reply_to_user_id": "1802931870218502144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944275043380605085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ranran4223 dnd是什么哇，没玩过，就是那种字很多的类型吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1943988782468149689",
+        "created_at": "2025-07-13T06:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T07:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944279856080203877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802931870218502144",
+              "start": 0,
+              "username": "Ranran4223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944279856080203877",
+        "in_reply_to_user_id": "1802931870218502144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944275043380605085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ranran4223 dnd是什么哇，没玩过，就是那种字很多的类型吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802931870218502144",
+        "conversation_id": "1943988782468149689",
+        "created_at": "2025-07-13T05:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944275043380605085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944275043380605085",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944274078833291448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 是dnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 小狗 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9193,
+          "following_count": 775,
+          "like_count": 19953,
+          "listed_count": 10,
+          "media_count": 3030,
+          "tweet_count": 20139
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-18T05:10:47.000Z",
+        "description": "冉冉：新任健全b 无偿接精神分析",
+        "id": "1802931870218502144",
+        "name": "失血过多死了",
+        "pinned_tweet_id": "1894077620217606633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893062550545158145/ngy8a6TU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 709,
+          "like_count": 7095,
+          "listed_count": 2,
+          "media_count": 341,
+          "tweet_count": 4441
+        },
+        "username": "Ranran4223",
+        "verified": false
+      }
+    ]
+  }
+}

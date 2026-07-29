@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1953811948685889827",
+    "created_at": "2025-08-08T15:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T16:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953848194556686649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1594302945218158593",
+          "start": 0,
+          "username": "sanitf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953848194556686649",
+    "in_reply_to_user_id": "1594302945218158593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 70,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953811948685889827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanitf1 女厕需求量本来就比男厕大，生理女性尿道短更不容易憋住尿，而且女的上厕所时间长啊又要脱裤子蹲下尿完还得擦，男的站着尿完抖抖就完事了，你啥时候见过男厕小便池排队的？"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1953811948685889827].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953811948685889827",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953811948685889827"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1953811948685889827",
+        "created_at": "2025-08-08T15:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953848194556686649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594302945218158593",
+              "start": 0,
+              "username": "sanitf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953848194556686649",
+        "in_reply_to_user_id": "1594302945218158593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953811948685889827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanitf1 女厕需求量本来就比男厕大，生理女性尿道短更不容易憋住尿，而且女的上厕所时间长啊又要脱裤子蹲下尿完还得擦，男的站着尿完抖抖就完事了，你啥时候见过男厕小便池排队的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @04177_realname | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9608,
+          "following_count": 875,
+          "like_count": 20501,
+          "listed_count": 10,
+          "media_count": 3210,
+          "tweet_count": 20887
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-20T12:13:48.000Z",
+        "description": "萨尼铁塔好，萨尼铁塔好！萨尼给你扎个针还送你个包~\nNIKON/Music/♍/Battlefield！\n小号：@svaghglm2nd\n推荐关注友友👉 @dilei114\n@VicoOci\n好哥们：@tonyhaozhe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "svaghglm2nd"
+              },
+              {
+                "end": 86,
+                "start": 77,
+                "username": "dilei114"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "VicoOci"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "tonyhaozhe"
+              }
+            ]
+          }
+        },
+        "id": "1594302945218158593",
+        "location": "地鐵行動2014  B點售票廳",
+        "name": "💉萨尼!Hilf mir!💉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448773007716352/Ew8n4LGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 1805,
+          "like_count": 47093,
+          "listed_count": 5,
+          "media_count": 546,
+          "tweet_count": 4583
+        },
+        "username": "sanitf1",
+        "verified": false
+      }
+    ]
+  }
+}

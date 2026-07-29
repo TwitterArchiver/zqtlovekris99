@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1928496759979786635",
+    "created_at": "2025-06-05T04:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T05:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930479293882122276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1457577801356558336",
+          "start": 0,
+          "username": "changziluo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930479293882122276",
+    "in_reply_to_user_id": "1457577801356558336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930351153306579265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changziluo 被禁之前屯的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1928496759979786635",
+        "created_at": "2025-06-05T04:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930479293882122276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1457577801356558336",
+              "start": 0,
+              "username": "changziluo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930479293882122276",
+        "in_reply_to_user_id": "1457577801356558336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930351153306579265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changziluo 被禁之前屯的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457577801356558336",
+        "conversation_id": "1928496759979786635",
+        "created_at": "2025-06-04T19:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T20:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930351153306579265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930351153306579265",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928509559846613325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 哇靠，老大你在哪买的药现在右美好难买😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第0天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 670,
+          "like_count": 19074,
+          "listed_count": 10,
+          "media_count": 2694,
+          "tweet_count": 18746
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-08T05:16:49.000Z",
+        "description": "Chinese/English(I use a translator)\n涉猎圈子很广，什么都有\n我的主页基本只会发一些画然后转发喜欢的东西，但是我会关注很多不同圈子的人，我喜欢各种元素ο(=•ω＜=)ρ\n♡:starscream/jazz/bee",
+        "id": "1457577801356558336",
+        "location": "Hong Kong",
+        "name": "kinoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560671102493507585/-NMSmlha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 3070,
+          "like_count": 3950,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 228
+        },
+        "username": "changziluo",
+        "verified": false
+      }
+    ]
+  }
+}

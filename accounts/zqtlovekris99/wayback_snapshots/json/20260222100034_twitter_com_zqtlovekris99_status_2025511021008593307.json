@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025511006441738242"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2025471903851577524",
+    "created_at": "2026-02-22T10:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025511021008593307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "Sakura_tralx3a"
+        },
+        {
+          "end": 30,
+          "id": "1662058783215087617",
+          "start": 16,
+          "username": "HacchiTheMaid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5mQGqVppEw",
+          "end": 54,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2025511021008593307/photo/1",
+          "media_key": "3_2025511006441738242",
+          "start": 31,
+          "url": "https://t.co/5mQGqVppEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025511021008593307",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025479041122533443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_tralx3a @HacchiTheMaid https://t.co/5mQGqVppEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 529,
+        "media_key": "3_2025511006441738242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwPh1uakAIY-48.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025511006441738242"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2025471903851577524",
+        "created_at": "2026-02-22T10:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025511021008593307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "Sakura_tralx3a"
+            },
+            {
+              "end": 30,
+              "id": "1662058783215087617",
+              "start": 16,
+              "username": "HacchiTheMaid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mQGqVppEw",
+              "end": 54,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2025511021008593307/photo/1",
+              "media_key": "3_2025511006441738242",
+              "start": 31,
+              "url": "https://t.co/5mQGqVppEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025511021008593307",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025479041122533443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_tralx3a @HacchiTheMaid https://t.co/5mQGqVppEw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "2025471903851577524",
+        "created_at": "2026-02-22T07:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025479041122533443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025479041122533443",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025471903851577524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 估計唐本人也沒想到會有一堆跨跨追隨者。\n唐當初是靠反跨 掛人（不藥娘網）批判跨性別起家的，結果後面幹的事情反而「代表了跨」給跨圈招黑，反正是達到了他的想法了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11706,
+          "following_count": 1362,
+          "like_count": 24337,
+          "listed_count": 15,
+          "media_count": 4335,
+          "tweet_count": 26153
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "💚🩷#とあらん 推し 撮り鉄 @7sRef 歡迎您串門！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 2,
+                "tag": "とあらん"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "7sRef"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/addstickers/to…",
+                "end": 23,
+                "expanded_url": "https://t.me/addstickers/toaran",
+                "start": 0,
+                "url": "https://t.co/nGd5TzniNZ"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "三ノ輪橋",
+        "name": "とあらん.exe",
+        "pinned_tweet_id": "2024850634097525062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022915021840486400/35J_Cp3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 2326,
+          "like_count": 90792,
+          "listed_count": 8,
+          "media_count": 2157,
+          "tweet_count": 8790
+        },
+        "url": "https://t.co/nGd5TzniNZ",
+        "username": "Sakura_tralx3a",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。狗狗@Sorsacerba",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "Sorsacerba"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi🏳️‍⚧️",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9438,
+          "following_count": 1989,
+          "like_count": 52543,
+          "listed_count": 32,
+          "media_count": 1323,
+          "tweet_count": 36289
+        },
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

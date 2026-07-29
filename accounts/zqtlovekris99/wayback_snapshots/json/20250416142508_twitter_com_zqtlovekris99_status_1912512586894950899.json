@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912512584143511553"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1912201144287522985",
+    "created_at": "2025-04-16T14:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912512586894950899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UhUdQvCM09",
+          "end": 91,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1912512586894950899/photo/1",
+          "media_key": "3_1912512584143511553",
+          "start": 68,
+          "url": "https://t.co/UhUdQvCM09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912512586894950899",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912511896953188758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 我吃不了我ssri不耐受，上面那几种ssri吃完都有强烈不适，也挺分人的，吃过这么多种就是在因为一直换药 https://t.co/UhUdQvCM09"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912511896953188758].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912511896953188758",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912511896953188758"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 162,
+        "media_key": "3_1912512584143511553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoqcD_ZWoAEb3Y1.jpg",
+        "width": 216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912512584143511553"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1912201144287522985",
+        "created_at": "2025-04-16T14:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912512586894950899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhUdQvCM09",
+              "end": 91,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1912512586894950899/photo/1",
+              "media_key": "3_1912512584143511553",
+              "start": 68,
+              "url": "https://t.co/UhUdQvCM09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912512586894950899",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912511896953188758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 我吃不了我ssri不耐受，上面那几种ssri吃完都有强烈不适，也挺分人的，吃过这么多种就是在因为一直换药 https://t.co/UhUdQvCM09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1901191595355197852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6548,
+          "following_count": 530,
+          "like_count": 17665,
+          "listed_count": 9,
+          "media_count": 2118,
+          "tweet_count": 16650
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "Fake it till make it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ProjectA1saku",
+                "end": 23,
+                "expanded_url": "https://t.me/ProjectA1saku",
+                "start": 0,
+                "url": "https://t.co/MYzhwjB35L"
+              }
+            ]
+          }
+        },
+        "id": "1746169774147776512",
+        "location": "Selangor ",
+        "name": "🩵长胖没长胸🌘",
+        "pinned_tweet_id": "1909706544981459266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911473690555867136/gsGeQMd5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 849,
+          "like_count": 52843,
+          "listed_count": 2,
+          "media_count": 1598,
+          "tweet_count": 37977
+        },
+        "url": "https://t.co/MYzhwjB35L",
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

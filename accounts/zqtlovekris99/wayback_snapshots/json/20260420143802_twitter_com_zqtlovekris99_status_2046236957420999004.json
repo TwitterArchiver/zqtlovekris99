@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046236636179222528"
+      ],
+      "media_source_tweet_id": [
+        "2046236678583673113"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2046236957420999004",
+    "created_at": "2026-04-20T14:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046236957420999004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "122063375",
+          "start": 3,
+          "username": "Overdose_CPDD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nOgm9n50Qc",
+          "end": 55,
+          "expanded_url": "https://x.com/Overdose_CPDD/status/2046236678583673113/photo/1",
+          "media_key": "3_2046236636179222528",
+          "start": 32,
+          "url": "https://t.co/nOgm9n50Qc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046236957420999004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046236678583673113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_CPDD: 我们需要反制剂！反解离！ https://t.co/nOgm9n50Qc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046236636179222528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWxYRHaUAAPAV9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046236636179222528"
+          ],
+          "media_source_tweet_id": [
+            "2046236678583673113"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2046236957420999004",
+        "created_at": "2026-04-20T14:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046236957420999004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "122063375",
+              "start": 3,
+              "username": "Overdose_CPDD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOgm9n50Qc",
+              "end": 55,
+              "expanded_url": "https://x.com/Overdose_CPDD/status/2046236678583673113/photo/1",
+              "media_key": "3_2046236636179222528",
+              "start": 32,
+              "url": "https://t.co/nOgm9n50Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046236957420999004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046236678583673113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_CPDD: 我们需要反制剂！反解离！ https://t.co/nOgm9n50Qc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046236636179222528"
+          ]
+        },
+        "author_id": "122063375",
+        "conversation_id": "2046236678583673113",
+        "created_at": "2026-04-20T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046236678583673113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nOgm9n50Qc",
+              "end": 36,
+              "expanded_url": "https://x.com/Overdose_CPDD/status/2046236678583673113/photo/1",
+              "media_key": "3_2046236636179222528",
+              "start": 13,
+              "url": "https://t.co/nOgm9n50Qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046236678583673113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们需要反制剂！反解离！ https://t.co/nOgm9n50Qc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12066,
+          "following_count": 1516,
+          "like_count": 25285,
+          "listed_count": 16,
+          "media_count": 4658,
+          "tweet_count": 27506
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-11T13:32:59.000Z",
+        "description": "オーバードーズが世界を救う",
+        "id": "122063375",
+        "location": "仙台市",
+        "name": "Dissociated",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045424718786998272/ss1DCZlt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 75,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 173
+        },
+        "username": "Overdose_CPDD",
+        "verified": false
+      }
+    ]
+  }
+}

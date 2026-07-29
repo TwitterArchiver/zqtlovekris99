@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002961175680897024"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002961188385333427",
+    "created_at": "2025-12-22T04:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T05:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002961188385333427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtalaxofR6",
+          "end": 63,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2002961188385333427/photo/1",
+          "media_key": "3_2002961175680897024",
+          "start": 40,
+          "url": "https://t.co/AtalaxofR6"
+        },
+        {
+          "display_url": "x.com/Vj1MgBu4qQJueG…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Vj1MgBu4qQJueGM/status/2002401364572582145",
+          "start": 64,
+          "url": "https://t.co/kF2o69MWUP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002961188385333427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002401364572582145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前问着是谁，搜了下图完全不一样啊喂，颜色都不一样，我一直以为是绿猫那种oc https://t.co/AtalaxofR6 https://t.co/kF2o69MWUP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002961175680897024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8vyk79b0AAkedl.jpg",
+        "width": 920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2002400875915186178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8n0_MrbEAI7Kk3.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002961175680897024"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002961188385333427",
+        "created_at": "2025-12-22T04:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002961188385333427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtalaxofR6",
+              "end": 63,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2002961188385333427/photo/1",
+              "media_key": "3_2002961175680897024",
+              "start": 40,
+              "url": "https://t.co/AtalaxofR6"
+            },
+            {
+              "display_url": "x.com/Vj1MgBu4qQJueG…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Vj1MgBu4qQJueGM/status/2002401364572582145",
+              "start": 64,
+              "url": "https://t.co/kF2o69MWUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002961188385333427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002401364572582145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前问着是谁，搜了下图完全不一样啊喂，颜色都不一样，我一直以为是绿猫那种oc https://t.co/AtalaxofR6 https://t.co/kF2o69MWUP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002400875915186178"
+          ]
+        },
+        "author_id": "1376745203508211713",
+        "conversation_id": "2002401364572582145",
+        "created_at": "2025-12-20T15:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002401364572582145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhV4NXMbwt",
+              "end": 41,
+              "expanded_url": "https://x.com/Vj1MgBu4qQJueGM/status/2002401364572582145/photo/1",
+              "media_key": "3_2002400875915186178",
+              "start": 18,
+              "url": "https://t.co/ZhV4NXMbwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002401364572582145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 32053,
+          "like_count": 361,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "嗯？原来这个小东西的原型是白子么？ https://t.co/ZhV4NXMbwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1992255921263960445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002281760890187776/nBNFJEo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10940,
+          "following_count": 1079,
+          "like_count": 23359,
+          "listed_count": 13,
+          "media_count": 4077,
+          "tweet_count": 24918
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-30T03:57:02.000Z",
+        "description": "世界上只有一种真正的英雄主义，那就是在认清生活的真相后，依然热爱生活。",
+        "id": "1376745203508211713",
+        "location": "wuhan",
+        "name": "心",
+        "pinned_tweet_id": "1941425673048031725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001926363029413888/RKDPhTsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 650,
+          "like_count": 12559,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1305
+        },
+        "username": "Vj1MgBu4qQJueGM",
+        "verified": false
+      }
+    ]
+  }
+}

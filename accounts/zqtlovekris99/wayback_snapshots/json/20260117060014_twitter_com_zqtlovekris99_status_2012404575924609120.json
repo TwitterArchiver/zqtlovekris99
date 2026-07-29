@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2012317163361878273",
+    "created_at": "2026-01-17T06:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012404575924609120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012404575924609120",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012317163361878273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 这不对吧 台湾写的是繁体字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1923,
+        "media_key": "3_2012317155505930241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0vyo1bAAEqfoS.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2012317163361878273",
+        "created_at": "2026-01-17T06:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012404575924609120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012404575924609120",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012317163361878273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 这不对吧 台湾写的是繁体字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012317155505930241"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2012317163361878273",
+        "created_at": "2026-01-17T00:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T01:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012317163361878273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMGTZiyeC4",
+              "end": 33,
+              "expanded_url": "https://x.com/LVTGW666/status/2012317163361878273/photo/1",
+              "media_key": "3_2012317155505930241",
+              "start": 10,
+              "url": "https://t.co/jMGTZiyeC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012317163361878273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 37602,
+          "like_count": 248,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "感觉右边确实雅一点 https://t.co/jMGTZiyeC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11005,
+          "following_count": 1098,
+          "like_count": 23648,
+          "listed_count": 13,
+          "media_count": 4163,
+          "tweet_count": 25269
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 想投稿直接私信 求求腊畜别来恶心我 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77lTAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 105,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 82,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77lTAw"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2009674666114461914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61256,
+          "following_count": 883,
+          "like_count": 13635,
+          "listed_count": 271,
+          "media_count": 2951,
+          "tweet_count": 9922
+        },
+        "url": "https://t.co/wPvV77lTAw",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

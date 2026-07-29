@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864673421856264197"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1864673424888725523",
+    "created_at": "2024-12-05T14:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T15:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864673424888725523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3G9SJPE6ID",
+          "end": 26,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1864673424888725523/photo/1",
+          "media_key": "3_1864673421856264197",
+          "start": 3,
+          "url": "https://t.co/3G9SJPE6ID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864673424888725523",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水草 https://t.co/3G9SJPE6ID"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1864673421856264197",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeCmmQPa0AUpusP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864673421856264197"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1864673424888725523",
+        "created_at": "2024-12-05T14:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T15:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864673424888725523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3G9SJPE6ID",
+              "end": 26,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1864673424888725523/photo/1",
+              "media_key": "3_1864673421856264197",
+              "start": 3,
+              "url": "https://t.co/3G9SJPE6ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864673424888725523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水草 https://t.co/3G9SJPE6ID"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "精神状态极差，别理我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🙁竹蜻蜓🙁🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5102,
+          "following_count": 506,
+          "like_count": 15121,
+          "listed_count": 4,
+          "media_count": 1350,
+          "tweet_count": 13039
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1840353138332827863",
+    "created_at": "2024-09-30T03:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T04:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840600493921570982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378181451435274246",
+          "start": 0,
+          "username": "Error_520suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840600493921570982",
+    "in_reply_to_user_id": "1378181451435274246",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840412769130307819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Error_520suki 因为没地方放了，重新买固态就只能替换原来的固态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1840353138332827863",
+        "created_at": "2024-09-30T03:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T04:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840600493921570982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378181451435274246",
+              "start": 0,
+              "username": "Error_520suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840600493921570982",
+        "in_reply_to_user_id": "1378181451435274246",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840412769130307819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Error_520suki 因为没地方放了，重新买固态就只能替换原来的固态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1378181451435274246",
+        "conversation_id": "1840353138332827863",
+        "created_at": "2024-09-29T15:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T16:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840412769130307819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840412769130307819",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840353138332827863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 重新买个固态为什么要重装系统（\n就算你c盘压缩卷也不需要重新装啊🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4627,
+          "following_count": 516,
+          "like_count": 14079,
+          "listed_count": 5,
+          "tweet_count": 11070
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T03:04:04.000Z",
+        "description": "我们终将在没有黑暗的地方重逢\n性取向：@LinkingViolet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "LinkingViolet"
+              }
+            ]
+          }
+        },
+        "id": "1378181451435274246",
+        "location": "言安怀里",
+        "name": "Juice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606455546064035840/6w0Pxe3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 456,
+          "like_count": 6114,
+          "listed_count": 2,
+          "tweet_count": 577
+        },
+        "username": "Error_520suki",
+        "verified": false
+      }
+    ]
+  }
+}

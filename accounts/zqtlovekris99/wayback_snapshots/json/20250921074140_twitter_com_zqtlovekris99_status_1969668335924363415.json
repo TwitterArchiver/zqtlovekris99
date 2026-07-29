@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "1969668335924363415",
+    "created_at": "2025-09-21T07:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969668335924363415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "16:20 不知名解离剂20mg鼻吸，前置4.2hr ago 450mg Pregabalin 20mg Baclofen 这次的目的是减员，鉴于Laurel今天早上呈现了短暂的儿童化形态，感觉会比较好杀 鼻腔几乎没什么刺激感，跟DPT没法比 准备了氯硝西泮，右左匹克隆，酒石酸唑吡坦作为下机药，不知道能不能用，现在在床上躺着玩游戏，静等药效 稍微有一点反流进嗓子里了 16:51 +0.5hr 轻微解离感，有一种类似于低剂量右美的解离感，欣快感，大概第二高原 17:10 +50min更强烈的解离感来了，有点像24t右美的感觉，但是没有右美那种胃部不适的感觉 17:17 +57min，抽了根烟，解离感更强了，等我做完这个任务就去听歌 17:22 舌下10mg 酒石酸唑吡坦 17:27 +67min 开始听歌单，莫名其妙刷了两个副本把原神每日清完了，现在开始专注解离歌单 17:39 +79min 配合歌单，解离感很强，但没有右美那种反胃感，闭眼幻觉 17:49 +88min吃唑吡坦好像减弱了解离感，完蛋，我再闭眼听一会，找一下Laurel 17:57 +96min 双眼无法对焦，听歌闭眼幻觉强烈，人没法动，只能在床上躺着，看屏幕的字在飘…",
+          "display_url": "telegra.ph/Luna-dust-20mg…",
+          "end": 23,
+          "expanded_url": "https://telegra.ph/Luna-dust-20mg-insufflated-09-21",
+          "start": 0,
+          "status": 200,
+          "title": "Luna-dust-20mg-insufflated",
+          "unwound_url": "https://telegra.ph/Luna-dust-20mg-insufflated-09-21",
+          "url": "https://t.co/NnX4G7pDMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969668335924363415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NnX4G7pDMC 月尘使用报告+ChatGPT5+ChatGPT4o的评价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "1969668335924363415",
+        "created_at": "2025-09-21T07:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969668335924363415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "16:20 不知名解离剂20mg鼻吸，前置4.2hr ago 450mg Pregabalin 20mg Baclofen 这次的目的是减员，鉴于Laurel今天早上呈现了短暂的儿童化形态，感觉会比较好杀 鼻腔几乎没什么刺激感，跟DPT没法比 准备了氯硝西泮，右左匹克隆，酒石酸唑吡坦作为下机药，不知道能不能用，现在在床上躺着玩游戏，静等药效 稍微有一点反流进嗓子里了 16:51 +0.5hr 轻微解离感，有一种类似于低剂量右美的解离感，欣快感，大概第二高原 17:10 +50min更强烈的解离感来了，有点像24t右美的感觉，但是没有右美那种胃部不适的感觉 17:17 +57min，抽了根烟，解离感更强了，等我做完这个任务就去听歌 17:22 舌下10mg 酒石酸唑吡坦 17:27 +67min 开始听歌单，莫名其妙刷了两个副本把原神每日清完了，现在开始专注解离歌单 17:39 +79min 配合歌单，解离感很强，但没有右美那种反胃感，闭眼幻觉 17:49 +88min吃唑吡坦好像减弱了解离感，完蛋，我再闭眼听一会，找一下Laurel 17:57 +96min 双眼无法对焦，听歌闭眼幻觉强烈，人没法动，只能在床上躺着，看屏幕的字在飘…",
+              "display_url": "telegra.ph/Luna-dust-20mg…",
+              "end": 23,
+              "expanded_url": "https://telegra.ph/Luna-dust-20mg-insufflated-09-21",
+              "start": 0,
+              "status": 200,
+              "title": "Luna-dust-20mg-insufflated",
+              "unwound_url": "https://telegra.ph/Luna-dust-20mg-insufflated-09-21",
+              "url": "https://t.co/NnX4G7pDMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969668335924363415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NnX4G7pDMC 月尘使用报告+ChatGPT5+ChatGPT4o的评价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀（七休日版）",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10127,
+          "following_count": 1013,
+          "like_count": 21759,
+          "listed_count": 10,
+          "media_count": 3569,
+          "tweet_count": 22446
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

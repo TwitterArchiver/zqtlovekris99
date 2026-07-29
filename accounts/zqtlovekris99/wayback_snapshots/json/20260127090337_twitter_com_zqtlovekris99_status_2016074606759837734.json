@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2016062550228795643",
+    "created_at": "2026-01-27T09:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T10:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016074606759837734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009488009180401667",
+          "start": 0,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016074606759837734",
+    "in_reply_to_user_id": "2009488009180401667",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016062550228795643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asabakasaiko 色谱龙不小心吃成群勃龙了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5083,
+        "height": 720,
+        "media_key": "13_2016062523569799172",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016062523569799172/img/tIflH45ykoeWLupG.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016062523569799172/vid/avc1/320x320/aDfDe4Mgo2uCSrO2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016062523569799172/vid/avc1/540x540/QJ-oWkCoYVuSJ6OR.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016062523569799172/vid/avc1/720x720/nNC6L1xwWipHulrn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016062523569799172/pl/gpYly9xJeMCFZ2Vk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2016062550228795643",
+        "created_at": "2026-01-27T09:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016074606759837734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016074606759837734",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016062550228795643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko 色谱龙不小心吃成群勃龙了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016062523569799172"
+          ]
+        },
+        "author_id": "2009488009180401667",
+        "conversation_id": "2016062550228795643",
+        "created_at": "2026-01-27T08:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016062550228795643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynd0zB14Xp",
+              "end": 34,
+              "expanded_url": "https://x.com/asabakasaiko/status/2016062550228795643/video/1",
+              "media_key": "13_2016062523569799172",
+              "start": 11,
+              "url": "https://t.co/ynd0zB14Xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016062550228795643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小姑娘殴打骚福瑞环节 https://t.co/ynd0zB14Xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11189,
+          "following_count": 1126,
+          "like_count": 23785,
+          "listed_count": 14,
+          "media_count": 4193,
+          "tweet_count": 25481
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看，男娘，🚪58，88，什么事都可以来私我",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 121,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 223
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

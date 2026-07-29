@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046200511163203584"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2046559825707012515",
+    "created_at": "2026-04-21T12:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046559825707012515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhKW7mWgvo",
+          "end": 39,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2046559825707012515/photo/1",
+          "media_key": "3_2046200511163203584",
+          "start": 16,
+          "url": "https://t.co/IhKW7mWgvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046559825707012515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好的，我承认抖音网友攻击力高了 https://t.co/IhKW7mWgvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2046200511163203584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWQhg8bAAAxC0N.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046200511163203584"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2046559825707012515",
+        "created_at": "2026-04-21T12:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046559825707012515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhKW7mWgvo",
+              "end": 39,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2046559825707012515/photo/1",
+              "media_key": "3_2046200511163203584",
+              "start": 16,
+              "url": "https://t.co/IhKW7mWgvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046559825707012515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的，我承认抖音网友攻击力高了 https://t.co/IhKW7mWgvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12071,
+          "following_count": 1518,
+          "like_count": 25296,
+          "listed_count": 16,
+          "media_count": 4668,
+          "tweet_count": 27518
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

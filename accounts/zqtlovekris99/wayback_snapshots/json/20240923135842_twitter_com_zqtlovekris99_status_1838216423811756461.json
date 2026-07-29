@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1837830636628783389",
+    "created_at": "2024-09-23T13:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T14:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838216423811756461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1573722407625543683",
+          "start": 0,
+          "username": "Amarantos_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838216423811756461",
+    "in_reply_to_user_id": "1573722407625543683",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837830636628783389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amarantos_00 疑似有点侮辱精分患者了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1837830636628783389",
+        "created_at": "2024-09-23T13:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T14:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838216423811756461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1573722407625543683",
+              "start": 0,
+              "username": "Amarantos_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838216423811756461",
+        "in_reply_to_user_id": "1573722407625543683",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837830636628783389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amarantos_00 疑似有点侮辱精分患者了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837830629410344960",
+            "3_1837830629422927872"
+          ]
+        },
+        "author_id": "1573722407625543683",
+        "conversation_id": "1837830636628783389",
+        "created_at": "2024-09-22T12:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T13:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837830636628783389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyj4h5wsbx",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Amarantos_00/status/1837830636628783389/photo/1",
+              "media_key": "3_1837830629410344960",
+              "start": 7,
+              "url": "https://t.co/xYJ4h5WSBx"
+            },
+            {
+              "display_url": "pic.x.com/xyj4h5wsbx",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Amarantos_00/status/1837830636628783389/photo/1",
+              "media_key": "3_1837830629422927872",
+              "start": 7,
+              "url": "https://t.co/xYJ4h5WSBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837830636628783389",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17590,
+          "like_count": 207,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "像精神分裂了 https://t.co/xYJ4h5WSBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 518,
+          "like_count": 13955,
+          "listed_count": 5,
+          "tweet_count": 10871
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T17:14:25.000Z",
+        "description": "心有清溪，意如明镜。",
+        "id": "1573722407625543683",
+        "location": "罗夏·罗斯切尔德的腿上",
+        "name": "花子Hanako",
+        "pinned_tweet_id": "1830003250914902359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818071893259276288/BimPtGlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 116,
+          "like_count": 18239,
+          "listed_count": 6,
+          "tweet_count": 10450
+        },
+        "username": "Amarantos_00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2030446104295391499",
+    "created_at": "2026-03-08T12:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030618047707529311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "162124540",
+          "start": 0,
+          "username": "gdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030618047707529311",
+    "in_reply_to_user_id": "162124540",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030446104295391499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdb Your friends are really awful"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2030446104295391499",
+        "created_at": "2026-03-08T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030618047707529311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "162124540",
+              "start": 0,
+              "username": "gdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030618047707529311",
+        "in_reply_to_user_id": "162124540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030446104295391499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdb Your friends are really awful"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162124540",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2030446104295391499",
+        "created_at": "2026-03-08T00:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030446104295391499"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "GPT-5.4",
+              "probability": 0.7783,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/venturetwins/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/venturetwins/status/2030391113086116096",
+              "start": 47,
+              "url": "https://t.co/FaTjfOGehH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030446104295391499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 63105,
+          "like_count": 586,
+          "quote_count": 20,
+          "reply_count": 163,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030391113086116096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GPT-5.4 feels like “talking to a smart friend” https://t.co/FaTjfOGehH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11859,
+          "following_count": 1417,
+          "like_count": 24644,
+          "listed_count": 15,
+          "media_count": 4384,
+          "tweet_count": 26499
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-02T19:38:09.000Z",
+        "description": "President & Co-Founder @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gregbrockman.com",
+                "end": 23,
+                "expanded_url": "http://gregbrockman.com",
+                "start": 0,
+                "url": "https://t.co/k4cALifwtx"
+              }
+            ]
+          }
+        },
+        "id": "162124540",
+        "name": "Greg Brockman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930429,
+          "following_count": 8,
+          "like_count": 1958,
+          "listed_count": 9705,
+          "media_count": 439,
+          "tweet_count": 5878
+        },
+        "url": "https://t.co/k4cALifwtx",
+        "username": "gdb",
+        "verified": true
+      }
+    ]
+  }
+}

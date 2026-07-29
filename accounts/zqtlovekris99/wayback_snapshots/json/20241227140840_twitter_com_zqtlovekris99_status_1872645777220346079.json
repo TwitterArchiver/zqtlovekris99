@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1872434678994784625",
+    "created_at": "2024-12-27T14:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T15:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872645777220346079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731892419329757184",
+          "start": 0,
+          "username": "yanluoluoya__"
+        },
+        {
+          "end": 27,
+          "id": "1666599054917218305",
+          "start": 15,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872645777220346079",
+    "in_reply_to_user_id": "1731892419329757184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872605007088132253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanluoluoya__ @kirakira4th 不知道诶我没见过，我就是设想一下，那难道黑人不臭吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1872434678994784625",
+        "created_at": "2024-12-27T14:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T15:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872645777220346079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731892419329757184",
+              "start": 0,
+              "username": "yanluoluoya__"
+            },
+            {
+              "end": 27,
+              "id": "1666599054917218305",
+              "start": 15,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872645777220346079",
+        "in_reply_to_user_id": "1731892419329757184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872605007088132253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanluoluoya__ @kirakira4th 不知道诶我没见过，我就是设想一下，那难道黑人不臭吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731892419329757184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1872434678994784625",
+        "created_at": "2024-12-27T11:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T12:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872605007088132253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 27,
+              "id": "1666599054917218305",
+              "start": 15,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872605007088132253",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872519195474448869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @kirakira4th 太臭了……学校的白人味道超级差……不用香水腌入味的话体味超级冲，我真的很好奇怎么能有人吃得下白人这口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 FtX | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 511,
+          "like_count": 15563,
+          "listed_count": 6,
+          "media_count": 1486,
+          "tweet_count": 13637
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T04:25:25.000Z",
+        "description": "……原来的号炸了，新年不利，寄……算了，旧的不去新的不来。1v1，原味，定制，线下陪玩，图包视频。q门槛52，vx门槛200，过了门槛可以一起玩。防丢失电报：https://t.co/uWyu0VRpKk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+OKYexz8t1_djM…",
+                "end": 102,
+                "expanded_url": "https://t.me/+OKYexz8t1_djMWNh",
+                "start": 79,
+                "url": "https://t.co/uWyu0VRpKk"
+              }
+            ]
+          }
+        },
+        "id": "1731892419329757184",
+        "name": "烟罗罗（旧号炸了）难受:-)",
+        "pinned_tweet_id": "1762796954655072690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746449753679028224/hRn1_0B-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7939,
+          "following_count": 57,
+          "like_count": 465,
+          "listed_count": 50,
+          "media_count": 69,
+          "tweet_count": 158
+        },
+        "username": "yanluoluoya__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "Femboy｜井盖教主｜提问箱https://t.co/3hD8J8CJRY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirakira18831",
+                "end": 38,
+                "expanded_url": "https://ngl.link/kirakira18831",
+                "start": 15,
+                "url": "https://t.co/3hD8J8CJRY"
+              }
+            ]
+          }
+        },
+        "id": "1666599054917218305",
+        "location": "🚪52/88/128",
+        "name": "消失的井盖",
+        "pinned_tweet_id": "1860322536485236873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872580782801457152/BWKEMJC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8711,
+          "following_count": 2173,
+          "like_count": 37662,
+          "listed_count": 16,
+          "media_count": 216,
+          "tweet_count": 9479
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

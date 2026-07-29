@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1882239209282670656",
+    "created_at": "2025-01-23T09:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T10:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882364256672456785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583502450710937600",
+          "start": 0,
+          "username": "Allenqqqqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882364256672456785",
+    "in_reply_to_user_id": "1583502450710937600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882239209282670656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenqqqqc 我是16岁才换完，也算挺晚的了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1882239209282670656].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1882239209282670656",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1882239209282670656"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1882239209282670656",
+        "created_at": "2025-01-23T09:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T10:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882364256672456785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583502450710937600",
+              "start": 0,
+              "username": "Allenqqqqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882364256672456785",
+        "in_reply_to_user_id": "1583502450710937600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882239209282670656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenqqqqc 我是16岁才换完，也算挺晚的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1877412055608623197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5444,
+          "following_count": 517,
+          "like_count": 15983,
+          "listed_count": 6,
+          "media_count": 1604,
+          "tweet_count": 14177
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:56:35.000Z",
+        "description": "我死了。（这句话的前提是存在一个“我”，而叙述作为完成形态，必然论证了这个行为无法改变主体的状态）",
+        "id": "1583502450710937600",
+        "name": "K̸̸r̸̸a̸̸w̸̸a̸̸l̸̸l̸🎶",
+        "pinned_tweet_id": "1863887673804705831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875881215687024641/A5oHggYI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 720,
+          "like_count": 66037,
+          "listed_count": 9,
+          "media_count": 1083,
+          "tweet_count": 18147
+        },
+        "username": "Allenqqqqc",
+        "verified": false
+      }
+    ]
+  }
+}

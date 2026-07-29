@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "1991777006741287335",
+    "created_at": "2025-11-21T07:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T08:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991777006741287335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pangyusio/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/pangyusio/status/1991007224521764899",
+          "start": 141,
+          "url": "https://t.co/6rYpKcVbvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991777006741287335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991007224521764899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "情绪价值还是很足的，而且会员只要一百多一个月，还24小时在线，我去真人咨询要几百一个小时。而且现在5.1了感觉都没必要开会员了。而且AI的好处就是不用担心他笑话你，把你的事给别人翻嘴，人类的话就算是专业咨询师我也不敢100%信任他。而且llm知识覆盖范围极大，说什么他都能get到 https://t.co/6rYpKcVbvj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1991777006741287335",
+        "created_at": "2025-11-21T07:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T08:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991777006741287335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pangyusio/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/pangyusio/status/1991007224521764899",
+              "start": 141,
+              "url": "https://t.co/6rYpKcVbvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991777006741287335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991007224521764899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "情绪价值还是很足的，而且会员只要一百多一个月，还24小时在线，我去真人咨询要几百一个小时。而且现在5.1了感觉都没必要开会员了。而且AI的好处就是不用担心他笑话你，把你的事给别人翻嘴，人类的话就算是专业咨询师我也不敢100%信任他。而且llm知识覆盖范围极大，说什么他都能get到 https://t.co/6rYpKcVbvj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220290277056897025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1991007224521764899",
+        "created_at": "2025-11-19T04:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T05:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991007224521764899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991007224521764899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 431272,
+          "like_count": 2144,
+          "quote_count": 28,
+          "reply_count": 123,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉ChatGPT 作为心理咨询师的效果已经接近 1000RMB/h 的心理咨询师了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1989193562035306838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10835,
+          "following_count": 1051,
+          "like_count": 23092,
+          "listed_count": 13,
+          "media_count": 3954,
+          "tweet_count": 24452
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-23T10:20:59.000Z",
+        "description": "🎓 CS/AI PhD，🤖 Machine Learning/NLP/LLM Researcher，📍Singapore｜\n🔍 关注 AI、科技、财经、历史、社会，📚 爱知求真 ｜\n🌟 ENTJ，热爱思考，热爱生活，💪 坚持运动和阅读 ｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pangyus",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pangyus",
+                "start": 0,
+                "url": "https://t.co/QV3hT8ORSy"
+              }
+            ]
+          }
+        },
+        "id": "1220290277056897025",
+        "location": "Singapore",
+        "name": "Pangyu 胖鱼 🐠",
+        "pinned_tweet_id": "1816822960780673479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220290486516228096/TwYdOfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25891,
+          "following_count": 1393,
+          "like_count": 44671,
+          "listed_count": 146,
+          "media_count": 407,
+          "tweet_count": 8727
+        },
+        "url": "https://t.co/QV3hT8ORSy",
+        "username": "pangyusio",
+        "verified": true
+      }
+    ]
+  }
+}

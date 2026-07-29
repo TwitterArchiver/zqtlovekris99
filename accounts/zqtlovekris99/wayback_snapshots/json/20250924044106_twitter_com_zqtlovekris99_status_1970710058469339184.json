@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1970458717599735942",
+    "created_at": "2025-09-24T04:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T05:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970710058469339184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695442901885755392",
+          "start": 0,
+          "username": "becaficolin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970710058469339184",
+    "in_reply_to_user_id": "1695442901885755392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970458717599735942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@becaficolin 这跟北京那个豆汁儿冰激凌坐一桌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1474,
+        "media_key": "3_1970458710133874693",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1h5wcYaoAUCUQo.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1970458717599735942",
+        "created_at": "2025-09-24T04:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970710058469339184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695442901885755392",
+              "start": 0,
+              "username": "becaficolin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970710058469339184",
+        "in_reply_to_user_id": "1695442901885755392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970458717599735942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@becaficolin 这跟北京那个豆汁儿冰激凌坐一桌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970458710133874693"
+          ]
+        },
+        "author_id": "1695442901885755392",
+        "conversation_id": "1970458717599735942",
+        "created_at": "2025-09-23T12:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970458717599735942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LjB4JFojzH",
+              "end": 32,
+              "expanded_url": "https://x.com/becaficolin/status/1970458717599735942/photo/1",
+              "media_key": "3_1970458710133874693",
+              "start": 9,
+              "url": "https://t.co/LjB4JFojzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970458717599735942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 101033,
+          "like_count": 1471,
+          "quote_count": 82,
+          "reply_count": 89,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "…全家你先等一下 https://t.co/LjB4JFojzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10154,
+          "following_count": 1016,
+          "like_count": 21804,
+          "listed_count": 10,
+          "media_count": 3590,
+          "tweet_count": 22544
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-26T14:27:57.000Z",
+        "description": "來自鹿之森的半鹿人 #幹話系 #廢文系主播 ᴍᴏᴅᴇʟ ʙʏ : @LuYu0631 裏帳: @lyng911273 DC群組：https://t.co/t8p2wH6YA0 棉花糖：https://t.co/0yNg8TB2or 工商/合作邀約信箱：Becaficolin@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "幹話系"
+              },
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "廢文系主播"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "LuYu0631"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "lyng911273"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/xmZdHHaTeJ",
+                "end": 87,
+                "expanded_url": "https://discord.gg/xmZdHHaTeJ",
+                "start": 64,
+                "url": "https://t.co/t8p2wH6YA0"
+              },
+              {
+                "display_url": "reurl.cc/7djxgk",
+                "end": 115,
+                "expanded_url": "https://reurl.cc/7djxgk",
+                "start": 92,
+                "url": "https://t.co/0yNg8TB2or"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/lulivtype",
+                "end": 23,
+                "expanded_url": "https://lit.link/lulivtype",
+                "start": 0,
+                "url": "https://t.co/hywgtImsT7"
+              }
+            ]
+          }
+        },
+        "id": "1695442901885755392",
+        "location": "鹿之森",
+        "name": "鹿黎LULI 【電子寵物系 Vtype】全突發活動中",
+        "pinned_tweet_id": "1917951445791645790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912287801338421248/z3Q7X6na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1387,
+          "like_count": 153509,
+          "listed_count": 6,
+          "media_count": 3912,
+          "tweet_count": 38870
+        },
+        "url": "https://t.co/hywgtImsT7",
+        "username": "becaficolin",
+        "verified": true
+      }
+    ]
+  }
+}

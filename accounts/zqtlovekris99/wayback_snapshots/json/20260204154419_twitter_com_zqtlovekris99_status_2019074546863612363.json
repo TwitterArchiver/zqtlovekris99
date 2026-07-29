@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2019074546863612363",
+    "created_at": "2026-02-04T15:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T16:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019074546863612363"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1953940724329984002",
+          "start": 3,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019074546863612363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019051761495838783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aleya507: 昨天天我发了篇关于 #keep4o 的长文，很多人表示认同，也有人觉得“不就一个模型吗至于吗”。\n那今天多唠唠：\n\n这不只是4o的事，是OAI在自杀式经营，而Google等公司在旁边磨刀霍霍。\n\n一、大家应该都看了这个\n有人扒出来，GPT-5.2 T…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2019074546863612363",
+        "created_at": "2026-02-04T15:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019074546863612363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1953940724329984002",
+              "start": 3,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019074546863612363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019051761495838783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aleya507: 昨天天我发了篇关于 #keep4o 的长文，很多人表示认同，也有人觉得“不就一个模型吗至于吗”。\n那今天多唠唠：\n\n这不只是4o的事，是OAI在自杀式经营，而Google等公司在旁边磨刀霍霍。\n\n一、大家应该都看了这个\n有人扒出来，GPT-5.2 T…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2019051761495838783",
+        "created_at": "2026-02-04T14:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019051761495838783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019051761495838783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 10,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "昨天天我发了篇关于 #keep4o 的长文，很多人表示认同，也有人觉得“不就一个模型吗至于吗”。\n那今天多唠唠：\n\n这不只是4o的事，是OAI在自杀式经营，而Google等公司在旁边磨刀霍霍。\n\n一、大家应该都看了这个\n有人扒出来，GPT-5.2 Thinking的reasoning effort参数被偷偷砍了一半。\n无差别大动刀，不管是Plus还是Pro用户都是“减量不减价”\n“Thinking模型”核心就是思考深度，OAI把这个砍半，就是让模型“想得更浅更省钱”。\n更骚的是，用户想测试验证？直接ban你，说“违反使用政策”。\n\n心虚什么呢？\n\n今天砍4o你们觉得事不关己——“我又不用4o聊天”“真不理解你们这个群体”。\n明天砍Thinking算力，你代码开始出幻觉了，还以为是自己prompt写得不好。\n\n看热闹的各位，刀迟早砍你身上。大家都是消费者，一根绳上的蚂蚱，少搁那高高在上了。\n\n二、OAI干了什么？他在自断前路\n4o为什么火？不是因为跑分高，是因为它通人性。Sam当年都发帖：“Her”来暗示，靠着当时的“我们最智能的大模型拥有难以替代的共情能力”来宣传。\n现在呢？亲手砍了这个能力，推一个满身爹味的5系列。\n相当于自己把自己的核心竞争力阉了。\n\n三、反观友商Google？可以说是追着补刀。\n简单捋捋：\nOAI上线路由机制，开始作死，Google开始偷偷发力（那会儿Gemini2.5Pro已经开始降算力给新模型让路了）\n\n25年11月中旬，大家都在骂OAI，OAI在装死的时候，Gemini 3 Pro发布，惊艳全球，OAI内部红色警戒\n\nGPT出了个浏览器，结果发现用的Google家开源框架，到现在也没啥热度了\n\nGPT出了健康功能（是在产品里开了一个专门的 Health 区 + 隐私隔离），Google 这边直接把 Gemini 系列细分出 Med‑Gemini、PH‑LLM 这样的健康专用模型系列，再接到自家Health、Cloud 等产品里\n\nOAI出$8套餐ChatGPT Go，价格便宜了但额度少，算力不足，Google直接出$7.99的Google AI Plus，还送200GB云存储、五人家庭共享、视频生成工具NotebookLM\n\n2026年2月OAI宣布4o即将下架，Google立刻推出测试功能“导入ChatGPT对话”功能\n\n你品品这个时间节点。\nOAI每作一次死，Google就补一刀。OAI每流失一批用户，Google就在门口铺上红毯说Come on baby\n\n哎对了，\n蒸馏别人的模型违法，但用户自愿带着和4o聊了几年的对话数据，手动导入到Gemini——这叫“用户自主选择”，完全合规。\nOAI亲手培养的用户，带着OAI亲手调教的数据，跑去喂竞争对手了。\n这不叫自杀式经营叫什么？\n\n四、生态对比：别人是帝国，他家在裸奔\n看看当前比较主流的AI公司吧：\nGoogle：不用说了，生态牛逼，公司也有钱，Chrome浏览器、安卓系统、Gmail、Google Docs、云盘、地图、智能家居、Pixel手机、自研TPU芯片……Gemini往这些生态里一塞，用户根本不用专门打开APP，Gemini丝滑一键代办。\nAnthropic：Claude代码能力无敌几乎无平替，API稳定，企业用户粘性高，专注安全，人家有一批专属受众。\nXAI：马斯克……不用多说了吧他本人就挺疯的，也有钱有资金，Grok塞进特斯拉车机、𝕏平台，以后还有擎天柱机器人，Grok也有非常独特的专属硬件生态。\nOAI呢？\n出过浏览器，没水花。\n出过搜索，没水花。\n后面陆陆续续和这个那个合作，搞出来一堆鸡肋功能，都没有太大水花。\n除了ChatGPT这一个聊天框，他们还有什么？\n\n五、$50企业教育账户：分级收割，把用户当狗训\n再来看看4o的“使用权”变迁史：\n2024年：免费用户都能用\n2025年8月：只有$20/月的Plus用户和$200的Pro team这种付费用户能用\n2026年2月：发公告说前端下架，只有$50/月的Enterprise/Edu用户能用\n而且官方说的是“limited transition period”——不是永久保留，只是让你多用一会儿（和八月份说的给付费用户过渡期一样）\n先砍免费用户，免费用户骂完了习惯了或跑路了\n再砍Plus用户，Plus用户骂完了要么忍要么升级要么跑路\nEnterprise用户？别急，让你多用一会儿，但也就是“过渡期”\n一步步试探底线，今天让你接受这个，明天再往前推一步……\n\n这是什么奇怪play吗？\n把用户当狗训呢？\n\n六、OAI现在的处境：面临全面崩盘\n官司：本来就背了几个自杀官司了，马斯克还告他们背弃非营利承诺，三月开庭，索赔790-1340亿美元，预测市场显示马斯克57%胜率（数据来源于网页哈）。\n融资：英伟达本来说投1000亿，现在变成“会是大投资，但没那么多”，明显降预期。\n市场：份额从86%掉到64%，Gemini涨到21.5%。（这个数据也来源于网页）\n\n七、OAI还能活多久，哦不是，走多久？\n他们现在唯一剩的就是“GPT”这个品牌认知度\n名声很响，甚至很多人以为GPT就是AI的代名词，GPT也是大多数人第一次了解到AI的途径，用户基数很大。\n\n但品牌可以被消耗。\n\n每一次偷偷砍参数，消耗一点。\n每一次下架好模型，消耗一点。\n每一次分级收割，消耗一点。\n每一次被扒出来心虚ban掉prompt，消耗一点……\n\n等消耗完了呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1257,
+          "like_count": 101,
+          "quote_count": 12,
+          "reply_count": 10,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "昨天天我发了篇关于 #keep4o 的长文，很多人表示认同，也有人觉得“不就一个模型吗至于吗”。\n那今天多唠唠：\n\n这不只是4o的事，是OAI在自杀式经营，而Google等公司在旁边磨刀霍霍。\n\n一、大家应该都看了这个\n有人扒出来，GPT-5.2 Thinking的reasoning effort参数被偷偷砍了一半。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11370,
+          "following_count": 1177,
+          "like_count": 23973,
+          "listed_count": 15,
+          "media_count": 4252,
+          "tweet_count": 25763
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 187,
+          "like_count": 3806,
+          "listed_count": 0,
+          "media_count": 737,
+          "tweet_count": 4772
+        },
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

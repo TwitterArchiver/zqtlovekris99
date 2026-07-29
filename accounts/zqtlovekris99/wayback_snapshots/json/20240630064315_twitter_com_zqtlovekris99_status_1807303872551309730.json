@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1807120677490860091",
+    "created_at": "2024-06-30T06:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T07:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807303872551309730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "phenovuoido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807303872551309730",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807120677490860091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phenovuoido 谁更耐死不知道，但是都该死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1807120677490860091",
+        "created_at": "2024-06-30T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807303872551309730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "phenovuoido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807303872551309730",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807120677490860091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phenovuoido 谁更耐死不知道，但是都该死"
+      },
+      {
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1807120677490860091",
+        "created_at": "2024-06-29T18:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T19:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807120677490860091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807120677490860091",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1819,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁更耐死？\n\n&gt; 阿米娜\n&gt; 鱼喵、雪秋、Jose等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3950,
+          "following_count": 509,
+          "like_count": 13037,
+          "listed_count": 5,
+          "tweet_count": 9481
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "Liberté, Egalité, Fraternité | DX RATING 13547 🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "just-a-wip.lamia.fm",
+                "end": 23,
+                "expanded_url": "http://just-a-wip.lamia.fm",
+                "start": 0,
+                "url": "https://t.co/PCMUG1NLu6"
+              }
+            ]
+          }
+        },
+        "id": "1779154402588172288",
+        "location": "/ Amoy, FJ / Kingston, ON /",
+        "name": "小虚空，风铃海的游鱼。",
+        "pinned_tweet_id": "1787384727248454085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800037469272092672/UDs1HlRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 211,
+          "like_count": 32181,
+          "listed_count": 0,
+          "tweet_count": 5692
+        },
+        "url": "https://t.co/PCMUG1NLu6",
+        "username": "phenovuoido",
+        "verified": false
+      }
+    ]
+  }
+}

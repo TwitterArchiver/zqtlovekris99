@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1961345740317630767",
+    "created_at": "2025-08-30T09:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T10:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961719076159693161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802720725310345216",
+          "start": 0,
+          "username": "Xxxtac_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961719076159693161",
+    "in_reply_to_user_id": "1802720725310345216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961345740317630767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxtac_17 哥们姐们16t普瑞就去洗胃是否有点本末倒置了，这个量难受的话其实睡一觉基本上就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1961345700228468737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgZhc_bkAEoFUN.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1961345700106833920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgZhcibkAAKr2q.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1961345700580757504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgZheTbEAAimg_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1961345740317630767",
+        "created_at": "2025-08-30T09:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961719076159693161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802720725310345216",
+              "start": 0,
+              "username": "Xxxtac_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961719076159693161",
+        "in_reply_to_user_id": "1802720725310345216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961345740317630767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxtac_17 哥们姐们16t普瑞就去洗胃是否有点本末倒置了，这个量难受的话其实睡一觉基本上就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961345700228468737",
+            "3_1961345700106833920",
+            "3_1961345700580757504"
+          ]
+        },
+        "author_id": "1802720725310345216",
+        "conversation_id": "1961345740317630767",
+        "created_at": "2025-08-29T08:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T09:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961345740317630767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2x5gfQhnKL",
+              "end": 30,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1961345740317630767/photo/1",
+              "media_key": "3_1961345700228468737",
+              "start": 7,
+              "url": "https://t.co/2x5gfQhnKL"
+            },
+            {
+              "display_url": "pic.x.com/2x5gfQhnKL",
+              "end": 30,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1961345740317630767/photo/1",
+              "media_key": "3_1961345700106833920",
+              "start": 7,
+              "url": "https://t.co/2x5gfQhnKL"
+            },
+            {
+              "display_url": "pic.x.com/2x5gfQhnKL",
+              "end": 30,
+              "expanded_url": "https://x.com/Xxxtac_17/status/1961345740317630767/photo/1",
+              "media_key": "3_1961345700580757504",
+              "start": 7,
+              "url": "https://t.co/2x5gfQhnKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961345740317630767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1463,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再嗑药了 https://t.co/2x5gfQhnKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | #drugtwt 蓝v互fo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 70,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9854,
+          "following_count": 911,
+          "like_count": 20921,
+          "listed_count": 10,
+          "media_count": 3359,
+          "tweet_count": 21571
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T15:11:36.000Z",
+        "description": "你像湖水卷入我的肺 门槛128",
+        "id": "1802720725310345216",
+        "location": "0.01km",
+        "name": "三次元败狗",
+        "pinned_tweet_id": "1947676886945173514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802720863877570560/vEGrNwL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 127,
+          "like_count": 457,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 666
+        },
+        "username": "Xxxtac_17",
+        "verified": false
+      }
+    ]
+  }
+}

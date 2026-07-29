@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1854220860032446532",
+    "created_at": "2024-11-07T15:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T16:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854551043021181358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1015788561088630791",
+          "start": 0,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854551043021181358",
+    "in_reply_to_user_id": "1015788561088630791",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854220860032446532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_ruyue 美国总统当选一帮中国人在那傻乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1854220860032446532",
+        "created_at": "2024-11-07T15:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T16:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854551043021181358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854551043021181358",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854220860032446532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue 美国总统当选一帮中国人在那傻乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1854220860032446532",
+        "created_at": "2024-11-06T17:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T18:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854220860032446532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854220860032446532",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3814,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不理解有些人究竟在狂欢什么——除非你恰好是个富有且幸福的顺性别直男白人，否则特朗普的当选、这些极端保守的政策，根本不会对大多数人产生任何实际好处。\n首先，作为一个美国人，出于本国经济利益支持特朗普是可以理解的。毕竟，他主张的民族主义外交和贸易政策，虽然偏激，确实是为了优先照顾美国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 性别认同不明/地雷系 | PTSD/OD💊/bpd(80%)→npd(20%)/INFP→INTP | 非二元特质颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 恋人 @RinkokoroQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（自言自语版）",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4940,
+          "following_count": 499,
+          "like_count": 14565,
+          "listed_count": 4,
+          "tweet_count": 12186
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "含糖少女🍥/不反差而且很凶🌸/先看置顶推/门槛 🚪88➕vx/可以陪聊陪玩/私信只收口令/没有小号/最爱的兔狲@theodos1us",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "theodos1us"
+              }
+            ]
+          }
+        },
+        "id": "1015788561088630791",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "草莓神",
+        "pinned_tweet_id": "1853507939828723832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830584532141215744/PblY5QNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32399,
+          "following_count": 4089,
+          "like_count": 138355,
+          "listed_count": 87,
+          "tweet_count": 28065
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

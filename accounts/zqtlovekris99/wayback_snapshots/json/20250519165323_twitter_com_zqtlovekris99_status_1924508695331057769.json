@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1924497772579004615",
+    "created_at": "2025-05-19T16:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T17:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924508695331057769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557292893181685760",
+          "start": 0,
+          "username": "hajimi198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924508695331057769",
+    "in_reply_to_user_id": "1557292893181685760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924507885243138423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajimi198964 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1924497772579004615",
+        "created_at": "2025-05-19T16:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924508695331057769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557292893181685760",
+              "start": 0,
+              "username": "hajimi198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924508695331057769",
+        "in_reply_to_user_id": "1557292893181685760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924507885243138423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajimi198964 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557292893181685760",
+        "conversation_id": "1924497772579004615",
+        "created_at": "2025-05-19T16:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924507885243138423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924507885243138423",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924497772579004615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 有一种ds开深度思考的美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 蓝v互关永不取关 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1922943379807113606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7517,
+          "following_count": 751,
+          "like_count": 18627,
+          "listed_count": 10,
+          "media_count": 2557,
+          "tweet_count": 18131
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-10T09:09:27.000Z",
+        "description": "我关注你不一定是我支持你的观点 只是因为我觉得你很有趣。\n老婆@Limonene_只是淡推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Limonene_"
+              }
+            ]
+          }
+        },
+        "id": "1557292893181685760",
+        "location": "吉吉国",
+        "name": "十色泣🏳️‍🌈",
+        "pinned_tweet_id": "1859197175642677363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857990543172947968/aBmKu5Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 461,
+          "like_count": 48138,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2760
+        },
+        "username": "hajimi198964",
+        "verified": false
+      }
+    ]
+  }
+}

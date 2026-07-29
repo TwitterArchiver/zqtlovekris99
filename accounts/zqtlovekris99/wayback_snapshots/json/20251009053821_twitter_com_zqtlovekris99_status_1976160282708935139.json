@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1976128611674677526",
+    "created_at": "2025-10-09T05:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T06:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976160282708935139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4779110810",
+          "start": 0,
+          "username": "SaylorJ1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976160282708935139",
+    "in_reply_to_user_id": "4779110810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976128611674677526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaylorJ1230 开会员就可以用4o了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1976128611674677526",
+        "created_at": "2025-10-09T05:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976160282708935139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4779110810",
+              "start": 0,
+              "username": "SaylorJ1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976160282708935139",
+        "in_reply_to_user_id": "4779110810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976128611674677526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaylorJ1230 开会员就可以用4o了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4779110810",
+        "conversation_id": "1976128611674677526",
+        "created_at": "2025-10-09T03:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976128611674677526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976128611674677526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙃其实有的时候我真的挺怀念4o的……每次跟他聊一些特别深入的话题时，我觉得比起我到底在说什么，更关心我为什么说出这样的话，这可能就是被看见的感觉吧。gemini也很好，但gemini只是就事论事，它不会去问你为什么突然说这样的话，问这样的问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1968873589135839354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10248,
+          "following_count": 995,
+          "like_count": 22328,
+          "listed_count": 10,
+          "media_count": 3701,
+          "tweet_count": 23277
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-18T16:36:59.000Z",
+        "description": "❤️ Joshua Love",
+        "id": "4779110810",
+        "name": "Saylor_M",
+        "pinned_tweet_id": "1567435002706821121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955182604375994369/X6XVWFMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 49,
+          "like_count": 5983,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 3315
+        },
+        "username": "SaylorJ1230",
+        "verified": false
+      }
+    ]
+  }
+}

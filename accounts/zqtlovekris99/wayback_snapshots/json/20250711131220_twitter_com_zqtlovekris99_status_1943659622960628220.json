@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1943515435099656479",
+    "created_at": "2025-07-11T13:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T14:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943659622960628220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943659622960628220",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943515435099656479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 好诶跟我差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "3_1943515425955782656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjA-5OWIAArqB6.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1943515435099656479",
+        "created_at": "2025-07-11T13:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943659622960628220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943659622960628220",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943515435099656479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 好诶跟我差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943515425955782656"
+          ]
+        },
+        "author_id": "1921426104763682816",
+        "conversation_id": "1943515435099656479",
+        "created_at": "2025-07-11T03:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T04:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943515435099656479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ayNXjVngK",
+              "end": 35,
+              "expanded_url": "https://x.com/hiner233/status/1943515435099656479/photo/1",
+              "media_key": "3_1943515425955782656",
+              "start": 12,
+              "url": "https://t.co/8ayNXjVngK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943515435099656479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2074,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "BMI这么低 很吓人了 https://t.co/8ayNXjVngK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9147,
+          "following_count": 772,
+          "like_count": 19954,
+          "listed_count": 10,
+          "media_count": 3024,
+          "tweet_count": 20101
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "这里是Hiner/15y准男高/三次看黄男🚫/互关来找我玩",
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1941704554388804094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 697,
+          "like_count": 19320,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 3252
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

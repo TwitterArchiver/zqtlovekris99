@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935613931172634624"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1935611963222245457",
+    "created_at": "2025-06-19T08:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T09:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935613934448590879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "6thCuteK1tten"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bN0mOsWPPr",
+          "end": 58,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1935613934448590879/photo/1",
+          "media_key": "3_1935613931172634624",
+          "start": 35,
+          "url": "https://t.co/bN0mOsWPPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935613934448590879",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935612792817766829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6thCuteK1tten 我没有长期o右美啊我都好几个月才o一次 https://t.co/bN0mOsWPPr"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1935612792817766829].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1935612792817766829",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1935612792817766829"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935613931172634624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyunXXXoAATN33.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935613931172634624"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1935611963222245457",
+        "created_at": "2025-06-19T08:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T09:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935613934448590879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "6thCuteK1tten"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bN0mOsWPPr",
+              "end": 58,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1935613934448590879/photo/1",
+              "media_key": "3_1935613931172634624",
+              "start": 35,
+              "url": "https://t.co/bN0mOsWPPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935613934448590879",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935612792817766829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6thCuteK1tten 我没有长期o右美啊我都好几个月才o一次 https://t.co/bN0mOsWPPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒OD第∞天）每天都是最后一天OD",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8170,
+          "following_count": 686,
+          "like_count": 19462,
+          "listed_count": 10,
+          "media_count": 2829,
+          "tweet_count": 19357
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "",
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1934123794089816485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935293281031561216/w3DQYC7X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 201,
+          "like_count": 2089,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 845
+        },
+        "username": "6thCuteK1tten",
+        "verified": false
+      }
+    ]
+  }
+}

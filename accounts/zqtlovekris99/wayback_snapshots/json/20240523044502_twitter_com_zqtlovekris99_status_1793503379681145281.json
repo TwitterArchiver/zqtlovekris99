@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1793474771474341986",
+    "created_at": "2024-05-23T04:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T05:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793503379681145281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614219417541578757",
+          "start": 0,
+          "username": "Feiwuuuuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793503379681145281",
+    "in_reply_to_user_id": "1614219417541578757",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793474771474341986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Feiwuuuuuu 再长点过肩了就不翘了 这个长度就是容易压肩膀 或者剪短点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1793474771474341986",
+        "created_at": "2024-05-23T04:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T05:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793503379681145281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614219417541578757",
+              "start": 0,
+              "username": "Feiwuuuuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793503379681145281",
+        "in_reply_to_user_id": "1614219417541578757",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793474771474341986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feiwuuuuuu 再长点过肩了就不翘了 这个长度就是容易压肩膀 或者剪短点"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793474768060211200"
+          ]
+        },
+        "author_id": "1614219417541578757",
+        "conversation_id": "1793474771474341986",
+        "created_at": "2024-05-23T02:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T03:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793474771474341986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rvWyZTFBrU",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Feiwuuuuuu/status/1793474771474341986/photo/1",
+              "media_key": "3_1793474768060211200",
+              "start": 36,
+              "url": "https://t.co/rvWyZTFBrU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793474771474341986",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1237,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助一下，我的发尾和下面这张图一模一样，有什么办法能让它不要翘起来吗？ https://t.co/rvWyZTFBrU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | 沉迷OD💊 | 软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 504,
+          "like_count": 12509,
+          "listed_count": 5,
+          "tweet_count": 8619
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T11:15:13.000Z",
+        "description": "🌫",
+        "id": "1614219417541578757",
+        "location": "困",
+        "name": "散木🏳️‍⚧️",
+        "pinned_tweet_id": "1774779963776077916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775944167371476992/0hWWoAVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 543,
+          "like_count": 12496,
+          "listed_count": 3,
+          "tweet_count": 1049
+        },
+        "username": "Feiwuuuuuu",
+        "verified": false
+      }
+    ]
+  }
+}

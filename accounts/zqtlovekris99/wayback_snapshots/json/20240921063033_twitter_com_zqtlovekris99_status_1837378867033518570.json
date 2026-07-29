@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1837295148440703417",
+    "created_at": "2024-09-21T06:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T07:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837378867033518570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521276666689261568",
+          "start": 0,
+          "username": "Yue_0404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837378867033518570",
+    "in_reply_to_user_id": "1521276666689261568",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837295148440703417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yue_0404 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1837295148440703417",
+        "created_at": "2024-09-21T06:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T07:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837378867033518570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521276666689261568",
+              "start": 0,
+              "username": "Yue_0404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837378867033518570",
+        "in_reply_to_user_id": "1521276666689261568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837295148440703417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yue_0404 我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521276666689261568",
+        "conversation_id": "1837295148440703417",
+        "created_at": "2024-09-21T00:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T01:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837295148440703417"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837295148440703417",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2031,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睿智时刻：\n有没有FTM男娘？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4485,
+          "following_count": 517,
+          "like_count": 13887,
+          "listed_count": 5,
+          "tweet_count": 10801
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T23:53:27.000Z",
+        "description": "Yuèyue：“因为有自知之明，所以我包容万事万物；因为曾历经黑暗，所以我可以同情同理。”",
+        "id": "1521276666689261568",
+        "name": "钥钥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827259873094217728/Egy3bzp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 8,
+          "like_count": 3366,
+          "listed_count": 0,
+          "tweet_count": 3475
+        },
+        "username": "Yue_0404",
+        "verified": false
+      }
+    ]
+  }
+}

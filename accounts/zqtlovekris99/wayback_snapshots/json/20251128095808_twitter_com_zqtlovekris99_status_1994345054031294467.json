@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1994062200130920683",
+    "created_at": "2025-11-28T09:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T10:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994345054031294467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1269442820580016129",
+          "start": 0,
+          "username": "Hikari_Ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994345054031294467",
+    "in_reply_to_user_id": "1269442820580016129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994062200130920683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Ciallo Gemini太贵了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1994062187053318144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xU_n9aAAANp-w.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1994062187049189376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xU_n8bAAAp847.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1994062187032399875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xU_n4a0AMHf25.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1994062200130920683",
+        "created_at": "2025-11-28T09:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994345054031294467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269442820580016129",
+              "start": 0,
+              "username": "Hikari_Ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994345054031294467",
+        "in_reply_to_user_id": "1269442820580016129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994062200130920683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Ciallo Gemini太贵了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994062187053318144",
+            "3_1994062187049189376",
+            "3_1994062187032399875"
+          ]
+        },
+        "author_id": "1269442820580016129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gemini",
+              "id": "1138860889631629312",
+              "name": "Gemini"
+            }
+          }
+        ],
+        "conversation_id": "1994062200130920683",
+        "created_at": "2025-11-27T15:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994062200130920683"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Gemini"
+            },
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "nanobanana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhmO948sDB",
+              "end": 52,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1994062200130920683/photo/1",
+              "media_key": "3_1994062187053318144",
+              "start": 29,
+              "url": "https://t.co/jhmO948sDB"
+            },
+            {
+              "display_url": "pic.x.com/jhmO948sDB",
+              "end": 52,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1994062200130920683/photo/1",
+              "media_key": "3_1994062187049189376",
+              "start": 29,
+              "url": "https://t.co/jhmO948sDB"
+            },
+            {
+              "display_url": "pic.x.com/jhmO948sDB",
+              "end": 52,
+              "expanded_url": "https://x.com/Hikari_Ciallo/status/1994062200130920683/photo/1",
+              "media_key": "3_1994062187032399875",
+              "start": 29,
+              "url": "https://t.co/jhmO948sDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062200130920683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 569,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Gemini 哈基米 #nanobanana 有点强的 https://t.co/jhmO948sDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1992255921263960445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10880,
+          "following_count": 1059,
+          "like_count": 23172,
+          "listed_count": 13,
+          "media_count": 3996,
+          "tweet_count": 24602
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流｜自家笨蛋 @kithiumR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "kithiumR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "location": "天津市同跨科技有限公司",
+        "name": " Hikari.deb 🏳️‍⚧️ #音游小夜猫",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 681,
+          "like_count": 280130,
+          "listed_count": 10,
+          "media_count": 2291,
+          "tweet_count": 56076
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false
+      }
+    ]
+  }
+}

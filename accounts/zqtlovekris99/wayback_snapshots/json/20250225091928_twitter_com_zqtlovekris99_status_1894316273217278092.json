@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1894063979007181016",
+    "created_at": "2025-02-25T09:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T10:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894316273217278092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886667139786137600",
+          "start": 0,
+          "username": "rednight0115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894316273217278092",
+    "in_reply_to_user_id": "1886667139786137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894191199667589419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rednight0115 那更傻逼了，這種行為就像順女說的女的欠栓一樣惡俗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1894063979007181016",
+        "created_at": "2025-02-25T09:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T10:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894316273217278092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886667139786137600",
+              "start": 0,
+              "username": "rednight0115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894316273217278092",
+        "in_reply_to_user_id": "1886667139786137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894191199667589419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rednight0115 那更傻逼了，這種行為就像順女說的女的欠栓一樣惡俗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886667139786137600",
+        "conversation_id": "1894063979007181016",
+        "created_at": "2025-02-25T01:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T02:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894191199667589419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894191199667589419",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894063979007181016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 这人自己就是跨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | PTSD/OD💊 | 系统内部混乱中 | INFP→INTP | 颜性浪漫倾向+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQ9Up"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1891583197013504454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5993,
+          "following_count": 528,
+          "like_count": 16750,
+          "listed_count": 7,
+          "media_count": 1759,
+          "tweet_count": 15032
+        },
+        "url": "https://t.co/aHC44HQ9Up",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T06:44:49.000Z",
+        "description": "马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜INTP-A｜非二元性别规范🏳️‍🌈🏳️‍⚧️⚧｜一切权力归苏维埃🗳️｜民主计划经济📈｜无产阶级专政⚒️｜人民战争🪖｜平权主义✊｜民族自决🫱🏼‍🫲🏿｜公有制⚖️｜知识公有化🏴‍☠️｜社会化抚养🏫｜反法西斯｜反修正主义｜反资本主义｜反犹太复国主义",
+        "id": "1886667139786137600",
+        "name": "☭辉夜📕🚩🏴‍☠️🇨🇳🇵🇸🇺🇦(淡推)",
+        "pinned_tweet_id": "1888954423638184388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891874699526782976/N4e_usH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 672,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 791
+        },
+        "username": "rednight0115",
+        "verified": false
+      }
+    ]
+  }
+}

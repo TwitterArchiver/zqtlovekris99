@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1865736291025092645",
+    "created_at": "2024-12-09T08:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T09:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866037790456320302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1602663153623388161",
+          "start": 0,
+          "username": "knd_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866037790456320302",
+    "in_reply_to_user_id": "1602663153623388161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865736291025092645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knd_8964 我13岁能拿我家拉屎最多的冠军"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1865736291025092645",
+        "created_at": "2024-12-09T08:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T09:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866037790456320302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1602663153623388161",
+              "start": 0,
+              "username": "knd_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866037790456320302",
+        "in_reply_to_user_id": "1602663153623388161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865736291025092645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knd_8964 我13岁能拿我家拉屎最多的冠军"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865736287271174144"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1865736291025092645",
+        "created_at": "2024-12-08T12:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T13:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865736291025092645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCAfGJ1MLT",
+              "end": 44,
+              "expanded_url": "https://x.com/knd_8964/status/1865736291025092645/photo/1",
+              "media_key": "3_1865736287271174144",
+              "start": 21,
+              "url": "https://t.co/iCAfGJ1MLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865736291025092645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4918,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人13岁能拿电竞冠军\n我13岁能干嘛😭 https://t.co/iCAfGJ1MLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 性别认同不明 | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5141,
+          "following_count": 504,
+          "like_count": 15171,
+          "listed_count": 5,
+          "media_count": 1371,
+          "tweet_count": 13170
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "啥时候大都会区域更到九的时候叫我一声（似了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845797448633184256/y-BKXgHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2754,
+          "following_count": 4104,
+          "like_count": 54178,
+          "listed_count": 9,
+          "media_count": 3107,
+          "tweet_count": 8422
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

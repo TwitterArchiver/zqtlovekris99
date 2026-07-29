@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928432443868286976",
+        "3_1928432445067866112",
+        "3_1928432443826315264",
+        "3_1928432445050998785"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1928432449366757479",
+    "created_at": "2025-05-30T12:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T13:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928432449366757479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1jRAEGPQi",
+          "end": 84,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1928432449366757479/photo/1",
+          "media_key": "3_1928432443868286976",
+          "start": 61,
+          "url": "https://t.co/t1jRAEGPQi"
+        },
+        {
+          "display_url": "pic.x.com/t1jRAEGPQi",
+          "end": 84,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1928432449366757479/photo/1",
+          "media_key": "3_1928432445067866112",
+          "start": 61,
+          "url": "https://t.co/t1jRAEGPQi"
+        },
+        {
+          "display_url": "pic.x.com/t1jRAEGPQi",
+          "end": 84,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1928432449366757479/photo/1",
+          "media_key": "3_1928432443826315264",
+          "start": 61,
+          "url": "https://t.co/t1jRAEGPQi"
+        },
+        {
+          "display_url": "pic.x.com/t1jRAEGPQi",
+          "end": 84,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1928432449366757479/photo/1",
+          "media_key": "3_1928432445050998785",
+          "start": 61,
+          "url": "https://t.co/t1jRAEGPQi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928432449366757479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "✝️浴室神秘放血仪式✝️\n说实话现在已经不敢喇的太狠了，23年这张是真的好看，现在在我腿上还有个很大的疤痕增生🥰我好喜欢 https://t.co/t1jRAEGPQi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928432449366757479].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928432449366757479",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928432449366757479"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1928432443868286976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMrFyYbkAA3L-d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1928432445067866112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMrF22bsAA80ZC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 833,
+        "media_key": "3_1928432443826315264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMrFyObIAAS5Pd.jpg",
+        "width": 1068
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928432445050998785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMrF2yaUAEM4De.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒od第0天）",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7909,
+          "following_count": 668,
+          "like_count": 18928,
+          "listed_count": 10,
+          "media_count": 2646,
+          "tweet_count": 18566
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

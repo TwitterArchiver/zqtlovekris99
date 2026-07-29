@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1861821973569085507",
+    "created_at": "2024-11-28T10:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T11:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862074039466168382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1858185511611076609",
+          "start": 0,
+          "username": "xyg114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862074039466168382",
+    "in_reply_to_user_id": "1858185511611076609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862006643980107958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyg114 有道理 这个可以加强药效哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1861821973569085507",
+        "created_at": "2024-11-28T10:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T11:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862074039466168382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1858185511611076609",
+              "start": 0,
+              "username": "xyg114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862074039466168382",
+        "in_reply_to_user_id": "1858185511611076609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862006643980107958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyg114 有道理 这个可以加强药效哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858185511611076609",
+        "conversation_id": "1861821973569085507",
+        "created_at": "2024-11-28T05:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T06:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862006643980107958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862006643980107958",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861821973569085507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 配酒就好了（雾）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 性别认同不明 | 养tulpa中 | c-PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5080,
+          "following_count": 499,
+          "like_count": 14964,
+          "listed_count": 4,
+          "media_count": 1308,
+          "tweet_count": 12766
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T16:30:12.000Z",
+        "description": "深海远古生物小鱼干～（是xyn哦🏳️‍⚧️）\n2009.09.10\n私联煮波请输入神必代码738914561\ntg:xiaoyugan114～\n全国可飞接线下/🚪52\n东雪莲单推人！",
+        "id": "1858185511611076609",
+        "name": "小鱼干₍˄·͈༝·͈˄*₎◞ ̑̑🍥（r18版",
+        "pinned_tweet_id": "1860928255471292724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861068060507148288/5sViQjYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 156,
+          "like_count": 1373,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 421
+        },
+        "username": "xyg114",
+        "verified": false
+      }
+    ]
+  }
+}

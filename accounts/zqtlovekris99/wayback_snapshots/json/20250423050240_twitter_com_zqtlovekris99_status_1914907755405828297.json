@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1527654707765792768",
+    "created_at": "2025-04-23T05:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T06:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914907755405828297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1375736990423916548",
+          "start": 0,
+          "username": "MarisaMalachite"
+        },
+        {
+          "end": 27,
+          "id": "94999172",
+          "start": 17,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914907755405828297",
+    "in_reply_to_user_id": "1375736990423916548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1557558903730159617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarisaMalachite @toukorina 倒也不必这么偏执，顺女也有挺多家暴党的，碰上傻逼原生家庭跟你顺跨没关系，你就算不跨性别他们也能找各种理由骂你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1557558903730159617].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1557558903730159617",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1557558903730159617"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1527654707765792768",
+        "created_at": "2025-04-23T05:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T06:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914907755405828297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1375736990423916548",
+              "start": 0,
+              "username": "MarisaMalachite"
+            },
+            {
+              "end": 27,
+              "id": "94999172",
+              "start": 17,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914907755405828297",
+        "in_reply_to_user_id": "1375736990423916548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1557558903730159617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarisaMalachite @toukorina 倒也不必这么偏执，顺女也有挺多家暴党的，碰上傻逼原生家庭跟你顺跨没关系，你就算不跨性别他们也能找各种理由骂你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | ❤️诚聘对象，旺铺招租♥️Polyamory | 小可爱 @Aliyahjang | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "Aliyahjang"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1914208556406239366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6658,
+          "following_count": 549,
+          "like_count": 17916,
+          "listed_count": 9,
+          "media_count": 2221,
+          "tweet_count": 16930
+        },
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-27T09:10:51.000Z",
+        "description": "是不可爱的大可爱！ #机娘 #猫娘 #魔法少女 是猫耳朵机械魔法少女w #MtF 糖糖21/6/18开始的 #计算器爱好者 主力机型 TI-nspire CX II CAS #音游 #Arcaea 不太聪明喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "机娘"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "猫娘"
+              },
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "魔法少女"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "MtF"
+              },
+              {
+                "end": 61,
+                "start": 54,
+                "tag": "计算器爱好者"
+              },
+              {
+                "end": 90,
+                "start": 87,
+                "tag": "音游"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "tag": "Arcaea"
+              }
+            ]
+          }
+        },
+        "id": "1375736990423916548",
+        "name": "malachite@kazv.moe",
+        "pinned_tweet_id": "1684061021407948801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486350169285169156/frhYAXAK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5019,
+          "following_count": 1393,
+          "like_count": 9664,
+          "listed_count": 15,
+          "media_count": 266,
+          "tweet_count": 3079
+        },
+        "username": "MarisaMalachite",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender. 退学phd. gamedev. 有时od. 🥰@TakotamiChan 女儿@xue_zhi2008 有一个Autistic群想来DM我. 你太NT了我给你送精神病院关两个月. #happysugarlife",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "tag": "happysugarlife"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "TakotamiChan"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "xue_zhi2008"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🥕🏳️‍⚧️#ActuallyAutistic",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7430,
+          "following_count": 821,
+          "like_count": 169165,
+          "listed_count": 19,
+          "media_count": 1372,
+          "tweet_count": 41769
+        },
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

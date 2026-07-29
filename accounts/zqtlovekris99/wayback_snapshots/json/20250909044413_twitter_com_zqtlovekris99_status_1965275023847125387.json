@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965260882805743616"
+      ],
+      "media_source_tweet_id": [
+        "1965260891022332113"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1965275023847125387",
+    "created_at": "2025-09-09T04:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T05:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965275023847125387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "orisam123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VY9B0SzClz",
+          "end": 122,
+          "expanded_url": "https://x.com/orisam123/status/1965260891022332113/photo/1",
+          "media_key": "3_1965260882805743616",
+          "start": 99,
+          "url": "https://t.co/VY9B0SzClz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965275023847125387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965260891022332113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orisam123: 悦咚无形的大手发力了\n你们这群小编怎么能给我最喜欢的内容不通过呢，看我用频道主权限强行给稿子过了🤓👆\n自己想发啥东西还要装模作样过一个投稿流程，难道是怕出现自己名字吗 https://t.co/VY9B0SzClz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_1965260882805743616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0YCXEqbYAA7TPR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965260882805743616"
+          ],
+          "media_source_tweet_id": [
+            "1965260891022332113"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1965275023847125387",
+        "created_at": "2025-09-09T04:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965275023847125387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "orisam123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VY9B0SzClz",
+              "end": 122,
+              "expanded_url": "https://x.com/orisam123/status/1965260891022332113/photo/1",
+              "media_key": "3_1965260882805743616",
+              "start": 99,
+              "url": "https://t.co/VY9B0SzClz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965275023847125387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965260891022332113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orisam123: 悦咚无形的大手发力了\n你们这群小编怎么能给我最喜欢的内容不通过呢，看我用频道主权限强行给稿子过了🤓👆\n自己想发啥东西还要装模作样过一个投稿流程，难道是怕出现自己名字吗 https://t.co/VY9B0SzClz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965260882805743616"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "1965260891022332113",
+        "created_at": "2025-09-09T03:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T04:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965260891022332113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VY9B0SzClz",
+              "end": 107,
+              "expanded_url": "https://x.com/orisam123/status/1965260891022332113/photo/1",
+              "media_key": "3_1965260882805743616",
+              "start": 84,
+              "url": "https://t.co/VY9B0SzClz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965260891022332113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "悦咚无形的大手发力了\n你们这群小编怎么能给我最喜欢的内容不通过呢，看我用频道主权限强行给稿子过了🤓👆\n自己想发啥东西还要装模作样过一个投稿流程，难道是怕出现自己名字吗 https://t.co/VY9B0SzClz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | 💊蓝v互fo 防走丢小号 @nktblovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1963880914880217350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9910,
+          "following_count": 960,
+          "like_count": 21312,
+          "listed_count": 10,
+          "media_count": 3452,
+          "tweet_count": 21985
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE770i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 90,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 67,
+                "url": "https://t.co/yTt9lE770i"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️🍛🍚🍲🍙🍱🍣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961967978804854784/00zGobfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 1183,
+          "like_count": 50026,
+          "listed_count": 3,
+          "media_count": 646,
+          "tweet_count": 12755
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

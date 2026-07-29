@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1919771791272108247",
+    "created_at": "2025-05-24T17:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T18:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926330335689687344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2646374335",
+          "start": 0,
+          "username": "Exciting2965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926330335689687344",
+    "in_reply_to_user_id": "2646374335",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920264089122873404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exciting2965 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1919771791272108247",
+        "created_at": "2025-05-24T17:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926330335689687344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2646374335",
+              "start": 0,
+              "username": "Exciting2965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926330335689687344",
+        "in_reply_to_user_id": "2646374335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920264089122873404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exciting2965 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2646374335",
+        "conversation_id": "1919771791272108247",
+        "created_at": "2025-05-07T23:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T00:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920264089122873404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920264089122873404",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919771791272108247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 在国内这真的很有意思，这气泡是对立猫猫吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️恋人 @Nekosora0228 ❤️ | 墙内好友位🚪68/128 | 匿名提问箱👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Nekosora0228"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7481,
+          "following_count": 671,
+          "like_count": 18794,
+          "listed_count": 10,
+          "media_count": 2591,
+          "tweet_count": 18280
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-14T21:16:19.000Z",
+        "description": "06 mtx hrt2022 170/60 泛 这里是紗耶奈🍥不收🚪，能来陪我聊聊天就好（可以来tg群组聊天哦），愿意的话给点口令红包施舍点就好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aSeOsaMlDydiN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aSeOsaMlDydiNTBl",
+                "start": 0,
+                "url": "https://t.co/z6ZzEH5IXo"
+              }
+            ]
+          }
+        },
+        "id": "2646374335",
+        "location": "广东",
+        "name": "紗耶奈/サヤナ",
+        "pinned_tweet_id": "1905549354712400173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830935374568292374/18JyZ8tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 18,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/z6ZzEH5IXo",
+        "username": "Exciting2965",
+        "verified": false
+      }
+    ]
+  }
+}

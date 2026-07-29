@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1981311122876637184"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "1980936658594996695",
+    "created_at": "2025-10-23T10:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T11:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981311151490433520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1963867793776070656",
+          "start": 0,
+          "username": "drug_artist1"
+        },
+        {
+          "end": 27,
+          "id": "1866458229527764992",
+          "start": 14,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 40,
+          "id": "1893688350076542976",
+          "start": 28,
+          "username": "drug_artist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ooMpWiznZ4",
+          "end": 64,
+          "expanded_url": "https://x.com/zqtlovekris99/status/1981311151490433520/photo/1",
+          "media_key": "16_1981311122876637184",
+          "start": 41,
+          "url": "https://t.co/ooMpWiznZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981311151490433520",
+    "in_reply_to_user_id": "1963867793776070656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980936658594996695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist1 @Citrus_amara @drug_artist https://t.co/ooMpWiznZ4"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [drug_artist].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "drug_artist",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "drug_artist"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_1981311122876637184",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G38H-ASXoAA7x3z.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G38H-ASXoAA7x3z.mp4"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980936654178189312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32zZDrXgAA_dKH.jpg",
+        "width": 719
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980936654991904769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32zZGtX0AE__1E.jpg",
+        "width": 663
+      },
+      {
+        "height": 2149,
+        "media_key": "3_1980936655566462976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32zZI2W4AAKhPU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1981311122876637184"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1980936658594996695",
+        "created_at": "2025-10-23T10:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981311151490433520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            },
+            {
+              "end": 27,
+              "id": "1866458229527764992",
+              "start": 14,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 40,
+              "id": "1893688350076542976",
+              "start": 28,
+              "username": "drug_artist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooMpWiznZ4",
+              "end": 64,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1981311151490433520/photo/1",
+              "media_key": "16_1981311122876637184",
+              "start": 41,
+              "url": "https://t.co/ooMpWiznZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981311151490433520",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980936658594996695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 @Citrus_amara @drug_artist https://t.co/ooMpWiznZ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980936654178189312",
+            "3_1980936654991904769",
+            "3_1980936655566462976"
+          ]
+        },
+        "author_id": "1963867793776070656",
+        "conversation_id": "1980936658594996695",
+        "created_at": "2025-10-22T09:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980936658594996695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 119,
+              "id": "1893688350076542976",
+              "start": 107,
+              "username": "drug_artist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1r8QFN91W",
+              "end": 184,
+              "expanded_url": "https://x.com/drug_artist1/status/1980936658594996695/photo/1",
+              "media_key": "3_1980936654178189312",
+              "start": 161,
+              "url": "https://t.co/g1r8QFN91W"
+            },
+            {
+              "display_url": "pic.x.com/g1r8QFN91W",
+              "end": 184,
+              "expanded_url": "https://x.com/drug_artist1/status/1980936658594996695/photo/1",
+              "media_key": "3_1980936654991904769",
+              "start": 161,
+              "url": "https://t.co/g1r8QFN91W"
+            },
+            {
+              "display_url": "pic.x.com/g1r8QFN91W",
+              "end": 184,
+              "expanded_url": "https://x.com/drug_artist1/status/1980936658594996695/photo/1",
+              "media_key": "3_1980936655566462976",
+              "start": 161,
+              "url": "https://t.co/g1r8QFN91W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980936658594996695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7554,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 73,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "🌧️沐雨RC🌧️\n独家非列管过检解离剂——月尘\n公开主要物质为 3-Meo-pce\n正式重新发售啦！超爽副作用较小的完美解离剂！效力超强！未包含在列管名单中！🥰\n详情请看下列图片介绍\n购买直接私信我或联系我的tg:@drug_artist\n同时，现发起抽奖活动，关注点赞转发评论参与抽奖，抽取五颗月尘，100转发量开奖！ https://t.co/g1r8QFN91W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1978721972730151397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10369,
+          "following_count": 1036,
+          "like_count": 22611,
+          "listed_count": 12,
+          "media_count": 3785,
+          "tweet_count": 23752
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主 投稿请私信我 提问箱:https://t.co/ez10SQHDdD 愿每一位药物滥用者都能脱离深渊 提供药物咨询 im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 44,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 21,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1980936658594996695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 52,
+          "like_count": 288,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1976614854040469672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979785369840197632/apbjPWPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 615,
+          "like_count": 9870,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

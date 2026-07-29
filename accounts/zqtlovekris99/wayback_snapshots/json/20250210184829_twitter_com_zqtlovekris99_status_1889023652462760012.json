@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1888991045712810172",
+    "created_at": "2025-02-10T18:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T19:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889023652462760012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889023652462760012",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888991045712810172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 不是被害妄想，這是幾乎每一個afab都會經歷的恐懼。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1888991045712810172].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1888991045712810172",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1888991045712810172"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1888991045712810172",
+        "created_at": "2025-02-10T18:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889023652462760012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889023652462760012",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888991045712810172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 不是被害妄想，這是幾乎每一個afab都會經歷的恐懼。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 | 养tulpa中 | PTSD/OD💊/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 好友位🚪68搞黄128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（诚聘对象版）",
+        "pinned_tweet_id": "1888515060076892385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 522,
+          "like_count": 16480,
+          "listed_count": 7,
+          "media_count": 1700,
+          "tweet_count": 14679
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "如星，如月，与风，与剑/ 是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射/有对象，涩图仅爱好 /You can call me：xù、she、her、QBB、Qìbōbō、チボボ、キュビビ/ 喵粒子永远正确",
+        "id": "1461728708935385088",
+        "name": "气流波动",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830798219061927939/k0jmzEWx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 817,
+          "like_count": 50595,
+          "listed_count": 11,
+          "media_count": 873,
+          "tweet_count": 3937
+        },
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

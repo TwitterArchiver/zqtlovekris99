@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2064735569385795842",
+    "created_at": "2026-06-11T05:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T06:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064947464415969579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064947464415969579",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064735569385795842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 不认识，但是翻墙还露脸露校徽感觉就没啥脑子，还不如跟我一样直接写翻车顺还更好炒作，不会玩啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2064735569385795842",
+        "created_at": "2026-06-11T05:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064947464415969579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064947464415969579",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064735569385795842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 不认识，但是翻墙还露脸露校徽感觉就没啥脑子，还不如跟我一样直接写翻车顺还更好炒作，不会玩啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "C-Pop",
+              "id": "1098263006213881856",
+              "name": "C-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1338342919460200449",
+              "name": "G.E.M."
+            }
+          }
+        ],
+        "conversation_id": "2064735569385795842",
+        "created_at": "2026-06-10T15:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064735569385795842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QXY_WARD/statu…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/QXY_WARD/status/2064338574385074192",
+              "start": 137,
+              "url": "https://t.co/lFB2zgSnhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064735569385795842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 198,
+                "id": "1436287470207832064",
+                "start": 188,
+                "username": "wuyuandev"
+              }
+            ]
+          },
+          "text": "我只能说活该\n让我评价一下你干了什么糖事\n首先你喜欢邓紫棋不假\n你来推特你翻车了不假\n但是请问你看 mtf wiki 哪怕一个字了吗\n你的长相明明很好 放在顺男里面那属于是一堆女孩子追你的那种你翻个毛线的车\n最重要的是你挂跨旗的时候你天天发自拍照\n哥们你真当这里是慢脚是吧\n而且任何一个露脸的正常人都会选择将墙内外的关联切断，哪怕是没露脸也有风险\n你到好，是想步任程轩后尘？\n@wuyuandev 建议收录进那个什么列表永远挂着 虽然他退网了但是可以考虑一下"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1687,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338574385074192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只能说活该\n让我评价一下你干了什么糖事\n首先你喜欢邓紫棋不假\n你来推特你翻车了不假\n但是请问你看 mtf wiki 哪怕一个字了吗\n你的长相明明很好 放在顺男里面那属于是一堆女孩子追你的那种你翻个毛线的车\n最重要的是你挂跨旗的时候你天天发自拍照\n哥们你真当这里是慢脚是吧 https://t.co/lFB2zgSnhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13372,
+          "following_count": 1654,
+          "like_count": 26097,
+          "listed_count": 15,
+          "media_count": 5252,
+          "tweet_count": 28633
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "胡乱发言警告！⚠\n15 岁\nbff @maoxianACT @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "maoxianACT"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "tangeror"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 2800,
+          "like_count": 8817,
+          "listed_count": 4,
+          "media_count": 1268,
+          "tweet_count": 8529
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

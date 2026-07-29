@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2056769712579887503",
+    "created_at": "2026-05-19T17:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056782334758883492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056782334758883492",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056769712579887503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun 你玩贴贴圈了吗 那种自动授权的就会乱关注人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056769703473999873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsdJehacAEQgoh.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2056769712579887503",
+        "created_at": "2026-05-19T17:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056782334758883492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056782334758883492",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056769712579887503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun 你玩贴贴圈了吗 那种自动授权的就会乱关注人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056769703473999873"
+          ]
+        },
+        "author_id": "2030455725374550016",
+        "conversation_id": "2056769712579887503",
+        "created_at": "2026-05-19T16:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056769712579887503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3mFFP9M7f",
+              "end": 49,
+              "expanded_url": "https://x.com/AAcfun/status/2056769712579887503/photo/1",
+              "media_key": "3_2056769703473999873",
+              "start": 26,
+              "url": "https://t.co/n3mFFP9M7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056769712579887503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么关注列表突然多了四个😨\n我从没点过啊...😨😨 https://t.co/n3mFFP9M7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2053331651892335097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13047,
+          "following_count": 1591,
+          "like_count": 25772,
+          "listed_count": 17,
+          "media_count": 5013,
+          "tweet_count": 28096
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "超级社恐、胆小 | 不建政 不聊H |\n精神状态不稳定 | 没情商（回复不好请原谅...） |\n回fo私信我喵...",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "云兮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 153,
+          "like_count": 8963,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1698
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

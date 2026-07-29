@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1963520083906678920",
+    "created_at": "2025-09-04T15:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963619771728953401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        },
+        {
+          "end": 29,
+          "id": "1279702935102865409",
+          "start": 17,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963619771728953401",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963611733999980988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure @Yoselindead 我觉得可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963611733999980988].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963611733999980988",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963611733999980988"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1963520083906678920",
+        "created_at": "2025-09-04T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963619771728953401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            },
+            {
+              "end": 29,
+              "id": "1279702935102865409",
+              "start": 17,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963619771728953401",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963611733999980988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure @Yoselindead 我觉得可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，帮助竹蜻蜓冲萬fo谢谢喵🐱 | ❤️ @04177_realname | 💊蓝v互fo 防走丢小号 @nktblovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "04177_realname"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "nktblovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9847,
+          "following_count": 929,
+          "like_count": 21115,
+          "listed_count": 11,
+          "media_count": 3405,
+          "tweet_count": 21784
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我17岁没成年，推特不会给我推送黄色内容，我既不会传播淫秽物品也不可能拍。第二我是顺直男，性取向正常和任何🏳️‍🌈圈子没有任何关系。第三我没有也不会药物滥用，事实上这些年我一直在劝阻大家进行类似行为。第四，我有精神病。第五，我爱党爱国爱社会主义，请不要给我扣上反革命的帽子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/SFZpOvz5Se"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "翎野 游戳🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894427491246083/an3vCJp3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7925,
+          "following_count": 1403,
+          "like_count": 45443,
+          "listed_count": 11,
+          "media_count": 3328,
+          "tweet_count": 27048
+        },
+        "url": "https://t.co/SFZpOvz5Se",
+        "username": "KagurazakaAzure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "ISFP, 168/50kg, 07, LGBTQ+友好but sorry I’m一爱顺直女, 重抑重焦, 双向存疑, Brat(BDSM), 中文/ENG OK, 买美瞳外烟电子烟请找我,不贩卖任何药物, ｜👩🏻‍❤️‍👩🏻@coiloffaraday",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 113,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcecwZ"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1946090177505689972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 347,
+          "like_count": 12633,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/PAY0hcecwZ",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

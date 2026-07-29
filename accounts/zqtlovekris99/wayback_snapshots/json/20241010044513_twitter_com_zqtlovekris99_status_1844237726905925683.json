@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1844010278436155841",
+    "created_at": "2024-10-10T04:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T05:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844237726905925683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1676161442980982784",
+          "start": 0,
+          "username": "MephiSprt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844237726905925683",
+    "in_reply_to_user_id": "1676161442980982784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844010278436155841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MephiSprt 基本上所有移动端音游都可以玩😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1844010278436155841",
+        "created_at": "2024-10-10T04:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T05:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844237726905925683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1676161442980982784",
+              "start": 0,
+              "username": "MephiSprt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844237726905925683",
+        "in_reply_to_user_id": "1676161442980982784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844010278436155841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MephiSprt 基本上所有移动端音游都可以玩😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676161442980982784",
+        "conversation_id": "1844010278436155841",
+        "created_at": "2024-10-09T13:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T14:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844010278436155841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1844010278436155841",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 16258,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 221,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个帖子的人，每人留下一个能玩的单机手机游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（想谈恋爱版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4695,
+          "following_count": 511,
+          "like_count": 14232,
+          "listed_count": 5,
+          "tweet_count": 11319
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T09:30:17.000Z",
+        "description": "Orthodoxy’s unconsciousness.Male/18/CS/paradox/Minecraft/philosophy/politics/history.inner @withoutaplace . with @Faust_Mio .管理爱人的1.20.1MC工业生存服务器，可以小窗我加入。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "withoutaplace"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Faust_Mio"
+              }
+            ]
+          }
+        },
+        "id": "1676161442980982784",
+        "location": "Peking",
+        "name": "Ice Cream",
+        "pinned_tweet_id": "1843989604204253416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841762147128508416/VdPWCeZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 68,
+          "like_count": 33580,
+          "listed_count": 6,
+          "tweet_count": 15036
+        },
+        "username": "MephiSprt",
+        "verified": false
+      }
+    ]
+  }
+}

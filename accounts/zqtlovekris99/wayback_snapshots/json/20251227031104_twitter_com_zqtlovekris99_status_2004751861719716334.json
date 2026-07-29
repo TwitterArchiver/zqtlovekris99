@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2004461850474492390",
+    "created_at": "2025-12-27T03:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004751861719716334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263115394144821248",
+          "start": 0,
+          "username": "sr101425448"
+        }
+      ],
+      "urls": [
+        {
+          "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+          "display_url": "x.com",
+          "end": 46,
+          "expanded_url": "http://x.com",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2002924319438168064/LAwlPprp?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2002924319438168064/LAwlPprp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 23,
+          "status": 200,
+          "title": "X. It’s what’s happening",
+          "unwound_url": "https://x.com/",
+          "url": "https://t.co/f5gyrJC3EF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004751861719716334",
+    "in_reply_to_user_id": "1263115394144821248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004461850474492390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sr101425448 卸载x客户端然后点开https://t.co/f5gyrJC3EF网页端"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2004461850474492390",
+        "created_at": "2025-12-27T03:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004751861719716334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263115394144821248",
+              "start": 0,
+              "username": "sr101425448"
+            }
+          ],
+          "urls": [
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "x.com",
+              "end": 46,
+              "expanded_url": "http://x.com",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2002924319438168064/LAwlPprp?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002924319438168064/LAwlPprp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/f5gyrJC3EF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004751861719716334",
+        "in_reply_to_user_id": "1263115394144821248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004461850474492390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sr101425448 卸载x客户端然后点开https://t.co/f5gyrJC3EF网页端"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263115394144821248",
+        "conversation_id": "2004461850474492390",
+        "created_at": "2025-12-26T07:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T08:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004461850474492390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004461850474492390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3649,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "退了，情绪崩了，卸载x了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1992255921263960445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002281760890187776/nBNFJEo5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10948,
+          "following_count": 1085,
+          "like_count": 23391,
+          "listed_count": 13,
+          "media_count": 4105,
+          "tweet_count": 25018
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-20T14:32:45.000Z",
+        "description": "01年mtf | 173/54 | 常住南昌 | 半家长党 | 自行hrt 25.08.31-25.12.11 | 小证25.11.28 | 互fo请私信 | 被迫断糖，准备重启 | 不键政 | 重度抑郁治疗中 | 崩铁、Minecraft | 日常推 | 好妹妹@Hitler114514 @tomorinlove__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "Hitler114514"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "tomorinlove__"
+              }
+            ]
+          }
+        },
+        "id": "1263115394144821248",
+        "name": "🍥鸢栀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996785915042451457/BEd7y2EG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 129,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 363
+        },
+        "username": "sr101425448",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1978663493260738782",
+    "created_at": "2025-10-17T05:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T06:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979055883414827388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1846069092765388800",
+          "start": 0,
+          "username": "Real_Baomi"
+        },
+        {
+          "end": 24,
+          "id": "1227105187774464000",
+          "start": 12,
+          "username": "HelenLeong9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979055883414827388",
+    "in_reply_to_user_id": "1846069092765388800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978759062939459733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Real_Baomi @HelenLeong9 什么出口转内销转出口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1978663493260738782",
+        "created_at": "2025-10-17T05:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979055883414827388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1846069092765388800",
+              "start": 0,
+              "username": "Real_Baomi"
+            },
+            {
+              "end": 24,
+              "id": "1227105187774464000",
+              "start": 12,
+              "username": "HelenLeong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979055883414827388",
+        "in_reply_to_user_id": "1846069092765388800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978759062939459733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Real_Baomi @HelenLeong9 什么出口转内销转出口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846069092765388800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "1978663493260738782",
+        "created_at": "2025-10-16T09:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T10:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978759062939459733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227105187774464000",
+              "start": 0,
+              "username": "HelenLeong9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978759062939459733",
+        "in_reply_to_user_id": "1227105187774464000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14755,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978741979035918442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HelenLeong9 其實這是我在threads偷的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 七休日系统 | 关注竹蜻蜓谢谢喵🐱 | 回fo请私信 | ✳️蓝V互fo❇️ | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1978721972730151397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10302,
+          "following_count": 1026,
+          "like_count": 22500,
+          "listed_count": 10,
+          "media_count": 3746,
+          "tweet_count": 23546
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-15T06:03:13.000Z",
+        "description": "包蜜、臘蜜、川蜜☭⃠",
+        "id": "1846069092765388800",
+        "location": "中南海",
+        "name": "包蜜",
+        "pinned_tweet_id": "1876232484217889271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848239911499177984/oN3EEhgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 258,
+          "like_count": 30494,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 1618
+        },
+        "username": "Real_Baomi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T05:41:37.000Z",
+        "description": "中文󾓭️, ENG󾓪️ is OK. Learning日本語🇯🇵. 平等鄙视所有搞种族歧视和民粹主义的群体，不管你是粉红五毛还是支黑或血统性反中",
+        "id": "1227105187774464000",
+        "name": "HLEMT",
+        "pinned_tweet_id": "1853119009283055915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592101415026950145/an8Qu0ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 122,
+          "like_count": 37446,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 11611
+        },
+        "username": "HelenLeong9",
+        "verified": false
+      }
+    ]
+  }
+}

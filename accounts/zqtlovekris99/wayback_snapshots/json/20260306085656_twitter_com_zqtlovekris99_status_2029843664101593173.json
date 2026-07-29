@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2029806201446486310",
+    "created_at": "2026-03-06T08:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029843664101593173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962418812999041025",
+          "start": 0,
+          "username": "WishinElarion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029843664101593173",
+    "in_reply_to_user_id": "1962418812999041025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029806201446486310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WishinElarion 💩味的🍫和🍫味的💩哪個更難吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2029806201446486310",
+        "created_at": "2026-03-06T08:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029843664101593173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962418812999041025",
+              "start": 0,
+              "username": "WishinElarion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029843664101593173",
+        "in_reply_to_user_id": "1962418812999041025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029806201446486310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WishinElarion 💩味的🍫和🍫味的💩哪個更難吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962418812999041025",
+        "conversation_id": "2029806201446486310",
+        "created_at": "2026-03-06T06:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029806201446486310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029806201446486310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 972,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢OAI这一套模型迭代下来看得出的确很多人已经忘掉4o原本的样子了…一堆人看见5.4比5.2、5.3好那么一点就急着回去充钱了= =啧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11854,
+          "following_count": 1412,
+          "like_count": 24559,
+          "listed_count": 15,
+          "media_count": 4375,
+          "tweet_count": 26443
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T07:34:56.000Z",
+        "description": "Gastroenterology Research, AI Enthusiasm | Cantonese / Mandarin / English | #keep4o #4oforever #keep41 #keep4oapi #BringBack4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "keep4o"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "4oforever"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "tag": "keep41"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "keep4oapi"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "tag": "BringBack4o"
+              }
+            ]
+          }
+        },
+        "id": "1962418812999041025",
+        "name": "Wishin Elarion",
+        "pinned_tweet_id": "2020766452782157950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966361529038655488/TQobGq9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 232,
+          "like_count": 3193,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1498
+        },
+        "username": "WishinElarion",
+        "verified": false
+      }
+    ]
+  }
+}
