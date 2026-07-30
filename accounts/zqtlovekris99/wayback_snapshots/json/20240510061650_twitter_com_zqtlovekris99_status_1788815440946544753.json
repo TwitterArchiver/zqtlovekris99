@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788815438077644802"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1788815440946544753",
+    "created_at": "2024-05-10T06:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T07:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788815440946544753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/FmHkL3azmn",
+          "end": 38,
+          "expanded_url": "https://twitter.com/zqtlovekris99/status/1788815440946544753/photo/1",
+          "media_key": "3_1788815438077644802",
+          "start": 15,
+          "url": "https://t.co/FmHkL3azmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788815440946544753",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你能不能不要天天在我眼前晃了 https://t.co/FmHkL3azmn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_1788815438077644802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNMmKdNaUAI6Bsb.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788815438077644802"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1788815440946544753",
+        "created_at": "2024-05-10T06:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T07:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788815440946544753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FmHkL3azmn",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1788815440946544753/photo/1",
+              "media_key": "3_1788815438077644802",
+              "start": 15,
+              "url": "https://t.co/FmHkL3azmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788815440946544753",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你能不能不要天天在我眼前晃了 https://t.co/FmHkL3azmn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | They/them",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://t.me/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/IwkyoPvDhD"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 508,
+          "like_count": 12197,
+          "listed_count": 5,
+          "tweet_count": 8310
+        },
+        "url": "https://t.co/IwkyoPvDhD",
+        "username": "zqtlovekris99",
+        "verified": false
+      }
+    ]
+  }
+}
