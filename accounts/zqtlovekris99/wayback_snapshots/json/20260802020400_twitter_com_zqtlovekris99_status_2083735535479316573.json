@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083508983751708672"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2083735535479316573",
+    "created_at": "2026-08-02T02:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T03:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083735535479316573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCe71kRdoc",
+          "end": 49,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2083735535479316573/photo/1",
+          "media_key": "3_2083508983751708672",
+          "start": 26,
+          "url": "https://t.co/tCe71kRdoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083735535479316573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这才是AI的意义，而不是生成一堆奶龙在那里捂肚子笑 https://t.co/tCe71kRdoc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2083508983751708672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOocYb7bEAACoau.jpg",
+        "width": 1183
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083508983751708672"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2083735535479316573",
+        "created_at": "2026-08-02T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083735535479316573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCe71kRdoc",
+              "end": 49,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2083735535479316573/photo/1",
+              "media_key": "3_2083508983751708672",
+              "start": 26,
+              "url": "https://t.co/tCe71kRdoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083735535479316573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这才是AI的意义，而不是生成一堆奶龙在那里捂肚子笑 https://t.co/tCe71kRdoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14117,
+          "following_count": 1819,
+          "like_count": 26695,
+          "listed_count": 17,
+          "media_count": 5896,
+          "tweet_count": 29731
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

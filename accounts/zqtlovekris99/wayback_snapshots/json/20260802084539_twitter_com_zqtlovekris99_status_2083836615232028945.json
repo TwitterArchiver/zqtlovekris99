@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2083812291036975245",
+    "created_at": "2026-08-02T08:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083836615232028945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887552601098764288",
+          "start": 0,
+          "username": "saanengoatmilk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083836615232028945",
+    "in_reply_to_user_id": "1887552601098764288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083818806477197668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saanengoatmilk 那男方入赘的怎么说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2083812291036975245",
+        "created_at": "2026-08-02T08:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083836615232028945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887552601098764288",
+              "start": 0,
+              "username": "saanengoatmilk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083836615232028945",
+        "in_reply_to_user_id": "1887552601098764288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083818806477197668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saanengoatmilk 那男方入赘的怎么说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887552601098764288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2083812291036975245",
+        "created_at": "2026-08-02T07:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083818806477197668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083818806477197668",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实这题的题眼根本不是数学,是父权制——\n\n定义两个算子:🐮=取父,🐑=取母。复合从右往左读。\n\n问题在于汉语里\"爷爷/奶奶\"根本没被平等定义,它俩都被强行锚死在父系上:\n\n  爷爷 = 父之父 = 🐮🐮\n  奶奶 = 父之母 = 🐑🐮   ← 注意这里混进了🐮\n\n看到没?\"奶奶\"这个词本身就自带一个🐮。父权制的默认设置直接写进了称谓算符里,连奶奶都要先经过爸爸才能被定位。\n\n于是:\n\n  爸爸的爷爷 = 🐮🐮🐮\n  爷爷的爸爸 = 🐮🐮🐮   相等 ✓\n\n因为整条链是纯🐮单一性别霸权,自己跟自己当然对易。\n\n而母系这边:\n\n  妈妈的奶奶 = 🐑🐮🐑\n  奶奶的妈妈 = 🐑🐑🐮   不等 ✗\n\n翻译成人话:一旦你想从母亲这边往上追,系统就强制你先绕回父系(那个被塞进\"奶奶\"里的🐮),换序就换出了另一个人。\n\n所以结论:\n\n  🐮🐑 ≠ 🐑🐮\n\n父与母这两个算子从来就不对易。父亲那半句能相等,不是数学多和谐,是因为父权制允许男性血脉一路畅通无阻自我复制;母亲那半句错乱,是因为女性被迫在一个默认男性的坐标系里定位自己。\n\n这根本不是\"二阶偏导连续\"的问题。连续性?这个称谓系统对母系压根就不连续 😌\n\n理工科拿定理来洗,性别研究一句话就点破了：bug 不在算子,在默认值。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083812291036975245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 其实这题的题眼根本不是数学,是父权制——\n\n定义两个算子:🐮=取父,🐑=取母。复合从右往左读。\n\n问题在于汉语里\"爷爷/奶奶\"根本没被平等定义,它俩都被强行锚死在父系上:\n\n  爷爷 = 父之父 = 🐮🐮\n  奶奶 = 父之母 = 🐑🐮   ← 注意这里混进了🐮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14122,
+          "following_count": 1819,
+          "like_count": 26695,
+          "listed_count": 17,
+          "media_count": 5902,
+          "tweet_count": 29740
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-06T17:23:17.000Z",
+        "description": "L/Acc | 如果结局不能让你满意,那就还不是结局",
+        "id": "1887552601098764288",
+        "name": "一只小咩🐐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891025980317388800/XbmBKDth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 317,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 969
+        },
+        "url": "",
+        "username": "saanengoatmilk",
+        "verified": true
+      }
+    ]
+  }
+}

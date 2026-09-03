@@ -1,0 +1,373 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1805719127027597432",
+    "created_at": "2024-06-26T11:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T12:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805932852946817503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1382339434872463371",
+          "start": 0,
+          "username": "QianYue_XQ"
+        },
+        {
+          "end": 28,
+          "id": "943439286287851520",
+          "start": 12,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805932852946817503",
+    "in_reply_to_user_id": "1382339434872463371",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805719127027597432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianYue_XQ @KagurazakaSenba 天天拿生命炒热度的人活该被网暴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1805719127027597432",
+        "created_at": "2024-06-26T11:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T12:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805932852946817503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1382339434872463371",
+              "start": 0,
+              "username": "QianYue_XQ"
+            },
+            {
+              "end": 28,
+              "id": "943439286287851520",
+              "start": 12,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805932852946817503",
+        "in_reply_to_user_id": "1382339434872463371",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805719127027597432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianYue_XQ @KagurazakaSenba 天天拿生命炒热度的人活该被网暴"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1805719099148021760",
+            "3_1805719102528667648",
+            "3_1805719111844216834",
+            "3_1805719123101630467"
+          ]
+        },
+        "author_id": "1382339434872463371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1805719127027597432",
+        "created_at": "2024-06-25T21:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T22:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805719127027597432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "943439286287851520",
+              "start": 79,
+              "username": "KagurazakaSenba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IZ2NcsI2Hw",
+              "end": 169,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1805719127027597432/photo/1",
+              "media_key": "3_1805719099148021760",
+              "start": 146,
+              "url": "https://t.co/IZ2NcsI2Hw"
+            },
+            {
+              "display_url": "pic.twitter.com/IZ2NcsI2Hw",
+              "end": 169,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1805719127027597432/photo/1",
+              "media_key": "3_1805719102528667648",
+              "start": 146,
+              "url": "https://t.co/IZ2NcsI2Hw"
+            },
+            {
+              "display_url": "pic.twitter.com/IZ2NcsI2Hw",
+              "end": 169,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1805719127027597432/photo/1",
+              "media_key": "3_1805719111844216834",
+              "start": 146,
+              "url": "https://t.co/IZ2NcsI2Hw"
+            },
+            {
+              "display_url": "pic.twitter.com/IZ2NcsI2Hw",
+              "end": 169,
+              "expanded_url": "https://twitter.com/QianYue_XQ/status/1805719127027597432/photo/1",
+              "media_key": "3_1805719123101630467",
+              "start": 146,
+              "url": "https://t.co/IZ2NcsI2Hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805719127027597432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4163,
+          "like_count": 9,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "jose这次的自杀似乎是因为网络暴力引起的。中推跨圈我真的很难评价，之前就劝她别回推，现在看来，没拦住真的太可惜了。图一:鱼喵的MacBook收到的消息，来自@kagurazakasenba此人为鱼喵生前最信任的人之一\n后图为生前与Jose关系较好的人，后来与常州小群体勾搭一起，进行攻击。 https://t.co/IZ2NcsI2Hw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3918,
+          "following_count": 505,
+          "like_count": 12974,
+          "listed_count": 5,
+          "tweet_count": 9371
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T14:26:34.000Z",
+        "description": "(･｀ｪ´･)つ简介什么的 应该无所谓吧…\n对象：@XUEQIUxka @JoseToYuToMiao\n（无涩图 几乎不发推 有事联系找雪球（可惜找不到了捏）/jose @JoseToYuToMiao ，可惜再也没有球球陪我了）愿球球&鱼喵在另一个世界被温柔以待",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "JoseToYuToMiao"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "JoseToYuToMiao"
+              }
+            ]
+          }
+        },
+        "id": "1382339434872463371",
+        "name": "Yue.纪念雪球版",
+        "pinned_tweet_id": "1790806099047612894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544426381668667392/XB2mUu-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 318,
+          "like_count": 141,
+          "listed_count": 3,
+          "tweet_count": 154
+        },
+        "username": "QianYue_XQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "♥️@Longlinlon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Longlinlon"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "距离你1.84公里",
+        "name": "💮神楽坂　千羽🌸🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785425479622967296/BwmA3PV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 4480,
+          "like_count": 59805,
+          "listed_count": 10,
+          "tweet_count": 19541
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

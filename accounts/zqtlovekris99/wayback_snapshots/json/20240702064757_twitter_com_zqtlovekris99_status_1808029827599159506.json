@@ -1,0 +1,322 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "1808029827599159506",
+    "created_at": "2024-07-02T06:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T07:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808029827599159506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rhine__H/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Rhine__H/status/1807652248648044572",
+          "start": 8,
+          "url": "https://t.co/wlpPOhfuGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808029827599159506",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807652248648044572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析：生物 https://t.co/wlpPOhfuGV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "1808029827599159506",
+        "created_at": "2024-07-02T06:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T07:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808029827599159506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rhine__H/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Rhine__H/status/1807652248648044572",
+              "start": 8,
+              "url": "https://t.co/wlpPOhfuGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808029827599159506",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807652248648044572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析：生物 https://t.co/wlpPOhfuGV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807652241920401408"
+          ]
+        },
+        "author_id": "1554078434275430400",
+        "conversation_id": "1807652248648044572",
+        "created_at": "2024-07-01T05:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T06:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807652248648044572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/SVPqwdJTOp",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Rhine__H/status/1807652248648044572/photo/1",
+              "media_key": "3_1807652241920401408",
+              "start": 0,
+              "url": "https://t.co/SVPqwdJTOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807652248648044572",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 36949,
+          "like_count": 317,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SVPqwdJTOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3965,
+          "following_count": 507,
+          "like_count": 13051,
+          "listed_count": 5,
+          "tweet_count": 9509
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T12:16:11.000Z",
+        "description": "这里是莱茵( ˘ω˘ ) 会友善对待所有人（除极个别nt 摄影/ACG 什么都懂一点点 想要交朋友 互fo欢迎来和我抱抱贴贴 小莱茵@Rhine___H 爱你们哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Rhine___H"
+              }
+            ]
+          }
+        },
+        "id": "1554078434275430400",
+        "location": "31°25'25\"N 91°11'19\"E",
+        "name": "29°39'05N 101°40'58E",
+        "pinned_tweet_id": "1794308891616178428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802675324829990912/ifnqanX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 979,
+          "like_count": 30861,
+          "listed_count": 7,
+          "tweet_count": 7554
+        },
+        "username": "Rhine__H",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1803366830486200767",
+    "created_at": "2024-06-19T10:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T11:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803381244459155465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1221407968341573632",
+          "start": 0,
+          "username": "kolyacn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803381244459155465",
+    "in_reply_to_user_id": "1221407968341573632",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803366830486200767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kolyacn 纽约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1803366830486200767",
+        "created_at": "2024-06-19T10:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T11:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803381244459155465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1221407968341573632",
+              "start": 0,
+              "username": "kolyacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803381244459155465",
+        "in_reply_to_user_id": "1221407968341573632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803366830486200767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kolyacn 纽约"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803366813906120704"
+          ]
+        },
+        "author_id": "1221407968341573632",
+        "conversation_id": "1803366830486200767",
+        "created_at": "2024-06-19T09:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T10:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803366830486200767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fCotfJnNmm",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kolyacn/status/1803366830486200767/photo/1",
+              "media_key": "3_1803366813906120704",
+              "start": 9,
+              "url": "https://t.co/fCotfJnNmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803366830486200767",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在新乡很想你😘 https://t.co/fCotfJnNmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | OD💊软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3832,
+          "following_count": 508,
+          "like_count": 12865,
+          "listed_count": 5,
+          "tweet_count": 9216
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T12:22:19.000Z",
+        "description": "你的存在就是在改变世界\n@kolyacn@stelpolva.moe",
+        "id": "1221407968341573632",
+        "location": "JB",
+        "name": "向着星光去",
+        "pinned_tweet_id": "1795438318194467093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697221159555899392/G-NDO5NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 262,
+          "like_count": 23699,
+          "listed_count": 1,
+          "tweet_count": 5905
+        },
+        "username": "kolyacn",
+        "verified": false
+      }
+    ]
+  }
+}

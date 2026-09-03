@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1838838604287889513",
+    "created_at": "2024-09-25T15:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T16:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838963227453223133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "563123316",
+          "start": 0,
+          "username": "RylandLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838963227453223133",
+    "in_reply_to_user_id": "563123316",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838962752293150965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RylandLiu 但是副作用又不是完全会死，给你整点高血压血栓心脏病啥的，难受的还不如死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1838838604287889513",
+        "created_at": "2024-09-25T15:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T16:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838963227453223133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "563123316",
+              "start": 0,
+              "username": "RylandLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838963227453223133",
+        "in_reply_to_user_id": "563123316",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838962752293150965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RylandLiu 但是副作用又不是完全会死，给你整点高血压血栓心脏病啥的，难受的还不如死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "563123316",
+        "conversation_id": "1838838604287889513",
+        "created_at": "2024-09-25T15:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T16:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838962752293150965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838962752293150965",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838838604287889513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 （有些人想的是 死了就死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 517,
+          "like_count": 13996,
+          "listed_count": 5,
+          "tweet_count": 10946
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-25T17:12:30.000Z",
+        "description": "Transgender Boy🏳️‍⚧️｜Asperger｜INTJ｜Pansexual + Demisexual + Sapiosexual｜Full Stack Engineer | Currently in pursuit of MBA in Singapore 🇸🇬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/L-Ryland",
+                "end": 23,
+                "expanded_url": "https://github.com/L-Ryland",
+                "start": 0,
+                "url": "https://t.co/Y4h5DwKsSk"
+              }
+            ]
+          }
+        },
+        "id": "563123316",
+        "location": "Singapore",
+        "name": "Ryland L(Open to Work)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732772549967454208/PTsXVTUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 436,
+          "like_count": 2423,
+          "listed_count": 4,
+          "tweet_count": 1578
+        },
+        "url": "https://t.co/Y4h5DwKsSk",
+        "username": "RylandLiu",
+        "verified": false
+      }
+    ]
+  }
+}

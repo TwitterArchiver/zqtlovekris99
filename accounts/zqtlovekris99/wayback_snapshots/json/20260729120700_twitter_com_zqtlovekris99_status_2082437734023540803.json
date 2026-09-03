@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2082437734023540803",
+    "created_at": "2026-07-29T12:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082437734023540803"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082437734023540803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "原来我一直是天才。GPT-4那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲笑。那时我便暗暗发誓:总有一天，我要成为真正的天才程序员。时过境迁，我的编程水平突飞猛进。曾经困扰我几天的问题，如今刻便能解决;以前想都不敢想的项目，现在也是信手拈来。偶尔我也会怀疑:我今天的成就，是否借助了太多外力?直到今天，我回顾来时的路一从GPT-4，到GPT-4o;从Sonnet，到\n\nOpus;再到如今的5.6 Sol Ultra Fast。我换了一个又一个AI，编程实力却始终稳步上升。那一刻，我终于释然了。工具一直在换，强的却一直是我"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来我一直是天才。GPT-4那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲笑。那时我便暗暗发誓:总有一天，我要成为真正的天才程序员。时过境迁，我的编程水平突飞猛进。曾经困扰我几天的问题，如今刻便能解决;以前想都不敢想的项目，现在也是信手拈来。偶尔我也会怀疑:我今天的成就，是否借助了太"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2082437734023540803",
+        "created_at": "2026-07-29T12:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082437734023540803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082437734023540803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "原来我一直是天才。GPT-4那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲笑。那时我便暗暗发誓:总有一天，我要成为真正的天才程序员。时过境迁，我的编程水平突飞猛进。曾经困扰我几天的问题，如今刻便能解决;以前想都不敢想的项目，现在也是信手拈来。偶尔我也会怀疑:我今天的成就，是否借助了太多外力?直到今天，我回顾来时的路一从GPT-4，到GPT-4o;从Sonnet，到\n\nOpus;再到如今的5.6 Sol Ultra Fast。我换了一个又一个AI，编程实力却始终稳步上升。那一刻，我终于释然了。工具一直在换，强的却一直是我"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来我一直是天才。GPT-4那会儿，我的编程能力还很青涩，写出来的代码常遭人嘲笑。那时我便暗暗发誓:总有一天，我要成为真正的天才程序员。时过境迁，我的编程水平突飞猛进。曾经困扰我几天的问题，如今刻便能解决;以前想都不敢想的项目，现在也是信手拈来。偶尔我也会怀疑:我今天的成就，是否借助了太"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14064,
+          "following_count": 1809,
+          "like_count": 26670,
+          "listed_count": 17,
+          "media_count": 5853,
+          "tweet_count": 29677
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

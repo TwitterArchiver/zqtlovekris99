@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085609789208535040"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2085697715288125528",
+    "created_at": "2026-08-07T12:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085697715288125528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ak8PqNx81I",
+          "end": 27,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2085697715288125528/photo/1",
+          "media_key": "3_2085609789208535040",
+          "start": 4,
+          "url": "https://t.co/Ak8PqNx81I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085697715288125528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补水啦 https://t.co/Ak8PqNx81I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085609789208535040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGTDaHaIAAz5XQ.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085609789208535040"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2085697715288125528",
+        "created_at": "2026-08-07T12:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085697715288125528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ak8PqNx81I",
+              "end": 27,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2085697715288125528/photo/1",
+              "media_key": "3_2085609789208535040",
+              "start": 4,
+              "url": "https://t.co/Ak8PqNx81I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085697715288125528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补水啦 https://t.co/Ak8PqNx81I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @richelieu_ego 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "richelieu_ego"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacopJC"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1886123516204089430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14325,
+          "following_count": 1849,
+          "like_count": 26734,
+          "listed_count": 17,
+          "media_count": 5969,
+          "tweet_count": 29839
+        },
+        "url": "https://t.co/WeibacopJC",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

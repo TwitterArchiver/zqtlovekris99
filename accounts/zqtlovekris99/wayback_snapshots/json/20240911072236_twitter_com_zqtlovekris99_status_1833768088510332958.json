@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1833553918401634572",
+    "created_at": "2024-09-11T07:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T08:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833768088510332958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1366340658563149827",
+          "start": 0,
+          "username": "kugi55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833768088510332958",
+    "in_reply_to_user_id": "1366340658563149827",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833767083970269481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kugi55 为什么啊 我很可怕吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1833553918401634572",
+        "created_at": "2024-09-11T07:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833768088510332958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1366340658563149827",
+              "start": 0,
+              "username": "kugi55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833768088510332958",
+        "in_reply_to_user_id": "1366340658563149827",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833767083970269481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kugi55 为什么啊 我很可怕吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366340658563149827",
+        "conversation_id": "1833553918401634572",
+        "created_at": "2024-09-11T07:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833767083970269481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833767083970269481",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833553918401634572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 其实是有些看到了也不敢点赞（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | HRT 2023.05.29 | OD💊软件名是PsychonautWiki Journal | 里号 @RinkokoroQwQ 只通过认识人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "RinkokoroQwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinNeKokoTonbo",
+                "end": 23,
+                "expanded_url": "http://t.me/RinNeKokoTonbo",
+                "start": 0,
+                "url": "https://t.co/Svj1Xc1cJ0"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4363,
+          "following_count": 516,
+          "like_count": 13775,
+          "listed_count": 5,
+          "tweet_count": 10586
+        },
+        "url": "https://t.co/Svj1Xc1cJ0",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T10:53:01.000Z",
+        "description": "好想再爱这个世界啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikacg.com",
+                "end": 23,
+                "expanded_url": "http://www.vikacg.com",
+                "start": 0,
+                "url": "https://t.co/bWbNKpG59r"
+              }
+            ]
+          }
+        },
+        "id": "1366340658563149827",
+        "location": "Gyeonggi-do, Republic of Korea",
+        "name": "kugi-事件评论家",
+        "pinned_tweet_id": "1805418798406938913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668644376250286081/ojhU85L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 806,
+          "like_count": 49716,
+          "listed_count": 6,
+          "tweet_count": 16299
+        },
+        "url": "https://t.co/bWbNKpG59r",
+        "username": "kugi55",
+        "verified": false
+      }
+    ]
+  }
+}

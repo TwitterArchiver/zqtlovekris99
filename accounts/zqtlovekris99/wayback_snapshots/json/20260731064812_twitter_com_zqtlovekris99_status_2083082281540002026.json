@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "2083040958958993441",
+    "created_at": "2026-07-31T06:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083082281540002026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945314547126185984",
+          "start": 0,
+          "username": "pysimpom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083082281540002026",
+    "in_reply_to_user_id": "1945314547126185984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083042188259184980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pysimpom 这俩人也算是物以类聚了都挺没脑子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "2083040958958993441",
+        "created_at": "2026-07-31T06:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083082281540002026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945314547126185984",
+              "start": 0,
+              "username": "pysimpom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083082281540002026",
+        "in_reply_to_user_id": "1945314547126185984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083042188259184980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pysimpom 这俩人也算是物以类聚了都挺没脑子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314547126185984",
+        "conversation_id": "2083040958958993441",
+        "created_at": "2026-07-31T04:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083042188259184980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083042188259184980",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2606,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083040958958993441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 为什么要把钱存别人那里，难道闺蜜还能像银行一样给自己算利息吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2059679856359809440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14072,
+          "following_count": 1806,
+          "like_count": 26686,
+          "listed_count": 17,
+          "media_count": 5874,
+          "tweet_count": 29704
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "特摄厨，BA厨，美漫厨 | blender和绘画在学 | 现在南京 | vibe，古法两手抓中\ngithub:https://t.co/GbsMIU43kQ|\nNGL:https://t.co/v8WRYGH0ZI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 78,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 55,
+                "url": "https://t.co/GbsMIU43kQ"
+              },
+              {
+                "display_url": "ngl.link/yuchaosong791",
+                "end": 107,
+                "expanded_url": "https://ngl.link/yuchaosong791",
+                "start": 84,
+                "url": "https://t.co/v8WRYGH0ZI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evilmordy.github.io",
+                "end": 23,
+                "expanded_url": "https://evilmordy.github.io/",
+                "start": 0,
+                "url": "https://t.co/FSqpXOQBRV"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "name": "fake sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051128729565626368/v82xhxsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 1282,
+          "like_count": 8750,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/FSqpXOQBRV",
+        "username": "pysimpom",
+        "verified": true
+      }
+    ]
+  }
+}

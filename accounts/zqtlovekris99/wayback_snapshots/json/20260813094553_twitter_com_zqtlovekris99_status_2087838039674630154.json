@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087837998067154944"
+      ]
+    },
+    "author_id": "1390652924481527810",
+    "conversation_id": "2087492019367407652",
+    "created_at": "2026-08-13T09:45:53.000Z",
+    "display_text_range": [
+      10,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087838039674630154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2012631283898187776",
+          "start": 0,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AkyEpZPvCC",
+          "end": 53,
+          "expanded_url": "https://x.com/zqtlovekris99/status/2087838039674630154/photo/1",
+          "media_key": "3_2087837998067154944",
+          "start": 30,
+          "url": "https://t.co/AkyEpZPvCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087838039674630154",
+    "in_reply_to_user_id": "2012631283898187776",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087837998067154944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087492019367407652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youy1qwq 我之前也发过这个，就感觉这种话挺恶心的 https://t.co/AkyEpZPvCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2087837998067154944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl9mO9bAAAEse-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087837998067154944"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2087492019367407652",
+        "created_at": "2026-08-13T09:45:53.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087838039674630154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkyEpZPvCC",
+              "end": 53,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2087838039674630154/photo/1",
+              "media_key": "3_2087837998067154944",
+              "start": 30,
+              "url": "https://t.co/AkyEpZPvCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087838039674630154",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087837998067154944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087492019367407652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我之前也发过这个，就感觉这种话挺恶心的 https://t.co/AkyEpZPvCC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012631283898187776",
+        "conversation_id": "2087492019367407652",
+        "created_at": "2026-08-12T10:50:55.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087492019367407652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087492019367407652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10673,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 68,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得讨论“男女之间会有纯友谊吗”这个话题之前 为什么会假定所有人都是异性恋啊 感觉很奇怪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @richelieu_ego 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "richelieu_ego"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacopJC"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "is_identity_verified": false,
+        "location": "找我提问箱！",
+        "most_recent_tweet_id": "2087838039674630154",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1886123516204089430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390652924481527810/1759414168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14498,
+          "following_count": 1858,
+          "like_count": 26722,
+          "listed_count": 18,
+          "media_count": 6038,
+          "tweet_count": 29943
+        },
+        "url": "https://t.co/WeibacopJC",
+        "username": "zqtlovekris99",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087814491287515164",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2069795083483025756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012631283898187776/1770344770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17729,
+          "following_count": 3117,
+          "like_count": 8325,
+          "listed_count": 31,
+          "media_count": 2386,
+          "tweet_count": 4137
+        },
+        "url": "",
+        "username": "youy1qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

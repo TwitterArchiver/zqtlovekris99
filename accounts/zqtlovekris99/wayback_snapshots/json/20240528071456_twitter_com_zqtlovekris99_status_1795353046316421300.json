@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "conversation_id": "1795218600183120033",
+    "created_at": "2024-05-28T07:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T08:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795353046316421300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795353046316421300",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795218600183120033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 让我来考考你，我猜塞尔达的主角叫派蒙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "conversation_id": "1795218600183120033",
+        "created_at": "2024-05-28T07:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T08:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795353046316421300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795353046316421300",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795218600183120033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 让我来考考你，我猜塞尔达的主角叫派蒙"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795218595523276800"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "1795218600183120033",
+        "created_at": "2024-05-27T22:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T23:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795218600183120033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1v8TtzoSG8",
+              "end": 38,
+              "expanded_url": "https://twitter.com/boiledwater/status/1795218600183120033/photo/1",
+              "media_key": "3_1795218595523276800",
+              "start": 15,
+              "url": "https://t.co/1v8TtzoSG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795218600183120033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 73044,
+          "like_count": 801,
+          "quote_count": 13,
+          "reply_count": 85,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "国男永远不会让你失望💁‍♂️ https://t.co/1v8TtzoSG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 | 家长党HRT中 | HRT 2023.05.29 | ODer💊 | 软件名是Journal",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RinKokoroQ",
+                "end": 23,
+                "expanded_url": "https://t.me/RinKokoroQ",
+                "start": 0,
+                "url": "https://t.co/D7MOaj0xf3"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3739,
+          "following_count": 504,
+          "like_count": 12623,
+          "listed_count": 5,
+          "tweet_count": 8696
+        },
+        "url": "https://t.co/D7MOaj0xf3",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sweden",
+        "name": "Jess",
+        "pinned_tweet_id": "1732176179971436769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123559812009984/2vI25CZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33564,
+          "following_count": 1646,
+          "like_count": 22812,
+          "listed_count": 129,
+          "tweet_count": 27976
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}
