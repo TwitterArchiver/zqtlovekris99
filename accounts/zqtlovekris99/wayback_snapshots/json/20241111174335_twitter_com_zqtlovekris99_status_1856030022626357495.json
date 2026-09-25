@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1390652924481527810",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1855942339703062559",
+    "created_at": "2024-11-11T17:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856030022626357495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1361846361453330434",
+          "start": 0,
+          "username": "colorsh76467"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856030022626357495",
+    "in_reply_to_user_id": "1361846361453330434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855942339703062559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@colorsh76467 仙品，但是大主线完结之后好像是4.0之后的版本我就没玩了，那个剧情文字量太大了看着折磨就跟看论文一样，arcaea也是主线更完之后就不想看了那些世界观拓展的字多头疼🙁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1390652924481527810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1855942339703062559",
+        "created_at": "2024-11-11T17:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856030022626357495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1361846361453330434",
+              "start": 0,
+              "username": "colorsh76467"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856030022626357495",
+        "in_reply_to_user_id": "1361846361453330434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855942339703062559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@colorsh76467 仙品，但是大主线完结之后好像是4.0之后的版本我就没玩了，那个剧情文字量太大了看着折磨就跟看论文一样，arcaea也是主线更完之后就不想看了那些世界观拓展的字多头疼🙁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361846361453330434",
+        "conversation_id": "1855942339703062559",
+        "created_at": "2024-11-11T11:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T12:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855942339703062559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855942339703062559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道玩音游的各位有玩过cytus2吗，赛博朋克剧情加互联网模式互动，以曲风来对应每个音乐人的音乐包，真的好有意思，也不知道有没有人玩过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "猫蜻蜓/猫咪四叶草/🐱🍀 翻车顺女 性别认同不明/地雷系 | PTSD/OD💊/bpd(80%)→npd(20%)/INFP→INTP | 颜性浪漫倾向无性恋+polyamory | HRT 2023.05.29 | 想谈恋爱快来推油跟我谈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekotonbo2",
+                "end": 23,
+                "expanded_url": "http://t.me/nekotonbo2",
+                "start": 0,
+                "url": "https://t.co/aHC44HQHJX"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀pr80的老婆",
+        "pinned_tweet_id": "1852568551552647446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4947,
+          "following_count": 496,
+          "like_count": 14622,
+          "listed_count": 4,
+          "tweet_count": 12299
+        },
+        "url": "https://t.co/aHC44HQHJX",
+        "username": "zqtlovekris99",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T01:14:26.000Z",
+        "description": "这里是小彩，也是小灰，什么都没有只有友善和真诚了/失败废物人/色批（已划掉）/评论游荡人/正在努力中（打卡？）/喜欢美好的/说的话会当真/讨厌串子/有自己的观念/立场：为了美好生活/如果冒犯到了很是抱歉，我会立马删掉的（/｡＼)",
+        "id": "1361846361453330434",
+        "name": "Color(grayscale)image",
+        "pinned_tweet_id": "1840385412751364461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361846835309019136/iNA6whk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 440,
+          "like_count": 5902,
+          "listed_count": 5,
+          "tweet_count": 2364
+        },
+        "username": "colorsh76467",
+        "verified": false
+      }
+    ]
+  }
+}

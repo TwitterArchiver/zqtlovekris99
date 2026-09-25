@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2089883157210259456",
+    "conversation_id": "2097926573722853512",
+    "created_at": "2026-09-10T08:09:53.000Z",
+    "display_text_range": [
+      15,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097960740522983774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097960740522983774",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097926573722853512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 应该没人比我玩的开了吧🌷😘我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2089883157210259456].",
+      "parameter": "author_id",
+      "resource_id": "2089883157210259456",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2089883157210259456"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097926219769794560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1UyBZbUAAoHjd.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089883157210259456",
+        "conversation_id": "2097926573722853512",
+        "created_at": "2026-09-10T08:09:53.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097960740522983774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097960740522983774",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097926573722853512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 应该没人比我玩的开了吧🌷😘我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097926219769794560"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2097926573722853512",
+        "created_at": "2026-09-10T05:54:07.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097926573722853512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JPJQsmJFnr",
+              "end": 97,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2097926573722853512/photo/1",
+              "media_key": "3_2097926219769794560",
+              "start": 74,
+              "url": "https://t.co/JPJQsmJFnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097926573722853512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097926219769794560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发染成黄色之后哪里都好，唯一不好的地方就是头发掉到瓷砖地板上发现不了，不像黑头发一坨坨的很明显，所以就不怎么扫地了，然后一扫发现其实还是很多。。 https://t.co/JPJQsmJFnr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @richelieu_ego 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "richelieu_ego"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacopJC"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "is_identity_verified": false,
+        "location": "提问箱回答发日常号👇",
+        "most_recent_tweet_id": "2097959762474185215",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "1886123516204089430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390652924481527810/1759414168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14910,
+          "following_count": 1932,
+          "like_count": 26739,
+          "listed_count": 17,
+          "media_count": 6385,
+          "tweet_count": 30394
+        },
+        "url": "https://t.co/WeibacopJC",
+        "username": "zqtlovekris99",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
